@@ -53,7 +53,9 @@ book_volume: 3
 book_volume_title: Challenge
 book_chapter: '03.00'
 book_chapter_title: Quick start
-source_file: '03.00-quick start.pdf'
+source_file: '03.00-quickstart.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/03.00-quickstart.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/03.00-quickstart.pdf'
 total_pdf_pages: 6
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -80,6 +82,7 @@ Deposit file: `SCOTOMAVILLE-03.00_quickstart.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [03.00-quickstart.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/03.00-quickstart.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |

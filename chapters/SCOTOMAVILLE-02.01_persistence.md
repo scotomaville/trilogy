@@ -9,11 +9,11 @@ emotions:
 - loyalty
 keypoints:
 - What a fabulous Episode this will be on sticking with and not quitting a ‘journey with a purpose.’ I’m so excited.
-- angelina and I will finally get a dream we’ve been working on a longtime.
-- And yet, there is nothing like an expeditionto expose flaws in our character.
+- angelina and I will finally get a dream we’ve been working on a long time.
+- And yet, there is nothing like an expedition to expose flaws in our character.
 - After four prior attempts (this will be number five), it is finally time to purchase our Airstream.
-- It’s the only on elike it in the United States.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Persistence. Narrative arc: Stay on route when weather and ego quit. From the print/transcript corpus: Leaving SCOTOMAVILLE 170 2.01 PERSISTENCE Leaving SCOTOMAVILLE 171 Purgatory Ski Resort, Colorado Welcome back to SCOTOMAVILLE. What a fabulous Episode this will be on sticking with and not quitting a ‘journey with a purpose.’ I’m so excited. angelina and I will finally get a dream we’ve been working on a longtime. And yet, there is nothing like an expeditionto expose flaws in our character. Here we go. We’ve ordered stu'
+- It’s the only one like it in the United States.
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Persistence. Narrative arc: Stay on route when weather and ego quit. From the print/transcript corpus: Leaving SCOTOMAVILLE 170 2.01 PERSISTENCE Leaving SCOTOMAVILLE 171 Purgatory Ski Resort, Colorado Welcome back to SCOTOMAVILLE. What a fabulous Episode this will be on sticking with and not quitting a ‘journey with a purpose.’ I’m so excited. angelina and I will finally get a dream we’ve been working on a long time. And yet, there is nothing like an expedition to expose flaws in our character. Here we go. We’ve ordered stu'
 tags:
 - scotomaville
 - trilogy
@@ -53,7 +53,9 @@ book_volume: 2
 book_volume_title: Expedition
 book_chapter: '02.01'
 book_chapter_title: Persistence
-source_file: '02.01-per sistance.pdf'
+source_file: '02.01-persistance.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.01-persistance.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/02.01-persistance.pdf'
 total_pdf_pages: 10
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -79,6 +81,7 @@ Deposit file: `SCOTOMAVILLE-02.01_persistence.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [02.01-persistance.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.01-persistance.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
@@ -216,10 +219,10 @@ Persistence - a firm or obstinate continuance in a course of action in spite of 
 ## Takeaways
 
 1. What a fabulous Episode this will be on sticking with and not quitting a ‘journey with a purpose.’ I’m so excited.
-2. angelina and I will finally get a dream we’ve been working on a longtime.
-3. And yet, there is nothing like an expeditionto expose flaws in our character.
+2. angelina and I will finally get a dream we’ve been working on a long time.
+3. And yet, there is nothing like an expedition to expose flaws in our character.
 4. After four prior attempts (this will be number five), it is finally time to purchase our Airstream.
-5. It’s the only on elike it in the United States.
+5. It’s the only one like it in the United States.
 
 
 ## First-time learner

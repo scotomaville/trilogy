@@ -59,6 +59,8 @@ book_volume_title: Awareness
 book_chapter: '01.02'
 book_chapter_title: Pattern Recognition
 source_file: '01.02-pattern-recognition.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/01.02-pattern-recognition.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/01.02-pattern-recognition.pdf'
 total_pdf_pages: 8
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -80,13 +82,14 @@ description: Vol 1 ch.02 — pattern seeking as gift and exploit surface.
 # Pattern Recognition — A Double-Edged Sword
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.02** 
-Author: Daniel J. Comp · Co-curator: angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
+Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [01.02-pattern-recognition.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/01.02-pattern-recognition.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [initium mirror](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo | [github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
@@ -104,7 +107,7 @@ After scotoma, the next tool is naming **how** the 20-watt brain saves energy: i
 **GOOD NEWS:** Our brains are very efficient. They operate on just 20 watts. 
 **BAD NEWS:** The operating system is set for maximum conservation.
 
-Emotional bonding starts with pattern-SEEKING. “Hey, son, you’re SMART,” in flates egos and sets traps. This oxytocin-fueled recognition can become addictive.
+Emotional bonding starts with pattern-SEEKING. “Hey, son, you’re SMART,” inflates egos and sets traps. This oxytocin-fueled recognition can become addictive.
 
 Our ability to recognize patterns extends to puzzles, politics, and engineering. It’s a biological superpower, but it’s also a weapon against us. This bent in our biology makes us vulnerable to exploitation.
 
@@ -112,11 +115,11 @@ Our 20-watt brains prioritize efficiency. We accept others’ narratives rather 
 
 Advertisers exploit this pattern recognition. Consider social media, monthly subscriptions. Patterns can become a burden, and lead to dire outcomes.
 
-But pattern recognition isn’t just a liability; it’s an essential tool. in novators leverage it by implanting questions before sleep, letting diffuse thinking seek correlations and insights.
+But pattern recognition isn’t just a liability; it’s an essential tool. innovators leverage it by implanting questions before sleep, letting diffuse thinking seek correlations and insights.
 
-We live in an age of rapidly a ccelerating change with a 20-watt brain that betrays us. It finds patterns to save energy. That handicap is used against us with “familiar” points and “emotional” narratives.
+We live in an age of rapidly accelerating change with a 20-watt brain that betrays us. It finds patterns to save energy. That handicap is used against us with “familiar” points and “emotional” narratives.
 
-The Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation For nax, containing an estimated 10,000 galaxies. Although we are rich with explanatory knowledge, the way we remember all this is with simple patterns like the Big Dipper.
+The Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. Although we are rich with explanatory knowledge, the way we remember all this is with simple patterns like the Big Dipper.
 
 ### Mentor and demos
 
@@ -129,7 +132,7 @@ Examples of pattern recognition on the spreads:
 3. Nature or man? We are now capable of AI imagery and deep fakes (see later volumes).
 4. “The world is happy with me today” — a smiley found on the counter after morning coffee.
 
-> “Look beneath the surface; let not the several quality of a thing nor its worth escape thee.” — Marcus a urelius
+> “Look beneath the surface; let not the several quality of a thing nor its worth escape thee.” — Marcus aurelius
 
 Domain examples named in print (science Einstein; business Napoleon Hill; literature Grimm; technology ML patterns; Franklin and storms; Robin Williams and improvisational pattern in humor). Daniel’s charge: “Be careful, but be creative. Spend your attention on getting yourself out of Scotomaville.”
 

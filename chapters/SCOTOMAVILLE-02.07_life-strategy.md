@@ -53,7 +53,9 @@ book_volume: 2
 book_volume_title: Expedition
 book_chapter: '02.07'
 book_chapter_title: Life-Strategy
-source_file: '02.07-life-strategy.pdf'
+source_file: '02.07-strategy.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.07-strategy.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/02.07-strategy.pdf'
 total_pdf_pages: 12
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -78,6 +80,7 @@ Deposit file: `SCOTOMAVILLE-02.07_life-strategy.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [02.07-strategy.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.07-strategy.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
@@ -88,7 +91,7 @@ Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silico
 
 ## Context for the climber
 
-Build life-strategy — in cremental change and small things that matter.
+Build life-strategy — incremental change and small things that matter.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 

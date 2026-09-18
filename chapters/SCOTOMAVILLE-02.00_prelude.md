@@ -10,9 +10,9 @@ emotions:
 keypoints:
 - '160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong.'
 - VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE!
-- We’rein a fabulous place called Purgatory.
+- We're in a fabulous place called Purgatory.
 - From there, you can use discipline to change the trajectory of your experience in life.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Prelude. Narrative arc: Expedition volume threshold. From the print/transcript corpus: 160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong. VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE! We’rein a fabulous place called Purgatory. But, C.S. Lewis wrote that we can chose to leave. We don’thave to stay here. Yea! Volume One is about mental tools for self-awareness to getto self-understanding. From there, you can use discipline to change the trajectory of your experience in life.'
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Prelude. Narrative arc: Expedition volume threshold. From the print/transcript corpus: 160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong. VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE! We're in a fabulous place called Purgatory. But, C.S. Lewis wrote that we can chose to leave. We don't have to stay here. Yea! Volume One is about mental tools for self-awareness to get to self-understanding. From there, you can use discipline to change the trajectory of your experience in life.'
 tags:
 - scotomaville
 - trilogy
@@ -53,6 +53,8 @@ book_volume_title: Expedition
 book_chapter: '02.00'
 book_chapter_title: Prelude
 source_file: '02.00-prelude.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.00-prelude.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/02.00-prelude.pdf'
 total_pdf_pages: 10
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -77,6 +79,7 @@ Deposit file: `SCOTOMAVILLE-02.00_prelude.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [02.00-prelude.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.00-prelude.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
@@ -211,7 +214,7 @@ Welcome to Volume Two
 
 1. 160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong.
 2. VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE!
-3. We’rein a fabulous place called Purgatory.
+3. We're in a fabulous place called Purgatory.
 4. From there, you can use discipline to change the trajectory of your experience in life.
 
 

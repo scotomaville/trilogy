@@ -54,6 +54,8 @@ book_volume_title: Expedition
 book_chapter: '02.11'
 book_chapter_title: Satisfaction
 source_file: '02.11-satisfaction.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.11-satisfaction.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/02.11-satisfaction.pdf'
 total_pdf_pages: 14
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -79,6 +81,7 @@ Deposit file: `SCOTOMAVILLE-02.11_satisfaction.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [02.11-satisfaction.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/02.11-satisfaction.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |

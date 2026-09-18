@@ -59,6 +59,8 @@ book_volume_title: Awareness
 book_chapter: '01.04'
 book_chapter_title: Abundant Scarcity
 source_file: '01.04-abundant-scarcity.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/01.04-abundant-scarcity.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/01.04-abundant-scarcity.pdf'
 total_pdf_pages: 8
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -81,12 +83,13 @@ description: Vol 1 ch.04 — scarcity vs abundance mindset; pairs Prime 002.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.04** 
 Author: Daniel J. Comp · Co-curator: angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [01.04-abundant-scarcity.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/01.04-abundant-scarcity.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [initium mirror](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo | [github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
@@ -161,7 +164,7 @@ Climbing your Personal Everest requires a combination of tools. Reflect on the p
 
 ## Video transcript (spoken register)
 
-*Source: `01.04 Abundant Scarcity Tr nsc pt.txt` — lightly cleaned; kitchen / Airstream filming in the panic weeks.*
+*Source: `01.04 Abundant Scarcity Transcript.txt` — lightly cleaned; kitchen / Airstream filming in the panic weeks.*
 
 Welcome back to Scotomaville. I was laughing this morning thinking of that classic Robin Williams — *Go ooo ood Moor rr nn iii in Vii ieee tna am !!!* Yeah, we really miss him, don't we?
 
@@ -177,7 +180,7 @@ Mid-30s: *Your Erroneous Zones*, Wayne Dyer, lakeside in Washington. Difference 
 
 Supply sketch: if people buy four weeks of eggs in week one, shelves empty for everyone else — same emotional childhood scarcity response when you only wanted one carton.
 
-Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. At least I can laugh because I'm aware of it. Amy gda la, hippocampus, fight-or-flight — still fire.
+Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. At least I can laugh because I'm aware of it. Amygdala, hippocampus, fight-or-flight — still fire.
 
 Beverly Hillbillies truck — unpacking over weeks, months, years. Where did that thought, belief, behavior first start? Adult awareness + plasticity = chance to re mould.
 

@@ -54,6 +54,8 @@ book_volume_title: Awareness
 book_chapter: '01.00-toc'
 book_chapter_title: Table of Contents
 source_file: '01.00-toc.pdf'
+chapter_pdf_url: null
+chapter_pdf_note: 'No separate ThirdEdition TOC PDF on disk; cite book_pdf_url until exported.'
 total_pdf_pages: 15
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'

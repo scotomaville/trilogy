@@ -54,6 +54,8 @@ book_volume_title: Challenge
 book_chapter: '03.08'
 book_chapter_title: Finale
 source_file: '03.08-finale.pdf'
+chapter_pdf_url: null
+chapter_pdf_note: 'No separate ThirdEdition chapter PDF on disk; cite book_pdf_url until exported.'
 total_pdf_pages: 18
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'

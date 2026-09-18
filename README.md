@@ -105,9 +105,10 @@ If you are ready to build your own AI Self Mastery council and knowledge base â€
 
 ## Enriched chapter corpus (AISM / Onus Probandi)
 
-Machine-readable chapter deposits with YAML spine, healed prose, transcripts where available, and stable links to this release PDF.
+Machine-readable chapter deposits with YAML spine, healed prose, transcripts where available, per-chapter print PDFs, and the full-book release PDF.
 
-- Browse: [`chapters/`](./chapters/)
+- Browse deposits: [`chapters/`](./chapters/)
+- Chapter print PDFs: [`pdf/chapters/`](./pdf/chapters/) â€” cite `chapter_pdf_url` (raw GitHub) so AISM can hand the reader the spread
 - Full book PDF: [LeavingScotomaville_v3.0.9.media-HD.pdf](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf)
 - License: CC BY-NC-SA 4.0
 
