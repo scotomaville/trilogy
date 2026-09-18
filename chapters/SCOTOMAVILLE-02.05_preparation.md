@@ -9,11 +9,11 @@ emotions:
 - care
 keypoints:
 - Oh, the quarter, yeah, okay, that’s cool.
-- Welcome back to SCOTOMAVILLE We will talkabout preparation - getting ready before you have solidevidence.
+- Welcome back to SCOTOMAVILLE We will talk about preparation - getting ready before you have solid evidence.
 - Days and days of planning - preparing, hoping, and working hard.
 - You see RVparts that I ordered in advance of having the Airstream.
-- You mighthave heard the phrase “fake it until you makeit?” I’m not talking aboutfaking it.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Preparation. Narrative arc: Pack light; prepare true. From the print/transcript corpus: Leaving SCOTOMAVILLE 214 prep•a•ra•tion BEING MATURED BY EVENTFUL CHALLENGES ”prepare” means to put in proper readiness beforehand and has a relationship to the word “parent”. 2.05 OPENING SCENE What do you see? Lookhard. Letme zoom in alittle. Lookhard. What do you see? Look evenharder. I don’t think this was here yesterday. Oh, the quarter, yeah, okay, that’s cool. No, thisstuff - the green. Hmmm. Welcome back to S'
+- You might have heard the phrase “fake it until you makeit?” I’m not talking about faking it.
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Preparation. Narrative arc: Pack light; prepare true. From the print/transcript corpus: Leaving SCOTOMAVILLE 214 prep•a•ra•tion BEING MATURED BY EVENTFUL CHALLENGES ”prepare” means to putin proper readiness beforehand and has a relationship to the word “parent”. 2.05 OPENING SCENE What do you see? Look hard. Letme zoom in alittle. Look hard. What do you see? Look even harder. I don’t think this was here yesterday. Oh, the quarter, yeah, okay, that’s cool. No, this stuff - the green. Hmmm. Welcome back to S'
 tags:
 - scotomaville
 - trilogy
@@ -71,7 +71,7 @@ description: Vol 2 ch.02.05 — Preparation.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.05** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -94,23 +94,22 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 Leaving SCOTOMAVILLE 214 prep•a•ra•tion BEING MATURED BY EVENTFUL CHALLENGES
-”prepare” means to put in proper readiness beforehand and has a relationship to the word “parent”.
+”prepare” means to putin proper readiness beforehand and has a relationship to the word “parent”.
 2.05 OPENING SCENE
 What do you see? Look hard. Let me zoom in alittle. Look hard. What do you see? Look even harder. I don’t think this was here yesterday.
-Oh, the quarter, yeah, okay, that’s cool. No, thisstuff - the green. Hmmm.
+Oh, the quarter, yeah, okay, that’s cool. No, this stuff - the green. Hmmm.
 Welcome back to SCOTOMAVILLE
-We will talk about preparation - getting ready before you have solid evidence. Think about that for a second. That green stuff? That greenjust showed up since the rain.
+We will talk about preparation - getting ready before you have solid evidence. Think about that for a second. That green stuff? That green just showed up since the rain.
 
 Again what do you see?
-Days and days of planning - preparing, hoping, and working hard. You see me packing despitean Airstream. You see RV parts that I ordered in advance of having the Airstream. You mighthave heard the phrase “fake it until you make it?” I’m not talking about faking it. I’m sayingpractice. Put in the effort.
+Days and days of planning - preparing, hoping, and working hard. You see me packing despite an Airstream. You see RV parts that I ordered in advance of having the Airstream. You might have heard the phrase “fake it until you make it?” I’m not talking about faking it. I’m saying practice. Putin the effort.
 DEFINING PREP•A•RA•TION
 Preparation is the action of making ready orbeing made ready for use or consideration. For example, to work out the details of - in advance.
 It seems to me that I’ve been preparing for
 SCOTOMAVILLE for decades. I created ~60 videos before I coined it SCOTOMAVILLE.
-I’ve been practicing awareness andgaining understanding while writing some notes. I knew you needed evidence and examples to mimic. You’ve now seen me produce and syndicatethe Third Edition with video and pa per. The work to record and distributethe evidence prepares me to speak as a sage. It’s Sage preparation.
+I’ve been practicing awareness and gaining understanding while writing some notes. I knew you needed evidence and examples to mimic. You’ve now seen me produce and syndicate the Third Edition with video and paper. The work to record and distribute the evidence prepares me to speak as a sage. It’s Sage preparation.
 
-Leaving SCOTOMAVILLE 215
-Preparation is the action or process of makingready or being made ready for use or consider ation. To work out the details of - in advance.
+Preparation is the action or process of making ready or being made ready for use or consider ation. To work out the details of - in advance.
 
 EXAMPLE: I’ve finished 45 episodes and this Third Edition in preparation foryour journey as a reader. I have been pre • pared. So will you.
 “ A JOURNEY OF BEING MADE READY:
@@ -118,61 +117,61 @@ It seems there are invisible efforts aimed at delivering maximum opportunities f
 I could dismiss the challenges as simply too hard to scale - or I can share them for you to test and mimic.
 
 MANAGE YOUR INPUT SOURCES:
-You can change the stuff you stick in your mouth, and the ideasyou keep in your mind, at any stage or place in life.
+You can change the stuff you stick in your mouth, and the ideas you keep in your mind, at any stage or place in life.
 That’s the marvel of a Personal Everest.
 the active ingredient in Roundup: glyphosate
-Do you know where preparation starts? Righthere (in your head) with your thinking. It begins with commitment and hard work to find yourscotomas - like with me being poisoned recently.
+Do you know where preparation starts? Right here (in your head) with your thinking. It begins with commitment and hard work to find yours co tomas - like with me being poisoned recently.
 (scene from v02.04)
-“I killed my gut with lectins from tomatoes andpeppers...” Wrong - it was glyphosate poisoning.
-All summer, there’s been a community gardenhere. It wasn’t until I talked to Lorena, the owner, this morning that she said she was sick just acouple of weeks ago. I said, “that’s funny. I was sick too.” She said, “I ate some zucchini out ofthe garden.” I said, “I ate tomatoes out of the garden!” Someone had sprayed Roundup. AHA! - That’ll cause bleeding. Yeah, Scotoma!
-“Imbalances in gut bacteria can be fully explained bythe known effects of glyphosate on gut bacteria.” National Center for Biotechnology Information U.S. National Library of Medicine ACT LIKE THE PERSON YOU WANT TO BECOME
-When you intend to design a life and not simplyaccept what you’ve been handed, and when you want to move toward that life, it’s necessary to act ‘as-if,’ Jack Canfield would say. Jack curated the Chicken Soup for the Soul series.
-He advised to work ‘as-if’ the life you want isalready here. Imagine the life you want in the future - and become that person.
-Some examples: I make uncured applesmoked bacon bits. I don’t give up an oppor tunity to do the hard thing. Do you rememberthis little trick cutting off the end of the egg carton? Well, I do that even with a big refrigerator. Why? It’s my mindset of acting ‘as-if.’
+“I killed my gut with lectins from tomatoes and peppers...” Wrong - it was glyphosate poisoning.
+All summer, there’s been a community garden here. It wasn’t until I talked to Lorena, the owner, this morning that she said she was sick just acouple of weeks ago. I said, “that’s funny. I was sick too.” She said, “I ate some zucchini out ofthe garden.” I said, “I ate tomatoes out of the garden!” Someone had sprayed Roundup. AHA! - That’ll cause bleeding. Yeah, Scotoma!
+“Imbalances in gut bacteria can be fully explained by the known effects of glyphosate on gut bacteria.” National Center for Biotechnology Information U.S. National Library of Medicine ACT LIKE THE PERSON YOU WANT TO BECOME
+When you intend to design a life and not simply accept what you’ve been handed, and when you want to move toward that life, it’s necessary to act ‘as-if,’ Jack Canfield would say. Jack curated the Chicken Soup for the Soul series.
+He advised to work ‘as-if’ the life you want is already here. Imagine the life you want in the future - and become that person.
+Some examples: I make uncured apple smoked bacon bits. I don’t give up an oppor tunity to do the hard thing. Do you remember this little trick cutting off the end of the egg carton? Well, I do that even with a big refrigerator. Why? It’s my mindset of acting ‘as-if.’
 Doing the hard thing can often mean making a decent meal even when you’ll eat it alone.
-Prepare your mind and habits no matter yoursituation or how modest your means are.
+Prepare your mind and habits no matter your situation or how modest your means are.
 Develop your habits in advance - that’s preparation. This way, you’ll be ready when your opportunity arrives.
 Preparation: “the action of making something ready for use or service, or of getting ready for some occasion, test, or duty.” Preparation often includes a bunch of failures.
 It means numerous times not knowing whatyou’re going to say until you say it. It means doing the work of figuring out the route, not always knowing where you’re going, but putting 216
 
-in the effort and dealing with noisy distractionsand people in the scene.
-You’ve been watching me prepare. You canmimic me to find your scotomas. Take your
-Strengths Assessment. Find out how youoffend people and what’s holding you back.
-Discover where your obstacles are in advanceof arriving at your goal. You’ve watched me pivot. Do likewise.
-We’re going to demonstrate in the next fewepisodes some fascinating things. We’ve failed four prior times to acquire an Airstream, butwe’re packing ‘as-if’ and starting a journey.
+in the effort and dealing with noisy distractions and people in the scene.
+You’ve been watching me prepare. You can mimic me to find your sco tomas. Take your
+Strengths Assessment. Find out how you offend people and what’s holding you back.
+Discover where your obstacles are in advance of arriving at your goal. You’ve watched me pivot. Do likewise.
+We’re going to demonstrate in the next few episodes some fascinating things. We’ve failed four prior times to acquire an Airstream, butwe’re packing ‘as-if’ and starting a journey.
 “Don’t fake it till you make it.
-Develop your mindset ‘as-if’ you are living now the lifeyou want in the future. You can immediately chose andmanage new inputs.” leaving SCOTOMAVILLE 217
+Develop your mindset ‘as-if’ you are living now the lifeyou want in the future. You can immediately chose and manage new inputs.” leaving SCOTOMAVILLE 217
 
-THIS OR SOMETHING BETTER We’re talking about preparation - about creating the life you want in advance of theevidence. You won’t see the spectacular view from thesummit until you break out of the clouds on the way up.
-This is the land we’ve offeredto buy for full-price. It’s a na tional historic/scenic area inthe Columbia River Gorge.
-I’m pretty familiar with hardwork, commitment, and disappointment. Three yearsago, we made an offer on a piece of land. I worked hardat clearing the land to do the topography.
-THREE YEARS EARLIER “The driveway’s going here offof the main road from either direction. It will curve throughhere and around the corner.
-Today, I plot this slope, so I’vegot an x, y, and z. I can then lay up the architecture to takeit to the planning department to be sure they will allow us tobuild what we want before we buy the land.” CURRENT TIMELINE As of the Third Edition wehave not realized a piece of land. It seems we havemuch to learn, and someone bigger to become. I’m beingassessed by Ai, and realizing profound insights. I’m pleasedwith the progress.
-I’d like you to understand adefining experience that set a foundation for my beliefs, decisions, and efforts. Here’s atrue story from my youth.
+THIS OR SOMETHING BETTER We’re talking about preparation - about creating the life you want in advance of the evidence. You won’t see the spectacular view from the summit until you break out of the clouds on the way up.
+This is the land we’ve offered to buy for full-price. It’s a national historic/scenic area inthe Columbia River Gorge.
+I’m pretty familiar with hard work, commitment, and disappointment. Three years ago, we made an offer on a piece of land. I worked hardat clearing the land to do the topography.
+THREE YEARS EARLIER “The driveway’s going here offof the main road from either direction. It will curve through here and around the corner.
+Today, I plot this slope, so I’vegot an x, y, and z. I can then lay up the architecture to takeit to the planning department to be sure they will allow us tobuild what we want before we buy the land.” CURRENT TIMELINE As of the Third Edition wehave not realized a piece of land. It seems we have much to learn, and someone bigger to become. I’m being assessed by Ai, and realizing profound insights. I’m pleased with the progress.
+I’d like you to understand a defining experience that set a foundation for my beliefs, decisions, and efforts. Here’s atrue story from my youth.
 “We imagine the future and work tomake it so. Angelina has learned to say:
 “this or something better!” leaving SCOTOMAVILLE 218
 
 MY LITTLE BOOKMOBILE
-I grew up about five miles east of Placerville, asmall town in the Sierra Nevada foothills in Cal ifornia. Both of my parents worked. I took careof my stepbrother and stepsister most of the time - like all summer when I wasn’t in school.
+I grew up about five miles east of Placer ville, asmall town in the Sierra Nevada foothills in California. Both of my parents worked. I took careof my stepbrother and stepsister most of the time - like all summer when I wasn’t in school.
 I loved to learn, but I didn’t have transportation. Fortunately, we had a bookmobile - a bus converted to carry books rather than students.
 So I fostered my education all summer by devouring everything on the bookshelves.
 
-The bookmobile would come to my drivewaywith various topics like science, history, and biographies. Across the county, different bookmobiles brought little selections from the same library stacks. The other kids’ worldview would become slightly different than mine because the books I checked out for the week were notavailable to them.
-I was addicted to science but occasionally readhistory or biographies - mostly about scientists.
+The bookmobile would come to my driveway with various topics like science, history, and biographies. Across the county, different bookmobiles brought little selections from the same library stacks. The other kids’ worldview would become slightly different than mine because the books I checked out for the week were not available to them.
+I was addicted to science but occasionally read history or biographies - mostly about scientists.
 HWY 30 ABOVE THE COLUMBIA RIVER GORGE:
-Angelina and I made a full price offer on this land. We believed it was our future home and restingplace, and a location of understanding and healing for our guests. This or something better!
+Angelina and I made a full price offer on this land. We believed it was our future home and resting place, and a location of understanding and healing for our guests. This or something better!
 leaving SCOTOMAVILLE 219
 
-So I would ask that driver, “do you have any more of the Danny Dunn series - the science books for young boys?” He would say, “no, I havebrought you all of them.” I must have made a face heread as: “that’s not true.” In the back of each book, I found that there were additional books in the series than those in my bookmobile. Oneweek he said, “how about if I try to find you some youhaven’t read for next week.” I learned that the selectionof books I read was based on the driver asking a librarian tocompare what I had already read with what was in thestacks. My feedback made an impression, and the driverconvinced the librarian to dig deeper for me. Score.
-Fast forward to today - thebookmobile is now your mo bile device. You have Internetaccess, and you don’t rely on a librarian’s choices for youreducation and the develop ment of critical thinking skills.
-“~96% of available information isexcluded from data centers in or der to keep their lights on.” Aha, here’s a scotoma Today, algorithms are tunedfor attention and profits (bread and circuses).
-Unfortunately, extractivetechnologies have produced a dramatic social engineeringissue. The machine learning recommenders and social media streams narrow our world view to keep their lights on.
+So I would ask that driver, “do you have any more of the Danny Dunn series - the science books for young boys?” He would say, “no, I have brought you all of them.” I must have made a face heread as: “that’s not true.” In the back of each book, I found that there were additional books in the series than those in my bookmobile. Oneweek he said, “how about if I try to find you some you haven’t read for next week.” I learned that the selection of books I read was based on the driver asking a librarian to compare what I had already read with what was in the stacks. My feedback made an impression, and the driver convinced the librarian to dig deeper for me. Score.
+Fast forward to today - the bookmobile is now your mo bile device. You have Internet access, and you don’t rely on a librarian’s choices for your education and the development of critical thinking skills.
+“~96% of available information is excluded from data centers in order to keep their lights on.” Aha, here’s a scotoma Today, algorithms are tuned for attention and prof its (bread and circuses).
+Unfortunately, ex tractive technologies have produced a dramatic social engineering issue. The machine learning recommend ers and social media streams narrow our world view to keep their lights on.
 leaving SCOTOMAVILLE 220
 
-ONUS PROBANDI Here’s the evidence of mypoint. Most people mistake Google and YouTube as areplacement for the public library system. Nearly allsearching is done via Goo gle’s nine data centers across North America.
-The Google data centers arefull, and they only have room to index four percent (only 4%) of what’s on the Internet. Thatmeans 96% of the information is not in a data center or yoursearch results. Consequently, most results are filtered toprofit tech companies rather than your worldview.
-I suggest looking at big techas information baristas. When you browse or ‘search,’ youget to choose from their pre selected menu. You don’t getto choose from what’s NOT on their menu. Your choicesare narrowed by values they determine, not the ones youwant to discover or reinforce.
-Today algorithms do the workof a librarian. The scotoma is that we don’t get an accurateview of the world. Instead, we see what multiple machinelearning algorithms - little black boxes - offer FROM thepredigested 4%.
+ONUS PROBANDI Here’s the evidence of mypoint. Most people mistake Google and YouTube as a replacement for the public library system. Nearly all searching is done via Google’s nine data centers across North America.
+The Google data centers arefull, and they only have room to index four percent (only 4%) of what’s on the Internet. That means 96% of the information is not in a data center or your search results. Consequently, most results are filtered to profit tech companies rather than your worldview.
+I suggest looking at big techas information bari st as. When you browse or ‘search,’ youget to choose from their pre selected menu. You don’t getto choose from what’s NOT on their menu. Your choices are narrowed by values they determine, not the ones youwant to discover or reinforce.
+Today algorithms do the workof a librarian. The scotoma is that we don’t get an accurate view of the world. Instead, we see what multiple machine learning algorithms - little black boxes - offer FROM the pre digested 4%.
 As a result
 
 *[Print excerpt truncated — full evidence in book PDF.]*
@@ -185,17 +184,17 @@ What do you see? Look hard. Let me zoom in a little. Look hard. What do you see?
 
 Welcome back to SCOTOMAVILLE
 
-We're going to talk about preparation, or it could be p reparation - getting ready before you have any solid evidence. Think about that for a second. A quarter? I don't know. That's cool. That might have been there for a long time. But that green stuff? That green that just showed up since the rain. Again what do you see?
+We're going to talk about preparation, or it could be p reparation - getting ready before you have any solid evidence. Think about that for a second. A quarter? I don't know. That's cool. That might have been there for a longtime. But that green stuff? That green that just showed up since the rain. Again what do you see?
 
-Days and days and days of planning - preparing and hoping and working hard. You see me packing despite an Airstream. You see RV parts that were ordered in advance of something showing up. You might have heard the phrase "fake it until you make it?" I'm not talking about faking it. I'm saying practice. Get your butt ready. Put in the effort.
+Days and days and days of planning - preparing and hoping and working hard. You see me packing despite an Airstream. You see RV parts that were ordered in advance of something showing up. You might have heard the phrase "fake it until you make it?" I'm not talking about faking it. I'm saying practice. Get your butt ready. Putin the effort.
 
 DEFINE P REPARATION
 
 P reparation is the action or process of making ready or being made ready for use or consideration to work out the details of. To plan - in advance.
 
-For me being prepared was thinking about what was I going to do. Something about awareness and writing some notes what did I think about awareness and how would you get there and what were the tools and then putting in the hard work. You watched that whole thing that produced this now. This prepares me to go on tv and to be able to be in magazines and be in front of people with they believe something I have to say or at least are willing to test it.
+For me being prepared was thinking about what was I going to do. Something about awareness and writing some notes what did I think about awareness and how would you get there and what were the tools and then putting in the hard work. You watched that whole thing that produced this now. This prepares me to go on tv and to be able to be in magazines and be in front of people with they believe something I have to say or atleast are willing to test it.
 
-So basically preparation is getting ready for something in advance. Do you know where it starts? Right here (in your head) with your thinking. It starts with commitment and then doing the hard work and then finding your scotomas - like with me being poisoned recently...
+So basically preparation is getting ready for something in advance. Do you know where it starts? Right here (in your head) with your thinking. It starts with commitment and then doing the hard work and then finding your sco tomas - like with me being poisoned recently...
 
 I killed my gut with lectins from tomatoes and peppers you can see in the background. All summer there's been sort of a community garden here. It wasn't until I talked to Lorena the owner this morning that she said she was sick just a couple of weeks ago. I was like that's funny I was sick too. She said; "I ate some zucchini out of the garden." I said; "I ate tomatoes out of the garden too! We found out someone had been using roundup - aha - that'll cause you to have a leaky (inflammation and bleeding) gut. Yeah, scotoma! Yeah, that was an interesting one. I found out after the fact.
 
@@ -207,11 +206,11 @@ Doing the hard thing can often mean making a decent meal even when you're gonna 
 
 Preparation means: "the action or process of making something ready for use or service or of getting ready for some occasion, test, or duty"
 
-Preparation oftentimes includes a bunch of failures. It means numerous times not knowing exactly what you're going to say until you say it. Preparation means starting now and here acting 'as-if'. It means doing the work figuring out the solution in-route not always knowing where you're going but putting in the effort and dealing with distractions - like heaters coming on. Preparation means to put in the effort in advance of the outcome you want. You've been watching me do it which means you can mimic me to find your scotomas. Take your strengths assessment to find out how you offend people and what's holding you back. Discover where your obstacles are in advance of arriving at your goal. You've learned by watching me pivot.
+Preparation oftentimes includes a bunch of failures. It means numerous times not knowing exactly what you're going to say until you say it. Preparation means starting now and here acting 'as-if'. It means doing the work figuring out the solution in-route not always knowing where you're going but putting in the effort and dealing with distractions - like heaters coming on. Preparation means to put in the effort in advance of the outcome you want. You've been watching me do it which means you can mimic me to find your sco tomas. Take your strengths assessment to find out how you offend people and what's holding you back. Discover where your obstacles are in advance of arriving at your goal. You've learned by watching me pivot.
 
 We're going to show you over the next few episodes some very interesting things because maybe we've failed four prior times to acquire an Airstream but we're packing 'as-if'.
 
-ABOUT P REPERATION
+ABOUT P Re PER ATION
 
 We're talking about preparation. Creating the life you want in advance of the evidence. You won't see the spectacular view until you break out of the clouds near the top.
 
@@ -225,13 +224,13 @@ THE BOOKMOBILE
 
 Before I share with you the preparations we're now making I'd like you to understand the foundation of our decision and efforts. To do that I have to tell you a bit of a story
 
-I grew up about five or six miles out of a small town called Placerville in the Sierra Mountain foothills in California. Both of my parents worked. I took care of my stepbrother and stepsister most of the time - like all summer when I wasn't in school. I didn't have transportation. Fortunately, we had a bookmobile - a bus converted to carry literature rather than students. I was able to foster my education by devouring everything I could find on the shelves of that bookmobile.
+I grew up about five or six miles out of a small town called Placer ville in the Sierra Mountain foothills in California. Both of my parents worked. I took care of my stepbrother and stepsister most of the time - like all summer when I wasn't in school. I didn't have transportation. Fortunately, we had a bookmobile - a bus converted to carry literature rather than students. I was able to foster my education by devouring everything I could find on the shelves of that bookmobile.
 
 Fast forward to today - the bookmobile is now on your mobile device. You have access to the internet. You don't rely on the choices of a librarian for your education and your development of critical thinking skills. Aha, there's a scotoma in there. It used to be that libraries had main stacks full of science and history and biographies. I was addicted to the science stuff but would also read a bit from history or biographies.
 
 The bookmobile would come out with a selection of topics delivered to my driveway. Other kids across the county would have a different van or a different bus. They might get a different selection from the library stacks. Their world view would become slightly different than mine. They could have had access to a very similar proportion of material but I believe it would be opposed left and right depending on what I was reading at home. The physical books were limited in number, so anything I checked out for the week was not available to others.
 
-Today this bias is done by algorithms based on attention and profits delivering bread and circuses. It's quite a shift from what I experienced. We don't see things the way they are - we see things the way we are. Today we have a dramatic issue with confirmation bias by filtered results and recommended streams limiting access to the full information.
+Today this bias is done by algorithms based on attention and prof its delivering bread and circuses. It's quite a shift from what I experienced. We don't see things the way they are - we see things the way we are. Today we have a dramatic issue with confirmation bias by filtered results and recommended streams limiting access to the full information.
 
 ONUS PROBANDI
 
@@ -253,9 +252,9 @@ Take note of this on the real estate of your search results page or your youtube
 
 PRECISE BUT NOT ACCURATE
 
-When you do your p.reparation be aware that bias dictates search results. Digital recommenders want you to stick with them so they will build search results based on popularity. The results might be precise but they're probably not accurate. A physical limitation of 4% cannot reflect the way it is so you end up in a walled garden where you believe your point of view is correct. We're not seeing the whole picture so we become polarized. That's what we have going on in our country today.
+When you do your p.reparation be aware that bias dictates search results. Digital recommend ers want you to stick with them so they will build search results based on popularity. The results might be precise but they're probably not accurate. A physical limitation of 4% cannot reflect the way it is so you end up in a walled garden where you believe your point of view is correct. We're not seeing the whole picture so we become polarized. That's what we have going on in our country today.
 
-That's a lot to get to the point: confirmation bias narrows your worldview. Be aware that your browser and the recommenders are not serving up everything. They have limited real estate just like a bookmobile. Practice asking better questions. Look for what they're not saying. It's worth thinking about.
+That's a lot to get to the point: confirmation bias narrows your worldview. Be aware that your browser and the recommend ers are not serving up everything. They have limited real estate just like a bookmobile. Practice asking better questions. Look for what they're not saying. It's worth thinking about.
 
 Let me share with you something I put together for Angelina so that you can see a broader picture of preparation in the fog and the clouds.
 
@@ -281,16 +280,15 @@ The left page contains multiple text blocks w
 
 The right page repeats th
 
-- The right page is dominated by a large screenshot of a web search interface showing the query “data centers” with a dropdown of autocomplete suggestions (including “data centers explained” and “data centers around the world”), overlaid with red circles and a red arrow pointing to the “Report search predictions” link. Below this is a grid of Scotomaville YouTube video thumbnails, one of which is labeled “PREPARATION 02.05” and appears within the visible row. A small circular portrait of Daniel (an older man) sits beside the ChatGPT logo and a side-by-side comparison of “Search Engines vs. ChatGPT.” The left page is primarily text, featuring a large pull-quote at the top (“You chose from THEIR
+- The right page is dominated by a large screenshot of a web search interface showing the query “data centers” with a drop down of autocomplete suggestions (including “data centers explained” and “data centers around the world”), overlaid with red circles and a red arrow pointing to the “Report search predictions” link. Below this is a grid of Scotomaville YouTube video thumbnails, one of which is labeled “PREPARATION 02.05” and appears within the visible row. A small circular portrait of Daniel (an older man) sits beside the ChatGPT logo and a side-by-side comparison of “Search Engines vs. ChatGPT.” The left page is primarily text, featuring a large pull-quote at the top (“You chose from THEIR
 
 ## Takeaways
 
 1. Oh, the quarter, yeah, okay, that’s cool.
-2. Welcome back to SCOTOMAVILLE We will talkabout preparation - getting ready before you have solidevidence.
+2. Welcome back to SCOTOMAVILLE We will talk about preparation - getting ready before you have solid evidence.
 3. Days and days of planning - preparing, hoping, and working hard.
 4. You see RVparts that I ordered in advance of having the Airstream.
-5. You mighthave heard the phrase “fake it until you makeit?” I’m not talking aboutfaking it.
-
+5. You might have heard the phrase “fake it until you makeit?” I’m not talking about faking it.
 
 ## First-time learner
 

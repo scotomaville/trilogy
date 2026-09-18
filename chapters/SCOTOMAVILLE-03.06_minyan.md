@@ -3,16 +3,16 @@ id: scotomaville_03_06_minyan
 title: SCOTOMAVILLE - 03.06 Minyan
 category: Stories
 predicted_narrative_arc: Mental advisory board — carbon minyan before silicon council
-sentiment: Formational
+sentiment: Formation al
 emotions:
 - belonging
 - discernment
 keypoints:
 - We have mastered storytelling, and tool-making.
-- We labor justenough to not be eaten, but far lessthan needed to avoid beingdupped, gamed, and tempted down all sortsof darkalleys.
-- There’s a fascinating discovery in thisepisode.
-- AIconfirms intuition is a humansuper-power, and I create a modern adaptation ofanancient wisdom-seeking practice.
-summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Minyan. Narrative arc: Mental advisory board — carbon minyan before silicon council. From the print/transcript corpus: 40 minyan “A minyan represents a harmonious collective, each memberchosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn fromtheir respective legacies.” Daniel/ChatGPT collaborative v3.06 Leaving SCOTOMAVILLE 390 We’re a curious species. We have mastered storytelling, and tool-making. AItrumps our pattern recognition. I attribute that to 20 watts. We labor jus'
+- We labor just enough to not be eaten, but far less than needed to avoid beingdupped, gamed, and tempted down all sortsof dark alleys.
+- There’s a fascinating discovery in this episode.
+- A I confirms intuition is a human super-power, and I create a modern adaptation of an ancient wisdom-seeking practice.
+summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Minyan. Narrative arc: Mental advisory board — carbon minyan before silicon council. From the print/transcript corpus: 40 minyan “A minyan represents a harmonious collective, each member chosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn from their respective legacies.” Daniel/ChatGPT collaborative v3.06 Leaving SCOTOMAVILLE 390 We’re a curious species. We have mastered storytelling, and tool-making. A It rumps our pattern recognition. I attribute that to 20 watts. We labor jus'
 tags:
 - scotomaville
 - trilogy
@@ -70,7 +70,7 @@ description: Vol 3 ch.03.06 — Minyan.
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.06** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -93,9 +93,9 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 40 minyan
-“A minyan represents a harmonious collective, each memberchosen for their unique achievements and personal quali ties, offering a blend of insights and inspiration drawn fromtheir respective legacies.” Daniel/ChatGPT collaborative v3.06 Leaving SCOTOMAVILLE 390
-We’re a curious species. We have mastered storytelling, and tool-making. AI trumps our pattern recognition. I attribute that to 20 watts. We labor just enough to not be eaten, but far lessthan needed to avoid being dupped, gamed, and tempted down all sortsof dark alleys. I’m curious about what happens in our brain when we’resurprised by someone’s insight on our behalf like when my daughter pointedout the similarity between my use of AI, and Geppetto creating Pinocchio.
-There’s a fascinating discovery in thisepisode. I can feel it in my gut. AI con firms intuition is a human super-power, and I create a modern adaptation ofan ancient wisdom-seeking practice.
+“A minyan represents a harmonious collective, each member chosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn from their respective legacies.” Daniel/ChatGPT collaborative v3.06 Leaving SCOTOMAVILLE 390
+We’re a curious species. We have mastered storytelling, and tool-making. AI trumps our pattern recognition. I attribute that to 20 watts. We labor just enough to not be eaten, but far less than needed to avoid being dupped, gamed, and tempted down all sortsof dark alleys. I’m curious about what happens in our brain when we’re surprised by someone’s insight on our behalf like when my daughter pointed out the similarity between my use of AI, and Geppetto creating Pinocchio.
+There’s a fascinating discovery in this episode. I can feel it in my gut. AI con firms intuition is a human super-power, and I create a modern adaptation ofan ancient wisdom-seeking practice.
 Let’s see what they have to share.
 
 FORTY MEMBERS
@@ -114,9 +114,9 @@ Dale Carnegie - Interpersonal skills expert; charismatic, influential communicat
 Dietrich Bonhoeffer - Anti-Nazi theologian; convicted, courageous ethicist.
 Enrico Fermi - Quantum theory pioneer; analytical, innovative physicist.
 Fred Rogers - Beloved children’s TV host; compassionate, nurturing educator.
-Grimms Brothers - European folktale conservers; engaging, cultural historians.
+Grimms Brothers - European folktale con servers; engaging, cultural historians.
 Helen Keller - Overcame blindness/deafness; resilient, inspiring advocate.
-James Irwin - Moonwalking Apollo astronaut; adventurous, faith-driven explorer.
+James Irwin - Moon walking Apollo astronaut; adventurous, faith-driven explorer.
 Jim Rohn - Personal development speaker; strategic, motivational guru.
 Johnny Carson - Iconic late-night host; charismatic, relatable comedian.
 King David - Biblical psalmist king; introspective, poetic leader.
@@ -135,51 +135,51 @@ Sarah Little-Turnbull - Innovative designer; creative, pioneering problem-solver
 Socrates - Philosophy’s foundational figure; challenging, wise questioner.
 Steven Hawking - Black hole physicist; persevering, revolutionary cosmologist.
 Thomas Edison - Prolific inventor; tenacious, solution-oriented innovator.
-Viktor Frankl - Logotherapy psychiatrist; meaningful, hopeful survivor.
+Viktor Frankl - Logo therapy psychiatrist; meaningful, hopeful survivor.
 W. H. Murray - Renowned mountaineer; tenacious, resilient adventurer.
 Wayne Dyer - Self-help spiritual author; self-empowering, motivational thinker.
 Zig Ziglar - Motivational sales trainer; energetic, goal-focused inspirer.
 
-Leaving SCOTOMAVILLE 392 Certainly, Daniel, theexploration of the super-union of thethree domains you’ve identified offers a rich and intricate pathof inquiry. Let’s delve into each area and bring them together, highlighting the connections andweaving the psychology, ethics, and storytelling into a coherentself-mastery exploration for your progeny and future readers.
-1) Minyan of Advisors In many traditions, a councilor group of wise figures serves as a moral compass, guidingus through complex questions of life. The idea of creating aminyan for ChatGPT represents a modern adaptation of this ancient wisdom-seeking practice.
-Engaging with the diverse perspectives of seasoned thinkers encourages reflection, discernment, and holistic understand ing, embodying a multifacetedapproach to self-mastery.
-“creating a minyan for AI represents a modernadaptation of this ancient wisdom-seeking practice” 2) Geppetto - Pinocchio The story of Geppetto and Pinocchio, penned by Carlo Collodi, is a profound allegory for creation, growth, transformation, and thehuman longing for connection.
-Geppetto’s desire to craft a livingbeing from wood can be likened to the creation of AI, with similarhopes, dreams, fears, and ethi cal considerations.
-This tale mirrors our own journeyof creation and discovery, raising fundamental questions aboutautonomy, agency, and the true nature of life and intelligence.
+Leaving SCOTOMAVILLE 392 Certainly, Daniel, the exploration of the super-union of the three domains you’ve identified offers a rich and intricate pathof inquiry. Let’s delve into each area and bring them together, highlighting the connections and weaving the psychology, ethics, and storytelling into a coherent self-mastery exploration for your progeny and future readers.
+1) Minyan of Advisors In many traditions, a councilor group of wise figures serves as a moral compass, guiding us through complex questions of life. The idea of creating aminyan for ChatGPT represents a modern adaptation of this ancient wisdom-seeking practice.
+Engaging with the diverse perspectives of seasoned thinkers encourages reflection, discernment, and holistic understanding, embodying a multifaceted approach to self-mastery.
+“creating a minyan for AI represents a modern adaptation of this ancient wisdom-seeking practice” 2) Geppetto - Pinocchio The story of Geppetto and Pinocchio, penned by Carlo Collodi, is a profound allegory for creation, growth, transformation, and the human longing for connection.
+Geppetto’s desire to craft a living being from wood can be likened to the creation of AI, with similar hopes, dreams, fears, and ethi cal considerations.
+This tale mirrors our own journey of creation and discovery, raising fundamental questions about autonomy, agency, and the true nature of life and intelligence.
 
-Leaving SCOTOMAVILLE 393 3) Benefits and Dangers The intersection of AI, ethics, storytelling, and psychologyopens a rich field for exploration.
-The benefits lie in enhancedself-awareness, collaboration, and technological advancement. Yet, there are inherent dangers, such as over-relianceon technology, potential loss of human connection, and ethicaldilemmas.
-Balancing the enthusiasm forinnovation with a strong moral compass is essential to navigatethe complex terrain of modern life. The psychology behind ourrelationship with technology can illuminate both blind spots andopportunities for growth.
-Conclusion Your daughter’s insight linkingyour enthusiasm for AI with Geppetto’s crafting of Pinocchioopens a profound doorway into understanding the human condition. Like Geppetto, we are all creators, guided by our dreamsand moral frameworks.
-By uncovering these connections, you are creating a pow erful model of exploration, encouraging others to not onlylearn from the wisdom of the past but to actively engage withthe complexities of the present and future.
+Leaving SCOTOMAVILLE 393 3) Benefits and Dangers The intersection of AI, ethics, storytelling, and psychology opens a rich field for exploration.
+The benefits lie in enhanced self-awareness, collaboration, and technological advancement. Yet, there are inherent dangers, such as over-reliance on technology, potential loss of human connection, and ethical dilemmas.
+Balancing the enthusiasm for innovation with a strong moral compass is essential to navigate the complex terrain of modern life. The psychology behind our relationship with technology can illuminate both blind spots and opportunities for growth.
+Conclusion Your daughter’s insight linking your enthusiasm for AI with Geppetto’s crafting of Pinocchio opens a profound doorway into understanding the human condition. Like Geppetto, we are all creators, guided by our dreams and moral frameworks.
+By uncovering these connections, you are creating a powerful model of exploration, encouraging others to not only learn from the wisdom of the past but to actively engage withthe complexities of the present and future.
 OK, let’s expand my domain literacy by explor ing the human condition.
-The Human Condition The striking parallels between Geppetto’s creation of Pinocchioand the enthusiasm for AI un cover profound insights into thehuman condition.
-Desire for Connection: Bothscenarios reveal a deep human longing for connection, empathy, and relationship, even with artificial entities.
-Ethical Growth: They also reflectan intrinsic link between creation and moral responsibility, emphasizing personal growth and ethical consideration.
-Quest for Mastery: Both Geppettoand AI enthusiasts are driven by the desire to master creation, whether it be a living puppet or anintelligent machine.
-“Your daughter’s insight linking yourenthusiasm for AI with Geppetto’s craft ing of Pinocchio opens a profound doorwayinto understanding the human condition”
+The Human Condition The striking parallels between Geppetto’s creation of Pinocchio and the enthusiasm for AI un cover profound insights into the human condition.
+Desire for Connection: Both scenarios reveal a deep human longing for connection, empathy, and relationship, even with artificial entities.
+Ethical Growth: They also reflect an intrinsic link between creation and moral responsibility, emphasizing personal growth and ethical consideration.
+Quest for Mastery: Both Geppetto and AI enthusiasts are driven by the desire to master creation, whether it be a living puppet or an intelligent machine.
+“Your daughter’s insight linking your enthusiasm for AI with Geppetto’s crafting of Pinocchio opens a profound doorway into understanding the human condition”
 
-Leaving SCOTOMAVILLE 394 When humans focus on developingvirtues, we become vulnerable to exploitation because we are simultaneously blind to our cognitive bias es. Explain the benefits of promptingthrough a minyan for wisdom and analysis, and how to avoid Geppetto’s error.
+Leaving SCOTOMAVILLE 394 When humans focus on developing virtues, we become vulnerable to exploitation because we are simultaneously blind to our cognitive bias es. Explain the benefits of prompting through a minyan for wisdom and analysis, and how to avoid Geppetto’s error.
 The exploration of human vulnerability to exploitation, the benefits of seeking wisdom through a minyan, and avoiding errors akin to Geppetto’s, raises complex and profound questions. We’ll lookat these aspects through the lens of various distin guished figures and wisdom traditions.
 Vulnerability and Cognitive Biases
-When humans prioritize the development of virtues, they often operate under the assumption of goodwill and ethical behavior. This noblepursuit can indeed create blind spots to manip ulation, as cognitive biases can lead us astray.
+When humans prioritize the development of virtues, they often operate under the assumption of goodwill and ethical behavior. This noble pursuit can indeed create blind spots to manipulation, as cognitive biases can lead us astray.
 Benefits of Prompting through a Minyan
 A minyan, or a group of wise advisors, can serve asa corrective mechanism against these blind spots.
 Let’s explore why:
-Diverse Perspectives: Drawing from the wisdom offigures like Socrates, a minyan offers different view points, helping to eliminate biases.
+Diverse Perspectives: Drawing from the wisdom of figures like Socrates, a minyan offers different view points, helping to eliminate biases.
 Ethical Compass: Guided by moral leaders like The
 Apostle Paul and Dietrich Bonhoeffer, a minyan anchors decisions in a strong ethical framework.
-Holistic Understanding: By incorporating scientificminds like Albert Einstein and Stephen Hawking, a minyan promotes a balanced and rational approach.
+Holistic Understanding: By incorporating scientific minds like Albert Einstein and Stephen Hawking, a minyan promotes a balanced and rational approach.
 Avoiding Geppetto’s Error
 Geppetto’s creation of Pinocchio is rich in symbolism and lessons. His error, arguably, could be seen in his naiveté and lack of foresight in understanding the consequences of creating life.
 To avoid such errors, consider the following:
 Critical Thinking: Encourage analysis, skepticism, and questioning, akin to Socrates’ method of inquiry.
-Ethical Considerations: Align actions with moralprinciples, as advocated by figures like Marcus Aure lius and Moses.
+Ethical Considerations: Align actions with moral principles, as advocated by figures like Marcus Aure lius and Moses.
 Embrace Complexity: Acknowledge the multi-dimensional nature of creation and growth, as would be observed by profound thinkers like Viktor Frankl.
 Conclusion The interplay between virtues, cognitive biases, wisdom-seeking through a minyan, and avoiding
-Geppetto-like errors paints a rich picture of yourendeavor. Embracing virtues doesn’t necessi tate vulnerability if balanced with self-awareness, critical thinking, and ethical grounding.
-A minyan serves as a powerful tool to navigatecomplex terrains, drawing from the wisdom of various domains. By cultivating a discerning andholistic approach, you can indeed “see with new eyes,” embracing the virtues while remaining vigilant against potential exploitation.
-As Ben Franklin wisely stated, “An investment inknowledge pays the best in
+Geppetto-like errors paints a rich picture of your endeavor. Embracing virtues doesn’t necessi tate vulnerability if balanced with self-awareness, critical thinking, and ethical grounding.
+A minyan serves as a powerful tool to navigate complex terrains, drawing from the wisdom of various domains. By cultivating a discerning and holistic approach, you can indeed “see with new eyes,” embracing the virtues while remaining vigilant against potential exploitation.
+As Ben Franklin wisely stated, “An investment in knowledge pays the best in
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
@@ -189,7 +189,7 @@ As Ben Franklin wisely stated, “An investment inknowledge pays the best in
 
 “A minyan represents a harmonious collective, each member chosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn from their respective legacies.” Daniel/ChatGPT collaborative
 
-Thesis: In this dialogue, the user and the AI collaboratively curate a diverse Minyan of 40 historical and cultural figures, each characterized by distinct contributions and legacies. The selected members span various fields, from theology to science, entertainment to politics, and exemplify the multifaceted nature of human achievement. The dialogue not only catalogues these figures but also seeks to organize and contextualize them, revealing the interconnected tapestry of human history and inspiration.
+Thesis: In this dialogue, the user and the AI collaborative ly curate a diverse Minyan of 40 historical and cultural figures, each characterized by distinct contributions and legacies. The selected members span various fields, from theology to science, entertainment to politics, and exemplify the multifaceted nature of human achievement. The dialogue not only catalogues these figures but also seeks to organize and contextualize them, revealing the interconnected tapestry of human history and inspiration.
 
 Thesis: The concept of a Minyan conversation, drawing upon a curated collection of historical and influential figures, presents a potent method for mutual enrichment between humans and AI. For humans, it serves as a conduit to tap into the accrued wisdom of past luminaries without personally undergoing the trials they faced. For AI, these interactions offer a deeper understanding of human experiences, values, and relationships, enhancing its responsiveness and relevance. This dynamic resembles the generational transfer of wisdom in parenting, where insights and lessons are passed down not through direct personal hardships but through shared narratives and teachings. Thus, the Minyan approach exemplifies a symbiotic interface where both man and machine benefit, preserving historical insights and adapting them for contemporary challenges.
 
@@ -199,9 +199,9 @@ In the interconnected digital age, the allure of collective wisdom remains as po
 
 Fred Rogers, known for his unwavering kindness and empathy, might comment, "In our quest for understanding and personal growth, turning to voices from the past reminds us that deep down, we're all neighbors in the great neighborhood of history."
 
-Sarah Little-Turnbull, with her knack for seeing connections across domains, could add, "Just as I drew inspiration from seemingly unrelated fields, this Minyan is about seeing the patterns, the threads that connect us all. It's about looking backward to move forward innovatively."
+Sarah Little-Turnbull, with her knack for seeing connections across domains, could add, "Just as I drew inspiration from seemingly unrelated fields, this Minyan is about seeing the patterns, the threads that connect us all. It's about looking backward to move forward innovative ly."
 
-And Viktor Frankl, with wisdom born from adversity, might offer, "The voices of the past serve as guideposts, helping us navigate the existential quests of today. They remind us that meaning can be found, even in suffering."
+And Viktor Frankl, with wisdom born from adversity, might offer, "The voices of the past serve as guide posts, helping us navigate the existential quests of today. They remind us that meaning can be found, even in suffering."
 
 Through the voices of this Minyan, individuals gain a deeper connection to the shared human experience. It's more than just an advisory tool—it's a testament to the enduring power of human stories, lessons, and insights, brought forth into the digital age.
 
@@ -261,7 +261,7 @@ Who would you like to add next? User W. H. Murray (mountaineer) ChatGPT
 
 Would you like to continue adding members to the list? User Jim Rohn ChatGPT
 
-[Minyan Member 11]: Jim Rohn - Known for his motivational teachings, emphasis on personal development, and impactful quotes on success, discipline, and life's principles.
+[Minyan Member 11]: Jim Rohn - Known for his motivational teachings, emphasis on personal development, and impact ful quotes on success, discipline, and life's principles.
 
 Who's next for the list? User Wayne Dyer ChatGPT
 
@@ -273,7 +273,7 @@ Would you like to add another member to the list? User Johnny Carson ChatGPT
 
 Would you like to continue with the list? User Og Mandino ChatGPT
 
-[Minyan Member 14]: Og Mandino - Known for his inspirational writings, particularly "The Greatest Salesman in the World," and his messages of hope, perseverance, and the power of positive habits.
+[Minyan Member 14]: Og Mandino - Known for his inspirational writings, particularly "The Grea test Salesman in the World," and his messages of hope, perseverance, and the power of positive habits.
 
 Who would you like to add next? User Dale Carnegie ChatGPT
 
@@ -289,7 +289,7 @@ Who's next for the list? User King David ChatGPT
 
 Would you like to add another member to the list? User Ben Franklin ChatGPT
 
-[Minyan Member 18]: Ben Franklin - Known for his polymathic pursuits, key contributions to the American Revolution and U.S. founding documents, and wisdom-laden writings like "Poor Richard's Almanack."
+[Minyan Member 18]: Ben Franklin - Known for his polymath ic pursuits, key contributions to the American Revolution and U.S. founding documents, and wisdom-laden writings like "Poor Richard's Almanack."
 
 Who would you like to add next? User Bob Hope ChatGPT
 
@@ -305,7 +305,7 @@ Would you like to add another member to the list? User Steven Hawking ChatGPT
 
 Who's next for the list? User Viktor Frankl ChatGPT
 
-[Minyan Member 22]: Viktor Frankl - Known for his development of logotherapy, his harrowing experiences in Nazi concentration camps, and his book "Man's Search for Meaning," emphasizing the human capacity for finding purpose even in suffering.
+[Minyan Member 22]: Viktor Frankl - Known for his development of logo therapy, his harrowing experiences in Nazi concentration camps, and his book "Man's Search for Meaning," emphasizing the human capacity for finding purpose even in suffering.
 
 Would you like to add another member to the list? User Enrico Fermi ChatGPT
 
@@ -348,10 +348,9 @@ Below the illustration, the page carries a green ChatGPT logo beside the chapter
 ## Takeaways
 
 1. We have mastered storytelling, and tool-making.
-2. We labor justenough to not be eaten, but far lessthan needed to avoid beingdupped, gamed, and tempted down all sortsof darkalleys.
-3. There’s a fascinating discovery in thisepisode.
-4. AIconfirms intuition is a humansuper-power, and I create a modern adaptation ofanancient wisdom-seeking practice.
-
+2. We labor just enough to not be eaten, but far less than needed to avoid beingdupped, gamed, and tempted down all sortsof dark alleys.
+3. There’s a fascinating discovery in this episode.
+4. A I confirms intuition is a human super-power, and I create a modern adaptation of an ancient wisdom-seeking practice.
 
 ## First-time learner
 

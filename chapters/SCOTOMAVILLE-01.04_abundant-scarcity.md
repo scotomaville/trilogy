@@ -15,7 +15,7 @@ keypoints:
 - Half-full vs half-empty scotoma is believing your framing is the only correct one
 - Diamandis prosperity + Harari abundance-danger + Frankl space between stimulus and response
 - Pathway starts with noticing the emotional trigger then peeling to root belief (walks, trash-out)
-summary: Vol 1 chapter 04 — Abundant Scarcity. Filmed in the early COVID panic, Daniel uses empty aisles and hoarding as living proof that scarcity is often a mindset others can trigger. He tells the blended-family dinner story that taught “settle for less,” credits Wayne Dyer’s Erroneous Zones lakeside read, and refuses magnet-manifestation shortcuts. The work is awareness of triggers, diffuse time to find roots, and disciplined reframing toward abundance. Pairs with Initium Prime 002.
+summary: Vol 1 chapter 04 — Abundant Scarcity. Filmed in the early COVID panic, Daniel uses empty aisles and hoarding as living proof that scarcity is often a mindset others can trigger. He tells the blended-family dinner story that taught “settle for less,” credits Wayne Dyer’s Erroneous Zones lakeside read, and refuses magnet-manifestation shortcuts. The work is awareness of triggers, diffuse time to find roots, and disciplined re framing toward abundance. Pairs with Initium Prime 002.
 tags:
 - scotomaville
 - trilogy
@@ -81,7 +81,7 @@ description: Vol 1 ch.04 — scarcity vs abundance mindset; pairs Prime 002.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.04** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -161,13 +161,13 @@ Climbing your Personal Everest requires a combination of tools. Reflect on the p
 
 ## Video transcript (spoken register)
 
-*Source: `01.04 AbundantScarcityTrnscpt.txt` — lightly cleaned; kitchen / Airstream filming in the panic weeks.*
+*Source: `01.04 Abundant Scarcity Trnscpt.txt` — lightly cleaned; kitchen / Airstream filming in the panic weeks.*
 
-Welcome back to Scotomaville. I was laughing this morning thinking of that classic Robin Williams — *Gooooood Moorrrnniiiin Viiieeetnaam !!!* Yeah, we really miss him, don't we?
+Welcome back to Scotomaville. I was laughing this morning thinking of that classic Robin Williams — *Go ooo ood Moor rr nn iii in Vii ieee tna am !!!* Yeah, we really miss him, don't we?
 
 The purpose of the book is to help you become more self-aware, self-understanding, self-disciplined, so that you can leave Scotomaville. This first section on awareness brings tools to your toolbox without flooding you too quick — series of videos, transcribed into the book from notes. Bill Sharman: life is what happens BETWEEN your plans.
 
-This morning we're having one of my typical meal-replacement shakes because there's been a run — nice way to put it — people hoarding, panicking. Straight-up evidence in the aisles from Manhattan where my daughter is all the way across to Phoenix and Anthem — Walmarts and Safeways and Albertsons — people like "AAAAAAAHHH!!"
+This morning we're having one of my typical meal-replacement shakes because there's been a run — nice way to put it — people hoarding, panicking. Straight-up evidence in the aisles from Manhattan where my daughter is all the way across to Phoenix and Anthem — Walmarts and Safeways and Albert sons — people like "AAAAAAAHHH!!"
 
 Yesterday: we can grab your attention and recall childhood triggers you're not even aware of. Brain finds patterns — snake, rock, branch, betrayal. When you walk into a grocery store and the stuff isn't there, or people resell sanitizer in the parking lot, emotions steer you.
 
@@ -177,11 +177,11 @@ Mid-30s: *Your Erroneous Zones*, Wayne Dyer, lakeside in Washington. Difference 
 
 Supply sketch: if people buy four weeks of eggs in week one, shelves empty for everyone else — same emotional childhood scarcity response when you only wanted one carton.
 
-Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. At least I can laugh because I'm aware of it. Amygdala, hippocampus, fight-or-flight — still fire.
+Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. Atleast I can laugh because I'm aware of it. Amy gda la, hippocampus, fight-or-flight — still fire.
 
 Beverly Hillbillies truck — unpacking over weeks, months, years. Where did that thought, belief, behavior first start? Adult awareness + plasticity = chance to remould.
 
-I grew up in scarcity but became aware it was a choice. Diffuse time on a ride today. Credit: Peter Diamandis — most prosperous time. Yuval Harari — we kill ourselves more by abundance choices (sugar vs gunpowder / diabetes vs war). Wayne — first named my scarcity mindset. I disagree that we simply "attract" abundance like a magnet. Pathway starts with: "Oh! THAT was an emotional trigger!" Then: where in the world did that come from?
+I grew up in scarcity but became aware it was a choice. Diffuse time on a ride today. Credit: Peter Diamandis — most prosperous time. Yuval Harari — we kill ourselves more by abundance choices (sugar vs gunpowder / diabetes vs war). Wayne — first named my scarcity mindset. I disagree that we simply "attract" abundance like a magnet. Pathway starts with: "Oh! THAT was an emotional trigger!" Then: wherein the world did that come from?
 
 Onion peeling later. Walks. Trash out. Find the root — experience, military, flood, hurricane, dinner table. Adult facts can rethink the first dominoes. Move toward abundance by managing abundance better and sharing better — starts with awareness.
 
@@ -195,7 +195,6 @@ Onion peeling later. Walks. Trash out. Find the root — experience, military, f
 4. Half-full vs half-empty scotoma is believing your framing is the only correct one
 5. Diamandis prosperity + Harari abundance-danger + Frankl space between stimulus and response
 6. Pathway starts with noticing the emotional trigger then peeling to root belief (walks, trash-out)
-
 
 ## First-time learner
 

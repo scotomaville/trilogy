@@ -8,12 +8,12 @@ emotions:
 - meaning
 - caution
 keypoints:
-- “I think it’s the duty of filmmakers that havebeen down the roadaways to turn around and say; all right there’s a landmine overhere.
+- “I think it’s the duty of filmmakers that have been down the road a ways to turn around and say; all right there’s a land mine over here.
 - 'James: “When I started out I was working as atruck driver.'
-- I didn’t have much sparecash and certainly couldn’t afford filmschool.
-- “But all you have to do is pick up a camera andstart shooting something with the intention of making a film and you’re a filmmaker.
-- “I think it’s the duty of filmmakers that havebeen down the roadaways to turn aroundand say; all right there’s a landmine overhere.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Stories. Narrative arc: Stories that carry or trap the expedition. From the print/transcript corpus: “I think it’s the duty of filmmakers that havebeen down the roadaways to turn around and say; all right there’s a landmine overhere. There’s a landmine over there. Don’t steponthem. So why not share that.” James Cameron AVATAR character by James Cameron “all you have to do is pickup a camera andstart shooting something with the intention of making a film and you’re a filmmaker” 2.13 STORIES Leaving SCOTOMAVILLE 318 I’'
+- I didn’t have much spare cash and certainly couldn’t afford film school.
+- “But all you have to do is pick up a camera and start shooting something with the intention of making a film and you’re a filmmaker.
+- “I think it’s the duty of filmmakers that have been down the road a ways to turn around and say; all right there’s a land mine over here.
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Stories. Narrative arc: Stories that carry or trap the expedition. From the print/transcript corpus: “I think it’s the duty of filmmakers that have been down the road a ways to turn around and say; all right there’s a land mine over here. There’s a land mine over there. Don’t step on them. So why not share that.” James Cameron AVATAR character by James Cameron “all you have to do is pickup a camera and start shooting something with the intention of making a film and you’re a filmmaker” 2.13 STORIES Leaving SCOTOMAVILLE 318 I’'
 tags:
 - scotomaville
 - trilogy
@@ -63,7 +63,7 @@ book_pdf_alt_url: 'https://initium.scotomaville.com/scotomaville_trilogy'
 github_repo: 'https://github.com/scotomaville/trilogy'
 youtube_urls:
 - 'https://youtu.be/6WHpQNzAbi4'
-- 'https://youtu.be/evitzktwvqu'
+- 'https://youtu.be/evi tz kt wv qu'
 youtube_channel: 'https://www.youtube.com/scotomaville'
 pairs_with_prime: null
 description: Vol 2 ch.02.13 — Stories.
@@ -73,7 +73,7 @@ description: Vol 2 ch.02.13 — Stories.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.13** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -83,7 +83,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
 | Video | https://youtu.be/6WHpQNzAbi4 |
-| Video | https://youtu.be/evitzktwvqu |
+| Video | https://youtu.be/evi tz kt wv qu |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
 Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
@@ -96,76 +96,73 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 ## Chapter text (carbon prose)
 
-“I think it’s the duty of filmmakers that havebeen down the road aways to turn around and say; all right there’s a land mine over here.
-There’s a landmine over there. Don’t step onthem. So why not share that.”
+“I think it’s the duty of filmmakers that have been down the road aways to turn around and say; all right there’s a land mine over here.
+There’s a land mine over there. Don’t step onthem. So why not share that.”
 
 James Cameron AVATAR character by James Cameron
-“all you have to do is pick up a camera andstart shooting something with the intention of making a film and you’re a filmmaker” 2.13 STORIES Leaving SCOTOMAVILLE 318
+“all you have to do is pickup a camera and start shooting something with the intention of making a film and you’re a filmmaker” 2.13 STORIES Leaving SCOTOMAVILLE 318
 
-I’m taking a MasterClass from the filmmaker James Cameron.
+I’m taking a Master Class from the filmmaker James Cameron.
 James: “When I started out I was working as atruck driver. I didn’t have much spare cash and certainly couldn’t afford film school.
-“But all you have to do is pick up a camera andstart shooting something with the intention of making a film and you’re a filmmaker.
-“I think it’s the duty of filmmakers that havebeen down the road aways to turn around and say; all right there’s a land mine over here.
-There’s a landmine over there. Don’t step on it.
+“But all you have to do is pick up a camera and start shooting something with the intention of making a film and you’re a filmmaker.
+“I think it’s the duty of filmmakers that have been down the road aways to turn around and say; all right there’s a land mine over here.
+There’s a land mine over there. Don’t step on it.
 So why not share that.
-“I’m James Cameron. This is my MasterClass.”
-Wow. It’s pretty amazing when you get toshadow, and learn from, someone who’s been where you want to go.
+“I’m James Cameron. This is my Master Class.”
+Wow. It’s pretty amazing when you get to shadow, and learn from, someone who’s been where you want to go.
 I hope you see the parallels.
 Welcome to another Episode of SCO
-TOMAVILLE. In this episode, we’ll talkabout stories. I don’t mean storytelling. I mean the stories you have built your lifearound. The stories that we’ve been told and that we tell ourselves.
+Toma VILLE. In this episode, we’ll talk about stories. I don’t mean storytelling. I mean the stories you have built your life around. The stories that we’ve been told and that we tell ourselves.
 I fully believe that storytelling is a superpower. AI has learned from humans how to tell convincing, emotionally rich stories, and as of the Third Edition, ChatGPT slightly lags humans in storytelling.
 (Humans 9/10 - AI 6/10 see pg 330) You learned the difference between a
-‘runny nose’ and ‘smelly feet.’ Think aboutit. Runny Nose. Smelly Feet. (not running feet and smelly nose) AI is learning inference, humor, tone, sentiment, analogy, metaphor, and sarcasm, but it currentlylacks emotional intelligence, context awareness, and experiential knowledge.
+‘runny nose’ and ‘smelly feet.’ Think aboutit. Runny Nose. Smelly Feet. (not running feet and smelly nose) AI is learning inference, humor, tone, sentiment, analogy, metaphor, and sarcasm, but it currently lacks emotional intelligence, context awareness, and experiential knowledge.
 AI, help me out. My narrative is messy:
-“Certainly, Daniel. Ourbrains, molded and honed by evolution, are fine-tuned tosurvive. They alert us, like an age-old tale, to avoid danger, to “not step on this,” tobe wary and aware. We learn from stories that whisper caution into our very being.
-But how do we choose the stories thatresonate with us? It’s an emotional con nection, an alignment with certain keypoints that find a home in our minds and hearts. These stories lay the groundworkfor our beliefs. Our brains seek out con THE STORIES WE TELL OURSELVES Leaving SCOTOMAVILLE 319
+“Certainly, Daniel. Our brains, molded and honed by evolution, are fine-tuned to survive. They alert us, like an age-old tale, to avoid danger, to “not step on this,” tobe wary and aware. We learn from stories that whisper caution into our very being.
+But how do we choose the stories that resonate with us? It’s an emotional connection, an alignment with certain key points that find a home in our minds and hearts. These stories lay the groundwork for our beliefs. Our brains seek out con THE STORIES WE TELL OURSELVES Leaving SCOTOMAVILLE 319
 
-firmation, strengthening thesebeliefs, revisiting and reinforcing them with new thoughts andexperiences. The ideas become a well-worn path, the electricalfiring across dendrite pathways turning habitual, forging the attitudes that guide our actions.
+firm ation, strengthening these beliefs, revisiting and reinforcing them with new thoughts and experiences. The ideas become a well-worn path, the electrical firing across dendrite pathways turning habitual, forging the attitudes that guide our actions.
 Just as James Cameron utilizesstoryboards to direct a film, we do the same in our minds, playing both the audience and the director, scripting our future self.
-Yet, in this grand narrative of life, we must be cautious. To escapethe trap of a poorly formed belief or the relentless cycle of emotional triggers, we must recog nize and understand the storiesthat have shaped us. We must step back, examine the script, and ask ourselves: What storieshave influenced me? What paths have I tread so often that they’vebecome my reality?
-By doing so, we can begin to rewrite our own story, analyzed by AI, informed by wisdom, guidedby self-awareness, and inspired by the connection that bindsus all through the ancient and eternal art of storytelling.” My Harvard School Bus I commuted to work on a buswhile reading 50 volumes of the “The stories we tell ourselves comefrom the stories that we were told.” Harvard Classics. They filled mymind with all kinds of ideas that represent some of the best ofhuman thinking - equal to a de gree from Harvard. Many of theauthors are my current minyan.
-The stories I appreciate most arefrom volume 17 on folklore and fable. I was mentored by Aesop, Grim and Anderson. I particularlyfavored tales with morals and consequences. The stories wetell ourselves are woven from the stories that we were told.
-Leaving SCOTOMAVILLE 320
+Yet, in this grand narrative of life, we must be cautious. To escape the trap of a poorly formed belief or the relentless cycle of emotional triggers, we must recognize and understand the stories that have shaped us. We must step back, examine the script, and ask ourselves: What stories have influenced me? What paths have I tread so often that they’ve become my reality?
+By doing so, we can begin to rewrite our own story, analyzed by AI, informed by wisdom, guided by self-awareness, and inspired by the connection that bindsus all through the ancient and eternal art of storytelling.” My Harvard School Bus I commuted to work on a bus while reading 50 volumes of the “The stories we tell ourselves come from the stories that we were told.” Harvard Classics. They filled mymind with all kinds of ideas that represent some of the best ofhuman thinking - equal to a degree from Harvard. Many of the authors are my current minyan.
+The stories I appreciate most arefrom volume 17 on folklore and fable. I was mentored by Aesop, Grim and Anderson. I particularly favored tales with morals and consequences. The stories wetell ourselves are woven from the stories that we were told.
 
 ROMAN MILK POT FOUND IN SW England:
-The vessel, held together with lead staples wasrepaired nearly 2,000 years ago. It’s thought to have been used for storing milk and dry goods.
-One of the most compelling stories I recall is ‘The Cracked Pot.’ I readthis story in Chicken Soup For The Unsinkable Soul sometime around 1999. It made a massive impression on me.
+The vessel, held together with lead staples was repaired nearly 2,000 years ago. It’s thought to have been used for storing milk and dry goods.
+One of the most compelling stories I recall is ‘The Cracked Pot.’ I read this story in Chicken Soup For The Unsinkable Soul sometime around 1999. It made a massive impression on me.
 
 STORY 1: THE CRACKED POT
-A water bearer in India had two large pots, each hung on each endof a pole which he carried across his neck. One of the pots had a crack in it, and while the other pot was perfect and always delivereda full portion of water at the end of the long walk from the stream to the master’s house, the cracked pot arrived only half full.
-For a full two years this went on daily, with the bearer delivering only one and a half pots full of water in his master’s house. Of course, the perfect pot was proud of its accomplishments. But the poor cracked pot was ashamed of its own imperfections, and miserable that it was able toaccomplish only half of what it had been made to do.
-After two years of what it perceived to be a bitter failure, it spoke to the water bearer one day by the stream. “I am ashamed of myself, and I want to apologize to you.” “why?” asked the bearer. “What are you ashamed of?” I have been able, for these past two years, to deliver onlyhalf my load because this crack in my side causes water to leak out all the way back to your master’s house. Becauseof my flaws, you have to do all of this work and you don’t get full value for your efforts,” the pot said.
-The water bearer felt sorry for the old cracked pot and in hiscompassion he said, “as we return to the master’s house I want you to notice the beautiful flowers along the path.”
+A water bearer in India had two large pots, each hung on each endof a pole which he carried across his neck. One of the pots had a crack in it, and while the other pot was perfect and always delivered a full portion of water at the end of the long walk from the stream to the master’s house, the cracked pot arrived only half full.
+For a full two years this went on daily, with the bearer delivering only one and a half pots full of water in his master’s house. Of course, the perfect pot was proud of its accomplishments. But the poor cracked pot was ashamed of its own imperfections, and miserable that it was able to accomplish only half of what it had been made to do.
+After two years of what it perceived to be a bitter failure, it spoke to the water bearer one day by the stream. “I am ashamed of myself, and I want to apologize to you.” “why?” asked the bearer. “What are you ashamed of?” I have been able, for these past two years, to deliver only half my load because this crack in my side causes water to leak out all the way back to your master’s house. Because of my flaws, you have to do all of this work and you don’t get full value for your efforts,” the pot said.
+The water bearer felt sorry for the old cracked pot and in his compassion he said, “as we return to the master’s house I want you to notice the beautiful flowers along the path.”
 Indeed, as they went up the hill, the old cracked pot took notice ofthe sun warming the beautiful wild flowers on the side of the path, and this cheered it some. But at the end of the trail, it still felt bad because it had leaked out half its load, and so again it apologized to the bearer for its failure.
-Leaving SCOTOMAVILLE 321
 
 The bearer said to the pot, “didyou notice that there were flow ers only on your side of the pathbut not on the other pot’s side?
-That’s because I have alwaysknown about your flaw, and I took advantage of it. I plantedflower seeds on your side of the path, and every day whilewe walk back from the stream, you’ve watered them. For twoyears I have been able to pick these beautiful flowers to decorate my master’s table. Without you being just the way you are, he would not have this beauty tograce his house.” MEANING FOR ME I recognize the scotoma that ‘the cracked pot’ had in mythinking. For most of my life, I felt ashamed by my origins and myillegitimacy. Those in authority planted emotional seeds byspeaking harsh words and con demnation, maturing the weedsin my belief system. I misunder stood their wounds and gavetheir words far too much credi bility. I absorbed their authoritative words as truth - that I was not eligible, not worthy, not oneof them, not credible.
-Nurturing a patch of weeds, I tended to pull back when I raninto challenges instead of find ing the good in...
+That’s because I have always known about your flaw, and I took advantage of it. I planted flower seeds on your side of the path, and every day whilewe walk back from the stream, you’ve watered them. For two years I have been able to pick these beautiful flowers to decorate my master’s table. Without you being just the way you are, he would not have this beauty tograce his house.” MEANING FOR ME I recognize the scotoma that ‘the cracked pot’ had in my thinking. For most of my life, I felt ashamed by my origins and my illegitimacy. Those in authority planted emotional seeds by speaking harsh words and condemnation, maturing the weedsin my belief system. I misunderstood their wounds and gave their words far too much credibility. I absorbed their authoritative words as truth - that I was not eligible, not worthy, not oneof them, not credible.
+Nurturing a patch of weeds, I tended to pull back when I raninto challenges instead of finding the good in...
 oh, come on...#@!
-(triggered by the camera falling) It will probably take you severaliterations and adjustments to get the camera at a pleasingangle and securely attached.
-Give yourself a contingency ofgrace and production time for being emotionally engaged withyour Personal Everest.
-It takes a lot of practice andself-edification to become com petent at videography. Gettingthe cameras rolling with good composition, exposure, andcolor while maintaining a calm demeanor for numerous takes ofthe point you are attempting to express..
-Leaving SCOTOMAVILLE 322
+(triggered by the camera falling) It will probably take you several iterations and adjustments to get the camera at a pleasing angle and securely attached.
+Give yourself a contingency ofgrace and production time for being emotionally engaged with your Personal Everest.
+It takes a lot of practice andself-edification to become com petent at videography. Getting the cameras rolling with good composition, exposure, and color while maintaining a calm demeanor for numerous takes ofthe point you are attempting to express..
 
 STORY 2: TWO SHOES SALESMEN
-Once upon a time, a shoe company sent two salesmen to Africa to determine the market potential for their products. One salesman was sent to the eastcoast of Africa, while the other salesman was sent to the west coast of Africa.
+Once upon a time, a shoe company sent two salesmen to Africa to determine the market potential for their products. One salesman was sent to the east coast of Africa, while the other salesman was sent to the west coast of Africa.
 Both the salesmen completed a survey of the target market and called back to the office. The sales man sent to the east coast of Africa reported: “noone here wears any shoes, there is no market for us here!”. The other salesman sent a message
-“no one here wears any shoes, there is a hugemarket for us, send inventory fast!”.
+“no one here wears any shoes, there is a huge market for us, send inventory fast!”.
 COMPOSITION RULE OF THIRDS
-About three decades ago was the first time I hadheard a story with the moral of the glass half full or glass half empty - depending on your point of view.
+About three decades ago was the first time I had heard a story with the moral of the glass half full or glass half empty - depending on your point of view.
 To show that life and all stories are far more complicated, you’ll find another version of the story in
-Google entitled: the two shoe salesmen (the rest ofan entrepreneurial myth) from Blog Spot and the occasional CEO. The same story is told from theperspective of a corporate Chief Executive Officer.
-The author tells the story again, claiming he hasthe ‘rest of the story.’
-Note: the ‘rest of the story’ is also fiction. For privacy sake, the blogger claims he read a manuscript leaked by an unnamed source at an unknownmuseum, written by a daughter for privacy sake...
+Google entitled: the two shoe salesmen (the rest ofan entrepreneurial myth) from Blog Spot and the occasional CEO. The same story is told from the perspective of a corporate Chief Executive Officer.
+The author tells the story again, claiming he has the ‘rest of the story.’
+Note: the ‘rest of the story’ is also fiction. For privacy sake, the blogger claims he read a manuscript leaked by an unnamed source at an unknown museum, written by a daughter for privacy sake...
 Yeah right. Onus Probandi!
-“I had a chance to read a copy of the manuscriptsent me by a friend who works at the museum.
-Here is the rest of this classic story captured by thedaughter of one salesman. For privacy’s sake...” (Blah blah... narrative continues)
-The basic idea that the pessimist went back to thefactory and made a fortune as an Intrapreneur by selling supplies and multiple lines of product to theoptimistic entrepreneur who failed to sell shoes, and suntan lotion, and glasses, and sandals, andhats, and kept iterating and iterating and iterating.
+“I had a chance to read a copy of the manuscript sent me by a friend who works at the museum.
+Here is the rest of this classic story captured by the daughter of one salesman. For privacy’s sake...” (Blah blah... narrative continues)
+The basic idea that the pessimist went back to the factory and made a fortune as an In trap ren eur by selling supplies and multiple lines of product to the optimistic entrepreneur who failed to sell shoes, and suntan lotion, and glasses, and sandals, andhats, and kept iterating and iterating and iterating.
 The entrepreneur made a living, but the CEO succeeded wildly by branching out with several lines of product supplied to several different continents.
-The Intrapreneur became very rich.
+The In trap ren eur became very rich.
 The narrative the blogger wants to enforce is that
-Intrapreneurs are more lik
+In trap rene urs are more lik
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
@@ -173,17 +170,17 @@ Intrapreneurs are more lik
 
 *Source: 02.13-Stories-Transcript.txt*
 
-"The greatest expedition you will ever undertake is the journey to self-understanding"
+"The grea test expedition you will ever undertake is the journey to self-understanding"
 
-https://youtu.be/evitzktwvqu
+https://youtu.be/evi tz kt wv qu
 
-I'm taking a MasterClass from the filmmaker James Cameron.
+I'm taking a Master Class from the filmmaker James Cameron.
 
 James Cameron: "When I started out I was working as a truck driver. I didn't have much spare cash and certainly couldn't afford film school. But all you have to do is pick up a camera and start shooting something with the intention of making a film and you're a filmmaker.
 
-I think it's the duty of filmmakers that have been down the road aways to turn around and say; all right there's a land mine over here. There's a landmine over there. Don't step on it. So why not share that.
+I think it's the duty of filmmakers that have been down the road aways to turn around and say; all right there's a land mine over here. There's a land mine over there. Don't step on it. So why not share that.
 
-I'm James Cameron and this is my MasterClass."
+I'm James Cameron and this is my Master Class."
 
 Wow. Iit's pretty amazing when you get to shadow and learn from someone who's been where you want to go.
 
@@ -197,11 +194,11 @@ You'll remember that I introduced in volume one the sleeves illusion. I fully be
 
 Think about this: you immediately know the difference between a 'runny nose' and 'smelly feet'. Think about it. Runny Nose. Smelly Feet. (not running feet and smelly nose) AI has to be taught inference, humor, tone, sentiment, analogy, metaphor and sarcasm (story-telling)
 
-You can use words, as the media and much of the creators online do to persuade, mislead, obscure, bloviate. There's a bunch of words within highly emotional stories that move us away from rational thinking, and get us to synchronize with the storyteller.
+You can use words, as the media and much of the creators online do to persuade, mislead, obscure, bl ovi ate. There's a bunch of words within highly emotional stories that move us away from rational thinking, and get us to synchronize with the storyteller.
 
 Research has demonstrated that the brain between the storyteller and the listener synchronize. Using fmri scans between the teller and the listener demonstrate a communication bridge. You can see the two brains synchronize their activity to tell and to follow.
 
-Our brains have evolved in order for us to survive by being forwarned. Don't step on this. Don't go there. Beware.
+Our brains have evolved in order for us to survive by being for warned. Don't step on this. Don't go there. Beware.
 
 That's both very useful and very much abused.
 
@@ -217,7 +214,7 @@ Some of the stories I appreciate most are from volume 17 on folklore and fable. 
 
 The stories we tell ourselves come from the stories that we were told. One of the most influential story that came to mind when I asked myself was 'The Cracked Pot'. I read this story in Chicken Soup For The Unsinkable Soul sometime around 1999. It made a very big impression on me.
 
-Chicken Soup For The Unsinkable Soul https://www.chickensoup.com/book/35051/chicken-soup-for-the-unsinkable-soul http://www.chickensoup.com/book-story/50004/the-cracked-pot
+Chicken Soup For The Unsinkable Soul https://www.chicken soup.com/book/35051/chicken-soup-for-the-unsinkable-soul http://www.chicken soup.com/book-story/50004/the-cracked-pot
 
 The Cracked Pot
 
@@ -265,15 +262,15 @@ About three decades ago was the first time that I had heard a story with the mor
 
 To show that life and all stories are far more complicated, you'll find another version of the story in google entitled: the two shoe salesmen (the rest of an entrepreneurial myth) from blogspot and the occasional ceo. The same story as told from the perspective of a corporate chief executive officer.
 
-The author tells the storyagain and then he claims he has the 'rest of the story'.
+The author tells the story again and then he claims he has the 'rest of the story'.
 
 Note: the 'rest of the story' is also fiction. The blogger claims he read of a manuscript leaked by an unnammed source, at an unnamed museum, written by a daughter, for privacy sake... Yeah right. Onus probandi!
 
 "I had a chance to read a copy of the manuscript sent me by a friend who works at the museum. Here is the rest of this classic story captured by the daughter of one salesman. For privacy's sake... Blah blah"
 
-The basic idea that the pessimist went back to the factory and made a fortune as an intrapreneur by selling supplies and multiple lines of product to the optimistic entrepreneur who failed to sell shoes, and suntan lotion, and glasses, and sandals, and hats, and kept iterating and iterating and iterating. The entrepreneur made a living, but the ceo succeeded wildly by branching out with several lines of product supplied to several different continents. The intrapreneur became a very very rich person.
+The basic idea that the pessimist went back to the factory and made a fortune as an in trap ren eur by selling supplies and multiple lines of product to the optimistic entrepreneur who failed to sell shoes, and suntan lotion, and glasses, and sandals, and hats, and kept iterating and iterating and iterating. The entrepreneur made a living, but the ceo succeeded wildly by branching out with several lines of product supplied to several different continents. The in trap ren eur became a very very rich person.
 
-The narrative that blogger wants to enforce is that intrapreneurs are more likely to succeed than entrepreneurs becasue taking a risk closely held risk is not necessary for success. Use other peoples money and dont suffer personally or make your family go through tough challenges.
+The narrative that blogger wants to enforce is that in trap rene urs are more likely to succeed than entrepreneurs becasue taking a risk closely held risk is not necessary for success. Use other peoples money and dont suffer personally or make your family go through tough challenges.
 
 You can see the story is used to make two completely different points of view. This is what I'm saying triangulation is good for. If a third partyto the stories points out the lack of evidence, and the biases of the tellers... Now you have a fuller and likely fair understanding of the points and the tale.
 
@@ -289,7 +286,7 @@ He had won a goldfish at the fair during summer break in school. And after takin
 
 There were lots of things for the kids to do. He couldn't take that goldfish to all of the different activities and events. But the camp happened to have a lake and a dock.
 
-He got the idea that he could let that goldfish go in a big pond. What a great idea. He would liberate that goldfish and let it out of the bowl that it was outgrowing.
+He got the idea that he could let that goldfish goin a big pond. What a great idea. He would liberate that goldfish and let it out of the bowl that it was outgrowing.
 
 He carried that goldfish proudly down to the dock and sat down with his bare feet in the water. He leaned over and carefully poured the goldfish into the pond. Within moments and to his horror the goldfish was swimming around in circles, not going out into the lake.
 
@@ -301,7 +298,7 @@ Everything Kevin had dreamed of doing -of being the liberator - was turned upsid
 
 ## Visual notes (print spreads)
 
-- The two-page spread opens with a large, full-bleed CGI image of a blue-skinned humanoid face resembling a Na’vi character from James Cameron’s *Avatar*, complete with a white headband, earpiece, glowing yellow-green eyes with visible reflections, and floating blue particles against a dark, cosmic background. The left page (318) overlays a white “2.13” box in the upper left, the bold title “STORIES” in large white letters across the center, and a quoted James Cameron passage at the bottom about filmmakers sharing warnings like land mines. The right page (319) features a dark gray vertical panel containing the episode title “THE STORIES WE TELL OURSELVES” and body text on storytelling and AI l
+- The two-page spread opens with a large, full-bleed CGI image of a blue-skinned humanoid face resembling a Na’vi character from James Cameron’s *Avatar*, complete with a white headband, ear piece, glowing yellow-green eyes with visible reflections, and floating blue particles against a dark, cosmic background. The left page (318) overlays a white “2.13” box in the upper left, the bold title “STORIES” in large white letters across the center, and a quoted James Cameron passage at the bottom about filmmakers sharing warnings like land mines. The right page (319) features a dark gray vertical panel containing the episode title “THE STORIES WE TELL OURSELVES” and body text on storytelling and AI l
 
 - The left page of this two-page spread opens with a full-width screenshot of video editing software (resembling Final Cut Pro), displaying a preview window of Daniel Comp in a baseball cap and black t-shirt printed with “Leaving SCOTOMAVILLE.” He is captured mid-gesture with both hands raised to his face, fingers forming circles around his eyes, which are overlaid with prominent red circles and directional arrows. Below the preview pane, the page continues with body text on how repeated stories harden into habitual neural pathways, referencing James Cameron’s storyboarding technique and the need to examine one’s internal script.
 
@@ -309,18 +306,17 @@ The right page presents the chapter’s first extended example un
 
 - The left page is dominated by a large, atmospheric top image showing a cyclist from behind riding into a dark, rocky tunnel or cave entrance, illuminated by faint blue digital concentric circles and lens flares that create a sci-fi, metaphorical effect of entering an emotional void. White text overlays this scene with scripted dialogue from “FAI” (Female Artificial Intelligence) about GPS signal loss and darkness, plus responses from Daniel and Angelina. In the lower-left corner sits a close-up documentary photo of Daniel (bald, wearing a black t-shirt) inside an RV interior, his face showing frustration or intensity. Scattered text blocks include the phone-frustration excerpt, the “INTO A D
 
-- The dominant visual is a full-color, documentary-style photograph of a large American flag laid flat on a white surface with soft drop shadows, filling most of the spread. The blue canton in the upper left displays 50 white stars, while the red and white stripes are densely covered in black marker signatures, many accompanied by dates (2021–2022), locations (e.g., “Casper, WY,” “OKC VA,” “Hood River”), and names such as “Ruben L. Pive,” “Erik Youngman,” and “Merlin Berg.” A single brass grommet is visible in the top-left corner of the flag. No people appear in the image, and no overlaid text, pull-quotes, or diagrams are present on the photograph itself. The image feels purely documentary ra
+- The dominant visual is a full-color, documentary-style photograph of a large American flag laid flat on a white surface with soft drop shadows, filling most of the spread. The blue canton in the upper left displays 50 white stars, while the red and white stripes are densely covered in black marker signatures, many accompanied by dates (2021–2022), locations (e.g., “Casper, WY,” “OKC VA,” “Hood River”), and names such as “Ruben L. Pive,” “Erik Young man,” and “Merlin Berg.” A single brass grommet is visible in the top-left corner of the flag. No people appear in the image, and no overlaid text, pull-quotes, or diagrams are present on the photograph itself. The image feels purely documentary ra
 
 - The two-page spread opens with the author's note text on the left, flanked by three stacked color photographs of butterflies (a purple-and-yellow pair in grass at top, a black-and-yellow swallowtail in the middle, and an orange-and-brown specimen in vegetation at bottom). At lower left, a boxed quote reads "Storytelling is a super-power..." beside a documentary photo of Daniel Comp smiling inside an RV while holding a small American flag and wearing a cycling helmet. The right page (dark background) presents a 3x4 grid collage under the header "SIXTEEN YEARS EXPEDITION," containing twelve small images: a butterfly on a car windshield, a man in Native American headdress, newspaper clippings a
 
 ## Takeaways
 
-1. “I think it’s the duty of filmmakers that havebeen down the roadaways to turn around and say; all right there’s a landmine overhere.
+1. “I think it’s the duty of filmmakers that have been down the road a ways to turn around and say; all right there’s a land mine over here.
 2. James: “When I started out I was working as atruck driver.
-3. I didn’t have much sparecash and certainly couldn’t afford filmschool.
-4. “But all you have to do is pick up a camera andstart shooting something with the intention of making a film and you’re a filmmaker.
-5. “I think it’s the duty of filmmakers that havebeen down the roadaways to turn aroundand say; all right there’s a landmine overhere.
-
+3. I didn’t have much spare cash and certainly couldn’t afford film school.
+4. “But all you have to do is pick up a camera and start shooting something with the intention of making a film and you’re a filmmaker.
+5. “I think it’s the duty of filmmakers that have been down the road a ways to turn around and say; all right there’s a land mine over here.
 
 ## First-time learner
 

@@ -9,11 +9,11 @@ emotions:
 - receptivity
 keypoints:
 - A ‘hook’ is an intentionally addictive set of lyrics and beat in music.
-- It sticks in our minds and playsover and over and over.
-- What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our innervoiceby repetitive words and beats?
-- People create intrusions by fixating on their ‘thing.’ Dragboats, airplanes, boomboxes, quad-runners, motorcycles, and moreinvade our space…
-- Headphones, earplugs, anddistance can do the trick on the outside; what about on the inside?
-summary: 'Leaving Scotomaville Volume 1 (Awareness) chapter on Creating Silence. Narrative arc: Silence as tool not emptiness. From the print/transcript corpus: A ‘hook’ is an intentionally addictive set of lyrics and beat in music. It sticks in our minds and playsover and over and over. It can be maddening. What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our innervoiceby repetitive words and beats? People create intrusions by fixating on their ‘thing.’ Dragboats, airplanes, boomboxes, quad-runners, motorcycles, and moreinvade our spa'
+- It sticks in our minds and plays over and over and over.
+- What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our inner voice by repetitive words and beats?
+- People create intrusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our space…
+- Headphones, earplugs, and distance can do the trick on the outside; what about on the inside?
+summary: 'Leaving Scotomaville Volume 1 (Awareness) chapter on Creating Silence. Narrative arc: Silence as tool not emptiness. From the print/transcript corpus: A ‘hook’ is an intentionally addictive set of lyrics and beat in music. It sticks in our minds and plays over and over and over. It can be maddening. What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our inner voice by repetitive words and beats? People create intrusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our spa'
 tags:
 - scotomaville
 - trilogy
@@ -72,7 +72,7 @@ description: Vol 1 ch.01.10 — Creating Silence.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.10** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -95,54 +95,52 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 A ‘hook’ is an intentionally addictive set of lyrics and beat in music.
-It sticks in our minds and playsover and over and over. It can be maddening.
+It sticks in our minds and plays over and over and over. It can be maddening.
 What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our inner voiceby repetitive words and beats?
 People create intrusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our space, disrupting us.
-Headphones, earplugs, anddistance can do the trick on the outside; what about on the inside?
-Media channels and creativeartists line our active minds with lyrics and music.
+Headphones, earplugs, and distance can do the trick on the outside; what about on the inside?
+Media channels and creative artists line our active minds with lyrics and music.
 
-You don’t have to be subservient toother people’s ‘music.’ You can learn to create silence and regain controlof your inner voice.
+You don’t have to be subservient toother people’s ‘music.’ You can learn to create silence and regain control of your inner voice.
 
-You are not powerless. You don’thave to give in. You can get out of Scotomaville by creating your innersilence. It feels uncomfortable at first. Look at all the white space onthis spread.
+You are not powerless. You don’thave to give in. You can get out of Scotomaville by creating your inner silence. It feels uncomfortable at first. Look at all the white space onthis spread.
 
-Treena Kerr, wife of Graham Kerr, of “The Galloping Gourmet” televisionseries would drop by to teach a skill called ‘listening in the gap’.
+Treena Kerr, wife of Graham Kerr, of “The Galloping Gourmet” television series would drop by to teach a skill called ‘listening in the gap’.
 
 In the attention economy, our thoughts are themost valuable asset we alone should control.
 .10 CREATING VOL 1 AWARENESS
 
 rjY4g0yZ9Aw SILENCE
 
-Leaving SCOTOMAVILLE 96
-Depending on where you check, our brains canprocess between 400 and 600 words per minute, but we only speak about 125 words per minute.
-So our brains are functioning a lot faster than ourears! This disparity or ‘gap’ is what Treena refer enced. So the gap is at least 300 to 400 wpm!
+Depending on where you check, our brains can process between 400 and 600 words per minute, but we only speak about 125 words per minute.
+So our brains are functioning a lot faster than ourears! This disparity or ‘gap’ is what Treena refer enced. So the gap is atleast 300 to 400 wpm!
 
 That’s an incredible opportunity to seize the attention you have complete control over. No one else can take that away from you. It’s a fabulous thingto get the noise out of your head and mentally appreciate quiet. You determine what to do withthe EXTRA WORDS and all of that extra processing.
-You can get in touch with what’s going on downhere (motioning to heart, chest), this pathway of intuition and understanding, and feelings andawareness and soaking in the ‘gestalt’ of it all —
+You can get in touch with what’s going on down here (motioning to heart, chest), this pathway of intuition and understanding, and feelings and awareness and soaking in the ‘gestalt’ of it all —
 just being — not doing.
 
 A dear friend who passed away several years ago, Bob Moawad, would say, ‘Curiously, they call us human beings, not human doings.’
 
-Taking charge of AWARENESS enables us to do lessand achieve more. So one of the tools you’re gain ing, in this, probably the shortest episode, is calledmindfulness or meditation, simply being at peace, or being still. I call it creating silence.
+Taking charge of AWARENESS enables us to do lessand achieve more. So one of the tools you’regain ing, in this, probably the shortest episode, is called mindfulness or meditation, simply being at peace, or being still. I call it creating silence.
 
 Treena & Graham Kerr Bob Moawad
 
-Leaving SCOTOMAVILLE 98
 One of the quickest ways that I know of in getting a musical hook, the jingle that won’t leave is listening to your breathe and posture. Stand tall, listen to your breath, fully in and out.
 
-Take control of the gap between noise and awareness. Own your space. You have abundant access to processing, and intelligence. You have what youneed to change course. Silence is a fabulous tool for getting the heck out of Scotomaville.
+Take control of the gap between noise and awareness. Own your space. You have abundant access to processing, and intelligence. You have what youneed to change course. Silence is a fabulous tool forgetting the heck out of Scotomaville.
 You are much appreciated.
 REFLECT Q1RB52HRKWU DISCUSS
 
-There’s a competition for the gap in yourattention. Be an independent champion.
+There’s a competition for the gap in your attention. Bean independent champion.
 Resist filling every moment with chaos, noise and distraction.
 
 ## Video transcript (spoken register)
 
-*Source: 01.10 CreatingSilenceTrnscpt.txt*
+*Source: 01.10 Creating Silence Trnscpt.txt*
 
 SCOTOMAVILLE: 01.10 Creating Silence
 
-I learned of a skill called 'listening in the gap' from Treena Kerr, wife of Graham Kerr, of "The Galloping Gourmet" who I used to work with. Depending on where you go for the statistic, it is said that our brains can process between 400 and 600 words per minute, but only speak about 125 words per minute. At this rate of spoken wpm, our brains are working alot faster! This disparity or 'gap' is what Treena was referring to, the gap between what is going in and what you can deal with. That's at least 3 to 4 hundred wpm!
+I learned of a skill called 'listening in the gap' from Treena Kerr, wife of Graham Kerr, of "The Galloping Gourmet" who I used to work with. Depending on where you go for the statistic, it is said that our brains can process between 400 and 600 words per minute, but only speak about 125 words per minute. At this rate of spoken wpm, our brains are working alot faster! This disparity or 'gap' is what Treena was referring to, the gap between what is going in and what you can deal with. That's atleast 3 to 4 hundred wpm!
 
 That's an incredible opportunity to seize the attention that YOU have full control over. No one else can take that away from you. It's a fabulous thing to be able to get noise out of your head and go somewhere that is quiet. Because you can get in touch with all of those EXTRA WORDS THAT YOU HAVE! All of that extra processing. You can get in touch with what's going on down here (motioning to heart, chest)... this pathway of intuition and understanding and feelings and awareness and soaking in the 'gestalt' of it all. Just being.
 
@@ -169,11 +167,10 @@ The right page is mostly empty white space dominated by a minimalist black line 
 ## Takeaways
 
 1. A ‘hook’ is an intentionally addictive set of lyrics and beat in music.
-2. It sticks in our minds and playsover and over and over.
-3. What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our innervoiceby repetitive words and beats?
-4. People create intrusions by fixating on their ‘thing.’ Dragboats, airplanes, boomboxes, quad-runners, motorcycles, and moreinvade our space…
-5. Headphones, earplugs, anddistance can do the trick on the outside; what about on the inside?
-
+2. It sticks in our minds and plays over and over and over.
+3. What can we do to stop the ‘hook’ of overbearing noise in our ’gap,’ the displacement of our inner voice by repetitive words and beats?
+4. People create intrusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our space…
+5. Headphones, earplugs, and distance can do the trick on the outside; what about on the inside?
 
 ## First-time learner
 

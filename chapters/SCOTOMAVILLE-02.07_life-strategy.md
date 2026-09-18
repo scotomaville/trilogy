@@ -71,7 +71,7 @@ description: Vol 2 ch.02.07 — Life-Strategy.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.07** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -109,7 +109,7 @@ Building a strong Life-STRATEGY
 
 Keeping a healthy attitude of gratitude and a can-do hands-on practice, you can practice Airstreaming at home, long before you move into the mobile lifestyle full-time. There are insights and unexpected pitfalls in this episode.
 
-Welcome to the Pacific Northwest. Our plan is to be here for a few months of building memories with family and playing on the river and enjoying the cooler temperatures. I want to welcome you back to the next Episode of Scotomaville. We came to the Central Gorge and Hood River, and the Mosier area, which is our home base, to spend some time playing, but the weather isn't cooperating with our plans.
+Welcome to the Pacific Northwest. Our plan is to be here for a few months of building memories with family and playing on the river and enjoying the cooler temperatures. I want to welcome you back to the next Episode of Scotomaville. We came to the Central Gorge and Hood River, and the Mosier area, which is our home base, to spend sometime playing, but the weather isn't cooperating with our plans.
 
 The weather came in with a cold front blowing like crazy and dropped the temperature by nearly 30 degrees. you know the great thing about having a strategy is that you can shift your plans and still have the outcome that you want. I think in this episode it's going to be a really good idea for us to dive in a little on strategy versus planning because you can make all kinds of plans and have them postponed and set back and have triggers and emotional tizzy fits because things are always shifting, but if you have a really good strategy it doesn't really matter how often things get shifted and how much you're interrupted. That's one of the things you've watched me actually mature in since the early filming of Scotomaville at Lake Pleasant with the constant interruptions. I'm far less upended or triggered by interruptions now than before.
 
@@ -163,7 +163,7 @@ The difference between strategy and planning?
 
 "Francis of Assisi on how to eat an elephant: "start by doing what's necessary, then do what's possible and suddenly you are doing the impossible.
 
-Little By Little INCREMENTALLY
+Little By Little Increment ALLY
 
 Angelina: [crawling under table and stuck between the seating and the table]
 
@@ -197,15 +197,15 @@ Angelina: I didn't want you to have to move out of the way. I needed to figure i
 
 INCREMENTAL PROGRESS on EATING YOUR AIRPLANE
 
-To raise the bar of what's possible beyond anything you'd imagine, even for your own life, let's look at this Guinness world record holder who ate an entire airplane bite-by-bite. He ate two pounds per day. His name was Michael Lotito and he was nicknamed Monsieur Mangetout. That means 'eat it all'. Mr 'eat it all' ate about 900 grams of whatever it was a day. Over his lifetime his diet (since 1969) included 18 bicycles, 15 supermarket trolleys, 7 TV sets, 6 chandeliers, two beds, a pair of skis, a low-calorie Cessna light aircraft, and a computer. He also ate a coffin. By 1997, he had eaten nearly nine tons of metal, but he said funny enough, that bananas and hard-boiled eggs made him sick.
+To raise the bar of what's possible beyond anything you'd imagine, even for your own life, let's look at this Guinness world record holder who ate an entire airplane bite-by-bite. He ate two pounds per day. His name was Michael Lotito and he was nicknamed Monsieur Man get out. That means 'eat it all'. Mr 'eat it all' ate about 900 grams of whatever it was a day. Over his lifetime his diet (since 1969) included 18 bicycles, 15 supermarket trolleys, 7 TV sets, 6 chandeliers, two beds, a pair of skis, a low-calorie Cessna light aircraft, and a computer. He also ate a coffin. By 1997, he had eaten nearly nine tons of metal, but he said funny enough, that bananas and hard-boiled eggs made him sick.
 
-I'm not going to recommend that you go about eating an Airstream but I am gonna make my point that if you wanted to you could do it incrementally. Think about whatever it is that's challenging your Personal Everest. If you're trying to live a healthier life, trying to lose weight or trying to gain weight, make progress on your finances or your financial score, or maybe getting a new job... whatever that might be in your life, think about incremental progress.
+I'm not going to recommend that you go about eating an Airstream but I am gonna make my point that if you wanted to you could do it increment ally. Think about whatever it is that's challenging your Personal Everest. If you're trying to live a healthier life, trying to lose weight or trying to gain weight, make progress on your finances or your financial score, or maybe getting a new job... whatever that might be in your life, think about incremental progress.
 
 If you want to change the way you think try affirmations day after day after day put some motivational quotes into your lifestyle consume something that will make a small change each day so you can gain ground on your Personal Everest.
 
 Another thought on strategy is you want to work toward longevity. It doesn't make much sense to sprint to the finish and die too soon. You might as well mature over a good period of time.
 
-(closeup of Viome packaging) This is Viome precision supplements - including two billion probiotics. Every day this becomes a ritual and therefore a habit that incrementally adds value by extending our biological age. I think that's worth picking up that habit... by practicing longevity from home long before you put yourself in an Airstream.
+(closeup of Viome packaging) This is Viome precision supplements - including two billion probiotics. Everyday this becomes a ritual and therefore a habit that increment ally adds value by extending our biological age. I think that's worth picking up that habit... by practicing longevity from home long before you put yourself in an Airstream.
 
 DEALING WITH INJURY
 
@@ -227,7 +227,7 @@ EXAMPLES of LITTLE THINGS MATTER
 
 A second strategy to embrace is that 'little things matter'. They really do. You've heard of the phrase; "a stitch in time saves nine"? What the heck does that mean? In the days of large sailing ships if you didn't fix the small stitching that was coming out of a mainsail, the next time you had a decent blow, it would tear the whole sail open and you'd have much more work to do.
 
-So, paying attention to little things can save you a great amount of grief, anguish, effort, loss, and disappointment over time. So a great strategy to embrace is to pay attention to the little things, by considering that little things matter.
+So, paying attention to little things can save you a great amount of grief, anguish, effort, loss, and disappointment overtime. So a great strategy to embrace is to pay attention to the little things, by considering that little things matter.
 
 I thought this was really humorous... the definition reads: "small action taken on right time may prevents difficulty to be bigger later". I think that's funny.
 
@@ -253,7 +253,6 @@ Little things matter to me like getting all of the
 
 *[Transcript truncated — full spoken register in source file.]*
 
-
 ## Visual notes (print spreads)
 
 - The left page is dominated by a full-width documentary photograph of Daniel (white-haired man in a black t-shirt) standing beside an Airstream trailer on a grassy roadside, hands clasped over his ears and mouth open in a dramatic shout, with the large title word “strategy” overlaid across the image in bold black/gray/red lettering and a teal geometric accent. Below the photo, the page carries the provided Pacific Northwest weather text, followed by body copy about emotional triggers, interruptions, and the centered pull-quote: “I’m far less upended or triggered by interruptions and delays now than before starting this expedition.” A horizontal rule and the phrase “ONUS PROBANDI END OF SCENE”
@@ -273,7 +272,6 @@ Overlaid on the lower right of the bottom photo is white text reading: “IT SEE
 3. Practice strategy at home (Airstream defects, chores) before the full expedition.
 4. Onus Probandi: demonstrate change with lived examples, not theory alone.
 5. Weather and setbacks test whether you have strategy or only a plan.
-
 
 ## First-time learner
 

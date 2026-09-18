@@ -11,9 +11,9 @@ keypoints:
 - Expectations 2.03 leaving SCOTOMAVILLE 192 Recorded Sept.
 - Pointing to my facemask, yes, it’s an N-95.
 - I have unmet expectations and strong emotions.
-- I’veheard that the truetest of genius is toexplain complex things in simple terms.
+- I’veheard that the true test of genius is to explain complex things in simple terms.
 - I can’tsay that I’m about to do that, but I want you tothink about complicated things.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Expectations. Narrative arc: Expectations as hidden load on the rope. From the print/transcript corpus: Expectations 2.03 leaving SCOTOMAVILLE 192 Recorded Sept. 13, 2020, Hood River, OR Popquiz. What do you see? Pointing to my facemask, yes, it’s an N-95. Second question. Whyam I wearing this outside? Look for the smoke. Look for the sun. I have unmet expectations and strong emotions. But, I’m getting ahead. Let’s backup. I’veheard that the truetest of genius is toexplain complex things in simple terms. I can’tsay tha'
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Expectations. Narrative arc: Expectations as hidden load on the rope. From the print/transcript corpus: Expectations 2.03 leaving SCOTOMAVILLE 192 Recorded Sept. 13, 2020, Hood River, OR Popquiz. What do you see? Pointing to my facemask, yes, it’s an N-95. Second question. Whyam I wearing this outside? Look for the smoke. Look for the sun. I have unmet expectations and strong emotions. But, I’m getting ahead. Let’s backup. I’veheard that the true test of genius is to explain complex things in simple terms. I can’tsay tha'
 tags:
 - scotomaville
 - trilogy
@@ -72,7 +72,7 @@ description: Vol 2 ch.02.03 — Expectations.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.03** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -99,27 +99,27 @@ Expectations 2.03 leaving SCOTOMAVILLE 192 Recorded Sept. 13, 2020, Hood River, 
 Pop quiz. What do you see?
 Pointing to my face mask, yes, it’s an N-95.
 Second question. Why am I wearing this outside? Look for the smoke. Look for the sun.
-I have unmet expectations and strong emotions. But, I’m getting ahead. Let’s back up.
-I’ve heard that the true test of genius is toexplain complex things in simple terms. I can’t say that I’m about to do that, but I want you tothink about complicated things.
+I have unmet expectations and strong emotions. But, I’m getting ahead. Let’s backup.
+I’ve heard that the true test of genius is to explain complex things in simple terms. I can’t say that I’m about to do that, but I want you tothink about complicated things.
 You’ve likely heard that saying that goes:
 “when life gives you lemons, make lemonade.” So let’s think about that for a second.
 Is it possible to make lemonade out of lemons?
-Methinks no. The best you’ll get is pure lemonjuice. But, to make lemonade, you need addi tional ingredients and tools. You need someex·pec·ta·tion: a strong belief that something will happen or be thecase in the future - that you will or should achieve something.
+Methinks no. The best you’ll get is pure lemon juice. But, to make lemonade, you need additional ingredients and tools. You need someex·pec·ta·tion: a strong belief that something will happen or be thecase in the future - that you will or should achieve something.
 AUTHORS NOTE: IT’S 67° AT 4:12 P.M. NOV. 22, 2021
 We’re enjoying the warm Texas weather and light breeze with most of our Airstream windows open.
-Upwind, Sue and her husband are enjoying their mesquite campfire. (below) They thought the smokewould ‘stream’ around us. That’s cute. I thought they’d find it ‘quirky’ that I’m editing this print chap ter on EXPECTATIONS wearing an N95!
+Upwind, Sue and her husband are enjoying their mesquite campfire. (below) They thought the smoke would ‘stream’ around us. That’s cute. I thought they’d find it ‘quirky’ that I’m editing this print chap ter on EXPECTATIONS wearing an N95!
 TIMING and THINKING:
-Remember Neil deGrasse Tyson: “It’s not WHAT you think that matters. It’s HOW you think.“ I appreciate how my thinking has matured.
+Remember Neil de Grasse Tyson: “It’s not WHAT you think that matters. It’s HOW you think.“ I appreciate how my thinking has matured.
 
 thing to cut the lemon. You need a container.
 You need water and sugar, or it’s going to betart. And, you need something to drink it out of - if you’re going to share.
-An expectation of making lemonade requiresmore than tart lemons - it needs the insight gained by failures - that’s maturity - or guidance from those that have experience.
+An expectation of making lemonade requires more than tart lemons - it needs the insight gained by failures - that’s maturity - or guidance from those that have experience.
 “Sure Daniel, I see your optimism and encouragement, but your life seems to be a bunch of hardships through mishaps and blind-spots.”
-I hear you. Here’s an example of how thingstend to work out for me. I found a solution to a problem not by forcing one, rather I anticipated one as the outcome of ‘learning’ by asking, listening, and watching.
-Thank you Keith. The wing works great for me. Yourefforts and investment are being ‘passed forward’ to the reader this very moment!
-SLEUTHING A SOLUTION
-Alex Laudon (previous Episode) said, “Daniel, thething that’s holding you back is your equip ment. The wing on your foil is... slightly smallerthan what you need to learn on. We’ve been able to develop better-balanced gear and sowhat you need is a much bigger wing for you to have a stable jibe at lower speeds.” So I called Peter Lederer, who made my LP foil, discovering they’re back-logged with production and supply delays. It would be after this season before I’d get a larger wing made.
-I had no idea how I would go about gettingwhat Keith was holding. (below)
+I hear you. Here’s an example of how things tend to workout for me. I found a solution to a problem not by forcing one, rather I anticipated one as the outcome of ‘learning’ by asking, listening, and watching.
+Thank you Keith. The wing works great for me. Your efforts and investment are being ‘passed forward’ to the reader this very moment!
+Sleuth ING A SOLUTION
+Alex Laudon (previous Episode) said, “Daniel, the thing that’s holding you back is your equip ment. The wing on your foil is... slightly smaller than what you need to learn on. We’ve been able to develop better-balanced gear and sowhat you need is a much bigger wing for you to have a stable jibe at lower speeds.” So I called Peter Lederer, who made my LP foil, discovering they’re back-logged with production and supply delays. It would be after this season before I’d get a larger wing made.
+I had no idea how I would go about getting what Keith was holding. (below)
 
 Watch how this happened and mimic me.
 
@@ -127,58 +127,58 @@ Believing I needed a larger wing, and anticipating that something would happen, 
 FOILED BY KEITH FREDRICKSON
 Daniel: Keith, thanks for sharing in this Episode. You’ve done something highly unusual in today’s world - which is to trust a stranger (me) while delivering a solution. Please share whatyou’ve been through to do this for me.
 Keith: I decided to get into foiling in late 2018 after my third knee surgery from windsurfing.
-Wind-foiling looks like a crossover. Peter Lederer is making these here in the Gorge. I bought a foil with strut, fuselage, and wings.
-I went to Stevenson (a local launch site), riggedmy gear, put my wetsuit on, and went out on the river. Unfortunately, I had forgotten theretaining bolts. I sailed about 25 yards when the entire foil pulled out of my board and sankto the bottom of the river.
-What could I do? Well, I hired a scuba diver. I spent 200 bucks, and he couldn’t find it evenwith three hours looking, so I gave up and bought another foil (very expensive).
-Three weeks later, the scuba diver said, “I don’twant to give up on that foil. How about you give me 400 bucks, and even if I spend all yearlooking, you owe me nothing more.” I said; that’s a no-lose deal. Long story short, I now have two foils.
-One day, I was at Jensen Beach, and herecame Daniel, asking about my LP foil. I have a more recent foil model than Daniel’s earliermodel. In addition, my foil has a bigger front wing. As a result, it’s friendlier to ride.
+Wind-foiling looks like a crossover. Peter Lederer is making these herein the Gorge. I bought a foil with strut, fuselage, and wings.
+I went to Stevenson (a local launch site), rigged my gear, put my wetsuit on, and went out on the river. Unfortunately, I had forgotten the retaining bolts. I sailed about 25 yards when the entire foil pulled out of my board and sankto the bottom of the river.
+What could I do? Well, I hired a scuba diver. I spent 200 bucks, and he couldn’t find it even with three hours looking, so I gave up and bought another foil (very expensive).
+Three weeks later, the scuba diver said, “I don’twant to give up on that foil. How about you give me 400 bucks, and even if I spend all year looking, you owe me nothing more.” I said; that’s a no-lose deal. Long story short, I now have two foils.
+One day, I was at Jensen Beach, and here came Daniel, asking about my LP foil. I have a more recent foil model than Daniel’s earlier model. In addition, my foil has a bigger front wing. As a result, it’s friendlier to ride.
 I made Daniel an offer, and here we are.
 Daniel: “Keith, I appreciate your effort and investment retrieving it because it turns out this larger wing is a solution to my riding problem - one I can’t resolve alone. You know Alex. He said: “Daniel, it’s your gear that is holding youback.” And here is the wing that I’ve needed.
 Thank you so much for your anguish and patience and for bringing me a solution.
-Keith: “Hey, you know we’ve got to make thiswork. We’re all connected. I believe that if you help somebody out, it’ll turn out well in theend, so I hope you enjoy the foil.”
-Daniel: It turns out that Keith’s character andgenerosity, combined with an unexpected loss, and with the diver’s perseverance, on top of Alex’s guidance, all became a solution.
+Keith: “Hey, you know we’ve got to make this work. We’re all connected. I believe that if you help somebody out, it’ll turn out well in theend, so I hope you enjoy the foil.”
+Daniel: It turns out that Keith’s character and generosity, combined with an unexpected loss, and with the diver’s perseverance, on top of Alex’s guidance, all became a solution.
 I believe you can sleuth solutions like this. I have recorded dozens of stories about collaboration, goodwill, and best outcomes across America. Give it a try. Anticipate progress.
 “We’ve got to make this work.
-We’re all connected. It’s my beliefthat if you help somebody out it’ll turn out well in the end.” Keith Fredrickson Leaving SCOTOMAVILLE 195
+We’re all connected. It’s my belief that if you help somebody out it’ll turn out well in the end.” Keith Fredrickson Leaving SCOTOMAVILLE 195
 
 I believe the 15 mental tools in Volume Onewill help you do likewise with your Personal Everest. Apply the tools to:
 1) recognize opportunities 2) transform your thinking 3) change your beliefs and 4) build better experiences with the circumstances that come your way.
-When I say; “life has curves,” I mean thatsolutions are often burried within simple stories. Consider nuts. They hide inside ashell protected by a hungry squirrel.
+When I say; “life has curves,” I mean that solutions are often burried within simple stories. Consider nuts. They hide inside ashell protected by a hungry squirrel.
 FIRE AND SMOKE ON TOP OF COVID
-My intent for the SCOTOMAVILLE Series is togive you evidence of my use of the mental tools and techniques - for you to observe myjourney of self-awareness - and to mimic me. I’m not scripting the examples. I’m simply recording.
-This is my usual launch site (above) with thisseason coming to an end. There are roughly ten days of sailing left, but we can’t play outdoorsdue to the smoke. So our expectation of cele brating on the water are confounded.
-It’s about noon on September 11th, 2020 - ananniversary of the 9-11 terrorist attacks. The news today has wildfires across the entire westcoast. (left) Ten percent of the Oregon popula tion is displaced. They weren’t expecting firesand smoke on top of COVID.
-Unmet expectations are an invitation to openyour self-awareness toolbox. The next time something doesn’t pan out for you, try responding by expanding your emotional vocabulary or peeling an onion to understand the root beliefbehind the intense emotions.
+My intent for the SCOTOMAVILLE Series is togive you evidence of my use of the mental tools and techniques - for you to observe my journey of self-awareness - and to mimic me. I’m not scripting the examples. I’m simply recording.
+This is my usual launch site (above) with this season coming to an end. There are roughly ten days of sailing left, but we can’t play outdoors due to the smoke. So our expectation of celebrating on the water are confounded.
+It’s about noon on September 11th, 2020 - an anniversary of the 9-11 terrorist attacks. The news today has wildfires across the entire west coast. (left) Ten percent of the Oregon popula tion is displaced. They weren’t expecting fires and smoke on top of COVID.
+Unmet expectations are an invitation to open your self-awareness toolbox. The next time something doesn’t pan out for you, try responding by expanding your emotional vocabulary or peeling an onion to understand the root belief behind the intense emotions.
 EMOTIONS OF UNMET EXPECTATIONS:
-I felt disappointed, let down, cheated, annoyed andirritable, largely due to events out of my control.
+I felt disappointed, let down, cheated, annoyed and irritable, largely due to events out of my control.
 leaving SCOTOMAVILLE 196
 
-Please help me express this insimpler terms:
+Please help me express this in simpler terms:
 Certainly! Here’s a more straightforward wayto express the original text:
 “My best quality is being an ‘Achiever.’ I canwork hard, even overnight, to complete tasks.
-Although it was hard for me, I had to learn torecognize and describe my emotions better. My knowledge of emotional words was weak, and
-I needed to improve it before facing anotherdisappointing situation that could stir up nega tive emotions.
-To grow in understanding myself, I had to dealwith triggers, which are sudden emotional reactions that can confuse your mind. It can behard to find the right words to explain what’s bothering you at that moment. So, take time tolearn new words to express your feelings.” ACQUIRE A REFINED VOCABULARY Providence moves once you are fully committed to changing. Initiate change, by expanding your emotional distinction with literacy.
+Although it was hard for me, I had to learn to recognize and describe my emotions better. My knowledge of emotional words was weak, and
+I needed to improve it before facing another disappointing situation that could stir up nega tive emotions.
+To grow in understanding myself, I had to deal with triggers, which are sudden emotional reactions that can confuse your mind. It can behard to find the right words to explain what’s bothering you at that moment. So, take time tolearn new words to express your feelings.” ACQUIRE A REFINED VOCABULARY Providence moves once you are fully committed to changing. Initiate change, by expanding your emotional distinction with literacy.
 
-A refined vocabulary leads toward confidenceand away from outbursts and squalls.
+A refined vocabulary leads toward confidence and away from outbursts and squalls.
 MASTER THE EMOTIONAL WORD LIST:
 Like holding an ice ax, you can arrest a decent ‘fall’ and avoid injury by mastering an emotional vocabulary before, during, and after each ‘slip’.
 leaving SCOTOMAVILLE 197
 
-Unmet expectations areusually a gateway to personal growth - the road less taken I believe. I highly recommendexploring an emotionally rich vocabulary well in advance ofthe need to friggin scream!
+Unmet expectations are usually a gateway to personal growth - the road less taken I believe. I highly recommend exploring an emotionally rich vocabulary well in advance ofthe need to friggin scream!
 
-Watch the next two scenescarefully.
-UNBOXING EXPECTATIONS A few weeks ago, I had an excellent opportunity to unbox my first Volume of SCOTOMAVILLE. Of course, I wanted todo the classic YouTube ‘unbox ing,’ but there were non-stopinterruptions and noise and people along with a boatloadof emotion...
-(loud cars and bikes interrupt) Angelina asks, “are you OK?” Daniel: No, I’m exasperated, flustered, and pegged. Thisoutdoor mask mandate is disgusting. I hate this.
+Watch the next two scenes carefully.
+Un BOXING EXPECTATIONS A few weeks ago, I had an excellent opportunity to unbox my first Volume of SCOTOMAVILLE. Of course, I wanted todo the classic YouTube ‘unbox ing,’ but there were non-stop interruptions and noise and people along with a boat load of emotion...
+(loud cars and bikes interrupt) Angelina asks, “are you OK?” Daniel: No, I’m exasperated, flustered, and pegged. This outdoor mask mandate is disgusting. I hate this.
 (taking N95 mask off)
 
-It’s suffocating - especiallyoutdoors. I’m not doing this.
-I understand the science - thesize of the virus and the mask materials at three microns - 95% reduction. But, I just wanted to celebrate my firstunboxing in a quiet place and not like this. Not with amask and strangers jumping into the scene, making gestures, and distracting.
-INVITATION TO INVESTIGATE When you’re triggered, thinkof it as an invitation to inves tigate. When an expectationhas not been met, dig in. It’s an opportunity to discovermore of who you are. You’ve got a super computer pointedat your brain. Use it to know yourself better than it knowsyou. The race is on.
+It’s suffocating - especially outdoors. I’m not doing this.
+I understand the science - thesize of the virus and the mask materials at three microns - 95% reduction. But, I just wanted to celebrate my first un boxing in a quiet place and not like this. Not with amask and strangers jumping into the scene, making gestures, and distracting.
+INVITATION TO INVESTIGATE When you’re triggered, thinkof it as an invitation to investigate. When an expectation has not been met, dig in. It’s an opportunity to discover more of who you are. You’ve got a super computer pointed at your brain. Use it to know yourself better than it knows you. The race is on.
 
-That’s something to think about. From the Fordstudios in SCOTOMAVILLE.
+That’s something to think about. From the Ford studios in SCOTOMAVILLE.
 See you next Episode. [closing music]
-I could not have imagined this scene, shot the nextday. I’m not smart enough to script this stuff. Re member what W. H. Murray observed? (page 174) KNOCK, KNOCK. WHO’S THERE NOW?
+I could not have imagined this scene, shot the nextday. I’m not smart enough to script this stuff. Remember what W. H. Murray observed? (page 174) KNOCK, KNOCK. WHO’S THERE NOW?
 Angelina: We’re on a chai
 
 *[Print excerpt truncated — full evidence in book PDF.]*
@@ -197,13 +197,13 @@ Pointing to face mask... "yes, it's an N95. Good answer."
 
 "Second question. Why am I wearing this outside?"
 
-"Unmet expectations. Wait I'm getting ahead. Let's back up"
+"Unmet expectations. Wait I'm getting ahead. Let's backup"
 
 [Music]
 
 I've heard it said that the true test of genius is if you're able to explain complex things in simple terms. I can't say that i'm about to do that but I do want you to think about complex things. It's likely you've heard that saying that goes: "when life gives you lemons, make lemonade". Let's think about that for a second. Is it possible to make lemonade out of lemons? Me thinks no. The best you're gonna get is lemon juice because you need additional ingredients and tools. You have to have something to cut the lemon with. You need something to put it all in. You need water and you need sugar or it's going to be really tart and not so good. And, you also need something to drink it out of if you're going to share.
 
-So there are items and ingredients and tools that need to be added to the expectation"... of making lemonaide out of just lemons. If you get a bunch of lemons just make lemonade. Yes, I get the optimism and I get the encouragement to take action, but let me give you an example from my life of how things tend to work out - how a solution was found when I was not expecting it but I was anticipating a solution.
+So there are items and ingredients and tools that need to be added to the expectation"... of making lemon aide out of just lemons. If you get a bunch of lemons just make lemonade. Yes, I get the optimism and I get the encouragement to take action, but let me give you an example from my life of how things tend to work out - how a solution was found when I was not expecting it but I was anticipating a solution.
 
 There's a subtlety between expectation and anticipation.
 
@@ -259,9 +259,9 @@ New Scene: "I then grabbed some of my physical tools. Added a new hole in my fus
 
 New Scene: "This Episode on Expectations should include more examples. As you can see (outside) things are unexpected. It's about noon on September 11th, 2020. You would remember in history the terrorist attacks. The news today has wildfires across the entire west coast. 10 percent of the Oregon population is now displaced. They weren't expecting that."
 
-"This is my "usual launch site - not what we expect. The windsurfing season is coming to an end. There's roughly 10 days of sailing for the rest of the year, so expectations for getting on the water are not looking good. Yeah that would be fun."
+"This is my "usual launch site - not what we expect. The windsurfing season is coming to an end. There's roughly 10 days of sailing for the rest of the year, so expectations forgetting on the water are not looking good. Yeah that would be fun."
 
-"Expectations can be a really valuable asset in your self-awareness Personal Everest. It's not because they're so wonderful. It's because when you have an expectation of something, a really deep felt belief in the outcome of something in the future, and it doesn't happen then you can really start working on acquiring an emotional vocabulary. There's a lot to learn and my 'Achiever' doesn't want to (slow down to) learn all that. My expectation is to simply 'know it' - you know; the vulcan mind meld. Well that doesn't work so well, so my expectations are out of line. I need to watch a lot more tutorials so that I can pick things up, (rather than to expect learning to be effortless).
+"Expectations can be a really valuable asset in yourself-awareness Personal Everest. It's not because they're so wonderful. It's because when you have an expectation of something, a really deep felt belief in the outcome of something in the future, and it doesn't happen then you can really start working on acquiring an emotional vocabulary. There's a lot to learn and my 'Achiever' doesn't want to (slow down to) learn all that. My expectation is to simply 'know it' - you know; the vulcan mind meld. Well that doesn't work so well, so my expectations are out of line. I need to watch a lot more tutorials so that I can pick things up, (rather than to expect learning to be effortless).
 
 "My intent for the Scotomaville Series is to give you evidence of tools and techniques for you to observe the process of self-awareness. Self-awareness usually involves a trigger. Triggers are emotional flares where your brain is pegged. You have a hard time finding the words to express things that usually (in my experience) are closely related to an unmet expectation."
 
@@ -269,21 +269,21 @@ New Scene: "This Episode on Expectations should include more examples. As you ca
 
 New Scene: "Until you're committed you can always pull back, but once you are fully committed then providence moves. It's not until you're fully committed that things happen. You have to fight for what you want. You really do. You can't just wait until it happens. You have to initiate, fully commit, and then some things can happen. When things don't happen as you expected, maybe with your partner or with your business, with COVID, with the economy, with your job, your spouse, your school, the opportunity you expected, then all sorts of beliefs (are challenged) on how they relate and what is true."
 
-Interruption: That noise is "at least three miles away. I expect it to be quiet here. It wasn't quiet at Lake Pleasant and it's not here. This is hilarious. I'm learning to go with it because an unmet expectation is a gateway to personal growth.The deep emotions that come up give opportunity to peel back the onion (remember that chapter?) and to use triangulation to get more points of view (you remember that chapter).
+Interruption: That noise is "atleast three miles away. I expect it to be quiet here. It wasn't quiet at Lake Pleasant and it's not here. This is hilarious. I'm learning to go with it because an unmet expectation is a gateway to personal growth.The deep emotions that come up give opportunity to peel back the onion (remember that chapter?) and to use triangulation to get more points of view (you remember that chapter).
 
-Expectations can be our friend. They can (at least) be an appreciated experience. They're definitely a gateway to personal growth."
+Expectations can be our friend. They can (atleast) bean appreciated experience. They're definitely a gateway to personal growth."
 
-New Scene: "A few weeks ago I had a great opportunity to do the unboxing of my first volume of Scotomaville. I wanted to do the classic YouTube 'unboxing' and there was non-stop interruptions and noise and traffic and emotion for me. Let me tell you, when you try to meet your expectations (interrupted by cars, a motorcycle and cyclists)
+New Scene: "A few weeks ago I had a great opportunity to do the un boxing of my first volume of Scotomaville. I wanted to do the classic YouTube 'un boxing' and there was non-stop interruptions and noise and traffic and emotion for me. Let me tell you, when you try to meet your expectations (interrupted by cars, a motorcycle and cyclists)
 
 New Scene: Angelina asks; "are you OK?"
 
-Daniel: "I'm not okay. This mask mandate is disgusting. I hate this. (taking N95 mask off while outdoors) It's suffocating wearing one all the time - especially outdoors. I'm not doing this. Yes, I understand the (science) - the size of the holes in the materials at three microns and all that." I just wanted to shoot video in a quiet and celebrative place - not like what was happening.
+Daniel: "I'm not okay. This mask mandate is disgusting. I hate this. (taking N95 mask off while outdoors) It's suffocating wearing one all the time - especially outdoors. I'm not doing this. Yes, I understand the (science) - the size of the holes in the materials at three microns and all that." I just wanted to shoot video in a quiet and celebr at ive place - not like what was happening.
 
 The same emotions surfaced when "I wanted some shots of Angelina and I riding on the Twin Tunnels Trail. Instead I got "shots of other people".
 
-"Have a look at your StrengthFinder Assessment. Try to correlate where your strengths might set you up with expectations that are unrealistic. You see mine (Strengths) are 'Achiever - Input - Learner - Activator - Belief' so I would expect myself to learn a lot faster than most people. That's unrealistic. I try to fly drones in high wind a thousand feet in the air without satellite connections, in the smoke. I've got less than 20 hours experience piloting drones. My expectations were completely out of line and my results disappointing. (and highly emotional)"
+"Have a look at your Strength Finder Assessment. Try to correlate where your strengths might set you up with expectations that are unrealistic. You see mine (Strengths) are 'Achiever - Input - Learner - Activator - Belief' so I would expect myself to learn a lot faster than most people. That's unrealistic. I try to fly drones in high wind a thousand feet in the air without satellite connections, in the smoke. I've got less than 20 hours experience piloting drones. My expectations were completely out of line and my results disappointing. (and highly emotional)"
 
-"What you can definitely expect about expectations is that they are strongly linked to your 'strengths' which are your coping mechanisms from your childhood wounds. They are absolutely strong pointers to habits that are ripe for adjustment." I'm learning to "expect interruptions noise etc. I had expected and strongly imagined my unboxing to be similar to the way I had seen other people do unboxings - something really exciting and really fun. I had built up my emotional expectations so much that they couldn't be met. It was similar with wanting drone shots that are cinemagraphic. I have to acquire those skills first. I can't just go straight to 'Disney outcomes' without the flight time and that entails (slowing down to really learn)
+"What you can definitely expect about expectations is that they are strongly linked to your 'strengths' which are your coping mechanisms from your childhood wounds. They are absolutely strong pointers to habits that are ripe for adjustment." I'm learning to "expect interruptions noise etc. I had expected and strongly imagined my un boxing to be similar to the way I had seen other people do unboxings - something really exciting and really fun. I had built up my emotional expectations so much that they couldn't be met. It was similar with wanting drone shots that are cinema graphic. I have to acquire those skills first. I can't just go straight to 'Disney outcomes' without the flight time and that entails (slowing down to really learn)
 
 "When you have opportunity through a trigger to investigate an expectation that's been unmet, dig in, it's great. It's an opportunity to discover who you are. And, you remember, you've got a super computer pointed at your brain that knows you better than you know yourself. The race is on. Self-awareness, and self-understanding, it's no longer an option. It's 
 
@@ -299,7 +299,7 @@ Second question. Why am I wearing this outside?
 
 How about the unexpected?
 
-Wait I'm getting ahead. Let's back up.
+Wait I'm getting ahead. Let's backup.
 
 I've heard it said that the true test of genius is if you're able to explain complex things in simple terms. I can't say that I'm about to do that but I do want you to think about complex things. You've likely heard that saying that goes: "when life gives you lemons make lemonade" let's think about that for a second. Is it possible to make lemonade out of lemons? I think no. The best you're gonna get is lemon juice. You need some tools. You need something to cut the lemon with and you need something to put it in. You need water and you need sugar or it's going to be not so good. You also need something to drink it out of. If you're going to share you'll need some items ingredients and tools that need to be added to the expectation: if you get a bunch of lemons just make lemonade. I get the optimism and I get the encouragement to go about it but let me give you an example from my life of how things tend to work out - how a solution is found when I was not expecting it - but I was anticipating a solution. Subtlety between expectation and anticipation. I took efforts. Here's the story:
 
@@ -311,7 +311,7 @@ All right watch what happened. I had my ears and eyes looking for a solution - I
 
 Keith I was inviting you to be part of the evidence for this episode because you've done something highly unusual in today's world which is to trust another human and also be part of a solution which most people are not. I wanted to have you tell the background of how this came about and all that you've been through on the other side of the story.
 
-Keith: "This is my first foray into foiling. I decided to get into foiling and late 2018 after my third knee surgery and said well this high wind sailboarding isn't for me. And this looks like it is. So there's a local guy who's making these in the gorge and I went and bought this from him and then this year I started foiling on this. I was down at Stevenson one day and I got it all together and put my suit on and went for a sail. I didn't put these in the board."
+Keith: "This is my first foray into foiling. I decided to get into foiling and late 2018 after my third knee surgery and said well this high wind sail boarding isn't for me. And this looks like it is. So there's a local guy who's making these in the gorge and I went and bought this from him and then this year I started foiling on this. I was down at Stevenson one day and I got it all together and put my suit on and went for a sail. I didn't put these in the board."
 
 Keith: "It took me 10 minutes to put this string in there and I forgot these so I went sailing. I swam out about 25 yards and I got on the board and I sailed about 25 yards when this fell out of my board into the river."
 
@@ -339,21 +339,21 @@ As you can see things are unexpected. It's about noon on September 11th, 2020 an
 
 That's the usual launch site. Not what we expect. Windsurfing season is coming to an end. There are roughly 10 days of sailing for the rest of the year so expectations for getting on the water are not looking good for the end of this year. Yeah, would be fun.
 
-Expectations can be a really valuable asset in your self-awareness Personal Everest but it's not because they're so wonderful. It's because when you have an expectation of something a really deep felt belief in the outcome of something in the future and it doesn't happen then you can start working on acquiring an emotional vocabulary.
+Expectations can be a really valuable asset in yourself-awareness Personal Everest but it's not because they're so wonderful. It's because when you have an expectation of something a really deep felt belief in the outcome of something in the future and it doesn't happen then you can start working on acquiring an emotional vocabulary.
 
 Unmet expectations usually trigger deeply felt emotions. Triggers are emotional flares where your brain is pegged. I have a hard time finding the words to express things calmly. An expectation is something that you fervently believe will happen, or you tenaciously want as an outcome - like we did to go get AWRNSS (awareness), our airstream, in Albuquerque. Remember, until you're committed you can always pull back but once you are fully committed then providence moves it's not until you're fully committed that things happen that you have to fight for what you want. You do you can't just wait until it happens. You have to put the initiative fully commit and then some things can happen. But when things don't happen as you expected - with your partner - with your business - with covid - with the economy - with your job - your spouse - your school - the opportunity then all sorts of belief systems come into play on how they relate and what we believe and what... [car noise] ...they're at least three miles away!
 
-I would like it to be quiet. It wasn't at lake pleasant and it's not here. This is hilarious and I'm learning to go with it because usually, an unmet expectation is a gateway to personal growth. The deep emotions that come up allowing you to peel back the onion. Remember that chapter? Use triangulation to get more points of view - you remember that chapter. Expectations can be our friend. They can at least be an appreciated experience. They're a gateway to personal growth.
+I would like it to be quiet. It wasn't at lake pleasant and it's not here. This is hilarious and I'm learning to go with it because usually, an unmet expectation is a gateway to personal growth. The deep emotions that come up allowing you to peel back the onion. Remember that chapter? Use triangulation to get more points of view - you remember that chapter. Expectations can be our friend. They can atleast bean appreciated experience. They're a gateway to personal growth.
 
-A few weeks ago I had a great opportunity to do the unboxing of my first volume. A few weeks ago my box of volume one of SCOTOMAVILLE arrived and I wanted to do an unboxing. You know the classic youtube unboxing video. There were non-stop interruptions and noise and traffic and emotion for me. Let me tell you when you try to meet your expectations...
+A few weeks ago I had a great opportunity to do the un boxing of my first volume. A few weeks ago my box of volume one of SCOTOMAVILLE arrived and I wanted to do an un boxing. You know the classic youtube un boxing video. There were non-stop interruptions and noise and traffic and emotion for me. Let me tell you when you try to meet your expectations...
 
 Film the car. Oh my gosh. Shiny pretty motorcycles. Oh, another car. Man oh, man. I'm not okay. I hate this mask. It's like suffocating all the time and it's outdoors! I'm not doing this. I understand the three microns n- 95 holes and all that, but it's just that I wanted to shoot some shots of Angelina and me riding on the twin tunnels trail and that was filled with shots of other people.
 
 Have a look at your strength finders assessment and try to correlate where your strengths might set you up with unrealistic expectations. You see mine are achiever input learner so of course, I would expect myself to learn a lot faster than most people and that's unrealistic. I try to fly drones in high wind. That means it's a thousand feet in the air in the wind without satellite connection in the smoke and I've got less than 20 hours of experience. My expectations can be completely out of line and my results are disappointing.
 
-What you can expect about expectations is that they are strongly linked to your strengths which are your coping mechanisms from your childhood wounds therefore they are absolutely strong indicators of wounds of patterns and habits that are ripe for adjustment. Things that you can learn over again because next time oh expect interruptions noise etc. I had expected (strongly imagined the outcome) of my unboxing to be similar to the way I had seen other people do unboxings - you know something really exciting and really fun and I had built up my emotional expectations so much couldn't be met. Similar to wanting drone shots that are cinemagraphic. I have to acquire those skills first. I can't just go straight to Disney outcomes without the flight time and that entails taking risks.
+What you can expect about expectations is that they are strongly linked to your strengths which are your coping mechanisms from your childhood wounds therefore they are absolutely strong indicators of wounds of patterns and habits that are ripe for adjustment. Things that you can learn over again because next time oh expect interruptions noise etc. I had expected (strongly imagined the outcome) of my un boxing to be similar to the way I had seen other people do unboxings - you know something really exciting and really fun and I had built up my emotional expectations so much couldn't be met. Similar to wanting drone shots that are cinema graphic. I have to acquire those skills first. I can't just go straight to Disney outcomes without the flight time and that entails taking risks.
 
-When you have an opportunity through a trigger to investigate an expectation that's been unmet dig in it's great. It's an opportunity to discover who you are. You remember you've got a supercomputer pointed at your brain that knows you better than you know yourself and the race is on. Self-awareness self-understanding it's no longer an option. It's not a luxury. You have to stay ahead of the recommenders. I think that's enough to think about. From my ford studios in SCOTOMAVILLE see you next episode
+When you have an opportunity through a trigger to investigate an expectation that's been unmet dig in it's great. It's an opportunity to discover who you are. You remember you've got a supercomputer pointed at your brain that knows you better than you know yourself and the race is on. Self-awareness self-understanding it's no longer an option. It's not a luxury. You have to stay ahead of the recommend ers. I think that's enough to think about. From my ford studios in SCOTOMAVILLE see you next episode
 
 Angelina: we are at mountain hood today and look at how pretty it looks with no snow in the flowers we are um definitely not in purgatory it's pretty beautiful up here it is this is mount hood our regular ski area it's beautiful the flowers the blossom the bees are in heaven.
 
@@ -367,11 +367,11 @@ The right page begins with a narrow author’s note dated November 22, 2021, des
 
 A second color photograph occupies the lower right, showing
 
-- The left page opens with the lemonade metaphor in body text, followed by a bold “SLEUTHING A SOLUTION” heading and narrative about equipment limitations. At the bottom left, a documentary photograph shows two men—one in a black shirt and cap, the other in a green shirt—handling a large red-and-black board beside a red pickup truck in a sunny outdoor lot. Immediately to its right is a close-up portrait of an older bearded man (Daniel) wearing a green shirt, beige cap, glasses, and blue neck gaiter, looking directly at the camera. Below these photos sits a tight close-up of a camouflage-textured surface with a red hexagonal pattern and a hand touching it. The right page continues the story und
+- The left page opens with the lemonade metaphor in body text, followed by a bold “Sleuth ING A SOLUTION” heading and narrative about equipment limitations. At the bottom left, a documentary photograph shows two men—one in a black shirt and cap, the other in a green shirt—handling a large red-and-black board beside a red pickup truck in a sunny outdoor lot. Immediately to its right is a close-up portrait of an older bearded man (Daniel) wearing a green shirt, beige cap, glasses, and blue neck gaiter, looking directly at the camera. Below these photos sits a tight close-up of a camouflage-textured surface with a red hexagonal pattern and a hand touching it. The right page continues the story und
 
 - The two-page spread opens on the left with a large, full-height documentary photograph showing a man (Daniel) viewed from behind, standing arms-crossed on a rocky outcrop overlooking a body of water blanketed in thick orange haze, with a small crescent moon in the upper sky. Text blocks wrap around the image, including a dark header box on “EMOTIONS OF UNMET EXPECTATIONS” and a smaller embedded YouTube thumbnail at bottom left depicting a Fox News wildfire broadcast. The right page is dominated by a wide, multi-column grid of emotional vocabulary words arranged under headings such as Fear, Confusion, Hurt, and Anger, with a small circular inset portrait of Daniel speaking beside a ChatGPT lo
 
-- The left page features a small documentary photo of a person (likely Daniel) holding a brown “BookBaby” cardboard shipping box, positioned next to dense body text under the heading “UNBOXING EXPECTATIONS.” Below it is a larger, eye-level photograph of Daniel (white N95 mask, black cap) and Angelina (clear face shield, blonde hair) standing outdoors beside a vehicle, both extending middle fingers toward the camera. The right page is dominated by a wide, realistic photograph of a ski-lift gondola structure in a mountainous, forested setting, with two young men standing on the roof of the lift car and two seated passengers visible below.
+- The left page features a small documentary photo of a person (likely Daniel) holding a brown “Book Baby” cardboard shipping box, positioned next to dense body text under the heading “Un BOXING EXPECTATIONS.” Below it is a larger, eye-level photograph of Daniel (white N95 mask, black cap) and Angelina (clear face shield, blonde hair) standing outdoors beside a vehicle, both extending middle fingers toward the camera. The right page is dominated by a wide, realistic photograph of a ski-lift gondola structure in a mountainous, forested setting, with two young men standing on the roof of the lift car and two seated passengers visible below.
 
 Additional text blocks, including a gray sidebar quote a
 
@@ -382,9 +382,8 @@ Additional text blocks, including a gray sidebar quote a
 1. Expectations 2.03 leaving SCOTOMAVILLE 192 Recorded Sept.
 2. Pointing to my facemask, yes, it’s an N-95.
 3. I have unmet expectations and strong emotions.
-4. I’veheard that the truetest of genius is toexplain complex things in simple terms.
+4. I’veheard that the true test of genius is to explain complex things in simple terms.
 5. I can’tsay that I’m about to do that, but I want you tothink about complicated things.
-
 
 ## First-time learner
 

@@ -9,7 +9,7 @@ emotions:
 - caution
 - inventiveness
 keypoints:
-- Pattern recognition is a biological superpower that also makes us exploitable
+- Pattern recognition is a biological superpower that also makes us exploit able
 - Twenty-watt brains prefer familiar narratives over fresh search
 - Big Dipper vs Hubble Ultra-Deep Field — simple patterns hide vast complexity
 - Diffuse mode (question before sleep) harnesses pattern-seeking for insight
@@ -69,7 +69,7 @@ github_repo: 'https://github.com/scotomaville/trilogy'
 youtube_urls:
 - 'https://youtu.be/zzuAkGIh02Y'
 - 'https://youtu.be/B4eqUYX7f4E'
-- 'https://youtu.be/wiGVsUtCZwI'
+- 'https://youtu.be/wi GVs Ut CZw I'
 youtube_channel: 'https://www.youtube.com/scotomaville'
 pairs_with_prime: 43
 pairs_with_prime_name: Pattern Recognition
@@ -81,7 +81,7 @@ description: Vol 1 ch.02 — pattern seeking as gift and exploit surface.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.02** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -92,7 +92,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | Repo | [github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
 | Watch | https://youtu.be/zzuAkGIh02Y |
 | Reflect | https://youtu.be/B4eqUYX7f4E |
-| Extra credit (Guy Tenenbaum / Dr. Eric Berg) | https://youtu.be/wiGVsUtCZwI |
+| Extra credit (Guy Tenenbaum / Dr. Eric Berg) | https://youtu.be/wi GVs Ut CZw I |
 | Initium pair (when card is in play) | [Prime_043.pdf](https://raw.githubusercontent.com/scotomaville/initium/main/pdf/spreads/Prime_043.pdf) |
 
 ## Context for the climber
@@ -141,7 +141,7 @@ Domain examples named in print (science Einstein; business Napoleon Hill; litera
 
 ## Video transcript (spoken register)
 
-*Source: `01.02 PatternRecognitionTranscript.txt` — lightly cleaned.*
+*Source: `01.02 Pattern Recognition Transcript.txt` — lightly cleaned.*
 
 I'm just simply making the coffee and the world is smiling at me. Welcome back to another beautiful day in Scotomaville. I'm thinking of Mr. Rogers — “a wonderful day in the neighborhood.” Today we're gonna talk about pattern recognition or pattern seeking.
 
@@ -149,7 +149,7 @@ It's a skill set that we develop as we grow up, and then it becomes an undoing. 
 
 One of these tricks I learned in architecture is very simple. You see a repeating pattern, like a bunch of columns, and then we skip one. So what does your eye do? Your eye goes “Hey, right here! Look what's missing!” Form a repeating pattern. Miss one. And your eye focuses there.
 
-Another one you've very likely seen: when you look up at the nighttime sky you see the Big Dipper because somebody drew it that way and explained it that way to you and it's easy to remember. Here's one you might not yet know. A specific area of the nighttime sky was thought to be patternless, desolate and absent of galaxies. Upon close observation, over a month of exposure, well over a hundred additional galaxies emerged, expanding our concept of the universe.
+Another one you've very likely seen: when you look up at the nighttime sky you see the Big Dipper because somebody drew it that way and explained it that way to you and it's easy to remember. Here's one you might not yet know. A specific area of the nighttime sky was thought to be pattern less, desolate and absent of galaxies. Upon close observation, over a month of exposure, well over a hundred additional galaxies emerged, expanding our concept of the universe.
 
 We like to solve puzzles — A plus B plus C is… probably D. We look at clouds and find patterns. Some people see religious figures in toast. We make up stories about smiling faces in the most weird places. One of the ways this bent toward least effort for coming to a conclusion is used against us is when we get familiar with something and then we don't spend energy trying to rethink it.
 
@@ -161,17 +161,16 @@ If this is so bad, why bother? No pill required. The aspect I have found fabulou
 
 Example: taking the trash out, staring at the ground, remembering David Poole's story about Mosaic — one of the early browsers — insight while looking at mosaic tiles, frustrated at research without a visual interface. Pattern on the floor → browser idea → major outcome.
 
-If you miss the step coming out of your Airstream, put down a little snake. Every time you open that door — “Oh!” — you see the step. Use this to your advantage for keys, formulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay attention to… in Scotomaville.
+If you miss the step coming out of your Airstream, put down a little snake. Everytime you open that door — “Oh!” — you see the step. Use this to your advantage for keys, formulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay attention to… in Scotomaville.
 
 ## Takeaways
 
-1. Pattern recognition is a biological superpower that also makes us exploitable
+1. Pattern recognition is a biological superpower that also makes us exploit able
 2. Twenty-watt brains prefer familiar narratives over fresh search
 3. Big Dipper vs Hubble Ultra-Deep Field — simple patterns hide vast complexity
 4. Diffuse mode (question before sleep) harnesses pattern-seeking for insight
 5. Sarah Little-Turnbull modeled nature-to-innovation pattern translation (N-95 lineage)
 6. Use patterns on purpose (reminders, design) — do not let others own your attention
-
 
 ## First-time learner
 

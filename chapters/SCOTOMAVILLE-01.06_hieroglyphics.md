@@ -72,7 +72,7 @@ description: Vol 1 ch.01.06 — Hieroglyphics.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.06** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -97,96 +97,94 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 Leaving SCOTOMAVILLE 62 HIEROGLY
 
-Leaving SCOTOMAVILLE 63
 As I see it, Pharaoh sat at the top of the storytelling AND class pyramid. His super-power was life or death for mere humans...
 .06 AN IMPOSSIBLE HIEROGLYPHIC YPHICS WHAT TO LEARN
 Emotionally rich storytelling isa powerful tool. The brains of the speaker and the audience synchronize with a captivating tale. We relive the original events, emotional sweat, and metallic sounds as if we were chiseling the hieroglyphics under the same sweltering Egyptian sun. We fear the crack of our master’s whip as he vows to post our skull atop a stake on a nearby dune.
 
-Leaving SCOTOMAVILLE 64
 As I see it, Pharaoh demanded his subjects knowand obey the stories he told - or death!
-We live in walled gardens - accepting limitationsother people put on us. Literacy empowers us to tear down those stone walls with critical thinking.
-Before discovering a blind spot, we usually feelbad about a consequence of being naive. Experi ence is a common way we learn hard lessons. Wehave emotional cascades from stuff that’s locked up in our amygdalae. They fire up the adrenalinefight-or-flight, and we get frustrated and triggered!
+We live in walled gardens - accepting limitations other people put on us. Literacy empowers us to tear down those stone walls with critical thinking.
+Before discovering a blind spot, we usually feelbad about a consequence of being naive. experience is a common way we learn hard lessons. Wehave emotional cascades from stuff that’s locked up in our amy gda lae. They fire up the adrenaline fight-or-flight, and we get frustrated and triggered!
 A common coping mechanism is to surrender. Weoften pretend we’re bord and scroll down, ignoring the the nagging puzzle. Don’t fall for it. It’s simplea fault in our brains! Let me help you solve the problem of a tyrrant - a self-defeating dialogue.
 I want you to emerse yourself for a few minutes.
 Go somewhere quiet, alone, and fully participate.
 Get a sheet of paper, and a few pens.
-Pharaoh’s Heiroglyph Aesop: Once, civilizations would notmerely admonish but sever the very heads of those who strayed. Today, you are civilized, swords replaced with words, beheadings the mere cancellation of influence.
-Daniel: I bet that if you weren’t born in the rightfield, you had little chance of advancement. I imagine your intellect could promote you from themajority into the minority ruling class.
-In Genesis, Joseph is in Egypt with Pharaoh, givingtests to a bunch of the actuaries - the accountants - bean counters - literally counting grain.
-Og Mandino: Picture this vivid scene... Pharaoh, a majestic figure, reigning at the apex of Egypt’spyramid of power, undisputed at the pinnacle of the food chain, a litanny of fiats chistled in stone.
-Daniel: In Pharaoh’s day, to qualify ‘inner circle’ people, he tested their understanding, insight, andability to spot a tale. The penalty for failing the test was death. If you wanted to be one of his actuariesand amongst the elite, then you had to answer a puzzle. Yes, in hieroglyphics.
+Pharaoh’s Heiroglyph Aesop: Once, civilizations would not merely admonish but sever the very heads of those who strayed. Today, you are civilized, swords replaced with words, beheadings the mere cancellation of influence.
+Daniel: I bet that if you weren’t born in the right field, you had little chance of advancement. I imagine your intellect could promote you from the majority into the minority ruling class.
+In Genesis, Joseph is in Egypt with Pharaoh, giving tests to a bunch of the actuaries - the accountants - bean counters - literally counting grain.
+Og Mandino: Picture this vivid scene... Pharaoh, a majestic figure, reigning at the apex of Egypt’spyramid of power, undisputed at the pinnacle of the food chain, a litanny of fiats chi st led in stone.
+Daniel: In Pharaoh’s day, to qualify ‘inner circle’ people, he tested their understanding, insight, and ability to spot a tale. The penalty for failing the test was death. If you wanted to be one of his actuaries and amongst the elite, then you had to answer a puzzle. Yes, in hieroglyphics.
 Grimms Brothers: You know those symbols, right?
-Crazy-looking, bizarre things. They beckon to theimagination, full of mystery and whimsy. Fields of wheat, carts with oxen, the everyday mixed withthe fantastical, like urns and hatchets, creatures with eyes wide and wild.
-Daniel: Pharaoh would have them solve a puzzlebased on the accounting of the harvest records.
-They could go through five, six, seven periods ofharvest and calculate what was in the stores.
+Crazy-looking, bizarre things. They beckon to the imagination, full of mystery and whimsy. Fields of wheat, carts with oxen, the everyday mixed withthe fantastic al, like urns and hatchets, creatures with eyes wide and wild.
+Daniel: Pharaoh would have them solve a puzzle based on the accounting of the harvest records.
+They could go through five, six, seven periods of harvest and calculate what was in the stores.
 The consequences when you fail are severe!
-Napoleon Hill: I envision the macabre sight ofskulls on sticks, a grim testament to failure, jux taposed with the mathematical brilliance where
-Pythagoras once pondered geometry, the verylines that define our boundaries and destinies.
-Daniel: The skulls of a naive hopefuls were bakingin the sun because failure was consequential. To move your family from a useless class, to the rulingclass, it was essential you quickly solve this impos sible hieroglyphic puzzle.
+Napoleon Hill: I envision the macabre sight of skulls on sticks, a grim testament to failure, jux taposed with the mathematical brilliance where
+Pythagoras once pondered geometry, the very lines that define our boundaries and destinies.
+Daniel: The skulls of a naive hopefuls were baking in the sun because failure was consequential. To move your family from a useless class, to the ruling class, it was essential you quickly solve this impos sible hieroglyphic puzzle.
 
 Leaving SCOTOMAVILLE 65 Draw along with me. Draw six flat lines:
 like—the—shore—of—the—Nile —River
 
 (see the symbols above, or on the worksheets)
 
-The first hieroglyphic was a terrific period. Therewas a Massive crop. Draw a shape like the letter M on top of the ground line.
+The first hieroglyphic was a terrific period. There was a Massive crop. Draw a shape like the letter M on top of the ground line.
 
 The second season was similar, a morphed M, sothey chiseled a HEART on top of the ground line.
 
-You remember some of the Exodus story, thefrogs and locusts and stuff, right? Well, the third hieroglyph looks like an empty burial URN.
+You remember some of the Exodus story, the frogs and locusts and stuff, right? Well, the third hieroglyph looks like an empty burial URN.
 
 The fourth season was a bit of a rebound, so it’sagain that M-looking symbol.
 
 The fifth was a blow-out season. People died.
 Draw a ticking BOMB below the ground.
-Pharaoh would draw a dotted circle around thequestionable harvest period and say, ‘All right, there are five prior periods. You see the changes.
+Pharaoh would draw a dotted circle around the questionable harvest period and say, ‘All right, there are five prior periods. You see the changes.
 Tell me, what’s the sixth glyph?
 
 Check your answer with the inverted pyramid.
 
 Quickly, what is the symbol for the sixth season?
-You learned this in third grade. You rely on thisevery day of your life. I know you know it.
+You learned this in third grade. You rely on this every day of your life. I know you know it.
 
 What a moron. What’s wrong with you?
 
-[Music] Your amygdalae are pegged. You feel confused, ashamed, belittled, triggered.
+[Music] Your amy gda lae are pegged. You feel confused, ashamed, belittled, triggered.
 
 Why do you always quit?
 Stop your blubbering. Think harder.
 The first period looks like an M, and that morphed into a heart.
-The third and horrible periodlooked like an urn. The fourth harvest looked similar to the first M - but closer to the ground - likein a recession. The fifth harvest an explosive time bomb. The sixthperiod destines you to riches - or death! The seventh in the series isan inverted pyramid.
+The third and horrible period looked like an urn. The fourth harvest looked similar to the first M - but closer to the ground - likein a recession. The fifth harvest an explosive time bomb. The sixth period destines you to riches - or death! The seventh in the series isan inverted pyramid.
 
 Leaving SCOTOMAVILLE 66 What hieroglyph is this?
 [game show music playing]
-You’ve been duped. Storytelling, a force as potent as asuperpower or as crippling as Kryptonite, has ensnared you. Emotionally rich narratives weave a web that canbe highly misleading. Accusations, like unseen puppet masters, can hijack our black boxes, triggering emotional stress responses that resonate within us.
-Marcus Aurelius, ‘You have power over your mind - notoutside events. Realize this, and you will find strength.’
+You’ve been duped. Storytelling, a force as potent as a superpower or as crippling as Kryptonite, has ensnared you. Emotionally rich narratives weave a web that canbe highly misleading. Accusations, like unseen puppet masters, can hijack our black boxes, triggering emotional stress responses that resonate within us.
+Marcus Aurelius, ‘You have power over your mind - not outside events. Realize this, and you will find strength.’
 
 Leaving SCOTOMAVILLE 67 in
-As I see it; we’re blind to a superpower that can set us free. Themoment we respond rather than react to a wild story is the mo ment we liberate ourselves to design the life we want.
+As I see it; we’re blind to a superpower that can set us free. The moment we respond rather than react to a wild story is the moment we liberate ourselves to design the life we want.
 
 YOURT T1wyII-03Co
 You’ve heard the adage: ‘fool me once, shame on you; fool me twice, shame on me!
 What if the storyteller is an authority, like your parents, a teacher, a politician or pastor?
 Can you recall first learning the truth about the Easter Bunny or Santa Claus?
-The amygdala activates a fight-or-flight response without any initiative from you. It pumps stress hormones, preparing your body to either fight for survival or to flee to safety.
-When it comes to storytelling, you have to investigate - to think critically about what you hear. So don’t letinformation Emperors lock you in a walled garden with their emotionally rich stories.
+The amy gda la activates a fight-or-flight response without any initiative from you. It pumps stress hormones, preparing your body to either fight for survival or to flee to safety.
+When it comes to storytelling, you have to investigate - to think critically about what you hear. So don’t let information Emperors lock you in a walled garden with their emotionally rich stories.
 As soon as you trigger, look for other facets of the story! When you feel highly emotional, ask yourself - ‘Where does that come from?’ What experiences come to mind that you have had with storytelling?
 
-“When our amygdala responds to stress ait disables our frontal lobes. That activatesthe fight-or-flight response and disables rational, reasoned responses. In other words, the amygdala “hijacks” control of your brain and your responses.”
+“When our amy gda la responds to stress ait disables our frontal lobes. That activa testhe fight-or-flight response and disables rational, reasoned responses. In other words, the amy gda la “hijacks” control of your brain and your responses.”
 Scan the code to discuss hieroglyphics with other readers and the author.
 DISCUSS The symbols are not hieroglyphics. They are mirrored Western Arabic numerals REFLECT EB3lcIINuic
 
 ## Video transcript (spoken register)
 
-*Source: 01.06 HieroglyphsTrnscpt.txt*
+*Source: 01.06 Hieroglyphs Trnscpt.txt*
 
 SCOTOMAVILLE: 01.06 Hieroglyphics
 
 Welcome back to Scotomaville, right!? I am looking forward to sharing this challenge with you.
 
-In order to lose your blind spots, you have to find out where you're blind. In order to do that, it really helps if you can experience it firsthand, where you go from thinking you're got it all together and the first thing you discover is- 'What the hey!? I don't know!- what what!?' And then you get all the emotional cascade from your -all that stuff that's locked up in there?- gets going in your amygdala..and fires up all the adrenaline and the fight-or-flight gets going and you get frustrated or, WHATEVER YOUR PATTERN IS, that all gets triggered! And once it's triggered, we just give up internally. Our self-defeating dialogue all comes to the forefront.
+In order to lose your blind spots, you have to find out where you're blind. In order to do that, it really helps if you can experience it firsthand, where you go from thinking you're got it all together and the first thing you discover is- 'What the hey!? I don't know!- what what!?' And then you get all the emotional cascade from your -all that stuff that's locked up in there?- gets going in your amy gda la..and fires up all the adrenaline and the fight-or-flight gets going and you get frustrated or, WHATEVER YOUR PATTERN IS, that all gets triggered! And once it's triggered, we just give up internally. Our self-defeating dialogue all comes to the forefront.
 
-I'm gonna have you experience that. Maybe just a little bit, cuz you might be really squeezing it all, not willing to let go and be a part of this. But, I'd really like yuh, you know, put yourself in a a room, alone, and really participate. And to do that you're gonna need a piece of paper, eight-and-a-half by eleven or so. This cardstock. You should get a few pens, if you can. I'm gonna draw with these three pens, you don't necessarily need three. You can do it with one. And after you see the answer, you're gonna be able to pass this on to people with a single one.
+I'm gonna have you experience that. Maybe just a little bit, cuz you might be really squeezing it all, not willing to let go and be a part of this. But, I'd really like yuh, you know, put yourself in a a room, alone, and really participate. And to do that you're gonna need a piece of paper, eight-and-a-half by eleven or so. This card stock. You should get a few pens, if you can. I'm gonna draw with these three pens, you don't necessarily need three. You can do it with one. And after you see the answer, you're gonna be able to pass this on to people with a single one.
 
 Okay, so what's the story? There used to be consequences, pretty darn severe consequences to former civilizations. We're pretty civilized today, and we're, you know, we don't actually chop your head off but we will socially cut you off. Or, as you're probably doing now, you're isolated, self quarantined. But, it used to be that, man, if you weren't born in the right field? Fat chance! The only way you could get out was to outsmart things.
 
@@ -202,13 +200,13 @@ I imagined..skulls at the end of sticks, out in the mud..where Pythagorean was w
 
 They would have to figure out a particular accounting period. Calculate, as maybe the administration is doing right now, when the effects of the pandemic are going to go over the top of the bell curve. Works like this, you draw it along with me. Draw a..kind of like ground, right? The hieroglyphics you see around there always had sort of a stabilizing, if you will, or a reference point to measure from. And the periods of this harvest had been recorded, chiseled, so that that first hieroglyphic was a really terrific period. They had really a bumper crop. And so draw them on top of this ground, really really good good floods, good rain.
 
-Second season was very similar, so they drew it like a heart, heart on top of the ground. Unfortunately, you remember some of the story, the frogs and locusts and stuff, right? Well that was the year that they, like a spittoon, an urn, you know, deathville. And then there was a bit of a rebound you know, you restock things and the toilet paper got put back on the shelves and great, not quite as good as it used to be but still that M looking thing. And then everyone else beat them to the harvest and it was a really lousy year, right? Similar.
+Second season was very similar, so they drew it like a heart, heart on top of the ground. Unfortunately, you remember some of the story, the frogs and locusts and stuff, right? Well that was the year that they, like a spittoon, an urn, you know, death ville. And then there was a bit of a rebound you know, you restock things and the toilet paper got put back on the shelves and great, not quite as good as it used to be but still that M looking thing. And then everyone else beat them to the harvest and it was a really lousy year, right? Similar.
 
-So Pharaoh would say 'All right, there's these five former periods, right? You can see the change, in how there's a pattern here.' So he would go 'Alright, you're my smart, ruling class. You tell me, let's hear.' A lot of these Wall Street guys are trying to do that right now- What's next? When does this change? What does this period look like? You know, history shows us and, and you already know this, you know what the answer is here, right? There's a proof to it..looks like that! It's an inverted pyramid. So that's the proof of the whole thing. So you know what goes here, right? Of course you do! You learned it in second or third grade. You saw this puzzle. You use this almost every day of your life. I know you do. Think about your feelings right now. [Music] They're gettin..interrupted..you're being triggered. A lot going on in your head.
+So Pharaoh would say 'All right, there's these five former periods, right? You can see the change, in how there's a pattern here.' So he would go 'Alright, you're my smart, ruling class. You tell me, let's hear.' A lot of these Wall Street guys are trying to do that right now- What's next? When does this change? What does this period look like? You know, history shows us and, and you already know this, you know what the answer is here, right? There's a proof to it..looks like that! It's an inverted pyramid. So that's the proof of the whole thing. So you know what goes here, right? Of course you do! You learned it in second or third grade. You saw this puzzle. You use this almost everyday of your life. I know you do. Think about your feelings right now. [Music] They're gettin..interrupted..you're being triggered. A lot going on in your head.
 
 Daniel, tell me a story about hieroglyphics. You think I'm smart? Yes I do! I know you know this. But I want you to try to tap into your awareness. Are you feeling confused? You feel like maybe you don't know what's going on? Come on! The first-second-third-fourth..what's the sixth period look like? See, what happens when we listen to the story of the masses, the popular tale of the day..'Oh my gosh! They're all hoarding!' Whatever it is, we listen to the story, and we follow along! We can't see things straight! So to be able to get out of scotomaville, you got to know that this game's afoot.
 
-Here's the answer. Takes me a second to draw. I got to think about it. Very poorly done. But that's the answer. That's the next in the sequence. And your head goes 'Hey wait, where's the line?' Well let me tell you that I've been misleading you the entire time with the story. The first period I said looks like an M, and then it turned to a heart, and that hieroglyphic of that horrible period looked like an urn. And then it was similar, right? So this fourth period of the harvest, right? It looked similar to the first. And then there's another, you know, recession. So time bomb, horrible, right? So the very first harvest was sweet, massive. And then it was really heartfelt and lousy. And then, you know, rebound to the massive but not very good, just sort of grounded, not bad. And then, what an explosion! Horrible! We all feel terrible! And then I'm claiming that it looks like bug eyes or something, for that- what is it-one-two-three-four-five.. the sixth period. And then to check your your answer, it would be an inverted pyramid, right? Put it all on the ground. We got it yet? Do you know why that's the answer?
+Here's the answer. Takes me a second to draw. I got to think about it. Very poorly done. But that's the answer. That's the next in the sequence. And your head goes 'Hey wait, where's the line?' Well let me tell you that I've been misleading you the entire time with the story. The first period I said looks like an M, and then it turned to a heart, and that hieroglyphic of that horrible period looked like an urn. And then it was similar, right? So this fourth period of the harvest, right? It looked similar to the first. And then there's another, you know, recession. So time bomb, horrible, right? So the very first harvest was sweet, massive. And then it was really heartfelt and lousy. And then, you know, rebound to the massive but not very good, just sort of grounded, not bad. And then, what an explosion! Horrible! We all feel terrible! And then I'm claiming that it looks like bug eyes or something, for that- what is it-one-two-three-four-five.. the sixth period. And then to check your your answer, it would bean inverted pyramid, right? Put it all on the ground. We got it yet? Do you know why that's the answer?
 
 See storytelling is a super power. But it can be extremely misleading. You already know this answer. Let me cover this up and ask you 'What hieroglyphic that is? [Music] Okay, that first one's kind of hard. How about the second one? No? Don't get it? Let's go to the first spittoon. The fourth one. The fifth one. Look at your paper and see if you can figure it out. That would be the sixth period and to proof your answer that would be the seventh.
 
@@ -224,7 +222,7 @@ You see, it's really easy to ask but most people don't do it! It's because they 
 
 - The left page features a large, thick black hand-drawn abstract symbol resembling a stylized figure-eight or infinity loop with an extra upward stroke, centered in the upper half against a plain white background. Below it appears the red heading "What hieroglyph is this?" followed by italicized gray text "[game show music playing]", then black body text about storytelling and emotional hijacking, and a red Marcus Aurelius quote at the bottom.
 
-The right page is dominated by a high-resolution close-up photograph of the golden funerary mask of Tutankhamun in profile, showing its blue-and-gold striped headdress, cobra uraeus, and detailed goldwork against a dark museum background with soft boke
+The right page is dominated by a high-resolution close-up photograph of the golden funerary mask of Tutankhamun in profile, showing its blue-and-gold striped headdress, cobra uraeus, and detailed gold work against a dark museum background with soft boke
 
 - The left page of the spread opens with a documentary-style close-up photograph of Daniel, an older man with short white hair, pressing both hands to his temples against a background of faint Egyptian hieroglyphs; large white text reads “HIEROGLYPHICS” over the image while yellow lettering above says “Leaving SCOTOMAVILLE,” with smaller subtitles “Awareness • Storytelling Superpower • Hieroglyphics.”
 
@@ -238,7 +236,6 @@ Centered on the spread is a row of thick, hand-drawn symbols in bright green and
 2. The brains of the speaker and the audience synchronize with a captivating tale.
 3. We relive the original events, emotional sweat, and metallic sounds as if we were chiseling the hieroglyphics under the same sweltering Egy…
 4. We fear the crack of our master’s whip as he vows to post our skull atop a stake on a nearby dune.
-
 
 ## First-time learner
 

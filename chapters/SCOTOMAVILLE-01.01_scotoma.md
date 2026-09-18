@@ -10,10 +10,10 @@ emotions:
 - resolve
 keypoints:
 - A scotoma is a physiological blind spot every mammal has at the optic disc
-- Psychological scotomas are the larger problem â€” beliefs and shortcuts we do not see
+- Psychological sco tomas are the larger problem â€” beliefs and shortcuts we do not see
 - The plus-and-dot exercise is Onus Probandi â€” proof you do not see things as they are
 - We don't see things the way THEY are; we see things the way WE are
-- Awareness of scotomas is the trailhead out of Scotomaville toward a Personal Everest
+- Awareness of sco tomas is the trail head out of Scotomaville toward a Personal Everest
 - Frankl and Proust frame the climb as attitude choice and seeing with new eyes
 summary: Opening chapter of Leaving Scotomaville (Vol 1 Awareness). Daniel defines scotoma as the mammalian blind spot and as the metaphorical gaps in self-perception that others can exploit. He demonstrates the plus-and-dot exercise on camera and in print, accepts the burden of proof (Onus Probandi), and invites the reader to treat awareness as the first tool on a Personal Everest â€” not a magic trick, a defense against being gamed.
 tags:
@@ -72,14 +72,14 @@ youtube_urls:
 - 'https://youtu.be/0O1PfMbKCjQ'
 youtube_channel: 'https://www.youtube.com/scotomaville'
 pairs_with_prime: null
-description: Vol 1 ch.01 â€” define and demonstrate scotoma; Onus Probandi trailhead.
+description: Vol 1 ch.01 â€” define and demonstrate scotoma; Onus Probandi trail head.
 ---
 
 # Scotoma â€” Discover Your Blind Spots
 
 **Leaving Scotomaville Volume 1 Awareness Chapter 01.01** 
 Author: Daniel J. Comp Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -97,7 +97,7 @@ Carbon judgment of this work should prefer the **PDF + video** over paraphrase. 
 
 ## Context for the climber
 
-This is the trailhead chapter. Before tools, strategy, or cards, Daniel proves a simple fact: you already have a hole in your field of vision, and your brain lies about it smoothly. That physical scotoma is the doorway into psychological scotomas â€” the beliefs, shortcuts, and gamed narratives that keep a person in â€œnowhereâ€ instead of â€œnow here.â€
+This is the trail head chapter. Before tools, strategy, or cards, Daniel proves a simple fact: you already have a hole in your field of vision, and your brain lies about it smoothly. That physical scotoma is the doorway into psychological sco tomas â€” the beliefs, shortcuts, and gamed narratives that keep a person in â€œnowhereâ€ instead of â€œnow here.â€
 
 ## Chapter text (carbon prose, healed from print OCR)
 
@@ -105,15 +105,15 @@ Have you ever asked yourself â€œwhat did I not see?â€
 
 At this moment, become aware of your attention. Take note of your feelings, and your self-talk. Take a moment to observe the image on the left. What do you see? Mud, grime, intense action? Can you imagine the noise? Do you recognize the driver? This is a glimpse of details we often miss in our daily lives.
 
-We have blind spots hidden from us since birth. But this blindness extends beyond our eyes. Others may exploit our unawareness, taking advantage of the shortcuts we instinctively make.
+We have blind spots hidden from us since birth. But this blindness extends beyond our eyes. Others may exploit our un awareness, taking advantage of the shortcuts we instinctively make.
 
-The first time I saw my blind spots (scotomas), I learned far more was going on in and around me than I was comfortable knowing. I felt vulnerable. I knew I was hackable.
+The first time I saw my blind spots (sco tomas), I learned far more was going on in and around me than I was comfortable knowing. I felt vulnerable. I knew I was hack able.
 
-Awareness of scotomas is essential for personal growth and critical for moving from â€œnowhereâ€ to â€œnow here.â€
+Awareness of sco tomas is essential for personal growth and critical for moving from â€œnowhereâ€ to â€œnow here.â€
 
 The common name for a scotoma is a blind spot. The problem isnâ€™t that we have blind spots. The issue is that we ignore them.
 
-A scotoma is a blind-spot. All mammals are born with them. The problem isâ€¦ humans â€œgameâ€ our psychological scotomas. Sidestep the â€œhackingâ€ with awareness.
+A scotoma is a blind-spot. All mammals are born with them. The problem isâ€¦ humans â€œgameâ€ our psychological sco tomas. Sidestep the â€œhackingâ€ with awareness.
 
 > â€œWhen we are no longer able to change a situation, we are challenged to change ourselves.â€ â€” Viktor Frankl
 
@@ -140,20 +140,20 @@ When I share the scotoma card, I often start with a storyline about a â€œmag
 
 ### Understanding and overcoming blind spots â€” a personal expedition
 
-Uncovering our scotomas is more than a magic trick; itâ€™s a path to deeper understanding and personal growth. Leaving tyranny through literacy:
+Uncovering our sco tomas is more than a magic trick; itâ€™s a path to deeper understanding and personal growth. Leaving tyranny through literacy:
 
 1. **Share the discovery.** Take an index card and guide children, peers, or partner through the scotoma exercise. Notice their reactions.
 2. **Reflect on your journey.** Remember a time when life took an unexpected turn. Write it down and attach emotional tags. That is how you recognize your own blind spots.
-3. **Embrace the challenge.** Frankl: the last of human freedoms is to choose oneâ€™s attitude. Scotomas are not weakness; they are a challenge.
+3. **Embrace the challenge.** Frankl: the last of human freedoms is to choose oneâ€™s attitude. Sco tomas are not weakness; they are a challenge.
 4. **Inspire others.** Jim Rohn: â€œThe only way it gets better for you is when you get better.â€
 
 Your expedition out of Scotomaville begins now.
 
-> â€œThe real voyage of discovery consists not in seeking new lands but seeing with new eyes.â€ â€” Marcel Proust (paraphrase of *La Prisonnire*)
+> â€œThe real voyage of discovery consists not in seeking new lands but seeing with new eyes.â€ â€” Marcel Proust (paraphrase of *La Prison ni re*)
 
 ## Video transcript (spoken register)
 
-*Source: `01.01-ScotomaTranscript.txt` â€” lightly cleaned for readability; spoken filler retained where it carries voice.*
+*Source: `01.01-Scotoma Transcript.txt` â€” lightly cleaned for readability; spoken filler retained where it carries voice.*
 
 Why did I want to write *Leaving Scotomaville*? Besides the fact of our current events in history providing you with all of the onus probandi â€” all the evidence that you need that people in general are freaked out, contrary to the actual evidence. And yeah, the evidence is pretty steep and horrible; potentially a quarter million people will lose their life from Covid-19. And this is the first of April.
 
@@ -161,11 +161,11 @@ But almost that number are expected to commit suicide because theyâ€™ve los
 
 The hardest, and the most rewarding, was that personal Everest â€” that expedition to self-awareness. Why did I want to write *Leaving Scotomaville*? Because I found a few mile posts and I found a way to put a few markers down. And I hope that thatâ€™s gonna be sufficient to both interest and hold your attention and help you recall the tools at the time you need it, to make progress in the time you have. For the sake of those around you. Your family, your friends, your peers. Yeah, thatâ€™s why I wrote it.
 
-One of the absolutely essential tools in *Leaving Scotomaville*? Take a walk. Time out. Weâ€™re taking the trash out. Youâ€™re gonna find, over time, that this is some of the most wonderful â€œdiffuse time.â€ When you get to think about stuff, do things in your mind. You learn how to dump the trash without touching anything. Yeah, self-awareness is a good thing.
+One of the absolutely essential tools in *Leaving Scotomaville*? Take a walk. Time out. Weâ€™re taking the trash out. Youâ€™re gonna find, overtime, that this is some of the most wonderful â€œdiffuse time.â€ When you get to think about stuff, do things in your mind. You learn how to dump the trash without touching anything. Yeah, self-awareness is a good thing.
 
 Welcome to Scotomaville. Iâ€™m really excited for you. I have had to stumble and fumble and find my way in the dark. Iâ€™ve learned from some really cool people for decades, long list of mentors, most of them passed away but their words live on. And so why am I writing Scotomaville? Because I wanted to pass on to you some of the essential things I have found in getting to a state of fulfillment, leaving my blind spots, leaving my lack of awareness behind me. And in this very first episode, Iâ€™m gonna define scotoma.
 
-Well, itâ€™s already a term that is defined and Iâ€™m just gonna pass that on to you. You already know it, but you donâ€™t! A scotoma is an area in the field of our vision, right? In the area that we look, that we donâ€™t literally see whatâ€™s there. Iâ€™m gonna quote this a lot. We donâ€™t see things the way THEY are, we see things the way WE are. And thereâ€™s some things missing in our awareness. And Iâ€™m gonna prove that to you. And over the next series of lessons Iâ€™m gonna give you tools, to empower you, to build your self-awareness. Which will change your belief system and thatâ€™ll affect your habits and eventually youâ€™ll change lanes, and the destiny for yourself and your family.
+Well, itâ€™s already a term that is defined and Iâ€™m just gonna pass that onto you. You already know it, but you donâ€™t! A scotoma is an area in the field of our vision, right? In the area that we look, that we donâ€™t literally see whatâ€™s there. Iâ€™m gonna quote this a lot. We donâ€™t see things the way THEY are, we see things the way WE are. And thereâ€™s some things missing in our awareness. And Iâ€™m gonna prove that to you. And over the next series of lessons Iâ€™m gonna give you tools, to empower you, to build yourself-awareness. Which will change your belief system and thatâ€™ll affect your habits and eventually youâ€™ll change lanes, and the destiny for yourself and your family.
 
 Weâ€™re in the information era. You donâ€™t have the requirement of having inherited land. Or an industry or even to have been born in a particular class. You see, information can set you free. So a scotoma is the very first thing I want you to understand! The very first! Itâ€™s the starting point of awareness, and that is, we donâ€™t even see things the way they are.
 
@@ -175,7 +175,7 @@ Put this plus in front of this eye. Close the other eye and move this card out a
 
 And you can do it in both eyes. Cover this eye, fixate, put it right in front of this, fixate on this, close this one, fixate on the other, move it out. Right there, twelve inches or so. And you can see out of the peripheral vision, until thereâ€™s a range â€” boom! I do not see it! I can see the plants around it, I can see the lake, I can see my hand, I see the card, I see the plus, and that, wherever it is â€” this right here? Is gone! Yeah, crazy! Try it! Iâ€™ll wait for you, get your card.
 
-Okay, I got you Daniel! I donâ€™t see a dotâ€¦ big deal! Itâ€™s just a dot! Whatâ€™s it matter!? Who cares!? Let me tell you, thatâ€™s just the beginning! Thatâ€™s just the starting point. Thatâ€™s a physical scotoma. Thatâ€™s just a little blind spot that all mammals have. We also share psychological scotomas. We all have cognitive bias. We all have Arrested Development. We all have walled gardens. We all have beliefs that are not true! Youâ€™ll hear me say this a lot! Iâ€™m a hundred percent wrong fifty percent of the time.
+Okay, I got you Daniel! I donâ€™t see a dotâ€¦ big deal! Itâ€™s just a dot! Whatâ€™s it matter!? Who cares!? Let me tell you, thatâ€™s just the beginning! Thatâ€™s just the starting point. Thatâ€™s a physical scotoma. Thatâ€™s just a little blind spot that all mammals have. We also share psychological sco tomas. We all have cognitive bias. We all have Arrested Development. We all have walled gardens. We all have beliefs that are not true! Youâ€™ll hear me say this a lot! Iâ€™m a hundred percent wrong fifty percent of the time.
 
 Becoming aware is the very first step of a long journey. A very challenging, but a very, very rewarding journey. Itâ€™s a personal Everest. And things are gonna get thin up there. And youâ€™re gonna want to take crap off because you donâ€™t need to carry it all the way. Itâ€™s stuff thatâ€™s not doing you well. Itâ€™s beliefs, attitudes, behaviors, that you can change. And weâ€™re gonna get into all of that. But for now, just remember, we donâ€™t see things the way THEY are, we see things the way WE are!
 
@@ -190,12 +190,11 @@ Iâ€™d like you to see that this is a journey. Itâ€™s not â€” you 
 ## Takeaways
 
 1. A scotoma is a physiological blind spot every mammal has at the optic disc
-2. Psychological scotomas are the larger problem â€” beliefs and shortcuts we do not see
+2. Psychological sco tomas are the larger problem â€” beliefs and shortcuts we do not see
 3. The plus-and-dot exercise is Onus Probandi â€” proof you do not see things as they are
 4. We don't see things the way THEY are; we see things the way WE are
-5. Awareness of scotomas is the trailhead out of Scotomaville toward a Personal Everest
+5. Awareness of sco tomas is the trail head out of Scotomaville toward a Personal Everest
 6. Frankl and Proust frame the climb as attitude choice and seeing with new eyes
-
 
 ## First-time learner
 

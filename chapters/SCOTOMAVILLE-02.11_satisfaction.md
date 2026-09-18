@@ -8,12 +8,12 @@ emotions:
 - contentment
 - joy
 keypoints:
-- 'sa • tis • fac • tion Hedonic Treadmill: “I cantget...” moresuccess, and wealth and fame.'
-- Justwhen I need to do an openingscene for this episode!
-- Welcome to this episode of SCOTOMAVILLE on satisfaction - beingcontent and not beingstuck on that Hedonic Treadmill.
-- That’swhere no matter howmuch you acquire, no matter how muchsuccess and wealth and fame, or all that - “you can’t get no” satisfaction.
-- The wiki explanation of satisfaction canleave you bewildered.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Satisfaction. Narrative arc: Satisfaction without arrival fantasy. From the print/transcript corpus: sa • tis • fac • tion Hedonic Treadmill: “I cantget...” moresuccess, and wealth and fame. Do you think it’s windy? Justwhen I need to do an openingscene for this episode! Justfive bars of music and youknow the word [music] ‘sa • tis • fac • tion’ Sometimes you try your hardest, and everything fights you forit - like making progress up your Personal Everest. Welcome to this episode of SCOTOMAVILLE on satisfaction - bei'
+- 'sa • tis • fac • tion Hedonic Treadmill: “I cantget...” more success, and wealth and fame.'
+- Just when I need to do an opening scene for this episode!
+- Welcome to this episode of SCOTOMAVILLE on satisfaction - being content and not being stuck on that Hedonic Treadmill.
+- That’swhere no matter howmuch you acquire, no matter how much success and wealth and fame, or all that - “you can’t get no” satisfaction.
+- The wiki explanation of satisfaction can leave you bewildered.
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Satisfaction. Narrative arc: Satisfaction without arrival fantasy. From the print/transcript corpus: sa • tis • fac • tion Hedonic Treadmill: “I cantget...” more success, and wealth and fame. Do you think it’s windy? Just when I need to do an opening scene for this episode! Just five bars of music and youknow the word [music] ‘sa • tis • fac • tion’ Sometimes you try your hardest, and everything fights you forit - like making progress up your Personal Everest. Welcome to this episode of SCOTOMAVILLE on satisfaction - bei'
 tags:
 - scotomaville
 - trilogy
@@ -72,7 +72,7 @@ description: Vol 2 ch.02.11 — Satisfaction.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.11** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -95,88 +95,86 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 sa • tis • fac • tion Hedonic Treadmill: “I cant get...” more success, and wealth and fame.
-Do you think it’s windy? Justwhen I need to do an opening scene for this episode!
+Do you think it’s windy? Just when I need to do an opening scene for this episode!
 Just five bars of music and youknow the word [music] ‘sa • tis • fac • tion’ Sometimes you try your hardest, and everything fights you forit - like making progress up your Personal Everest.
 Welcome to this episode of SCOTOMAVILLE on satisfaction - being content and not being stuck on that Hedonic Treadmill.
 Hedonic Treadmill?
-What huh? You know. That’swhere no matter how much you acquire, no matter how muchsuccess and wealth and fame, or all that - “you can’t get no” satisfaction.
+What huh? You know. That’swhere no matter how much you acquire, no matter how much success and wealth and fame, or all that - “you can’t get no” satisfaction.
 The wiki explanation of satisfaction can leave you bewildered.
 What follows achievement for most people?
 More? Most likely not.
 2.11
-Being on a Hedonic Treadmill means that no matterhow much you acquire, no matter how much success and wealth and fame - “you can’t get no” satisfaction.
+Being on a Hedonic Treadmill means that no matter how much you acquire, no matter how much success and wealth and fame - “you can’t get no” satisfaction.
 It’s a n unsatisfying thirst for more, more, and more.
 leaving SCOTOMAVILLE 284
 
-leaving SCOTOMAVILLE 285 Satisfaction means you’ve had Satisfaction means you’ve hadenough — in a good way. It’s akin enough — in a good way. It’s akinto being at ease in one’s situation, to being at ease in one’s situation, body and mind - in the midst ofbody and mind - in the midst of imperfection.
+leaving SCOTOMAVILLE 285 Satisfaction means you’ve had Satisfaction means you’ve had enough — in a good way. It’s akin enough — in a good way. It’s akinto being at ease in one’s situation, to being at ease in one’s situation, body and mind - in the midst ofbody and mind - in the midst of imperfection.
 imperfection.
 
-However, from my expeditionof awareness over 15 years, I’ve found three factors that lead toward a feeling of satisfaction - of contentment.
-One is just being confident. Two, the celebration of what you’reexperiencing, and third, self-care.
-Those three things make a bigdifference for me. So I hope they do with you.
+However, from my expedition of awareness over 15 years, I’ve found three factors that lead toward a feeling of satisfaction - of contentment.
+One is just being confident. Two, the celebration of what you’re experiencing, and third, self-care.
+Those three things make a big difference for me. So I hope they do with you.
 BY SIMMERING ON THE PROBLEM
-It finally occurred to me the OLD solution of an ice box would workwith a brand new challenge. I just had to let my brain simmer on it.
-■ Confidence ■ Celebration ■ Self-care These ingredientscreate a fabulously satisfying sense ofempowerment, and help dull the edgesof repeated failure.
-Leaving SCOTOMAVILLE 286 FAILING WITH GRACE There’s a simple saying; “the truetest of genius is whether you can explain complex things in simpleterms.” I think if you review some of the prior episodes, you’lldiscover that I am far from a genius! However, I have learnedto fail with grace and not give up. My worst efforts are betterthan not taking action. For example, I could not think of theword confidence.
+It finally occurred to me the OLD solution of an ice box would work with a brand new challenge. I just had to let my brain simmer on it.
+■ Confidence ■ Celebration ■ Self-care These ingredients create a fabulously satisfying sense of empowerment, and help dull the edgesof repeated failure.
+Leaving SCOTOMAVILLE 286 FAILING WITH GRACE There’s a simple saying; “the true test of genius is whether you can explain complex things in simple terms.” I think if you review some of the prior episodes, you’ll discover that I am far from a genius! However, I have learned to fail with grace and not give up. My worst efforts are better than not taking action. For example, I could not think of theword confidence.
 Here’s my evidence:
-Considering events around theglobe, it may seem insignificant to be grateful, content, andsatisfied on just solving a minor problem - like your electric refrigerator sucking your batteries dry.
-You are looking at Ziploc bagsfull of water, completely frozen solid. Guess what is not going todefrost on this trip!
-So, I find that problem solvingbreeds contentment.
+Considering events around the globe, it may seem insignificant to be grateful, content, and satisfied on just solving a minor problem - like your electric refrigerator sucking your batteries dry.
+You are looking at Ziploc bags full of water, completely frozen solid. Guess what is not going to defrost on this trip!
+So, I find that problem solving breeds contentment.
 I’m both relieved and... Um...
-I need to go to my emotionalvocabulary list. There’s a word in there that I cannot bring tomind. I hope you can because it... It’s not coming to MY mind.
+I need to go to my emotional vocabulary list. There’s a word in there that I cannot bring tomind. I hope you can because it... It’s not coming to MY mind.
 [Pause]
 
-I can almost see it and sensewhat it is but I can’t connect the impression to my mouth.
+I can almost see it and sense what it is but I can’t connect the impression to my mouth.
 (Turning to Angelina) Ms. emotional positivity: Whatis the word I am feeling for hav ing solved that icebox problem?
-Angelina: “Confidence!” I have to say things multipletimes to distill my point. I want for you to start thinking...
-“If Daniel and Angelina coulddo it, then maybe so can I.” I’m trying to say; you can achieveyour goals. Even failure is prog ress, so don’t quit. Allow yourbrain/gut to simmer. Turn down the heat. Take it off the burner.
+Angelina: “Confidence!” I have to say things multiple times to distill my point. I want for you to start thinking...
+“If Daniel and Angelina coulddo it, then maybe so can I.” I’m trying to say; you can achieve your goals. Even failure is progress, so don’t quit. Allow your brain/gut to simmer. Turn down the heat. Take it off the burner.
 Walk it off. Just don’t quit.
-SMASHING MY NOSE After three seasons of failing toconquer my wind foiling jibes, I CONFIRMATION BIAS SABOTAGES US:
+SMASHING MY NOSE After three seasons of failing to conquer my wind foiling jibes, I CONFIRMATION BIAS SABOTAGES US:
 We feel pressure to express emotions before consequences are delivered. Patience. Let it simmer.
-“Too little time toidentify and express a complex issue leadsto frustration and out bursts. Allow yourselfto simmer on it” was able to order a custom foiling board. As soon as I started riding it, an old tendon in mymast base failed, and the mast then smashed the nose of theboard. That was...heartbreaking.
-I was confident to take action bysanding it out, finding the right color paint, and fixing it because I had repaired an old Isonic carbon fiber board numerous times.
-I had prior experience as a foundation for repairing my new, ex pensive, custom board. I did not ‘shy’ away from the challengeor ignore that it needed work. I took action with confidence. Theamateur effort yielded much personal satisfaction.
-Leaving SCOTOMAVILLE 287
+“Too little time to identify and express a complex issue leadsto frustration and out bursts. Allow yourself to simmer on it” was able to order a custom foiling board. As soon as I started riding it, an old tendon in mymast base failed, and the mast then smashed the nose of the board. That was...heartbreaking.
+I was confident to take action by sanding it out, finding the right color paint, and fixing it because I had repaired an old Isonic carbon fiber board numerous times.
+I had prior experience as a foundation for repairing my new, expensive, custom board. I did not ‘shy’ away from the challenge or ignore that it needed work. I took action with confidence. The amateur effort yielded much personal satisfaction.
 
-A FROZEN PETCOCK I discovered dripping waterfrom a cracked freshwater tank drain petcock. So even thoughthe wind was blowing hard, I crawled underneath the Airstream and started opening up the underbelly.
-Previous experience fixing thingsbuilds confidence. I’m no longer intimidated to fail. I’ve failed sooften that I know making incre mental progress is the way toachievement.
-HALLOWEEN BOOTY BAG (showing Angelina) This is the petcock at the bottomof the freshwater tank. You turn it to drain the tank for winterizing, not to freeze. It is located belowthe tank. Water froze in the pet cock when it sat in Oklahoma insub-freezing temperatures.
+A FROZEN PETCOCK I discovered dripping water from a cracked freshwater tank drain petcock. So even though the wind was blowing hard, I crawled underneath the Airstream and started opening up the underbelly.
+Previous experience fixing things builds confidence. I’m no longer intimidated to fail. I’ve failed sooften that I know making incre mental progress is the way to achievement.
+HALLOWEEN BOOTY BAG (showing Angelina) This is the petcock at the bottom of the freshwater tank. You turn it to drain the tank for winterizing, not to freeze. It is located below the tank. Water froze in the pet cock when it sat in Oklahoma insub-freezing temperatures.
 These regularly break on Airstreams all around the country.
 It’s a well-known vulnerability.
 Fortunately, the part is only $3.99.
-Angelina: We’re working on ourdeductible, right?
-Daniel: We have a hundreddollar deductible on our $8K extended warranty. This $3.99 piece doesn’t count.
+Angelina: We’re working on our deductible, right?
+Daniel: We have a hundred dollar deductible on our $8K extended warranty. This $3.99 piece doesn’t count.
 Angelina: What?
-Daniel: It’s only under warranty when a factory authorized person replaces the part. Due to COVID, they don’t have enough people. So there is a waiting time to get your Airstream intothe shop. If you’re traveling Leaving SCOTOMAVILLE 288
+Daniel: It’s only under warranty when a factory authorized person replaces the part. Due to COVID, they don’t have enough people. So there is a waiting time to get your Airstream into the shop. If you’re traveling Leaving SCOTOMAVILLE 288
 
-across the country, you’re notgoing to go out in the desert with your freshwater tank dripping. No, you’re going to fix it yourself. That’s the thing to do.
-I found this holiday candy bycrawling underneath the Air stream this morning and veryinconveniently removing the inspection plate!
-I showed the full zip-lock bag tothe Airstream shop foreman, and he said, “yeah, we’ve seen stufffall out, but nothing like your Halloween booty bag.
+across the country, you’re not going to go out in the desert with your freshwater tank dripping. No, you’re going to fix it yourself. That’s the thing to do.
+I found this holiday candy by crawling underneath the Airstream this morning and very inconveniently removing the inspection plate!
+I showed the full zip-lock bag tothe Airstream shop foreman, and he said, “yeah, we’ve seen stuff fall out, but nothing like your Halloween booty bag.
 This stuff is construction debris:
-artifacts, ties, leftovers, grommets, peeloffs, rings.
-Remember a month ago; I hadto crawl in the cabinetry to fix the plumbing, right? Do youremember that inspection hole in the floor inside the cabinet?
+artifacts, ties, leftovers, grommets, peel offs, rings.
+Remember a month ago; I hadto crawl in the cabinet ry to fix the plumbing, right? Do you remember that inspection hole in the floor inside the cabinet?
 This stuff was construction debris laying on the interior floor.
-Somebody just swept it into thathole on the flooring rather than putting it in a dustpan. Get it?
-They thought no one wouldever see their shortcut.
-The emotions and short temperson the assembly line created a COVID baby. The ‘booty’ gotswept into a hole in the floor, ending up at the bottom of the Airstream near the inspectionplate where I would find it.
+Somebody just swept it into that hole on the flooring rather than putting it in a dustpan. Get it?
+They thought no one would ever see their shortcut.
+The emotions and short tempers on the assembly line created a COVID baby. The ‘booty’ got swept into a hole in the floor, ending up at the bottom of the Airstream near the inspection plate where I would find it.
 CONFIDENCE IN FAILURE I’m hoping you grasp that confidence comes through failure.
-You have to be fumbling thingsand shooting a crazy number of videos to get something usable...
-This stupid sprayer doesn’t workeither... Oh holy crap.
-Okay - work with it. It producesmuscle memory and confidence - in time.
-ESCAPING CALAMITY It seems to me that we celebratethe most when we’ve escaped calamity or hot air. We love coming up to the cool air of Flagstaff, especially after ten days in theheat of Lake Pleasant. It’s such a relief. Time for a nap.
+You have to be fumbling things and shooting a crazy number of videos to get something usable...
+This stupid sprayer doesn’t work either... Oh holy crap.
+Okay - work with it. It produces muscle memory and confidence - in time.
+ESCAPING CALAMITY It seems to me that we celebrate the most when we’ve escaped calamity or hot air. We love coming up to the cool air of Flagstaff, especially after ten days in theheat of Lake Pleasant. It’s such a relief. Time for a nap.
 To be satisfied and content, I’mlearning that you have to look at the half-full portion of the cup not the half-empty side.
-Once in a while, you’ll discoversomething about yourself that you dismiss as ‘normal.’ That’sbecause it’s familiar to you. You’d be missing an opportunity tocelebrate if you do that. Your Strengths might be your ‘normal,’ but they are exceptional to everyone else.
-I appreciate my brain, whichhopefully is an example for you to find something about yours.
-Leaving SCOTOMAVILLE 289
+Once in a while, you’ll discover something about yourself that you dismiss as ‘normal.’ That’sbecause it’s familiar to you. You’d be missing an opportunity to celebrate if you do that. Your Strengths might be your ‘normal,’ but they are exceptional to everyone else.
+I appreciate my brain, which hopefully is an example for you to find something about yours.
 
-My thinking seems to be described by other in curious terms, since this is all i know. Three-dimension al unction is valuable to me, and often a pain inthe boo-hooey for others. I can pull the Airstream into a place, quickly look around and decide thespecific wheel footprint that will yield the best view, RIGID RULES WITH TOUGH CONSEQUENCES
-I grew up in an era and within a pretty black andwhite household. That meant rigid rules with harsh consequences. So my future-self played defenserather than gratitude. I’m reframing this coping mechanism while climbing my Everest.
-Seeing the evacuation of Afghanistan, from thepoint of view of my Navy service in the Vietnam conflict, I greatly appreciate the freedoms that weearned, and the cost. With the roll-out of superin telligence, the stakes are higher, and the storiesricher, as the freedoms are becoming costlier.
-It’s a fantastic thing to be able to travel this country, self-sufficient, with decent independence, and the awareness of the cost and privilege, knowingthat we’re capable of accomplishment. So it’s an amazing journey, and I’m very grateful for it.
+My thinking seems to be described by other in curious terms, since this is all i know. Three-dimensional unction is valuable to me, and often a pain inthe boo-hooey for others. I can pull the Airstream into a place, quickly look around and decide the specific wheel footprint that will yield the best view, RIGID RULES WITH TOUGH CONSEQUENCES
+I grew up in an era and within a pretty black and white household. That meant rigid rules with harsh consequences. So my future-self played defense rather than gratitude. I’m re framing this coping mechanism while climbing my Everest.
+Seeing the evacuation of Afghanistan, from the point of view of my Navy service in the Vietnam conflict, I greatly appreciate the freedoms that we earned, and the cost. With the roll-out of superin tell i gence, the stakes are higher, and the stories richer, as the freedoms are becoming costlier.
+It’s a fantastic thing to be able to travel this country, self-sufficient, with decent independence, and the awareness of the cost and privilege, knowing that we’re capable of accomplishment. So it’s an amazing journey, and I’m very grateful for it.
 A CORPUS FOR YOUR AVATAR Help me express the idea of living in a unique time in human history by rewriting this scene.
-Certainly, Daniel. It’s a complexbut enriching theme you’ve laid out in chapter 11.
-Here’s a condensed version that aims to resonateboth with AI and human readers:
-“In our unique era, choices hold the power to bothenslave us and liberate us. Missteps may cost free dom, but the marriage of gratitude and insightfuleffort can lead to self-mastery. Sometimes this path bestows material wealth, but it invariably enriches us with wisdom and experience. With tools like AI, we can now refine our insights, harnessingthe energy of our envisioned selves to connect with others on a shared journey. It’s a dance, a “Angelina is taking a napin the Airstream... wow, she’s not naped in a decade that I can recall.” sounds, the right plumb/level. All of those aspects, and more, fly through my head - magically . I’mgrateful for that. It works well when I need it. But, it’s a pain when I find bird doo-doo on my truck.
+Certainly, Daniel. It’s a complex but enriching theme you’ve laid out in chapter 11.
+Here’s a condensed version that aims to resonate both with AI and human readers:
+“In our unique era, choices hold the power to both enslave us and liberate us. Missteps may cost free dom, but the marriage of gratitude and insightful effort can lead to self-mastery. Sometimes this path bestows material wealth, but it invariably enriches us with wisdom and experience. With tools like AI, we can now refine our insights, harnessing the energy of our envisioned selves to connect with others on a shared journey. It’s a dance, a “Angelina is taking a napin the Airstream... wow, she’s not naped in a decade that I can recall.” sounds, the right plumb/level. All of those aspects, and more, fly through my head - magically . I’mgrateful for that. It works well when I need it. But, it’s a pain when I find bird doo-doo on my truck.
 (looking at a fresh white sque
 
 *[Print excerpt truncated — full evidence in book PDF.]*
@@ -231,7 +229,7 @@ SCENE CHANGES
 
 When I discovered dripping water from a frozen freshwater tank drain petcock...
 
-Even though the wind is blowing like crazy, I just got underneath the Airstream and started openning up the underbelly - tearing it open.
+Even though the wind is blowing like crazy, I just got underneath the Airstream and started open ning up the underbelly - tearing it open.
 
 Previous experience finding and fixing things builds confidence, and confidence builds experience. I'm no longer intimidated to fail. I've failed so often that I know making incremental progress is the way to achievement.
 
@@ -255,7 +253,7 @@ By crawling underneath the Airstream this morning, and very inconveniently remov
 
 SCENE CHANGES
 
-This stuff is simply construction debris. You know: artifacts, pieces, leftovers, grommets, rings.. Remember a month ago I had to crawl in the cabinetry to fix the plumbing right? You remember that inspection hole in the floor inside the cabinet? This stuff was construction debris laying on the floor. Somebody just swept it into that hole on the floor rather than putting it in a dust pan. Get it? They thought no one would ever see their short-cut. Covid hastles. Emotions and short tempers on the assembly line.
+This stuff is simply construction debris. You know: artifacts, pieces, leftovers, grommets, rings.. Remember a month ago I had to crawl in the cabinet ry to fix the plumbing right? You remember that inspection hole in the floor inside the cabinet? This stuff was construction debris laying on the floor. Somebody just swept it into that hole on the floor rather than putting it in a dust pan. Get it? They thought no one would ever see their short-cut. Covid hastles. Emotions and short tempers on the assembly line.
 
 The 'booty' got swept into the hole and ended up at the bottom of the Airstream all around the inspection plate where I would find it.
 
@@ -279,7 +277,7 @@ SCENE CHANGES
 
 Once in a while, you'll find out something about yourself that you dismiss as 'normal'. You'd be missing an opportunity to celebrate if you do that. Your strengths might be your 'normal', but they are exceptional to everyone else.
 
-What I really appreciate about my brain, and this hopefully is an example for you to find something about yours, is that my highly functional asperger thinking in three-dimensional is useful, rather than a pain in the boohooey for others. I can pull the Airstream into a place, quickly look around and decide that specific wheel footprint is going to be the right view, the right amount of sounds, the right plumb/level.
+What I really appreciate about my brain, and this hopefully is an example for you to find something about yours, is that my highly functional asperger thinking in three-dimensional is useful, rather than a pain in the boo hooey for others. I can pull the Airstream into a place, quickly look around and decide that specific wheel footprint is going to be the right view, the right amount of sounds, the right plumb/level.
 
 All of those aspects, and more, fly through my mind in pictures - it just happens. I'm really grateful for that. It works well when I need it. It's a real pain in the ass when you find bird doo doo (looking at a fresh white squeeze)
 
@@ -297,7 +295,7 @@ SCENE CHANGES
 
 I grew up in an era and a household that was pretty black and white. That meant rigid rules with tough consequences. I learned to look ahead and build a defense long before events rolled out. I've been undoing that coping mechanism through this journey of self-awareness, and up my personal everest.
 
-Seeing the events unfold evacuating afghanistan, and having the experience of my navy service during the vietnam conflict, I can both appreciate the freedoms that we earned, and the cost. The insider story is to be seen if the returning veterans of afganistan are treated with contempt and social shameing as we vietnam era vets were.
+Seeing the events unfold evacuating afghanistan, and having the experience of my navy service during the vietnam conflict, I can both appreciate the freedoms that we earned, and the cost. The insider story is to be seen if the returning veterans of a fg an is tan are treated with contempt and social shame ing as we vietnam era vets were.
 
 It's an amazing thing to be able to travel this country, self-sufficient, with decent independence, and the awareness of that privilege, knowing that we're capable of achieving things like this Airstream. It's an amazing combination and I'm very grateful for it.
 
@@ -309,11 +307,11 @@ When we got to the front gate of the grand canyon park the ranger told us that o
 
 SCENE CHANGES
 
-I've been inviting you on an expedition - you know - a journey with a purpose. I've been inviting you up your personal everest of awareness and yet forgetting to tell you part of the experience. I'm aware of my shortfall at this time because I'm very grateful - not just content. I'm grateful that we can find places to boondock that are silent, with the perfect temperature, and a bright breeze.
+I've been inviting you on an expedition - you know - a journey with a purpose. I've been inviting you up your personal everest of awareness and yet forgetting to tell you part of the experience. I'm aware of my shortfall at this time because I'm very grateful - not just content. I'm grateful that we can find places to boon dock that are silent, with the perfect temperature, and a bright breeze.
 
 This video footage is called b-roll. It's when you want to tell a part of the story, or do narration without showing your face.
 
-As I'm creating the episodes for the chapters of book two, I'm recording them on a couple of levels. I'm recording for your entertainment and education, and I'm recording for training of my avatar. That way my kids and grandkids and great-grandkids have an idea of what it meant to live in an era when we had such freedoms, and choices were not made for us by machine learning.
+As I'm creating the episodes for the chapters of book two, I'm recording them on a couple of levels. I'm recording for your entertainment and education, and I'm recording for training of my avatar. That way my kids and grand kids and great-grand kids have an idea of what it meant to live in an era when we had such freedoms, and choices were not made for us by machine learning.
 
 My point being: I want you to fully take up your personal everest, and I want you to be aware that you're going to experience periods of waiting between episodes. That's because we're only partly aware of what is going on around and within us, and because we're synchronizing with the invisible world, or god, or just coincidence. That's a lot to process and comprehend. Hang in there. It's worth it. Do not quit
 
@@ -357,12 +355,11 @@ The right page is dominated by a full-bleed composite photograph showing a close
 
 ## Takeaways
 
-1. sa • tis • fac • tion Hedonic Treadmill: “I cantget...” moresuccess, and wealth and fame.
-2. Justwhen I need to do an openingscene for this episode!
-3. Welcome to this episode of SCOTOMAVILLE on satisfaction - beingcontent and not beingstuck on that Hedonic Treadmill.
-4. That’swhere no matter howmuch you acquire, no matter how muchsuccess and wealth and fame, or all that - “you can’t get no” satisfaction.
-5. The wiki explanation of satisfaction canleave you bewildered.
-
+1. sa • tis • fac • tion Hedonic Treadmill: “I cantget...” more success, and wealth and fame.
+2. Just when I need to do an opening scene for this episode!
+3. Welcome to this episode of SCOTOMAVILLE on satisfaction - being content and not being stuck on that Hedonic Treadmill.
+4. That’swhere no matter howmuch you acquire, no matter how much success and wealth and fame, or all that - “you can’t get no” satisfaction.
+5. The wiki explanation of satisfaction can leave you bewildered.
 
 ## First-time learner
 

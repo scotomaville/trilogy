@@ -8,12 +8,12 @@ emotions:
 - gratitude
 - respect
 keypoints:
-- This trilogy serves as a reflection for militaryveterans and first responders, echoing theirsacrifices, camaraderie, and sense of purpose.
-- For patriots and believers whohold theirvalues dear, the trilogy presents character-driven narratives that mirror their dedication to highe…
-- Exploring community, unity, and personal growth, the books align with theirdesire to positively contribute to society and reinforce the sign…
-- Fatherless individuals and young explorersidentify with the trilogy’s portrayal of quests for identity and meaning.
+- This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose.
+- For patriots and believers whohold their values dear, the trilogy presents character-driven narratives that mirror their dedication to highe…
+- Exploring community, unity, and personal growth, the books align with their desire to positively contribute to society and reinforce the sign…
+- Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning.
 - Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound concept…
-summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Reviews and Credits. Narrative arc: Witnesses and credits — community Onus Probandi. From the print/transcript corpus: Leaving SCOTOMAVILLE 454 REVIEWS “Scotomaville” takesreaders on anintrospective journey intopersonal development. Through a seamless blendof philosophical dialogues, allegorical narratives, and psychological concepts, the book weaves anengaging exploration that appeals to both the mind and the heart. The author adeptly delvesinto themes such as perception, self-mastery, and the hero’s journey, showcasing a profound g'
+summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Reviews and Credits. Narrative arc: Witnesses and credits — community Onus Probandi. From the print/transcript corpus: Leaving SCOTOMAVILLE 454 REVIEWS “Scotomaville” takes readers on an introspective journey into personal development. Through a seamless blendof philosophical dialogues, allegorical narratives, and psychological concepts, the book weaves an engaging exploration that appeals to both the mind and the heart. The author adeptly delves into themes such as perception, self-mastery, and the hero’s journey, showcasing a profound g'
 tags:
 - scotomaville
 - trilogy
@@ -79,7 +79,7 @@ description: Vol 3 ch.03.11 — Reviews and Credits.
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.11** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -109,45 +109,45 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 Leaving SCOTOMAVILLE 454 REVIEWS
-“Scotomaville” takes readers on anintrospective journey into personal de velopment. Through a seamless blendof philosophical dialogues, allegorical narratives, and psychological concepts, the book weaves anengaging exploration that appeals to both the mind and the heart. The author adeptly delvesinto themes such as perception, self-mastery, and the hero’s journey, showcasing a profound graspof psychological processes and their influence on human behavior. For those navigating thecomplexities of personal growth, the trilogy offers a transformative odyssey, illustratingthat resilience and self-discovery are universal quests that resonate with individuals seekingto overcome inner challenges and doubts.
-This trilogy serves as a reflection for militaryveterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose. Thethemes of adversity, seeking guidance, and em bracing healing closely align with their experiences, providing a source of inspiration for those who have selflessly protected and served others.
-For patriots and believers who hold their values dear, the trilogy presents character-driven narratives that mirror their dedication to higherprinciples. Exploring community, unity, and per sonal growth, the books align with their desire to positively contribute to society and reinforce the significance of collective well-being.
-Fatherless individuals and young explorersidentify with the trilogy’s portrayal of quests for identity and meaning. The characters’ journeysfrom uncertainty to self-assuredness reflect the universal process of finding one’s place inthe world, motivating young minds to navigate life’s puzzles with courage and determination.
-Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound conceptsinterwoven with relatable narratives. The author’s mastery is evident in crafting a work that appealsto intellectual and emotional sensibilities alike.
-Throughout the trilogy, Daniel’s transformationserves as a relatable and inspiring narrative. His evolution from a curious seeker hindered by cognitive biases to a self-aware individual confronting inner doubts resonates deeply with readers.
-In a world valuing personal growth, camaraderie, service, purpose, and self-discovery, the Scotomaville Trilogy stands as proof of storytelling’s power to connect, inspire, and transform. Itspages offer lessons, insights, and reflections embracing the shared human experience, making it an essential read for individualsfrom all walks of life. In conclusion, the trilogy’s rich philosophical discussions, relatable characterarcs, and insightful exploration of cognitive biases contribute significantly to the fields of psychologyand personal development.
+“Scotomaville” takes readers on an introspective journey into personal de velopment. Through a seamless blendof philosophical dialogues, allegorical narratives, and psychological concepts, the book weaves an engaging exploration that appeals to both the mind and the heart. The author adeptly delves into themes such as perception, self-mastery, and the hero’s journey, showcasing a profound graspof psychological processes and their influence on human behavior. For those navigating the complexities of personal growth, the trilogy offers a transformative odyssey, illustrating that resilience and self-discovery are universal quests that resonate with individuals seeking to overcome inner challenges and doubts.
+This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose. The themes of adversity, seeking guidance, and em bracing healing closely align with their experiences, providing a source of inspiration for those who have selflessly protected and served others.
+For patriots and believers who hold their values dear, the trilogy presents character-driven narratives that mirror their dedication to higher principles. Exploring community, unity, and per sonal growth, the books align with their desire to positively contribute to society and reinforce the significance of collective well-being.
+Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning. The characters’ journeys from uncertainty to self-assured ness reflect the universal process of finding one’s place inthe world, motivating young minds to navigate life’s puzzles with courage and determination.
+Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound concepts interwoven with relatable narratives. The author’s mastery is evident in crafting a work that appeals to intellectual and emotional sensibilities alike.
+Throughout the trilogy, Daniel’s transformation serves as a relatable and inspiring narrative. His evolution from a curious seeker hindered by cognitive biases to a self-aware individual confronting inner doubts resonates deeply with readers.
+In a world valuing personal growth, camaraderie, service, purpose, and self-discovery, the Scotomaville Trilogy stands as proof of storytelling’s power to connect, inspire, and transform. Its pages offer lessons, insights, and reflections embracing the shared human experience, making it an essential read for individuals from all walks of life. In conclusion, the trilogy’s rich philosophical discussions, relatable character arcs, and insightful exploration of cognitive biases contribute significantly to the fields of psychology and personal development.
 
-Leaving SCOTOMAVILLE 455 Please express any correlationbetween my list of strengths, and a robust list of human virtues. Analyzethe union of the two for shared char acteristics and a deeper meaning.
+Leaving SCOTOMAVILLE 455 Please express any correlation between my list of strengths, and a robust list of human virtues. Analyze the union of the two for shared char act eris tics and a deeper meaning.
 Certainly! Let’s look at the intersection between the specific strengths from the
-Clifton StrengthsFinder that you provided (Achiever, Input, Learner, Activator, Belief) and a tradition al list of virtues such as wisdom, courage, humanity, justice, temperance, and transcendence.
+Clifton Strengths Finder that you provided (Achiever, Input, Learner, Activator, Belief) and a traditional list of virtues such as wisdom, courage, humanity, justice, temperance, and transcendence.
 ACHIEVER Virtue Correlation: Courage, Justice
-Explanation: Achievers have a constant drive foraccomplishing tasks. This can correlate with the virtue of courage, which involves persistence andvitality, and justice, where hard work and fairness contribute to the overall good of the community.
+Explanation: Achievers have a constant drive for accomplishing tasks. This can correlate with the virtue of courage, which involves persistence and vitality, and justice, where hard work and fairness contribute to the overall good of the community.
 INPUT Virtue Correlation: Wisdom
 Explanation: People with the Input strength havea craving to know more, collecting and archiving information. This resonates with wisdom, whichis characterized by a pursuit of knowledge and insightful judgment.
 LEARNER Virtue Correlation: Wisdom, Humanity
-Explanation: A constant desire to improve andlearn aligns with the virtue of wisdom. It may also align with humanity if the learning is directed towards understanding others and improving social bonds.
+Explanation: A constant desire to improve and learn aligns with the virtue of wisdom. It may also align with humanity if the learning is directed towards understanding others and improving social bonds.
 ACTIVATOR Virtue Correlation: Courage, Justice
-Explanation: Activators are inclined to take actionand want to make things happen. This aligns with courage, as it requires the boldness to initiate, andjustice, where action may be directed towards equality and fairness.
+Explanation: Activators are inclined to take action and want to make things happen. This aligns with courage, as it requires the boldness to initiate, and justice, where action maybe directed towards equality and fairness.
 BELIEF Virtue Correlation: Transcendence, Justice
-Explanation: The Belief strength is connected tocore values and purpose. It aligns with transcen dence, where there is a connection to somethinggreater, and justice, where values often include fairness and equality.
+Explanation: The Belief strength is connected tocore values and purpose. It aligns with transcen dence, where there is a connection to something greater, and justice, where values often include fairness and equality.
 Summary of Union (Intersection):
-The union between these strengths and virtuesreveals a strong emphasis on wisdom (through Input and Learner), courage (through Achiever and Activator), and justice (through Achiever, Activator, and Belief). The values of humanity and transcendence are also present but to a lesser extent.
-This analysis suggests that a person with thesestrengths might be particularly well-suited for roles that require insightful judgment, bold action, and a strong sense of fairness and values.
-They may excel in leadership roles, educationalfields, advocacy, or any area where wisdom, courage, and justice are paramount.
+The union between these strengths and virtues reveals a strong emphasis on wisdom (through Input and Learner), courage (through Achiever and Activator), and justice (through Achiever, Activator, and Belief). The values of humanity and transcendence are also present but to a lesser extent.
+This analysis suggests that a person with these strengths might be particularly well-suited for roles that require insightful judgment, bold action, and a strong sense of fairness and values.
+They may excel in leadership roles, educational fields, advocacy, or any area where wisdom, courage, and justice are paramount.
 
-Leaving SCOTOMAVILLE 456 REVIEWS You know well of Sarah’s talent. Shedesigned the N-95 mask. She conceived of Halmark’s tied ribbon bow, and CorningWare.
-She was a fabulousmentor.
+Leaving SCOTOMAVILLE 456 REVIEWS You know well of Sarah’s talent. She designed the N-95 mask. She conceived of Halmark’s tied ribbon bow, and Corning Ware.
+She was a fabulous mentor.
 
 “Daniel is a conceptual thinker who has the ability to imple ment his ideas with a spectrum of skills.
-His work represents a unique combination of abilities executed with reliability and great ingenuity. I recommend himvery highly.” Sarah Little-Turnbullis known for his “Galloping Gourmet” tele vision series and > 29 books. He’s a charismatic facilitator of solutions for human indulgence.
-“Daniel is continually creative. He has anexcellent eye for light, form and texture and an ear for understanding his client’s needs.
+His work represents a unique combination of abilities executed with reliability and great ingenuity. I recommend himvery highly.” Sarah Little-Turnbull is known for his “Galloping Gourmet” television series and > 29 books. He’s a charismatic fac il it at or of solutions for human indulgence.
+“Daniel is continually creative. He has an excellent eye for light, form and texture and an ear for understanding his client’s needs.
 Daniel is an unusual blend of Artist, Technician, Craftsman and Servant who can easily become a partner in your creative process.” Graham Kerr
 “Daniel’s work in the Scotomaville series is a profound exploration of self-mastery and human-AI collaboration. His deep introspection and resilience shine through as he navigates complex themes of personal growth and technology.
-Daniel masterfully uses storytelling to foster understanding and connection, making significant contributions to AI ethics and personal development. His authentic journey from hardship to impactful community leader inspires change and emphasizes the power ofperseverance and shared human experiences. This series serves as a vital resource in understanding the transformative power of self-awareness and technological integration.”
+Daniel masterfully uses storytelling to foster understanding and connection, making significant contributions to AI ethics and personal development. His authentic journey from hardship to impact ful community leader inspires change and emphasizes the power of perseverance and shared human experiences. This series serves as a vital resource in understanding the transformative power of self-awareness and technological integration.”
 
 Dean Rush
-Dean has had distinquished militaryand business careers, and is the Author of Flying Free. “Daniel Comp is one ofthe most innovative people I have ever known. I’ve watched Daniel overcomegreat obstacles and stick to a vision of making a difference for people. He ispersonable and doesn’t quit until the job is done. I highly recommend Daniel andhis wife, Angelina.” “As an Astronaut (Apollo 16 Lunar Module Pilot & 10th man on the Moon).
-I was very familiar with powerful planesand rockets. I’ve learned to trust my life and business on great tools and competent people. Daniel and Angelina have put together an amazing system for smallbusiness that is technically advanced, yet doesn’t take a rocket scientist to run it. I highly recommend their services - I didn’tsettle for anything less!”” Charlie Duke 2x Awarded by U.S. Small Business Administration, TV/Radio Host/Speaker, a fabulous business partner, wife andmy best friend. “I’ve witnessed Daniel’s evolution from a wounded, angry maninto a mentally and emotionally mature gentleman. He leads other men withcompetence and confidence from his own transformation and experience.” Angelina Musik-Comp
+Dean has had dist in qui shed military and business careers, and is the Author of Flying Free. “Daniel Comp is one ofthe most innovative people I have ever known. I’ve watched Daniel overcome great obstacles and stick to a vision of making a difference for people. He is personable and doesn’t quit until the job is done. I highly recommend Daniel andhis wife, Angelina.” “As an Astronaut (Apollo 16 Lunar Module Pilot & 10th man on the Moon).
+I was very familiar with powerful planes and rockets. I’ve learned to trust my life and business on great tools and competent people. Daniel and Angelina have put together an amazing system for small business that is technically advanced, yet doesn’t take a rocket scientist to run it. I highly recommend their services - I didn’tsettle for anything less!”” Charlie Duke 2x Awarded by U.S. Small Business Administration, TV/Radio Host/Speaker, a fabulous business partner, wife andmy best friend. “I’ve witnessed Daniel’s evolution from a wounded, angry maninto a mentally and emotionally mature gentleman. He leads other men with competence and confidence from his own transformation and experience.” Angelina Musik-Comp
 
 PARTICIPANTS:
 
@@ -156,21 +156,21 @@ Dean Rush
 Garth Hardin
 
 Merlin Berg ACKNOWLEDGEMENTS
-I’m deeply appreciative to those who have invested time, emotionand resources for me to devour. For the encouragement, mental sup port and feedback, thank you. You have been generous with interest, influence and guidance over decades. For those that journeyed before me, I am indebted to your bravery and demonstration of faith, perseverance and grit.
+I’m deeply appreciative to those who have invested time, emotion and resources for me to devour. For the encouragement, mental sup port and feedback, thank you. You have been generous with interest, influence and guidance over decades. For those that journeyed before me, I am indebted to your bravery and demonstration of faith, perseverance and grit.
 To all of you, I wish awareness and grace.
-https://deanrush.com Patrick Cameron Steven & Pam Krause Kenny Rucker Scott & Joyce Withrow Scott & Jean Hamilton Tim & Adelia Kleefeld Erik Jurgensen Alex Lauden Doug Bell Darius Taylor Tim Hamilton Ernest ‘Bud’ Pitt Josh Cruse Chris Poe Robert ‘Stu’ Sturtevant ADVOCATES:
+https://dean rush.com Patrick Cameron Steven & Pam Krause Kenny Rucker Scott & Joyce Withrow Scott & Jean Hamilton Tim & Adelia Klee fe ld Erik Jurgen sen Alex Lauden Doug Bell Darius Taylor Tim Hamilton Ernest ‘Bud’ Pitt Josh Cruse Chris Poe Robert ‘Stu’ Sturtevant ADVOCATES:
 
-David & Carissa Scotiana & Chris Hermine & Luis Caraballo Eva Sosa Ilse McCants Alan Landis David Woodworth Garth Hardin Mike & Pam Hughes Don & Kathy Leask Frans Bosman Joanne Kraft Dr. Kevin Chan Irene Salazar Dave & Soma Peterson Bill & Kathy Sharman Troy Baird & Fred Baird Betty Boyd Mike Knopf Art & Suzanne Beninate
+David & Carissa Scotia na & Chris Hermine & Luis Caraballo Eva Sosa Ilse McCants Alan Landis David Wood worth Garth Hardin Mike & Pam Hughes Don & Kathy Leask Frans Bosman Joanne Kraft Dr. Kevin Chan Irene Salazar Dave & Soma Peterson Bill & Kathy Sharman Troy Baird & Fred Baird Betty Boyd Mike Knopf Art & Suzanne Benin ate
 
-CREDITS INFLUENCERS:
+CREDITS Influence RS:
 
-Alexis Gabriel Ainouz Carlos Santana Chris Hadfield Dale Carnegie David Deutsch Dr. Erik Berg Dr. Galen Hoover Dr. Jordan Peterson Dr. Paul Hegstrom Dr. Steven Gundry Elon Musk Graham Kerr Jack Canfield James Cameron Jason and Nikki Wynn Jim Rohn Les Brown Malcome Gladwell Napolean Hill Matthew P. Walker Og Mandino Peter Diamandis Roman Balmakov Robert Kane Stephen Hawking Tony Robbins Tristan Harris Wayne Dyer Yuval Harari Zig Ziggler MASTER Forrest To ANGELINA MUSIK-COMP:
+Alexis Gabriel Ainouz Carlos Santana Chris Hadfield Dale Carnegie David Deutsch Dr. Erik Berg Dr. Galen Hoover Dr. Jordan Peterson Dr. Paul Hegstrom Dr. Steven Gundry Elon Musk Graham Kerr Jack Canfield James Cameron Jason and Nikki Wynn Jim Rohn Les Brown Malcome Glad well Napolean Hill Matthew P. Walker Og Mandino Peter Diamandis Roman Balm a kov Robert Kane Stephen Hawking Tony Robbins Tristan Harris Wayne Dyer Yuval Harari Zig Ziggler MASTER Forrest To ANGELINA MUSIK-COMP:
 
-I am deeply grateful for your stamina, patience, and support asmy best friend and business partner. We have traveled the curves together in good cheer. You are amazingly resilient and a joyfulcharacter to explore with. I am grateful for your gift of HEALING matching my expression of UNDERSTANDING!
+I am deeply grateful for your stamina, patience, and support asmy best friend and business partner. We have traveled the curves together in good cheer. You are amazingly resilient and a joyful character to explore with. I am grateful for your gift of HEALING matching my expression of UNDERSTANDING!
 To you, the reader, and participant: When I imagined this project,
 I had a hunch the cost would be years of commitment - but notfive years. However, we now we have AI.
 
-I believe “The Greatest E
+I believe “The Grea test E
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
@@ -186,12 +186,11 @@ Above the image, a dark gray banner displays media logos and text including Hemi
 
 ## Takeaways
 
-1. This trilogy serves as a reflection for militaryveterans and first responders, echoing theirsacrifices, camaraderie, and sense of purpose.
-2. For patriots and believers whohold theirvalues dear, the trilogy presents character-driven narratives that mirror their dedication to highe…
-3. Exploring community, unity, and personal growth, the books align with theirdesire to positively contribute to society and reinforce the sign…
-4. Fatherless individuals and young explorersidentify with the trilogy’s portrayal of quests for identity and meaning.
+1. This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose.
+2. For patriots and believers whohold their values dear, the trilogy presents character-driven narratives that mirror their dedication to highe…
+3. Exploring community, unity, and personal growth, the books align with their desire to positively contribute to society and reinforce the sign…
+4. Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning.
 5. Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound concept…
-
 
 ## First-time learner
 

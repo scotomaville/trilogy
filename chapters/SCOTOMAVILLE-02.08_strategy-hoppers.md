@@ -72,7 +72,7 @@ description: Vol 2 ch.02.08 — Strategy (Hoppers).
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.08** 
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -142,7 +142,7 @@ Daniel: we planned to relocate today to take advantage of the wind and to get ou
 
 One of the aspects of developing a strategy is recognizing that the mobile lifestyle is mobile - you can move. That's why we're trying to teach you about Hoppers and the primary strategy of the game. In most player turns, there are multiple opportunities and multiple ways to move.
 
-HOPING A HISTORIC HEATWAVE Having a fundamental strategy, based on some core principles can serve you well as you discover things you didn't expect. We're having a 100-year historic heatwave with high temperatures like 105 to 114 in Hood River, in The Gorge, or all of Southern and Northern Oregon, Southern Washington. With a historic heatwave, you can't be outdoors in an aluminum can at that kind of temperature. Boondocking just does not work.
+HOPING A HISTORIC HEATWAVE Having a fundamental strategy, based on some core principles can serve you well as you discover things you didn't expect. We're having a 100-year historic heatwave with high temperatures like 105 to 114 in Hood River, in The Gorge, or all of Southern and Northern Oregon, Southern Washington. With a historic heatwave, you can't be outdoors in an aluminum can at that kind of temperature. Boon docking just does not work.
 
 I've come up into the white pass cascade trail campground. I was very fortunate to get a spot and barely get my butt in it. Parking a 30 feet trailer in a 24-foot slot - that's a little maneuvering.
 
@@ -162,17 +162,17 @@ So I think that today is going to be a mostly indoor day. It's not because it's 
 
 So yeah hoppers. You gotta be flexible, and you gotta look at your options, and since the battery's low I can't edit the video. What can I do? Single move. I can shoot clips like this.
 
-We're boondocking. There's a hundred percent charge rate on the briefcase - meaning it's putting out 11.2 amps, 13.3 amp hours so far, 12.9 volts, yahoo we're up to three quarters charged now, and that while the trailer is mostly in the shade. Yahoo. That is fabulous while a very subtle breeze is coming in off of the lake below a ski area when there's a massive heatwave. Nice.
+We're boon docking. There's a hundred percent charge rate on the briefcase - meaning it's putting out 11.2 amps, 13.3 amp hours so far, 12.9 volts, yahoo we're up to three quarters charged now, and that while the trailer is mostly in the shade. Yahoo. That is fabulous while a very subtle breeze is coming in off of the lake below a ski area when there's a massive heatwave. Nice.
 
 MULTI HOPING A HEATWAVE Why in the world would that put a smile on my face? Think about all the moves on the board. A historic-century heat wave is underway. We need to get to a higher altitude, but, oh yeah, everyone's going to a higher altitude. Everyone's going to find a cooler place. I forgot about the mosquitoes. Put that aside. I needed to get here in time to get a place. I needed to be able to fit the rig in. I needed to figure out when the sun was going to come out between the tree shadows and where I needed to have the solar briefcase. I positioned the airstream so that it's in the shade to stay cool while it gets cooled overnight with the windows open.
 
 Count all those steps. I've lost track.
 
-Then to have it work out where the afternoon breeze comes through the windows, blowing off the lake, coming down from the mountain. That's cool air coming through the rig while it's in the shade under the trees with the solar collecting to recharge the battery so your refrigerator and freezer will stay cold.
+Then to have it workout where the afternoon breeze comes through the windows, blowing off the lake, coming down from the mountain. That's cool air coming through the rig while it's in the shade under the trees with the solar collecting to recharge the battery so your refrigerator and freezer will stay cold.
 
 (close-up of refer controls) Do you hear that churning rumbling sound? It's kind of like the refrigerator's gut is growling. That's coolant running. There's enough voltage... (looking at voltmeter) that's a happy noise. Anyway, that's a long description, Alan Landis would say, of why Daniel is smiling. He made the right moves, with multiple hops to stay cool during a historic heatwave with minimal power. I did well. That was a multi-hop.
 
-LEARNING TO SPEAK THE TRUTH a significant philosophy I'd like you to consider is learning to speak the truth. You see, seeking the truth, and speaking the truth can be difficult. Highly functional Aspergers have a hard time making it up because they don't even have the wiring for that. That gave me an advantage, but I just could not for most of my life even imagine how deceptive people, in general, can be. I'd encourage you to learn to speak the truth.
+LEARNING TO SPEAK THE TRUTH a significant philosophy I'd like you to consider is learning to speak the truth. You see, seeking the truth, and speaking the truth can be difficult. Highly functional Aspergers have a hard time making it up because they don't even have the wiring for that. That gave mean advantage, but I just could not for most of my life even imagine how deceptive people, in general, can be. I'd encourage you to learn to speak the truth.
 
 Here are some examples.
 
@@ -182,7 +182,7 @@ FRAGILE ORGANIC PARTS discretion is the better part of valor. I had to fall off 
 
 I just came out to wash the truck to make a mental break and take a look at what I just found. That was a bird. I have no idea how long that's been there. It's pretty dry. That's brutal. That's life.
 
-FRAGILE ALUMINUM PARTS Remember when I said I put a 30-foot air stream in a 24-foot site? Yeah? Apparently, underneath one of those bushes was a solid stump. That dent is going to take me a bit of time to fix well.
+FRAGILE ALUMINUM PARTS Remember when I said I put a 30-foot Airstream in a 24-foot site? Yeah? Apparently, underneath one of those bushes was a solid stump. That dent is going to take me a bit of time to fix well.
 
 MAKING A BOLD MOVE you want to ramp up on your learning. that's what I mean about learning to speak the truth. Most Airstreaming channels are going to tell you that 'living the dream' is great. That gets YouTube to recommend the video and you get more views and they put advertising in it so you can make some income. I get that. It's common.
 
@@ -198,12 +198,11 @@ BEING BROKE VS BEING POOR
 
 I recall Jim Rohn pointing out the difference between being broke and being poor. Being poor is a state of mind. It points to a lack of ambition. Being broke is just a situation. You can be broke and never be poor. That's the truth.
 
-In network marketing and the RV market, selling the dream is the mantra they march to by inviting you to work when and where, and how you want. I think you've seen examples of the things you can consider and new skills you may acquire to pursue your dream. I want to encourage you, it's worth pursuing. As you've heard me say; "the greatest expedition you will ever undertake is that journey to self-understanding."
+In network marketing and the RV market, selling the dream is the mantra they march toby inviting you to work when and where, and how you want. I think you've seen examples of the things you can consider and new skills you may acquire to pursue your dream. I want to encourage you, it's worth pursuing. As you've heard me say; "the grea test expedition you will ever undertake is that journey to self-understanding."
 
 Thanks for watching this episode of Scotomaville. I look forward to reading your comments and meeting you at one of our upcoming events.
 
 Thanks for watching
-
 
 ## Visual notes (print spreads)
 
@@ -226,7 +225,6 @@ The right-hand page is dominated by a large, realistic photograph of Daniel lyin
 3. Sideways and backward moves can be the way forward on the road and in life.
 4. Mobile living is leverage on know thyself — life comes with you.
 5. Prefer truth-telling over living-the-dream theater (Onus Probandi on video).
-
 
 ## First-time learner
 
