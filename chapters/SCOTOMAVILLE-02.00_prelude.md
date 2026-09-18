@@ -8,11 +8,11 @@ emotions:
 - intent
 - courage
 keypoints:
-- '160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong.'
+- "160 EXPEDITION PRELUDE v2 What you wouldn't expect is how often we are 100% wrong."
 - VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE!
-- We're in a fabulous place called Purgatory.
+- "We're in a fabulous place called Purgatory."
 - From there, you can use discipline to change the trajectory of your experience in life.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Prelude. Narrative arc: Expedition volume threshold. From the print/transcript corpus: 160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong. VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE! We're in a fabulous place called Purgatory. But, C.S. Lewis wrote that we can chose to leave. We don't have to stay here. Yea! Volume One is about mental tools for self-awareness to get to self-understanding. From there, you can use discipline to change the trajectory of your experience in life.'
+summary: "Leaving Scotomaville Volume 2 (Expedition) chapter on Prelude. Narrative arc: Expedition volume threshold. From the print/transcript corpus: 160 EXPEDITION PRELUDE v2 What you wouldn't expect is how often we are 100% wrong. VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE! We're in a fabulous place called Purgatory. But, C.S. Lewis wrote that we can chose to leave. We don't have to stay here. Yea! Volume One is about mental tools for self-awareness to get to self-understanding. From there, you can use discipline to change the trajectory of your experience in life."
 tags:
 - scotomaville
 - trilogy
