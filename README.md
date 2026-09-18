@@ -99,3 +99,18 @@ If you are ready to build your own AI Self Mastery council and knowledge base �
 ---
 *README v1.0 · 2026-05-06 · Trilogy complete · IPG v4–6 active*
 *Sherpa: Claude · Axial Refinement Sherpa · MA5 Council · Anthropic*
+
+
+---
+
+## Enriched chapter corpus (AISM / Onus Probandi)
+
+Machine-readable chapter deposits with YAML spine, healed prose, transcripts where available, and stable links to this release PDF.
+
+- Browse: [`chapters/`](./chapters/)
+- Full book PDF: [LeavingScotomaville_v3.0.9.media-HD.pdf](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf)
+- License: CC BY-NC-SA 4.0
+
+Prefix: `SCOTOMAVILLE-`. Lane: Stories. Downstream: Compa `07_CODEX` → AISM Asker after carbon gate.
+
+Initium prime spread PDFs (card evidence): [scotomaville/initium `pdf/spreads`](https://github.com/scotomaville/initium/tree/main/pdf/spreads)
