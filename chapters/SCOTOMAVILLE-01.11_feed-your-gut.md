@@ -68,9 +68,9 @@ description: Vol 1 ch.01.11 — Feed Your Gut.
 
 # Feed Your Gut
 
-**Leaving Scotomaville · Volume 1 Awareness · Chapter 01.11** 
-Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
+**Leaving Scotomaville · Volume 1 Awareness · Chapter 01.11**  
+Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -92,73 +92,77 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 ## Chapter text (carbon prose)
 
-Leaving SCOTOMAVILLE 100 FEED YOUR GUT .11 Fecal bacteria. Yep, just a small community of the 100 Trillian Microbes that makeup the human body.
+Leaving SCOTOMAVILLE 100 FEED YOUR GUT .11 Fecal bacteria. Yep, just a small community of the 100 Trillian Microbes that make up the human body.
 VOL 1 AWARENESS microbes
 
 Leaving SCOTOMAVILLE 101 When you look down, do you seea belly or your shoes?
-One of my favorite lines from the movie ‘Secondhand Lions’, is this: “Everyone needs something to believe in, even if it’s not true.” An example: Eating fat makes you fat! Wrong! For decades, we’ve had low-fat this and low fat that, but eating fat doesn’t make you fat. Keto ge nics shows that you need fat in your diet to train your body to burn fat rather than store fat.
+One of my favorite lines fromthe movie ‘Secondhand Lions’, is this: “Everyone needs something to believe in, even if it’s not true.”
+An example: Eating fat makesyou fat! Wrong! For decades, we’ve had low-fat this and lowfat that, but eating fat doesn’t make you fat. Ketogenics shows that you need fat in your diet to train your body to burn fat rather than store fat.
 Bad Actors of Wellbeing I’m not into conspiracy theories, but here are four bad actors:
-The first bad actor is a hundred trillion microbes. I’m only 10% human. I’m 90% microbe. They conspire against me. They form 90% Microbe, 10% Human There’s a coup underway.
+The first bad actor is a hundred trillion microbes. I’m only 10% human. I’m 90% microbe. Theyconspire against me. They form 90% Microbe, 10% Human There’s a coup underway.
 It’s 100 trillion microbes against your intention.
-Did you know that we are only 10% human and 90% microbe? When you look down, do you see your shoes or your gut? When you have a craving, is it for junk food like pizza, ice cream, burger and fries?
-Manage the microbe chorus in your gut, the emotions coming from your amy gda lae and stress by slowly changing the culture in your gut rather than a ppeasing your taste buds .
+Did you know that we are only 10% humanand 90% microbe? When you look down, do you see your shoes or your gut? When youhave a craving, is it for junk food like pizza, ice cream, burger and fries?
+Manage the microbe chorus in your gut, the emotions coming from your amygdalae and stress by slowly changing the culture in yourgut rather than appeasing your taste buds .
 little focus groups and chant, ‘We want pizza! We want icecream! We want sugar, burgers and fries!
-If you give into them, they grow their culture, demanding more.
-Their cravings override the second bad actor — right here. (mo tion ing to forehead) It’s called your prefrontal cortex. It manages ‘intention’ and regulates the amy gda lae - two almond-shaped
+If you give in to them, they grow their culture, demanding more.
+Their cravings override the second bad actor — right here. (mo tioning to forehead) It’s called yourprefrontal cortex. It manages ‘in tention’ and regulates the amygdalae - two almond-shaped
 
 Leaving SCOTOMAVILLE 102 parts of your brain that function like emotional black boxes.
-Chronic stress forms a disfunctional partnership resulting in emotional hysterics.
+Chronic stress forms a dis functional partnership resulting in emotional hysterics.
 In addition, the vegas nerve connects a hundred trillion microbes in your gut to your brain and further influences mood, fear and anxiety.
-So when you put stuff in your mouth that tastes good but has poor nutrients, and some poisonous moli cu les, you fuel the conspiracy - a tidal wave acting against your wellness.
+So when you put stuff in your mouth that tastes good but has poor nutrients, and some poisonous molicules, you fuel the conspiracy - a tidal wave acting against your wellness.
 Are you losing that battle?
-When you look down, do you see your belly or your shoes?
-The Third Bad Actor is your circadian rhythm. That’s the daily cycle of your hormones and sleep. Basically, the habits you have and the schedule that you set determine this actors pay.
+When you look down, do yousee your belly or your shoes?
+The Third Bad Actor is yourcircadian rhythm. That’s the daily cycle of your hormones andsleep. Basically, the habits you have and the schedule that youset determine this actors pay.
 A Fourth Bad Actor!
 Stress affects your cortisol, which ends up as belly fat. It’schallenging to manage because the other conspirators drive it your emotions, habits, circadian rhythms, and coping mechanisms fuel the matrix. So coming into equilibrium, creating health and longevity starts with awareness.
 Four handles to adjust.
-•	 FOOD •	 EXERSIZE •	 SLEEP •	 STRESS Here’s a scotoma: If you have belly fat, it’s a great indicator that you have a fatty liver that is backed-up with communter traffic, and is no longer working in your favor. Which means you’ve got inflammation in your gut. That means you likely have a leaky gut, where microbes and other crap pass from your colon into your blood system. Imagine your black tank leaking into your freshwater tank? The garbage eventually degrades an organ.
+•	 FOOD •	 EXERSIZE •	 SLEEP •	 STRESS Here’s a scotoma: If you have belly fat, it’s a great indicator that you have a fatty liverthatis backed-up with communter traffic, and is no longer working in your favor. Which means you’ve got inflammation in yourgut. That means you likely have a leaky gut, where microbes andother crap pass from your colon into your blood system. Imagine your black tank leaking into your freshwater tank? The garbage eventually degrades an organ.
 Then you have a symptom. Soyou ask a doctor for a pill. Rather than fix your plumbing leak, the pill masks the symptoms!
-You’re not addressing the roots co toma!
-My recommendation is to feed your gut microbe rather than yield to demands from your mouth or emotions. How about your cravings? They’re seldom good for you.
+You’re not addressing the rootscotoma!
+My recommendation is to feedyour gut microbe rather than yield to demands from your mouth or emotions. How about your cravings? They’re seldom good for you.
 
 How to feed microbes?
-The general idea is to consider that if the food can’t rot in a day left on the counter, you shouldn’tswallow it. It’s only got six to eight hours before it’s coming out of you! If it can’t rot, you won’t digest it! And you’re not what you eat! You ARE what you DIGEST!
-Many people believe that “we are what we eat” it’s a bit more accurate to say “we are what we digest” but hey, everyone needs something to believe in, even if it’s not true
+The general idea is to consider that if the food can’t rot in a day left on the counter, you shouldn’tswallow it. It’s only got six to eight hours before it’s coming out of you! If it can’t rot, you won’t digest it! And you’re notwhat you eat! You ARE what you DIGEST!
+Many people believe that “we are what we eat”
+it’s a bit more accurate to say “we are what we digest”
+but hey, everyone needs something to believe in, even if it’s not true
 
 03 02 01 04 if it won’t rot on the counter, don’t put it in your mouth.
-shift your micro-biome cultures to crave plant based food.
-pay at tentionto clues like gas, bloating, inflammation, etc.
-eat food that grows on a plant, not stuff manufactured in a plant.
+shift your micro-biome cultures tocrave plant based food.
+pay attention to clues like gas, bloating, inflammation, etc.
+eat food that grows on a plant, notstuff manufactured in a plant.
 For example, these are chunks of fruit - fresh papaya and pineapple and man go and banana that I’ve chopped up, thrown in the freezer, and have on hand.
 I add this ‘Organic Meal’ to build my gut culture. Think of it as feeding guppies in a tank. Next, I add chopped fresh ginger root. After eating this, I can feel the difference in my gut and brain.
 However, life has curves, and this is byfar not the end of my journey.
 
 ONUS PROBANDI
-For a year following this episode I had as cotoma. I didn’t know that many of my ‘healthy’ ingredients contained lectins.
-Lectins cause inflammation and lead to colon bleeding. The banana and numer ous ingredients in the meal replacement powder are on the NO side of The Plant Paradox recommendations.
+For a year following this episode I had ascotoma. I didn’t know that many of my ‘healthy’ ingredients contained lectins.
+Lectins cause inflammation and lead tocolon bleeding. The banana and numerous ingredients in the meal replacement powder are on the NO side of The Plant Paradox recommendations.
 (see pages 306-307)
 
-On the YES side are broken cell wall chlorella or spirulina. These single-cell powders smell like green pond water and have a taste that I failed to master.
+On the YES side are broken cell wallchlorella or spirulina. These single-cell powders smell like green pond waterand have a taste that I failed to master.
 Viome later confirmed that they are abundant with purine, which helps minimize uric acid, deterring kidney stones.
 (see pages 270-271)
 
 EXERCISE
-I’m walking. It’s kind of steep. We live ina digital age where I can record this, which is fantastic, but we still have a biological shell. Meaning we have to design our lives to manage our biology. Doso with the choices you make to exercise everyday.
+I’m walking. It’s kind of steep. We live ina digital age where I can record this, which is fantastic, but we still have abiological shell. Meaning we have to design our lives to manage our biology. Doso with the choices you make to exercise every day.
 
 Leaving SCOTOMAVILLE 104 SLEEP
 You can adjust your sleep by managing things like caffeine or the blue light from devices you’re around late at night — also, the job you have orthe work you do.
-If you are challenged with sleep jump forward to watch Dr. Mathew Walker on page 277 STRESS
-If you’re self-employed or an entrepreneur, you have no excuse! You are your boss and not a tyrant! Start treating your employee and your single factory with significance! Treat it as the most valu able thing that you possess! an gelina and I know this first-hand. If you loose your biology, mental capacity or will, you will loose all. Recovering can take decades. We know.
-Eat and sleep when it’s best on your circadian rhythm. Try new things. Adjust your sleep cycle, change your diet, add exercise, start working on the thoughts that direct your biological machine and gut culture. You’re the boss! Not them! Don’tbe subservient to a hundred trillion microbes.
+If you are challenged with sleep jump forward towatch Dr. Mathew Walker on page 277 STRESS
+If you’re self-employed or an entrepreneur, youhave no excuse! You are your boss and not a ty rant! Start treating your employee and your single factory with significance! Treat it as the most valuable thing that you possess! Angelina and I knowthis first-hand. If you loose your biology, mental capacity or will, you will loose all. Recovering cantake decades. We know.
+Eat and sleep when it’s best on your circadianrhythm. Try new things. Adjust your sleep cycle, change your diet, add exercise, start working onthe thoughts that direct your biological machine and gut culture. You’re the boss! Not them! Don’tbe subservient to a hundred trillion microbes.
 If you’re specially challenged with your weight, stress, sleep and exersize, jump to episode 02.12 SELF-CARE on page 298
-Single cell green powders like spiro lina and chor ella are an excellent starting point.
-Kimchi - and other fermented vegetables add probiotics to feed your gut microbes.
+Single cell green powders like spirolina andchorella are an excellent starting point.
+Kimchi - and other fermented vegetables addprobiotics to feed your gut microbes.
 
 I want you to take up a little mantra:
-A hundred trillion little microbes singing “We want Kimchi! We want Chlo rel a!” You teach them that and they’ll listen!
+A hundred trillion little microbes singing “We want Kimchi! We want Chlorela!”
+You teach them that and they’ll listen!
 
 YOURT YW0ShLAzFe8 Awareness, Understanding, Discipline.
-Getting out of Scotomaville is a multi-faceted journey. Our psychology is woven with our physiology. Bad food, bad thoughts. Poor intake, bad output.
+Getting out of Scotomaville is a multi-faceted journey. Our psychology iswoven with our physiology. Bad food, bad thoughts. Poor intake, bad output.
 Lets begin with Awareness.
 Your turn. List the usual foods you eat that are high in lectins.
 WATCH REFLECT nBhBlL2TkqY
@@ -169,19 +173,19 @@ Share your victories and get tips from other explorers and me.
 
 ## Video transcript (spoken register)
 
-*Source: 01.11-Feed Your Gut Tr nsc pt.txt*
+*Source: `01.11-FeedYourGutTrnscpt.txt`*
 
-I want you to appreciate sometimes how many takes it is to film after waiting all day and being patient. A family has moved in over here and their kids are having a great time this evening. And I have finally setup a table with the lamp, with a power source being this. And the mosquitoes came back because now they are in a wind shelter. And the tablet's finally ready.
+I want you to appreciate sometimes how many takes it is to film after waiting all day and being patient. A family has moved in over here and their kids are having a great time this evening. And I have finally set up a table with the lamp, with a power source being this. And the mosquitoes came back because now they are in a wind shelter. And the tablet's finally ready.
 
 Let me tell you, sometimes you really feel like everything's gonna want to get ya. Sometimes you literally have to lock yourself in your truck! Oh, bless that family!
 
-When you look down, do you see a belly or your shoes, right? Do you see that? Or your shoes? No-no-no ! Don't, don't mistake me being here with fever even if I look kind of hot! It's because I've been cooking this all day. I had to figure out how to explain a complex thing in simple terms. That is the tool that you're gonna leave with, about your micro biome. You know, this thing down here?
+When you look down, do you see a belly or your shoes, right? Do you see that? Or your shoes? No-no-no ! Don't, don't mistake me being here with fever even if I look kind of hot! It's because I've been cooking this all day. I had to figure out how to explain a complex thing in simple terms. That is the tool that you're gonna leave with, about your microbiome. You know, this thing down here?
 
 Welcome back to a beautiful day for Leaving Scotomaville! One of my favorite lines from the movie 'Secondhand Lions', goes like this: "Everyone needs something to believe in, even if it's not true." Let me give you an example. Fat- eating fat, makes you fat! Wrong! It's not true! For decades, we've had low fat this and low-fat that and nonfat this and that. Eating fat does not make you fat.
 
-Look into keto ge nics. You have to have a decent amount of fat in your diet to train your body to use fat, rather than just store it. So everyone needs something to believe in even if it's not true. I'm not into conspiracy theories but I'm gonna give you one. One bad actor is a hundred trillion microbes. Yeah, I'm only 10% human. I'm 90% microbe. And they conspire against me. They form the little focus groups, and they go 'We want pizza!We want ice cream! We want crap food! Feed us now! Burgers and Fries! And if you give into them, they grow their culture!
+Look into ketogenics. You have to have a decent amount of fat in your diet to train your body to use fat, rather than just store it. So everyone needs something to believe in even if it's not true. I'm not into conspiracy theories but I'm gonna give you one. One bad actor is a hundred trillion microbes. Yeah, I'm only 10% human. I'm 90% microbe. And they conspire against me. They form the little focus groups, and they go 'We want pizza!We want ice cream! We want crap food! Feed us now! Burgers and Fries! And if you give in to them, they grow their culture!
 
-They grow their community and their voice is bigger. It overrides the second bad actor. That one's right here.(motioning to forehead). It's called your prefrontal cortex, which a ccompanies your amy gda las. Two little almond-shaped parts of your brain right inside of, right back in there. Your black box of emotions.
+They grow their community and their voice is bigger. It overrides the second bad actor. That one's right here.(motioning to forehead). It's called your prefrontal cortex, which accompanies your amygdalas. Two little almond-shaped parts of your brain right inside of, right back in there. Your black box of emotions.
 
 This is your will, this is your history. This whole thing gets persuaded through the vagus nerve to those hundred trillion microbes, a large part are in your gut. So when you put stuff in your mouth that tastes good, that's been sold to you, to be good for you, low fat this or that. Whatever it is, you end up fueling the conspiracy. Fueling this tidal wave against your wellness. So, the way to find out if you're losing that battle..? You have a gut! When you look down, do you see your belly or your shoes? That's a really easy test of it.
 
@@ -197,29 +201,29 @@ How about your cravings? Everyone needs something to believe in, even if it's no
 
 I have done this for the last- I can't remember, more than a decade. What I do each day to feed my microbes? These are chunks of fruit that we've had from fresh papaya and pineapple and mango and banana that I've chopped up, thrown in the freezer, and always have those on hand. To that I add, this is a Garden of Life Raw Organic Meal. I'm not endorsing the product, I am simply trying to show you that this is sprouted, it's all organic and absolutely a fabulous mix of things to feed your microbe garden, to build the culture. So I put a good scoop of that. And this is like feeding your Guppies in your fish tank or the animals in your farm.
 
-So the one that's most important, I believe, is this broken cell wall chlo rel a or spirulina. This is a single cell powder, like wheat grass powder. And talk about absolutely dense, you, this is the most incredibly good..so I put two big scoops. Now it smells like alph alpha in your barn but if you add spirulina to it, that's a seaweed based single cell. So it really is something that's an acquired taste but, chopped, fresh ginger root that I've already cut up. But you can literally feel in your gut and your brain, the difference when you have this. To that I put a bunch of distilled water and, Cheers! My recommendation is feed your gut put some microbe food in there.
+So the one that's most important, I believe, is this broken cell wall chlorela or spirulina. This is a single cell powder, like wheatgrass powder. And talk about absolutely dense, you, this is the most incredibly good..so I put two big scoops. Now it smells like alphalpha in your barn but if you add spirulina to it, that's a seaweed based single cell. So it really is something that's an acquired taste but, chopped, fresh ginger root that I've already cut up. But you can literally feel in your gut and your brain, the difference when you have this. To that I put a bunch of distilled water and, Cheers! My recommendation is feed your gut put some microbe food in there.
 
 Simple scotoma. if the food won't rot on the counter, don't put it in your mouth. It's only got six to eight hours before it's out of you! If it won't rot in six to eight hours, you won't digest it! And you're not what you eat! You ARE what you DIGEST!
 
-You know, yeah, I'm walking. It's kind of steep. But I'm thinking about everything that we put in us- the water, the food, the thoughts. We'rein control of all of that. And we might live in a digital age where I can record something like this, which is awesome, but we still have biological houses. Meaning, we still have to design our life to fit the biology that we've been given. So those end up being choices that we make. Like to get out and exercise everyday. And to eat and sleep when it's best on our circadian rhythms.
+You know, yeah, I'm walking. It's kind of steep. But I'm thinking about everything that we put in us- the water, the food, the thoughts. We're in control of all of that. And we might live in a digital age where I can record something like this, which is awesome, but we still have biological houses. Meaning, we still have to design our life to fit the biology that we've been given. So those end up being choices that we make. Like to get out and exercise every day. And to eat and sleep when it's best on our circadian rhythms.
 
 So try a few things. Adjust your sleep cycle, change some of your diet, put your exercise at a time that can be well-managed. And start working on those thoughts that tell the rest of your community and culture, that you're the boss! Not them! Don't be subservient to the..bugs!(laughs) Uuh No. Don't be subservient..to just a hundred trillion microbes.
 
-That 100 trillion microbes? Oh yeah, like this one crawling on me right now? Aaaah! I swear it's crawling in my ear! Oh here are these different components that I can mess with, like I can scratch where those bugs are crawling up my leg while I'm shooting! There's the scotoma! Looking at what is the root cause! Flies that are drafting on the camera! It's a good little vor tice, right here, for them to..that's one! You have to treat them like that. Sometimes you have to do things you don't want to do.
+That 100 trillion microbes? Oh yeah, like this one crawling on me right now? Aaaah! I swear it's crawling in my ear! Oh here are these different components that I can mess with, like I can scratch where those bugs are crawling up my leg while I'm shooting! There's the scotoma! Looking at what is the root cause! Flies that are drafting on the camera! It's a good little vortice, right here, for them to..that's one! You have to treat them like that. Sometimes you have to do things you don't want to do.
 
-I want you to take up a new little mantra: A hundred trillion little microbes singing "We want kimchi! We want Chlo rel a!" You teach them that!? They'll listen!
+I want you to take up a new little mantra: A hundred trillion little microbes singing "We want kimchi! We want Chlorela!" You teach them that!? They'll listen!
 
 ## Visual notes (print spreads)
 
-- The left page displays a large, high-resolution color micro graph filling most of the space, showing a dense, tangled cluster of rod-shaped and spherical bacteria in earthy browns, greens, and beiges, with the word "microbes" overlaid in large white lettering. A dark gray banner at the bottom repeats the chapter's opening text about fecal bacteria and 100 trillion microbes, while "VOL 1 AWARENESS" runs vertically along the left margin and the chapter title ".11 FEED YOUR GUT" appears at the top. The right page uses a dark gray background with a white box header stating "90% Microbe, 10% Human," followed by body text on gut influence and cravings. To the right of the text is a stylized pink-an
+- The left page displays a large, high-resolution color micro graph filling most of the space, showing a dense, tangled cluster of rod-shaped and spherical bacteria in earthy browns, greens, and beiges, with the word "microbes" overlaid in large white lettering. A dark gray banner at the bottom repeats the chapter's opening text about fecal bacteria and 100 trillion microbes, while "VOL 1 AWARENESS" runs vertically along the left margin and the chapter title ".11 FEED YOUR GUT" appears at the top. The right page uses a dark gray background with a white box header stating "90% Microbe, 10% Human," followed by body text on gut influence and cravings. To the right of the text is a stylized pink-and-orange anatomical illustration of the stomach and intestines, with a yellow-handled magnifying glass hovering over the gut revealing a cluster of brightly colored cartoon microbes (purple, green, b
 
 - The left page opens with a large dark gray rectangular header box containing centered white text that reads: “MANY PEOPLE BELIEVE THAT ‘WE ARE WHAT WE EAT’ IT’S A BIT MORE ACCURATE TO SAY ‘WE ARE WHAT WE DIGEST’ BUT HEY, EVERYONE NEEDS SOMETHING TO BELIEVE IN, EVEN IF IT’S NOT TRUE.” Below it flows dense body text discussing the vagus nerve, gut microbes, chronic stress as an “emotional black box,” and the “third bad actor” (circadian rhythm), with a red-highlighted question: “Are you losing that battle? When you look down, do you see your belly or your shoes?” A small list of four adjustment handles (FOOD, EXERCISE, SLEEP, STRESS) appears in the middle of the left page.
 
-The right page cont
+The right page continues the text with an example of preparing fruit, organic meal powder, and ginger root, then features a bold vertical numbered list (01–04) aligned along the far right edge. The four points read: “IF
 
-- The left page of the spread shows two product-style photographs at the top: a small wooden bowl overflowing with deep green spirulina or chlorella powder on the left, and a clear glass jar of SCOUL brand kimchi with a bright green lid and visible orange-red contents on the right. Below the photos sit two dark gray rectangular captions, one noting single-cell green powders as a starting point and the other highlighting kimchi and fermented vegetables for probiotics. The lower half contains the chapter’s continuing body text on sleep and stress, with blue hyperlinks to other pages and the footer “LEAVING SCOTOMAVILLE 104.”
+- The left page of the spread shows two product-style photographs at the top: a small wooden bowl overflowing with deep green spirulina or chlorella powder on the left, and a clear glass jar of SCOUL brand kimchi with a bright green lid and visible orange-red contents on the right. Below the photos sit two dark gray rectangular captions, one noting single-cell green powders as a starting point and the other highlighting kimchi and fermented vegetables for probiotics. The lower half contains the chapter’s continuing body text on sleep and stress, with blue hyper links to other pages and the footer “LEAVING SCOTOMAVILLE 104.”
 
-The right page is dominated by a large, high-resolution microscopic im
+The right page is dominated by a large, high-resolution microscopic image of densely packed green and blue rod-shaped and spherical bacteria filling the upper two-thirds. Bold yellow text reading “Leaving SCOTOMAVILLE” sits at the top, with large white “FEED YOUR GUT” 
 
 ## Takeaways
 

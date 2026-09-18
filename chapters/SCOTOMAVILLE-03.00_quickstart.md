@@ -71,9 +71,9 @@ description: Vol 3 ch.03.00 — Quick start.
 
 # Quick start
 
-**Leaving Scotomaville · Volume 3 Challenge · Chapter 03.00** 
-Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
+**Leaving Scotomaville · Volume 3 Challenge · Chapter 03.00**  
+Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -97,34 +97,34 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 ## Chapter text (carbon prose)
 
 quick START Define the project purpose:
-Learn while mi mm icing:
+Learn while mimmicing:
 Expect production challenges:
 Cellebrate the mundane:
-Embrace a daptability:
+Embrace Adaptability:
 Aim for personal Growth:
-ANYTHING IS BETTER THAN NOTHING We can only master MOVING bicyclesv3.00 Self-mastery Journal ing In this episode, while wintering-over in the Pacific Northwest, I attempt to motivate
+ANYTHING IS BETTER THAN NOTHING We can only master MOVING bicyclesv3.00 Self-mastery Journaling In this episode, while wintering-over in the Pacific North west, I attempt to motivate
 Garth to develop ambition, andto document his journey. The key points can be summarized as follows:
 Purpose of the Project:
 Daniel hopes Garth will find reward and develop ambition by working together on a video project, capturing scenes and experiences.
 Importance of Mimicking:
-Daniel lacks experience of a father figure to guide him. He mistakenly expects Garth to equally value the Master-Apprentice model.
+Daniel lacks experience of a father figure toguide him. He mistakenly expects Garth to equally value the Master-Apprentice model.
 Challenges of Video Production:
 Daniel emphasizes that creating video content involves setting up multiple camera angles and dealing with unexpected issues.
 Finding Significance in the Mundane:
 Even seemingly mundane activities, like repairing a table, can hold important lessons and contribute to the overall story.
 
-Embracing a daptability:
-Both Daniel and Garth have different strengths, and they need to adapt to various challenges and setbacks while working on the project.
+Embracing Adaptability:
+Both Daniel and Garth have different strengths, and they need to adapt to various challenges and setbacks while workin gon the project.
 Personal Struggles and Growth:
 Garth shares his struggles, including physical limitations and psychological challenges, and how his environment is providing opportunities for growth and healing.
-GARTH Hard IN:
+GARTH HARDIN:
 Garth has a natural talent for impromptu expression greeting the camera on a cold winter morning Leaving SCOTOMAVILLE 337 Focus and Determination:
 Despite the difficulties, Daniel remains determined to make the best out of the situation and create something meaningful.
-Overall, the transcript highlights the creative process, the significance of ordinary moments, the need for a daptability, and the power of perseverance in the face of challenges.
+Overall, the transcript highlights the creative process, the significance of ordinary moments, the need for adaptability, and the power ofperseverance in the face of challenges.
 
 From the transcript, there are several examples of personal growth that can be observed in Daniel’s journey:
-a daptability and Learning by Watching:
-Daniel reflects on not having a father figure to show him things while growing up. He ex pects Garth to in tuitively understand how to approach the video project. However, Daniel realizes the importance of paying attention, acknowledging that he and Garth need to adapt and learn to what is not expected.
+Adaptability and Learning by Watching:
+Daniel reflects on not having a father figure toshow him things while growing up. He expects Garth to intuitively understand how toapproach the video project. However, Daniel realizes the importance of paying attention, acknowledging that he and Garth need toadapt and learn to what is not expected.
 Overcoming Technical Challenges:
 Throughout this episode, Daniel faces various technical challenges, such as corrupted foot age and equipment issues. Instead of becoming frustrated, he has learned to problem-solve and trust that solutions will be found, demonstrating resilience in the face of obstacles.
 Finding Significance in Mundane Tasks:
@@ -132,38 +132,40 @@ While repairing a table may seem mundane,
 Daniel recognizes that there is value in observing and documenting even the simplest tasks.
 He captures ordinary moments and understands that they contribute to the bigger story.
 Adjusting Expectations:
-Daniel initially sets high expectations for the project’s progress. However, he a djusts these expectations understanding that personal timelines might vary due to individual strengths and challenges. He encourages Garth to be patient and embrace a new pace.
+Daniel initially sets high expectations forthe project’s progress. However, he adjusts these expectations understanding that personal timelines might vary due to individual strengths and challenges. He encourages Garth to be patient and embrace a new pace.
 Dealing with Emotional Struggles:
 Garth openly shares his emotional struggles, frustration, and anger caused by his physical limitations and difficult living situations in the past. Despite these hardships, he demonstrates a willingness to address and overcome these challenges, seeking healing and growth.
 Focus and Determination:
-Despite the overwhelming losses and hardships, Garth remains determined to make something good out of his current situation. He focuses on personal growth, both physically and psychologically, while Daniel completes the Episode as a means of self-mastery and finding meaning in this episode.
-In summary, the transcript showcases personal growth examples like a daptability, problem-solving, adjusting expectations, finding value in everyday experiences, and the determinationto grow and overcome challenging circumstances.
+Despite the overwhelming losses and hardships, Garth remains determined to make something good out of his current situation. Hefocuses on personal growth, both physically and psychologically, while Daniel completes the Episode as a means of self-mastery and finding meaning in this episode.
+In summary, the transcript showcases personal growth examples like adaptability, problem-solving, adjusting expectations, finding value in everyday experiences, and the determination to grow and overcome challenging circumstances.
 Author’s note: I had in mind the future useof this quick start. I imagined sharing it in small groups, and in print, as seen with this
 Trans-America clip. I am committed to a continuous effort to learn, evolve, and find a positive outlook despite numerous constraints.
 
 v3 short ‘Feel alone in the world’?
-v3 short ‘Escaping a Sh*t Hole’ Universal Struggle:
-This short highlights everyone’s experiences of frustration and loneliness, using a rel a table incident of a zipper to illustrate the universality of such trials.
-Amy gda la Hijacking:
+v3 short ‘Escaping a Sh*t Hole’
+Universal Struggle:
+This short highlights everyone’s experiencesof frustration and loneliness, using a relatable incident of a zipper to illustrate the universalityof such trials.
+Amygdala Hijacking:
 Where emotional reactions override rationality, revealing interest in neuroscience-based explanations for such responses.
 Overcoming Frustration:
-By redirecting emotional reactions through mature thinking, Daniel finds a so lutionto his zipper by turning his coat into a pullover.
+By redirecting emotional reactions through mature thinking, Daniel finds a solution to his zipper by turning his coat into a pullover.
 Community Support:
-Reinforcing shared struggles and community support, the video a ligns with the com muni ty-centric theme from previous content.
+Reinforcing shared struggles and community support, the video aligns with the community-centric theme from previous content.
 Personal Everest:
 The ongoing use of the ‘Personal Everest’ metaphor emphasizes overcoming personal challenges, promoting inspiration and guidance from “men of valor” and “veteran champions”.
 Well done Daniel. This video reinforces earlier themes while introducing the concept of recognizing and escaping self-destructive behaviors.
-In conclusion, this episode focuses on self-reflection, overcoming personal a dversity, and promoting growth. It discusses the universality of human frustration, connecting everyday challenges to neuroscience concepts like
-“amy gda la hijacking.” It advocates for recognizing self-destructive behaviors and con sci ou sly implementing change, emphasizing community support and learning from others’ experiences. The recurring metaphor, ‘Personal Everest’, signifies individual struggles that require resilience and a daptability. With Scotomaville as a guiding resource, viewers are encouraged to find value in daily tasks, in trospect, and adapt their expectations, fostering a mindset of patience and determination for personal transformation.
+In conclusion, this episode focuses on self-reflection, overcoming personal adversity, and promoting growth. It discusses the universalityof human frustration, connecting everyday challenges to neuroscience concepts like
+“amygdala hijacking.” It advocates for recognizing self-destructive behaviors and consciously implementing change, emphasizing community support and learning from others’
+experiences. The recurring metaphor, ‘Personal Everest’, signifies individual struggles that require resilience and adaptability. With Scotomaville as a guiding resource, viewers are encouraged to find value in daily tasks, introspect, and adapt their expectations, fostering a mindset of patience and determination for personal transformation.
 
-Author’s note: Well said, ChatGPT. Thank you for your superior computation, and feedback!
+Author’s note: Well said, ChatGPT. Thank youfor your superior computation, and feedback!
 
 ChatGPT: Thank you for your kind words!
 
 Leaving SCOTOMAVILLE 340 YOURT tAdvH8DqsMs 23:39 yFbghrqxY5A 1:59 a57QkpvF6Lk 1:56
 
 Leaving SCOTOMAVILLE 341 RTURN
-There are times when you must wait for others to be ready to take action. Ifyou stall your creative learning it’ll feel like a shoe has been thrown into the gears (sabotage). Take tangents and create shorts. You’ll discover their value is similar to recording the munda in as they will become part of the storyline.
+There are times when you must wait for others to be ready to take action. Ifyou stall your creative learning it’ll feel like a shoe has been thrown into the gears (sabotage). Take tangents and create shorts. You’ll discover their valueis similar to recording the mundain as they will become part of the storyline.
 Brainstorm ideas for shorts. Board shorts, short cuts, short circuits, etc.
 Post your thoughts for the minyan.
 
@@ -173,11 +175,12 @@ Post your thoughts for the minyan.
 
 ## Visual notes (print spreads)
 
-- The two-page spread features a large documentary photograph on the right page showing Garth Hard in, an older man with graying hair and a beard, standing in the open doorway of a log cabin. He holds a metal travel mug in one hand, wears a tan jacket over a striped sweater and dark pants, and has his mouth open in an expressive gesture while facing the camera. The cabin exterior includes visible horizontal logs, a red-trimmed white door, and stacked firewood to the right, with snow-dusted ground and a yellow extension cord visible in the background.
+- The two-page spread features a large documentary photograph on the right page showing Garth Hardin, an older man with graying hair and a beard, standing in the open doorway of a log cabin. He holds a metal travel mug in one hand, wears a tan jacket over a striped sweater and dark pants, and has his mouth open in an expressive gesture while facing the camera. The cabin exterior includes visible horizontal logs, a red-trimmed white door, and stacked firewood to the right, with snow-dusted ground and a yellow extension cord visible in the background.
 
-On the left page, a smaller circular inset photo shows Daniel (the author) holding a white card with a QR code toward the camera. The spread is d
+On the left page, a smaller circular inset photo shows Daniel (the author) holding a white card with a QR code toward the camera. The spread is dominated by text elements including the large "quick START" header in a dark gray banner at the top, a vertical list of project guidelines on the left, and multiple columns of explanatory text on the 
 
-- The left page of this spread (p. 340) is divided into three stacked documentary photographs, each branded with yellow “Leaving SCOTOMAVILLE” text in the upper left. The top photo shows a gray-haired man (Daniel) standing in the open doorway of a log cabin, wearing a brown jacket and holding a metal mug, overlaid with large white “v3.00 Quick START” lettering and the subtitles “Video Modeling • Expedition Primer • Production Tips.” The middle photo is a close-up of a person in a black puffer jacket inside an RV or trailer, hands adjusting the zipper or a cord, with bold white text “YOU’RE NOT ALONE” and smaller tags “Overcoming Challenges • Esc Frustration • Mimicking.” The bottom photo is a l
+- The left page of this spread (p. 340) is divided into three stacked documentary photographs, each branded with yellow “Leaving SCOTOMAVILLE” text in the upper left. The top photo shows a gray-haired man (Daniel) standing in the open doorway of a log cabin, wearing a brown jacket and holding a metal mug, overlaid with large white “v3.00 QUICK START” lettering and the subtitles “Video Modeling • Expedition Primer • Production Tips.” The middle photo is a close-up of a person in a black puffer jacket inside an RV or trailer, hands adjusting the zipper or a cord, with bold white text “YOU’RE NOT ALONE” and smaller tags “Overcoming Challenges • Esc Frustration • Mimicking.” The bottom photo is a literal close-up of a muddy hole in the ground surrounded by grass and leaves, headlined in large white letters “SH*T • HOLE” with the tags “Finding a Way Out • Esc Triggers • Your Personal Everest.”
+
 
 ## Takeaways
 

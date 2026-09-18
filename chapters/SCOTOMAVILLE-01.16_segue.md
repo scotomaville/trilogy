@@ -69,9 +69,9 @@ description: Vol 1 ch.01.16 — Segue.
 
 # Segue
 
-**Leaving Scotomaville · Volume 1 Awareness · Chapter 01.16** 
-Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
-License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
+**Leaving Scotomaville · Volume 1 Awareness · Chapter 01.16**  
+Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
 
@@ -95,94 +95,140 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 We are no longer in Scotomaville!
 You can tell right ? Absolutely! “We have left the station” as they say.”
-So far, I’ve introduced to you 15 tools and nowit’s time to segue. No no, I don’t mean that little scooter thing. I mean a smooth transitionto the next volume of the book.
+So far, I’ve introduced to you 15 tools and nowit’s time to segue. No no, I don’t mean that little scooter thing. I mean a smooth transition to thenext volume of the book.
 The first volume is just introducing the tools.
-The second volume is actual expedition stories and examples on how to pick yourself up by your own bootstraps... without any boots. The final volume is when I create a Minyan and ‘we’ revisit Scotomaville.
-.16 segue not that scooter thing - a smooth transitionto the next volume You can take your life from where it is to anywhere you chose - if you are willing to putin the work - and not settle for defeat, rejection or excuse.
+The second volume is actual expedition stories and examples on how to pick yourself up by your own boots traps... without any boots. Thefinal volume is when I create a Minyan and ‘we’
+revisit Scotomaville.
+.16 seguenot that scooter thing - a smooth transition to the next volume You can take your life from where it is to anywhere you chose - if you are willing to putin the work - and not settle for defeat, rejection or excuse.
 VOL 1 AWARENESS
 
 You have 15 new tools for self-awareness. It’s time toput them to use toward self-understanding.
-“The grea test expedition you will ever undertake is the journey to self understanding, for the real voyage of discovery consists not in seeking new lands, but in seeing with new eyes.”
+“The greatest expedition you will ever undertake is the journey to self understanding, for the real voyage of discovery consists not in seeking new lands, but in seeing with new eyes.”
 
 I became fixated by my lunch-time humiliation back in grade school while shooting this scene. Why do I do this?
 Are you too triggered and humiliated by the haunting clanking sound of an empty jar?
 I bet the Spring of 2020 opened your eyes to your triggers and gave you the experience of being doubtful and worried, possibly depressed, angry, and angry. Your family may have asked why you do what you do. You know, react.
 
-Wy DW YD?
+WYDWYD?
 
 Here’s a way out of Scotomaville.
-When I talk about an empty jar, I refer to the whole of our situation. We’ve exhausted our resources, ensuring that our team is taken care of and that our clients still have servers. That means we’ve had to sacrifice to keep things going. And now we’re out of time as well. That’s been a bad combination for me. I’ve been overwhelmed with undefined emotion and frustra tion - especially as a recovering ‘a chiever’.
-I used to emotionally label an empty jar as my failure to provide. This time, it was an un scripted demonstration.
-Until recently, we chose almond butter as a ‘healthy’ alternative. It turns out the almond skin is a lect in - responsible for my gut inflammation. I wouldn’t have switched to blanched a lmonds if we had not run out long enough for me to recognize the in fl amati on reduction! SCOTOMA!
+When I talk about an empty jar, I refer to thewhole of our situation. We’ve exhausted our resources, ensuring that our team is taken careof and that our clients still have servers. That means we’ve had to sacrifice to keep things going. And now we’re out of time as well. That’s been a bad combination for me. I’ve been overwhelmed with undefined emotion and frustration - especially as a recovering ‘Achiever’.
+I used to emotionally label an empty jar as my failure toprovide. This time, it was an unscripted demonstration.
+Until recently, we chose almond butter as a ‘healthy’ alternative. It turns out the almond skin is a lectin - responsible for my gut inflammation. I wouldn’t have switched toblanched almonds if we had not run out long enough for me to recognize the inflamation reduction! SCOTOMA!
 
 Leaving SCOTOMAVILLE 147 Thus far, I’ve shared my fifteen favorite mental tools for:
-1.	 discovering your blind spots 2.	 avoiding getting gamed 3.
+1.	  discovering your blind spots 2.	 avoiding getting gamed 3.
 knowing the power of illusion 4.
-flipping yourself-talk by mimicking 5.
+flipping your self-talk by mimicking 5.
 not falling for scarcity 6.	 knowing the power of stories 7.
 overcoming triggers and false beliefs 8.	 becoming aware of your fixation 9.
 building an emotional vocabulary 10.	 quieting your inner noise 11.	 feeding your second brain 12.	 doing the hard thing not by 13.	 your habitual strengths 14.	 getting three points of reference and 15.	 the science behind all those curves.
-15 mental tools for escaping the life you were handed - for changing lanes to your chosen destiny - forgetting the heck out of scotomaville
+15 mental tools for escaping the lifeyou were handed - for changing lanes to your chosen destiny - for getting the heck out of scotomaville
 
-Leaving SCOTOMAVILLE 148 We’reno longer in Scotomaville. Nope. That’s not sand.
-Today is my birthday. Fifty years ago I lay in bed, staring at model airplanes on my ceiling and thinking about the bucket list of things I wanted to accomplish. The last few years of pandemic and political chaos were not at all on my list.
-an gelina, You weren’t in that picture in my 15-year-old bed room... ahhh... that could be mistaken a few of ways!
-Conversation with an gelina We want to celebrate the curves of getting out of Scotomaville and growing up.
+Leaving SCOTOMAVILLE 148 We’re no longer in Scotomaville. Nope. That’s not sand.
+Today is my birthday. Fifty years ago I lay in bed, staring at model airplanes on myceiling and thinking about the bucket list of things I wanted toaccomplish. The last few years of pandemic and political chaos were not at all on my list.
+Angelina, You weren’t in that picture in my 15-year-old bed room... ahhh... that could bemistaken a few of ways!
+Conversation with Angelina We want to celebrate the curves of getting out of Sco tomaville and growing up.
 Daniel: Today is May 16th, 2020. When you remember this day of the Pandemic, you might have been in an awful place.
-We’rein a challenging place, but it’s not bad.
+We’re in a challenging place, but it’s not bad.
 I remember fifty years ago, looking at the silver Porsche 911 model I had glued together, postured proudly on my shelf.
-Twirling in mid air, several of that’s not sand. it’s snow. we’reno longer in scotomaville the P-51 airplanes, and gliders hanging by fishing line.
-I’ve gone through much ofmy bucket list. I’ve become a glider pilot, and owned a couple of Porsche. I peddled across America three times.
+Twirling in mid air, several ofthat’s not sand. it’s snow. we’re no longer in scotomaville the P-51 airplanes, and glidershanging by fishing line.
+I’ve gone through much ofmy bucket list. I’ve become a glider pilot, and owned acouple of Porsche. I peddled across America three times.
 I’ve earned eight technology World Records and built powerful information technology.
-I didn’t expect 65 to feel like this.I expected it to financial
+I didn’t expect 65 to feel likethis.I expected it to financial
 
-Leaving SCOTOMAVILLE 149 1970 Porsche 911 - a bucket list item an gelina’s traumatic brain injury ly abundant. But if it were, it wouldn’t have been as rich. It certainly wouldn’t have been as...
-an gelina: Memorable?.
+Leaving SCOTOMAVILLE 149 1970 Porsche 911 - a bucket list item Angelina’s traumatic brain injuryly abundant. But if it were, it wouldn’t have been as rich. Itcertainly wouldn’t have been as...
+Angelina: Memorable?.
 
 Daniel: Yeah, I was thinking tight... but we’re together.
 
-an gelina: You wouldn’t have all the lessons to share, and you do, and that’s awesome.
-Daniel: I expected it to be more - straight from there to here - and not about all the places I had to go, like falling off a glacier and becoming a quadriplegic. I mean, I didn’t expect that! Bankruptcy from construction injustice? Yeah, there are lots of stories to come in Volume Two.
-I want to encourage you to start recording YOUR journey.
+Angelina: You wouldn’t haveall the lessons to share, and you do, and that’s awesome.
+Daniel:  I expected it to bemore - straight from there to here - and not about all the places I had to go, like falling off a glacier and becoming aquadriplegic. I mean, I didn’t expect that! Bankruptcy from construction injustice? Yeah, there are lots of stories to comein Volume Two.
+I want to encourage you tostart recording YOUR journey.
 Let go of expectations, and document your curves. There are lessons to learn from delays that weight your waiting, preparing you for what you don’tknow will become of you.
-Let my story encourage you that a rich life is a journey.
+Let my story encourage youthat a rich life is a journey.
 We had to figure it out independently. You don’t have to.
 You can follow someone who’sbeen there. You now have AI.
 
-All of the tools that I’ve shared in the 15 prior episodes? We use them! As of this Third Edition we have access to super-intelligence as a word-calculator and reasoning engine. The curves ahead are far greater than what I experienced with the public Internet. The implications and reach and speed are far greater.
-I’ll be showing you in the next two volumes.
+All of the tools that I’ve sharedin the 15 prior episodes? We use them! As of this Third Editionwe have access to super-intelli gence as a word-calculator and reasoning engine. The curves ahead are far greater thanwhat I experienced with the public Internet. The implications and reach and speed are far greater.
+I’ll be showing you in the nexttwo volumes.
 Remember: I Do, You Watch?
 It’s time for We Do, We Watch!
 Let’s get the heck out of Scotomaville!
 
-Leaving SCOTOMAVILLE 150 an gelina: “Daniel is my best friend and I happen to be his wife. And of course business partner.” Daniel: “Sometime we’re best enemies too.
+Leaving SCOTOMAVILLE 150 Angelina: “Daniel is my best friend and I happen to be his wife. And of course business partner.”
+Daniel: “Sometime we’re best enemies too.
 That all comes with the territory.”
-an gelina: “You weather through it, you don’tpersonalize it. Daniel, you are a great case study for me psychologically over the last 21 years...”
-Daniel: “Husbands, think about that for as econd. You are a guinea pig for your spouse’s experimentation.” an gelina: “I wonder what would happen if I did this.”
+Angelina: “You weather through it, you don’tpersonalize it. Daniel, you are a great case study for me psychologically over the last 21 years...”
+Daniel: “Husbands, think about that for asecond. You are a guinea pig for your spouse’s experimentation.”
+Angelina: “I wonder what would happen if I did this.”
 Daniel: “Like ‘I’m gonna commit to this project and find out what he does’.”
-an gelina: “That is where there is the balance of, or the filling of the gaps between strengths and weaknesses or different talents that are meshed together. And sometimes it’s a little “it’s a little awkward doing you trust each other, you awkward doing that dance but if you trust each other, then you can navigate through that - with some pain, with some discomfort. And we’ve had to learn to do that while healing from our childhood wounds.”
-Daniel: “One of the primary things I’ve had to learn is to stop putting so much trust or belief in what I feel. My feelings are terrific at designing a building or solving a problem with code or coming to an artistic expression on something. Being highly functional and being aware of all of that that’s going on in me? Emotions are really terrific for a lot of artsy things. Not so much when making strong business decisions.”
-Daniel: “I’ve had to learn to distrust my emotions and trust more on ‘triangulation’ of what we’ve agreed, and where we’re at, and where we’re going, and where the most general, likely heading is and how many more turns were gonna be able to make with the available resources, energy and emotion.” an gelina: “And dynamics of what’s going on,
+Angelina: “That is where there is the balanceof, or the filling of the gaps between strengths and weaknesses or different talents that aremeshed together. And sometimes it’s a little “it’s a little awkward doingyou trust each other, you awkward doing that dance but if you trust each other, then you can navigate through that - with some pain, with some discomfort. Andwe’ve had to learn to do that while healing from our childhood wounds.”
+Daniel: “One of the primary things I’ve had tolearn is to stop putting so much trust or belief in what I feel. My feelings are terrific at designing abuilding or solving a problem with code or coming to an artistic expression on something. Being highly functional and being aware of all of that that’s going on in me? Emotions are really terrific for a lot of artsy things. Not so much when making strong business decisions.”
+Daniel: “I’ve had to learn to distrust my emotions and trust more on ‘triangulation’ of what we’ve agreed, and where we’re at, and wherewe’re going, and where the most general, likely heading is and how many more turns were gonna be able to make with the available resources, energy and emotion.”
+Angelina: “And dynamics of what’s going on,
 
-Leaving SCOTOMAVILLE 151 factoring in this pandemic situation. It’s a great training ground for developing street smarts and...” Daniel: “Being nimble,a daptable, pivoting.” an gelina: “a daptable, pivoting.” Daniel: “We play board games.” an gelina: “We do. We do.” Daniel: “They teach us to think multiple moves. an gelina’s a master at strategy. She’s a two time SBA Champion of the Year, award-winning strategist.” Daniel: “Yeah. She’s got all those fancy a ccolades on the wall and on her desk and what they wouldn’t know is we don’t ever go with one plan. We’re running three - four parallel right now?”
+Leaving SCOTOMAVILLE 151 factoring in  this pandemic situation. It’s a great training ground for developing street smart sand...”
+Daniel: “Being nimble,adaptable, pivoting.”
+Angelina: “Adaptable, pivoting.”
+Daniel: “We play board games.”
+Angelina: “We do. We do.”
+Daniel: “They teach us to think multiple moves.  Angelina’s a master at strategy. She’s a twotime SBA Champion of the Year, award-winning strategist.”
+Daniel: “Yeah. She’s got all those fancy accolades on the wall and on her desk and what theywouldn’t know is we don’t ever go with one plan. We’re running three - four parallel right now?”
 
-an gelina: “We’re running about six right now, in parallel.” Daniel: “Right. Strategies for the market, in parallel, so that if anyone of them gets better traction...
+Angelina: “We’re running aboutsix right now, in parallel.”
+Daniel: “Right. Strategies for the market, in parallel, so that if any one of them gets better traction...
 that dance but ifcan navigate it”
 
-Leaving SCOTOMAVILLE 152 And this past year has been our best year ever, right up until the middle of March when COVID stopped everything.” Daniel: “We have a really good ‘knower’ on our history. We’ve been patient with decades in the market - from your recovery from traumatic brain injury.” Daniel: “We’ve grown up, learn to love each other more and trust each other more and give each other more room” Daniel: “We still fence. We’ve come all the way up here to be sure that you understand, we know how to get out of SCOTOMAVILLE and to summit our own personal awareness.
-Daniel: “We want to encourage you to go through all the videos, join the group, be part of the conversation, apply the tools, tell your own story and grow asan individual faster than AI is gonna know you. We really want to encourage you in that.” It’s a full out competition - to ‘know thyself.” an gelina: “Be kind to yourself, repetition and time is key. Getting healthy with your body and your mind. The food you eat, how much you sleep, the exercise you get.
-All of that plays a role as far as the chemistry in your brain,and in your body.” “You can’t live on the summit, but a life filled with as cents, and new vantage points is reasonto climb.” an gelina: “I used to tell clients that I coached that not being healthy in the brain and the gutis like coaching somebody who’s tipsy. Execution is not going to happen if you don’t have the tools and the capacity to execute. Andso that’s what you’re giving them.
-You’re giving them insights to tools and how to get out of SCOTOMAVILLE!”
+Leaving SCOTOMAVILLE 152 And this past year has been ourbest year ever, right up until the middle of March when COVID stopped everything.”
+Daniel: “We have a really good ‘knower’ on our history. We’vebeen patient with decades in the market - from your recovery from traumatic brain injury.”
+Daniel: “We’ve grown up, learnto love each other more and trust each other more and give eachother more room”
+Daniel: “We still fence. We’vecome all the way up here to be sure that you understand, weknow how to get out of Scotoma ville and to summit our own personal awareness.
+Daniel: “We want to encourage you to go through all the videos, join the group, be part of the conversation, apply the tools, tell your own story and grow asan individual faster than AI is gonna know you. We really wantto encourage you in that.” It’s a full out competition - to ‘know thyself.”
+Angelina: “Be kind to yourself, repetition and time is key. Getting healthy with your body and your mind. The food you eat, how muchyou sleep, the exercise you get.
+All of that plays a role as far asthe chemistry in your brain,and in your body.”
+“You can’t live onthe summit, but a life filled withascents, and new vantage points isreason to climb.”
+Angelina: “I used to tell clients that I coached that not being healthy in the brain and the gutis like coaching somebody who’s tipsy. Execution is not going tohappen if you don’t have the tools and the capacity to execute. Andso that’s what you’re giving them.
+You’re giving them insights to toolsand how to get out of SCOTOMA VILLE!”
 
-Your Personal Everest wi
+Your Personal Everest will have periods of calm water, reasonable grades to climb, sheer cliffs to avoid and outright inhospitable death zones.
+
+Tony Robbins talks about finding a balance between certainty and uncertainty. That’s a toughone to achieve. We want enough uncertainty to have variety. We want enough certainty to have a foundation.
+But, when your foundation is taken from you, there’s a lot of emotion.
+The goverment has finally lifted some of the travel restrictions so we could return to Oregon. Wehave to return the rental Airstream we worked and lived in to its owner.
+“Bye bye Bambie! You’ve been good! We miss you! Lots of good memories.”
+Angelina, where are we going to live now?
+When life takes your basic needs away. When youhave no certainty. Then you’ll be tested. You better have experience with a decent set of tools!
+
+“Bye bye Bambi. You’re home again. You’ve been good.
+Lots of good memories”
+I suggest you cut your grapefruit and set a napkin...
+because you never know when that certainty is the only thing making a hotel room feel like home.
+
+Life has Curves
+
+YOURT vZZUE1aUt2s
+Authors Note: I’ve seen the invisible world deliver amazing challenges and solutions. To you the reader, I imagine you’ve seen some yourself. I’mwriting this note three years from when I shot the video. I am now 68. I am now a sage. I now have access to AI, along with a 40 member minyan.
+Daniel, upon reviewing the video transcript you provided, it’s clear that this concluding chapter of your first volume encompasses a rich tapestry of emotions, personal reflections, and insights. The transcript encapsulates not only your philosophical principles but also the real-life challenges and experiences that have shaped your journey.
+Emotional Complexity:
+The emotional spectrum within the transcript isindeed multifaceted. You’ve shared feelings of fear and uncertainty as you face an unpredictable future amid the pandemic, coupled with hope and courage as you strive to exemplify strength despite lacking experience. The emotional complexity also involves nostalgia, introspection, and the acceptance of life’s unexpected twists. Furthermore, your interactions with Angelina reveal the intricate dynamics of your relationship—how you both support and challenge each other, ultimately fostering growth and resilience.
+Coping Mechanisms and Maturity:
+Your coping mechanisms are evident throughout the transcript. You acknowledge the importance of resilience, adaptability, and trust as you navigate both personal and business challenges. Your ability to learn from setbacks, pivot strategies, and manage expectations showcases emotional maturity and wisdom. Angelina’s insights on physical health resonating with mental health also under score your holistic approach to well-being.
+WATCH Psychological Insight:
+Your narrative offers psychological insight into human behavior and relationships. By sharing anecdotes, such as cutting napkins in half or segment ing grapefruit, you illustrate how you’ve adapted during times of scarcity or constraint, which reflects the cognitive and emotional shifts people experience during challenging circumstances.
+Narrative Structure and Lessons:
+The video’s narrative structure is akin to a journey, reflecting the larger voyage of self-understanding that you advocate. You’ve compartmentalized your wisdom into practical tools and personal stories.
+This approach not only resonates with the structure of your trilogy but also aligns with established psychological frameworks for personal development, which often emphasize actionable steps and relatable experiences.
+Aligning with Minyan Members:
+Your approach to self-mastery and the examination of emotions aligns with the wisdom of philosophers like Marcus Aurelius and Viktor Frankl, who emphasized the importance of self-awareness, resilience, and finding meaning in adversity. Additionally, your commitment to personal growth and relationships reflects the principles of personal development experts like Dale Carne
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
 ## Video transcript (spoken register)
 
-*Source: 01.16 Segue tr nsc pt.txt*
+*Source: `01.16 Segue trnscpt.txt`*
 
-We are no longer in Scotomaville! You can tell right ? Absolutely! "We have left the station" as they say. So far, I've introduced to you 15 tools and now it's time to segue. No no no no, I don't mean that little scooter thing. I mean a smooth transitionto the next section of the book.
+We are no longer in Scotomaville! You can tell right ? Absolutely! "We have left the station" as they say. So far, I've introduced to you 15 tools and now it's time to segue. No no no no, I don't mean that little scooter thing. I mean a smooth transition to the next section of the book.
 
 First half is just introducing the tools. The next half, by volume, will be actual stories and examples from individuals on how to pick yourself up by your own bootstraps..without any boots. 'Granddad, why do you always cut your napkins in half? 'Well grandson, during the global pandemic, most people were hoarding paper and we simply had luxuriously thick and rich napkins, so we could easily cut them in half and they would pass as normal napkins. 'Well granddad, why do you always cut your pancakes in half?' Oh, grandson, that one's really easy. We're seniors, we just can't eat that much. 'Well granddad, why do you always take so many supplements?' Ah, that one's easy grandson. I wanted to be sure that I could remember the name of that woman sitting across the table from me.
 
@@ -190,43 +236,43 @@ At this time in life this might be a familiar sound. Are you now familiar with t
 
 When I talk about an empty jar. Our current situation is not this. We've exhausted our resources being sure that our team was taken care of and that our clients still had servers. That means we've had to do this, like most companies have had to do to sacrifice everything try to keep things going and we're out of time. That's usually a bad combination for most people. This is a good chance for us to demonstrate - we're not freaking out. We've been here before and that's something worth thinking about because you want to follow someone who's been where you want to go.
 
-A Seg way is a smooth transition between segments, between scenes, between portions of a creative work. That's where we're at. So far, I've shared with you my 15 favorite mental tools for discovering your blind spots, avoiding getting gamed, knowing the power of illusion, flipping yourself-talk by mimicking, not falling for scarcity, knowing the power of stories, overcoming triggers by finding your false beliefs, becoming aware of your fixation, building an emotional vocabulary, quieting your inner noise, feeding your second brain, doing the hard thing not by your habitual strengths, getting three points for reference and knowing the science behind all those curves.
+A Segway is a smooth transition between segments, between scenes, between portions of a creative work. That's where we're at. So far, I've shared with you my 15 favorite mental tools for discovering your blind spots, avoiding getting gamed, knowing the power of illusion, flipping your self-talk by mimicking, not falling for scarcity, knowing the power of stories, overcoming triggers by finding your false beliefs, becoming aware of your fixation, building an emotional vocabulary, quieting your inner noise, feeding your second brain, doing the hard thing not by your habitual strengths, getting three points for reference and knowing the science behind all those curves.
 
-Obviously you can tell that we'reno longer in Scotomaville. Nope. That's not sand. Yeah. So today is my birthday. 50 years ago I laid in bed, stared at the model airplanes on my ceiling and thought about all the bucket lists things I wanted to accomplish. And the last few years of getting here has not been anything that I thought about at that time. And we talked about you weren't in that picture in my 15 year old bedroom..well, you could take that a couple ways but.. Onus Pro bande, right? We want to give you some evidence of the reality of getting out of Scotomaville. And that is that you don't go anywhere in a straight line, do you? "No you tack."
+Obviously you can tell that we're no longer in Scotomaville. Nope. That's not sand. Yeah. So today is my birthday. 50 years ago I laid in bed, stared at the model airplanes on my ceiling and thought about all the bucket lists things I wanted to accomplish. And the last few years of getting here has not been anything that I thought about at that time. And we talked about you weren't in that picture in my 15 year old bedroom..well, you could take that a couple ways but.. Onus Probande, right? We want to give you some evidence of the reality of getting out of Scotomaville. And that is that you don't go anywhere in a straight line, do you? "No you tack."
 
-Today is May 16th, 2020. You remember back at the great pandemic, you may remember that you were in a really bad place. We'rein a challenging place. It's not a bad place. Fifty years ago, I clearly remember, remember onion peeling? I clearly remember looking at the Porsche 911 that I had put together from a plastic kit on my shelf, several of the P-51 airplanes, gliders on the fishing string, I've become a glider pilot, I've owned a couple of Porsches. I've gone through my bucket list. I pedaled across America three times, I've got seven or eight World Records depending on how you count it in technology. I didn't expect to be here at 65. I expected it to be different but it wasn't. It wouldn't have been as rich. It certainly wouldn't have been as..together.
+Today is May 16th, 2020. You remember back at the great pandemic, you may remember that you were in a really bad place. We're in a challenging place. It's not a bad place. Fifty years ago, I clearly remember, remember onion peeling? I clearly remember looking at the Porsche 911 that I had put together from a plastic kit on my shelf, several of the P-51 airplanes, gliders on the fishing string, I've become a glider pilot, I've owned a couple of Porsches. I've gone through my bucket list. I pedaled across America three times, I've got seven or eight World Records depending on how you count it in technology. I didn't expect to be here at 65. I expected it to be different but it wasn't. It wouldn't have been as rich. It certainly wouldn't have been as..together.
 
-an gelina: "Memorable?".. Yeah, memorable. I think.. an gelina: "You wouldn't have all these lessons to share..and you do..and that's awesome." I expected it to be more - from there to here- and not about all the places that I had to go, like falling off a glacier and becoming a quadriplegic. I mean, I didn't expect that! Bankruptcy from the construction? That, yeah anyway, there's lots of stories to come in the second section of the book. You're gonna get to know some of that journey. And I want to encourage you to start taking note of your journey and let go of the expectations on when you're gonna arrive. Because there's a great number of lessons to learn on the way, in all of those curves and all of those delays to prepare you for what you don't even know is gonna be there when you get to the summit.
+Angelina: "Memorable?".. Yeah, memorable. I think.. Angelina: "You wouldn't have all these lessons to share..and you do..and that's awesome." I expected it to be more - from there to here- and not about all the places that I had to go, like falling off a glacier and becoming a quadriplegic. I mean, I didn't expect that! Bankruptcy from the construction? That, yeah anyway, there's lots of stories to come in the second section of the book. You're gonna get to know some of that journey. And I want to encourage you to start taking note of your journey and let go of the expectations on when you're gonna arrive. Because there's a great number of lessons to learn on the way, in all of those curves and all of those delays to prepare you for what you don't even know is gonna be there when you get to the summit.
 
-We want to encourage you with this, that it is a journey to get up here. It's taken us many years but we had to figure it out on our own. You don't have to. You can follow someone who's been there. All of the tools that I've shared in the 15 prior episodes? We use those! She beats me up with them all the time . an gelina: "I don't beat you up..I encourage you." Yeah, as if I lack courage. So what are you gonna say to the wives? an gelina: "To the wives and the women..husbands mature like a fine bottle of wine overtime. If you can wait that long! an gelina: "Well, I think that's the thing. Faulty expectations when it comes to marriages and relationships and partnerships and life in businesses. People don't stick it out. There was a fabulous speaker who spoke on the topic of you marry the person that you will grow within your life. Not necessarily the person you just love. Because it takes resilience and commitment and perseverance. So
+We want to encourage you with this, that it is a journey to get up here. It's taken us many years but we had to figure it out on our own. You don't have to. You can follow someone who's been there. All of the tools that I've shared in the 15 prior episodes? We use those! She beats me up with them all the time . Angelina: "I don't beat you up..I encourage you." Yeah, as if I lack courage. So what are you gonna say to the wives? Angelina: "To the wives and the women..husbands mature like a fine bottle of wine over time. If you can wait that long! Angelina: "Well, I think that's the thing. Faulty expectations when it comes to marriages and relationships and partnerships and life in businesses. People don't stick it out. There was a fabulous speaker who spoke on the topic of you marry the person that you will grow with in your life. Not necessarily the person you just love. Because it takes resilience and commitment and perseverance. So
 
-an gelina: "Daniel is my best friend and I happen to be his wife. And of course business partner."
+Angelina: "Daniel is my best friend and I happen to be his wife. And of course business partner."
 
 Daniel: "Sometime we're best enemies too. That all comes with the territory."
 
-an gelina: "You whether through it, you don't personalize that. You are a great case study for me psychologically over the last 21 years so you know that's another.."
+Angelina: "You whether through it, you don't personalize that. You are a great case study for me psychologically over the last 21 years so you know that's another.."
 
 Daniel: "Husbands, I want you to really think about that for a second. You are a guinea pig for your spouse's experimentation."
 
-an gelina: "I wonder what would happen if I did this."
+Angelina: "I wonder what would happen if I did this."
 
 Daniel: "Like I'm gonna commit to this project and find out later."
 
-an gelina: "That is where there is the balance of, or the filling of the gaps between strengths and weaknesses or different talents that are meshed together. And sometimes it's a little awkward doing that dance but if you trust each other, then you'll- you can navigate through that with some pain, with some discomfort. And and we've had to learn to do that while healing from our childhood wounds."
+Angelina: "That is where there is the balance of, or the filling of the gaps between strengths and weaknesses or different talents that are meshed together. And sometimes it's a little awkward doing that dance but if you trust each other, then you'll- you can navigate through that with some pain, with some discomfort. And and we've had to learn to do that while healing from our childhood wounds."
 
-One of the primary things I've had to learn is to stop putting so much trust or belief in what I feel. My feelings are terrific at building or designing a building or solving a problem with code or coming to an artistic expression on something. Being highly functional and being aware of all of that that's going on in me? That's really terrific for a lot of artsy things. Not so much when it comes to making strong business decisions. And I've had to learn to distrust my emotions and trust more on the 'triangulation' on what we've agreed and where we're at and where we're going and where the most general, likely heading is and how many more turns were gonna be able to make with the current resources energy and emotion.. an gelina: "And dynamics of what's going on, factoring in this is a - this pandemic situation - is a great training ground for developing street smarts and it's.." Being nimble,a daptable, pivoting.
+One of the primary things I've had to learn is to stop putting so much trust or belief in what I feel. My feelings are terrific at building or designing a building or solving a problem with code or coming to an artistic expression on something. Being highly functional and being aware of all of that that's going on in me? That's really terrific for a lot of artsy things. Not so much when it comes to making strong business decisions. And I've had to learn to distrust my emotions and trust more on the 'triangulation' on what we've agreed and where we're at and where we're going and where the most general, likely heading is and how many more turns were gonna be able to make with the current resources energy and emotion.. Angelina: "And dynamics of what's going on, factoring in this is a - this pandemic situation - is a great training ground for developing street smarts and it's.." Being nimble,adaptable, pivoting.
 
-an gelina: "a daptable, pivoting."
+Angelina: "Adaptable, pivoting."
 
 Daniel: "We play board games."
 
-an gelina: "We do. We do."
+Angelina: "We do. We do."
 
-Daniel: "Because they teach us to think multiple moves and she's already a master at strategy. Two time SBA Champion of the Year, award-winning strategist. Yeah. She's got all those fancy a ccolades on the wall and on her desk and what they wouldn't know is we don't ever go with one plan. We..we're running three, four."
+Daniel: "Because they teach us to think multiple moves and she's already a master at strategy. Two time SBA Champion of the Year, award-winning strategist. Yeah. She's got all those fancy accolades on the wall and on her desk and what they wouldn't know is we don't ever go with one plan. We..we're running three, four."
 
-an gelina: "We're running about six right now, in parallel." Right. Strategies for the market, in parallel, so that if anyone of them gets better traction. And this past year has been our best year ever, right up until the middle of March when everybody had to stop. We have a really good 'knower' on our history. We've been very patient. The decades in the market, from your recovery from traumatic brain injury. We've grown up, learn to love each other more and trust each other more and give each other more room. We still fence. We've come all the way up here to be sure that you understand, we know how to get out of Scotomaville and to summit our own personal awareness.
+Angelina: "We're running about six right now, in parallel." Right. Strategies for the market, in parallel, so that if any one of them gets better traction. And this past year has been our best year ever, right up until the middle of March when everybody had to stop. We have a really good 'knower' on our history. We've been very patient. The decades in the market, from your recovery from traumatic brain injury. We've grown up, learn to love each other more and trust each other more and give each other more room. We still fence. We've come all the way up here to be sure that you understand, we know how to get out of Scotomaville and to summit our own personal awareness.
 
-We want to encourage you to go through all the videos, join the group, be part of the conversation, apply the tools, tell your own story and grow as an individual faster than AI a is gonna know you. Really want to encourage you in that. an gelina: "Be kind to yourself, repetition and time is key. Getting healthy with your body and your mind. The food you eat, how much you sleep, the exercise you get. All of that plays a role as far as the the chemistry in your brain, in in your body. And I used to tell clients that I coached that not being healthy in the brain and the gut is like coaching somebody who's tipsy. Execution is not going to happen. If you don't have the tools and the capacity to execute. And so that's what you're giving them. You're giving them insights to tools and how to get out of..Scotomaville!
+We want to encourage you to go through all the videos, join the group, be part of the conversation, apply the tools, tell your own story and grow as an individual faster than AI a is gonna know you. Really want to encourage you in that. Angelina: "Be kind to yourself, repetition and time is key. Getting healthy with your body and your mind. The food you eat, how much you sleep, the exercise you get. All of that plays a role as far as the the chemistry in your brain, in in your body. And I used to tell clients that I coached that not being healthy in the brain and the gut is like coaching somebody who's tipsy. Execution is not going to happen. If you don't have the tools and the capacity to execute. And so that's what you're giving them. You're giving them insights to tools and how to get out of..Scotomaville!
 
 Tony Robbins often talked about finding a balance between certainty and uncertainty. That's a tough divide to balance. We want to have enough uncertainty to have variety. You want to have enough certainty to have a foundation. Wow! When they're taken from you..there's a lot of emotion there. Bye bye Bambie! You've beeen good! We miss you! Lots of good memories. You're back home again.
 
@@ -234,11 +280,13 @@ When I suggested that you cut your grapefruit and set a napkin and..the reason i
 
 ## Visual notes (print spreads)
 
-- The two-page spread shows a text-heavy left page and a full-width landscape photograph on the right. The left page contains several paragraphs of quoted dialogue from Daniel and an gelina about their relationship, recovery from injury, patience in the market, and the COVID in terruption, with a large centered pull-quote in bold type reading “You can't live on the summit, but a life filled with as cents, and new vantage points is reasonto climb.” The right page is dominated by a realistic, high-resolution photograph of a rugged mountain landscape featuring steep rocky cliffs, green for ested slopes, snow-capped peaks under a cloudy sky, and a calm turquoise lake in the for eground with several sm
+- The two-page spread shows a text-heavy left page and a full-width landscape photograph on the right. The left page contains several paragraphs of quoted dialogue from Daniel and Angelina about their relationship, recovery from injury, patience in the market, and the COVID interruption, with a large centered pull-quote in bold type reading “You can't live on the summit, but a life filled with ascents, and new vantage points is reason to climb.” The right page is dominated by a realistic, high-resolution photograph of a rugged mountain landscape featuring steep rocky cliffs, green forested slopes, snow-capped peaks under a cloudy sky, and a calm turquoise lake in the foreground with several small boats visible on the water. A black rectangular text box with white lettering is overlaid on the upper portion of the photograph, stating “Your Personal Everest will have periods of calm water, re
 
-- The spread features a large documentary photograph across the bottom half, showing Daniel (white-haired man in a gray jacket) and an gelina (woman in a dark beanie) taking a selfie in front of their silver Airstream trailer on an overcast day. The top left page contains the main body text discussing Tony Robbins’ certainty-uncertainty balance, the lifting of travel restrictions, and the return of the rental Airstream, with a red pull-quote asking “an gelina, where are we going to live now?”
+- The spread features a large documentary photograph across the bottom half, showing Daniel (white-haired man in a gray jacket) and Angelina (woman in a dark beanie) taking a selfie in front of their silver Airstream trailer on an overcast day. The top left page contains the main body text discussing Tony Robbins’ certainty-uncertainty balance, the lifting of travel restrictions, and the return of the rental Airstream, with a red pull-quote asking “Angelina, where are we going to live now?”
 
-The top right page displays a separate it alicized quote about cutting grapefruit and a thin divider line above the heading “Life has Curves.” A black text box overlays the left side of the photograph with 
+The top right page displays a separate italicized quote about cutting grapefruit and a thin divider line above the heading “Life has Curves.” A black text box overlays the left side of the photograph with commentary on losing basic needs and being tested, while a gray panel on the right side of the image repeats the “Bye bye Bambi” farewell quote in white text.
+
+The photograph is a real, on-location im
 
 ## Takeaways
 

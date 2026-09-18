@@ -15,7 +15,7 @@ keypoints:
 - Half-full vs half-empty scotoma is believing your framing is the only correct one
 - Diam and is prosperity + Harar i abundance-danger + Frankl space between stimulus and response
 - Pathway starts with noticing the emotional trigger then peeling to root belief (walks, trash-out)
-summary: Vol 1 chapter 04 — Abundant Scarcity. Filmed in the early COVID panic, Daniel uses empty a isles and hoarding as living proof that scarcity is often a mindset others can trigger. He tells the blended-family dinner story that taught “settle for less,” credits Wayne Dyer’s Erroneous Zones lakeside read, and refuses magnet-manifestation shortcuts. The work is awareness of triggers, diffuse time to find roots, and disciplined re framing toward abundance. Pairs with Initium Prime 002.
+summary: Vol 1 chapter 04 — Abundant Scarcity. Filmed in the early COVID panic, Daniel uses empty a isles and hoarding as living proof that scarcity is often a mindset others can trigger. He tells the blended-family dinner story that taught “settle for less,” credits Wayne Dyer’s Erroneous Zones lakeside read, and refuses magnet-manifestation shortcuts. The work is awareness of triggers, diffuse time to find roots, and disciplined re framing toward abundance. Pairs withinitium Prime 002.
 tags:
 - scotomaville
 - trilogy
@@ -80,7 +80,7 @@ description: Vol 1 ch.04 — scarcity vs abundance mindset; pairs Prime 002.
 # Abundant Scarcity
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.04** 
-Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: angelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)

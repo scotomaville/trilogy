@@ -78,7 +78,7 @@ description: Vol 1 ch.01 â€” define and demonstrate scotoma; Onus Probandi 
 # Scotoma â€” Discover Your Blind Spots
 
 **Leaving Scotomaville Volume 1 Awareness Chapter 01.01** 
-Author: Daniel J. Comp Co-curator: an gelina Musik-Comp 
+Author: Daniel J. Comp Co-curator: angelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)

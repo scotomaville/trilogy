@@ -80,7 +80,7 @@ description: Vol 1 ch.02 — pattern seeking as gift and exploit surface.
 # Pattern Recognition — A Double-Edged Sword
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.02** 
-Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: angelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -161,7 +161,7 @@ If this is so bad, why bother? No pill required. The aspect I have found fabulou
 
 Example: taking the trash out, staring at the ground, remembering David Poole's story about Mosaic — one of the early browsers — insight while looking at mosaic tiles, frustrated at research without a visual interface. Pattern on the floor → browser idea → major outcome.
 
-If you miss the step coming out of your Airstream, put down a little snake. Everytime you open that door — “Oh!” — you see the step. Use this to your advantage for keys, for mulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay at tentionto… in Scotomaville.
+If you miss the step coming out of your Airstream, put down a little snake. Everytime you open that door — “Oh!” — you see the step. Use this to your advantage for keys, formulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay at tentionto… in Scotomaville.
 
 ## Takeaways
 
