@@ -34,9 +34,9 @@ date: '2020-06-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.04_patience.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 2 ch.02.04 — Patience.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.04**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.04_patience.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,127 +92,13 @@ Patience as active expedition skill.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE PATIENCE KEEPING YOUR NOSE UP - IN SPITE OF LOSS PATIENCE IS ABOUT GAINING ALTITUDE WITH YOUR ATTITUDE WHILE WAITING 2.04
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Leaving SCOTOMAVILLE 203 FIRST CUSTOM FOIL-BOARD:
-I have windsurfed for nearly four decades. This isthe first new board I’ve bought since 1983!
-You can see the wind is shutting off. I’m working to keep the foil’s attitude up to prevent stalling. Of course, that is a metaphor, but thisis the end of the season.
-Overall, I’m starting to nail my jibes and be lessof a klutz. Less of what’s the word... the awkward partner. I’m less of that.
-I’m satisfied with my progress. I’m finishing about three out of four of my jibes. I’m missing some because I’m stepping off the board orlanding in the wrong place. It’s a little too narrow. My new board’s finished, but we’re waiting for cash flow to pick it up. So patience on that.
-Yep, keep my nose up. Don’t quit.
-EVIDENCE YOU CAN FOLLOW The purpose of my channel is to provide Onus
-Probandi - actual evidence of a Personal Everest so that you can follow - like the geese that fly in a chevron - for you to mimic and climb your Personal Everest.
-Sometimes we get in a funk. Sometimes the season ends. You spend a week in the smoke, and then you get a week of no wind, and thenyou get a week of rain, and the season’s over.
-Patience is not about waiting for things tohappen. It’s not about finding little tasks to keep you busy - like painting things, cooking, reorganizing, fixing your shoes, or even watch “It took eight months - and a missed season for me to pay for it.
-Darn lockdown!”
+## Chapter text (spoken register — primary)
 
-ing epidemiological curves unfold for days, weeks, and months. Patience is about leveraging your time to gain insights and to sharpen yourmind subjectively. That’s how I see it with my strengths and coping mechanisms defined as Achiever, Input, Learner, Belief, and Activator. Essentially those are a storytelling Vulcan mind-meld.
-Pause for just a moment andthink about your strengths your coping mechanisms.
-How do your strengths giveyou meaning? What do you do when they are stiffled?
-I decided to climb a Personal Everest - to learn and share bycreating Scotomaville.
-I’m wearing my mask at theevent site, and I dare take it off. This is a horrible smoke.
-With the past week of rain, I found myself really blah.
-I guess it was depression. I have never experienced that.
-
-Patience is about leveraging your time to gain insights and to sharpen your mind subjectively.
-I BINGE-WATCHED MYSELF I killed my gut with lectinsfrom tomatoes and peppers.
-It’s been a couple of days fixing it with kimchi and chlo rella. I had to use some of mytools to get my butt out of that crevasse. That one was horrible. Thankfully the mental tools work well for me.
-One of the things I had toconcede - allow myself to admit - is that for the first timein my life, I know what depression is - for at least a week. I Leaving SCOTOMAVILLE 204
-
-i spent a few days in bed, sick and depressed having lost my coping mechanism of playing with peers on the water.
-i binge-watched all of my own episodes and was surprised they were decently entertaining and definitely insightful.
-unexpectedly lost my coping mechanism of being on the water. I then had to accept apremature end of the season.
-I was like... oh my gosh, I don’tknow what to do with myself.
-I ended up watching my episodes. So yeah, I went back and binge-watched this whole thing. I used my time off to review my progress.
-Transparently I’ve spent a fewdays in a funk for the first time in my life because I realized that there wasn’t anything I could do about COVID or thesmoke. That was mentally taxing. And then I realized I had never reviewed my own journey. So I watched half of my book last night and had afantastic experience.
-You should do that too. It’snot bad, considering I didn’t know where I was going. I just set out to do something - as should you. I just stuck the camera out and started recording. I discovered that reliving my journey gave me amuch broader perspective.
-If you’re trying to get up an Everest and you get halfwayin a cloud layer, and you can’t see the valley or the mountaintop - ah, that can be horrible.
-Although you’re climbing, youwon’t appreciate the journey.
-You’ll be on the mountain but without a decent perspective.
-Because I have the book’sentirety as video episodes, I could watch my progress.
-I could watch tiny signals I give on fixation or when I amtriggered or pegged processing the next word. I could seethose cues. I could see an overall improvement in just six months. That was enough to burn off the mental fog of not making good progress.
-RELIVE YOUR JOURNEY By mimicking me - shooting your journey, looking at your efforts in hindsight - you’ll beamazed. Take your Clifton Strengths Assessment, so youwill know in advance where your fault-line and your foot holds will be up your mountain. A perspective of making progress will be required at some point. It’s essential.
-Don’t just look at mine andthink, oh yeah, I’ll just watch this. No, you need to mark YOUR pathway.
-
-I’m encouraging you to record your journey. Maybe you don’t want to put it on YouTube, but I’m assuring you that you’llwant to watch your behavior change over time to realize that you are making progress.
-If you’re watching this tounderstand your partner, your child, or your friend, then watch their videos. Follow their journey too.
-It’s hard to see the value ofyour journey out of SCOTOMA VILLE while you are drowningin change, or while being patient, or stalled waiting foran event like graduation, or getting out of the military, ora wedding, or childbirth, or the next purchase, or getting better from an illness. Without accountability to someone else to show progress to, a lack of self-commitment and discipline will slow self-mas
-“storytelling is either a superpoweror kryptonite - depending on your aim.”
-leaving SCOTOMAVILLE 206
-
-your dining room table, you said to me something like, “Daniel, you talk too much.” Alan said, “What? The point I was making was thatit takes you a long time to get to your point.”
-Wow, was I wrong? I completely misunderstood his point. Talk about a scotoma! We are 100% wrong 50% of the time!
-I recall him saying, “you talk way too much,”
-as with Dale Carnegie pointing out that our favorite subject is ourselves. Alan meant that
-I’m very detailed with complex ideas, and ittakes me a lot of words to make my point.
-Alan has mastered storytelling. He puts complex things into simple terms - something I’m far from mastering. Yeah, you get my point. I better stop talking. I appreciate Alan.
-tery. You’ll gain a healthy perspective fromthe milestones of your journey. You’ll value the evidence of your progress, and your subtle improvements will set you free.
-STORYTELLING IS A SUPERPOWER
-Storytelling is either a superpower or kryptonite. There are two points of view for this.
-You can recognize storytelling as kryptonitewhen you’re gamed or being handed a narrative. But, more importantly, when the story directing your life is omitting facts and evidence - then it’s aimed at your head with the wrong outcome in mind. That’s Kryptonite.
-On the other side of the coin is the story you tell yourself. It determines how much effort you’re going to make. Eighty-five percent of successis just straight-up luck via perseverance. When you practice long enough, you’ll eventually beprepared for the opportunity when it arrives.
-That’s because you’ll have a superior mindset having done the work beforehand. But you’ll never do the hard part beforehand unless youpaint your future-self with an amazing story.
-Therein is the superpower — the story you choose for yourself. The facts you align with determine your worldview and the effort youmake. In the process, your scotomas - your blind spots - can be discovered and healed.
-DANIEL YOU TALK WAY TOO MUCH
-This week I discovered an old scotoma througha friend Alan Landis. I had hoarded a false be lief for over a decade. In our conversation, Alanand I talked about storytelling as a superpower. I said, “Alan, you often make very persuasive points. One of them I remember well is that at leaving SCOTOMAVILLE
-
-Note that of 54.9K views for the channel, 49.6K are for 5 of the
-100 videos. That means 90% of the viewings are for the videos titles with ‘Airstream’. 1/2 the viewers came from YouTube search and 1/3 from a YouTube sidebar recommendation.
-leaving SCOTOMAVILLE 208
-
-OPPORTUNITY TO INFLUENCE
-We are still chasing the acquisition of our Airstream - for the fifth time! Why?
-It’s for the YouTube Channel. Let me show youthe actual numbers - the statistics - to base it on data. Look where I see is my opportunity toinfluence - to talk to you. You most likely came to my channel based on the Airstream title.
-At left are the YouTube views of my channel and how long people watch each video. The top five videos constitute nearly all of my channel viewing time. 5% = 90% AIR STREAMING IS CLICK-BAIT
-Our Airstream rental revealed a market I could address, and YouTube would promote it for profit. It seems I should make more videos about Air streaming. 2/3 are men, and most are in the 45 to 54 age group. They’re almost all coming from a YouTube search, and 80% are on a phone. But I don’t have an Airstream!
-Can you imagine the emotion of finally discovering a market and a topic of interest but losing access to an Airstream? I’m still waiting, maybe months and months and months, toget into our own Airstream. I know, patience!
-After four prior failed attempts at financing the
-Airstream, we’ve learned a lot about persevering and patience. I bet some people believe our pursuit of an Airstream is about flaunting aluxury RV or lifestyle. (see Episode v02.12)
-
-Nope. Scotoma. Our journey is about finding away to connect with people. It’s about building a bridge between us. It’s my Personal Everest surrounded by failures and misunderstandings to share more important truths about AI andthe race of self-awareness.
-In my mind, I need the Airstream as a tool toreach the audience with what I think is a more critical message. YouTube tells me I’ve found AN audience but is that MY audience?
-With the Airstream I can communicate essential, and more profound, things not expected with the Airstream life - like the triggers thatcome from the surprise, shock, and unpre paredness for the twists and challenges. I canoutmaneuver machine learning and settle Maslow’s base with a mobile home and office.
-BREAD & CIRCUSES
-I learned something today because I did thehard work. I heard Attorney General William
-Barr say something unfamiliar. I didn’t understand it. So rather than just let it go over my AUTHOR NOTE: Imagine the tensionof discovering a topic that YouTube promotes to an audience that actually watches the videos - but NOT having the Airstream to shoot further content with? We returned the Bambi at the end of Volume One, near the beginning of the pandemic, and had to live in a hostel while we figured outhow to reboot and not lose the opportunity. Yeah that was crazy tough.
-The question is... are the viewers MY target audience? I’m not certain.
-leaving SCOTOMAVILLE 209
-
-head, I decided to look into his statement about ‘bread and circuses.’ Are you familiar?
-William Barr: “our constitution was meant for a discern ing, informed virtuous people.
-You have to raise the questionof whether we still have that in our country. We certainly have forces that are attempting to cultivate dependent people.
-And it’s the same old game.
-It’s bread and circuses.”
-What’s our bread and circusestoday? It’s all distraction...
-‘Bread and Circuses.’ That phrase piqued my interest because I didn’t know it. So I did, as I wrote in Volume One, the hard work: “don’t miss anopportunity to do the hard thing. Don’t just take a shortcut. Don’t leave it as ‘good enough’ and unfinished.”
-I did the homework. It’s a very interesting phrase because it’s prevalent in today’s society.
-‘Bread and circuses’ refersto a poet-writer of the late Roman Republic before the Roman Empire. Politicians found the easiest way to rise to power was to pass into law things that were ‘bread’ - free food and welfare programs and guaranteed minimum in come kind of things - coupled with ‘circuses’ (entertainment).
-Think about the Internet and social media. In the Roman’s case, it was coliseums, but today it’s digital entertainment.
-How do you rise to power and control the masses? In the Roman era, ‘bread and circuses’
-was the strategy.
-Look at the political strategies across the country: ‘give it away’ - ‘appease the masses.’
-Don’t have people do the hardwork. Instead, distract them with Bread & Circuses. It’sworth thinking about.
-William Barr: “it’s all about distracting people from anything that’s important and principled. That’s why so many people don’t pay attention. They’re distracted.
-They’re distracted by all the stimulation of their senses...
-That goes part and parcel with creating dependence.”
-SCENE CHANGE
-“it’s all about distracting people from anything that’s important and principled... that goes part and parcel with creating dependence.”
-William Barr Leaving SCOTOMAVILLE 210
-
-The story we tell ourselves is really important because it gets us to do thehard thing like the research I did on Bread & Circuses. I added knowledge based on facts and not just narratives or emotional kryptonite. Later we’llexplore the neuro-chemical process that connects thoughts with feelings.
-For now, understand that imagining your ‘future-self’ makes it all easier.
-THE STORY I TELL MYSELF
-It turns out today I’m ill-prepared for the late-season weather. I don’t havethe right gear to foil with others on the river. I have strong emotions about being left out, and I know where they come from. I remember false conclusions that I’m still working out. Patience.
-Patience on the gear. I will finish paying for my new board based on my history of getting stuff. That’s what doing the hard thingcan be about - persevering while waiting for the things and timing to converge.
-I’m no
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.04-Patience-Transcript.txt`*
+### Transcript — `02.04-Patience-Transcript.txt`
 
 As you can see the wind is shut off. There's a front coming in and this might be close to the end of the year.
 
@@ -289,7 +176,7 @@ Turns out today i'm ill prepared. I don't have a small enough sail. Patience. I'
 
 Thanks for watching this episode I really appreciate your attention and your time
 
-*Source: `02.04-Patience-Transcript2.txt`*
+### Transcript — `02.04-Patience-Transcript2.txt`
 
 As you can see the wind is shut off. There's a front coming in and this might be close to the end of the year.
 
@@ -373,26 +260,6 @@ Turns out today I'm ill-prepared. I don't have a small enough sail. Patience. I'
 
 Thanks for watching this episode I really appreciate your attention and your time
 
-## Visual notes (print spreads)
-
-- The two-page spread opens with a clean white left page dominated by the large bold title "PATIENCE" and the chapter number "2.04" beneath it. Above the title are two stacked subtitle lines: "KEEPING YOUR NOSE UP - IN SPITE OF LOSS" and "PATIENCE IS ABOUT GAINING ALTITUDE WITH YOUR ATTITUDE WHILE WAITING." A full-width documentary photograph occupies the bottom of the left page, showing Daniel in a black wetsuit and helmet, holding a camera for a selfie while seated on a windsurf board on calm water at sunset, with a distant yellow sail visible and mountains in the background; the footer reads "LEAVING SCOTOMAVILLE."
-
-The right page features a vertical photograph of a new red-and-black foil-board standing upright in a storage area among other boards and equipment, with a dark gray caption box above it stating "FIRST CUSTOM FOIL-BOARD: I have windsurfed for nearly four decades. This is the
-
-- The left page opens with a full-width screenshot of the Maricopa County COVID-19 epidemic curve dashboard, showing a green bar graph of daily confirmed cases that peaks sharply around late June 2020 before declining, with tabs for overall cases, age groups, race/ethnicity, and other filters visible at the top. Below the graph sits a large centered pull-quote in bold: “PATIENCE IS ABOUT LEVERAGING YOUR TIME TO GAIN INSIGHTS AND TO SHARPEN YOUR MIND SUBJECTIVELY.” The right page is dominated by two side-by-side images: on the left, a close-up photograph of an older man (Daniel) asleep in bed under a rumpled red-and-white blanket, head on a pillow; on the right, a browser screenshot of the Scotomaville YouTube channel page displaying multiple video thumbnails including “PERSISTENCE,” “PROLOGUE,” “SEGUE,” and “CURVES.”
-
-Body text flows around and beneath these elements, with the right page a
-
-- The left page of this spread opens with a large, high-angle documentary photograph showing a man (Daniel) in a black t-shirt and cap standing beside a concrete picnic table in a grassy field, with a bag and equipment visible on the ground. Body text from the chapter flows around and below the image, continuing the excerpt about recording personal progress and watching others’ journeys. A prominent centered pull-quote in large bold type at the bottom of the left page reads: “STORYTELLING IS EITHER A SUPERPOWER OR KRYPTONITE – DEPENDING ON YOUR AIM.”
-
-The right page contains additional body text under the subhead “STORYTELLING IS A SUPERPOWER,” including a personal story about a conversation with friend Alan Landis on the power and pitfalls of narrative. In the lower right, a close-up photograph depicts an older man (Daniel) wearing a dark cap, with a layered digital overlay of white geome
-
-- The left page of the spread is dominated by a large, dark-themed screenshot of the YouTube Studio “Channel content” dashboard, displaying a table of video titles with thumbnails, view counts, and engagement metrics. A prominent red oval circles the “Views” column, highlighting the top video at 25,143 views and the rapid drop-off in subsequent entries. Below the table, additional analytics panels show a line graph of impressions and views over time, a traffic sources pie chart, and audience demographics by age and gender. A gray text box overlays the lower portion of the screenshot with the exact excerpt about 54.9K total views and 90% concentration on Airstream-titled videos. The right page features clean, typographic layout with bold headings (“OPPORTUNITY TO INFLUENCE,” “AIR STREAMING IS CLICK-BAIT,” “BREAD & CIRCUSES”) and body text discussing the data’s implications, plus a boxed “AU
-
-- The two-page spread (pages 210–211) features a text-heavy layout with a large centered pull-quote from William Barr at the top of the left page, reading “it’s all about distracting people from anything that’s important and principled... that goes part and parcel with creating dependence.” The left page continues with multiple paragraphs of body text analyzing “bread and circuses” historically and in modern contexts like social media, with select phrases (such as “What’s our bread and circuses today? It’s all distraction...”) highlighted in red.
-
-The right page opens with the heading “THE STORY I TELL MYSELF” followed by personal narrative text about emotional triggers, false conclusions, and the need for patience, then transitions into a color photograph in the lower right. The photograph is a close-up, documentary-style underwater shot showing a person’s hands in green water with rising
-
 ## Takeaways
 
 1. This isthe first new board I’ve bought since 1983!
@@ -401,8 +268,9 @@ The right page opens with the heading “THE STORY I TELL MYSELF” followed by 
 4. Overall, I’m starting to nail my jibes and be less of a klutz.
 5. I’m finishing about three out of four of my jibes.
 
+
 ## First-time learner
 
 - **One sentence:** Patience as active expedition skill.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

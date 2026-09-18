@@ -19,12 +19,12 @@ tags:
 - scotomaville
 - trilogy
 - vol1-awareness
-- mis perception
+- misperception
 - illusion
 - storytelling
 - sleeves
 - hegstrom
-- amy gda la
+- amygdala
 - onus-probandi
 - aism
 sycophancy: 0
@@ -77,7 +77,7 @@ description: Vol 1 ch.03 — sleeve illusion; storytelling as superpower and exp
 # Mis perception — Which Sleeve for Which Cup?
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.03** 
-Author: Daniel J. Comp · Co-curator: angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)

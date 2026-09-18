@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.08_strategy-hoppers.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -72,7 +72,8 @@ description: Vol 2 ch.02.08 — Strategy (Hoppers).
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.08**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.08_strategy-hoppers.md`
 
 ## Provenance (Onus Probandi)
 
@@ -80,11 +81,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/Lpmb617x81U |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -92,127 +93,15 @@ Nimble strategy — hoppers, sideways progress, know thyself on the road.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-### Distinct beat (02.08 — not 02.07)
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-**Strategy continued — Hoppers.** Opportunity recognition without conquest; sideways/backward to advance; mobile *know thyself*. YouTube: https://www.youtube.com/watch?v=Lpmb617x81U
+## Chapter text (spoken register — primary)
 
-STRAT Welcome back to SCOTOMA VILLE, and to the Pacific Northwest, where it has become one heck of a hot day because the wind has shut off.
-Angelina tells me that it takes just as much energy to think positively - abundance-minded - as it does to think scarcity.
-Have you ever noticed that people can have different points of view about the same thing? Gary Larson did an excellent job painting that.
-I’m sure you’ve met the bigguy, and if you are that guy, then thanks for watching!
-In this episode, we’re continuing to explore strategy. We’re extending it a bit. I think you’llfind it very, very interesting.
-PLAYING HOPPERS It’s lunchtime. We’re goingto play a board game we call Hoppers. The object is toad vance across the board to occupy all the white spaces while Angelina moves her white pieces into the salmon-colored camp. We’re trying to swap sides. The first to fully occupy the other camp wins.
-THE FAR SIDE BY GARY LARSON:
-It takes genius to describe complex things in simple terms.
-2.08
-Angelina tells me that it takes just asmuch energy to think positively - abundance-minded - as it does to think scarcity.
-Gary Larson nailed it well!
+**Distinct beat (02.08 — not 02.07):** Strategy continued — Hoppers; opportunity without conquest; sideways/backward to advance; mobile know thyself. YouTube: https://www.youtube.com/watch?v=Lpmb617x81U
 
-ATEGY The difference between thisand many other board games is that there’s no capturing.
-Instead, the challenge is tospot opportunities. Like many entrepreneurs in the marketplace, success is not conquest;
-it’s about establishing opportunity and taking action.
-Angelina: I’ve used my piecesto build a bridge, and I’m borrowing Daniel’s pieces toextend it. So I’m going to hop over here, and then I’m goingto hop over to here, and then I’m going to hop here, andthen hop here, and then over there - in multiple hops.
-Daniel: What Angelina didn’tsee is that my next move was to jump to here, to here, tohere, to here, back, right. So now I’m blocked from doing that, and I have to find an other way around it, so I’ll gofrom here and not get as far.
-HOPPERS:
-AN OLDER BRANCH OF THE CHECKERS TREE:
-swarm out of your home camp, across the milling crowdin no-man’s-land to occupy the distant camp, taking no prisoners or leaving any of your pieces behind.
-“sometimes the bestmove is to go sideways, or backward, in order toad vance”
-Angelina: Sometimes, with strategy, you have to go side ways or backward to move forward. So having careful thought and not always being reactive is helpful. I’m going to go back and then to the side, sideways from here, forwardto here, and then sideways, and then I can go here. Recognizing there’s more than one way to advance. Try going sideways a couple of times.
-Daniel: Angelina is makinga big point. You can often advance by going sideways.
-
-MOVEMENT IS MANDATORY One of the things most people admire about the Airstream is all the windows and skylights.
-However, it rained mud last night. So I have to get on the roof again and scrub every surface from the top down.
-One part of the Airstreaminglife you can do at home is chores - exercise. Movementis a mandatory part of being mobile. An aspect of developing your strategy is recognizing concequences of choices you have made. Our mobile lifestyle demands mobility - we have to move. That’s why we’re trying to teach youabout Hoppers and strategy.
-HOPING A HEATWAVE We’re having a 100-year historic heatwave with high temperatures like 105 to 114 in Hood River, in The Gorge, and all of Northern Oregon, Southern Washington. Withthis much heat, you can’t be outdoors in an aluminum can.
-So working in an Airstreamdemands more energy than we have available.
-
-I’ve come up into the White Pass Cascade Trail campground. I was very fortunate to get a spot and barely fit in. Parking a 30 feet trailer in a 24-foot slot - that’s a little maneuvering.
-Life happens between your plans. The reason why this space was available on a first-come, first-serve basis is...
-(slap! closeup of clapping hands)
-That was a mosquito. It came in the trailer after I had flown the drone shot. It just rode in on my shoulder or something. Look, they are vampires here. They are horrible. This camp ground is beside a beautiful fly fishing lake. It’sdense with trees and mosquitoes.
-One of the local fishermen said to me; oh well, they’ll be gone in a month. I said to him; well, I’ll be gone on Sunday!.
-SINGLE HOP INDOOR DAY I think that today is going to be an indoor day.
-It’s not because it’s raining. Well, it is reigning.
-Mosquitoes are reigning, as in control. So, yeah, I think that’s what I’m saying.
-Hoppers teaches flexibility. Look at your options, and since the batteries of the Airstream are drained from the refrigerator, I can’t edit video. What can I do? Single move. I can shoot clips like this.
-Yahoo. During a massive heatwave, a very subtle breeze is coming in off of the lake below the White pass Ski Area. Nice.
-SATISFACTION THROUGH MULTI HOPING
-Why in the world would that put a smile onmy face? Count all the hops. A historic-century heat wave is underway. I go to a higher altitude in time to get a site. I needed to fit the rig in. I needed to figure out when the sun would shine between the tree shadows, and I tended the solar briefcase. I kept the refer-freezer andwater pump running. I kept busy with B-roll and enjoyed the cool air off the lake while avoiding mosquito bites.
-Anyway, that’s a long description, Alan Landiswould say, of why Daniel is smiling. I made multiple hops to stay cool during a historicheatwave with minimal power. I did well.
-“a well crafted strategy from core principles will serve well as you dance with unexpected events.”
-leaving SCOTOMAVILLE 251
-
-LEARN TO SPEAK THE TRUTH
-Although seeking the truth and speaking thetruth can be difficult, I’d like you to consider adopting it as a practice, if not a significant philosophy. I believe it can be a superpower, though it leaves me vulnerable and gulliblein social media because, as a trait, it makes it tough to construct deceitful ruses, networking strategies included. Aspergerarians often think other people are as honest as we are; we are criticized as having a poorly developed theory of mind simply because we don’t get the wiring for deception. Criticism aware, I’d encourage you to learn to speak the truth.
-
-Here are some examples.
-FRAGILE PLASTIC PARTS
-Part of what you should expect with a homeon wheels is that plastic things like this either break or simply fall off.
-The replacement part is nine dollars. The
-Loctite to keep it in place is just a few cents. Sothat should be the way that they do it in the factory. But, oh no, if you put Loctite on oneof these things made out of plastic, it breaks right off when you grab it and pull it. So putting Loctite on a plastic handle was not such a good idea.
-In addition to replacing the missing plastic handle, I had to make a second trip to replace the plastic one that I melted. I learned at asmall expense. It was only 20 bucks.
-The strategy was to ‘trust the process’ as Angelina would say. Trust that a solution would present itself when I committed attention and took action.
-$130K for the Airstream and they come with plastic parts that break or fall off. WHY?
-It’s $9 for the metal replacement.
-
-“You will either learn tospeak the truth, or grow to despise yourself”
-Douglas Murray Leaving SCOTOMAVILLE 253 FRAGILE ORGANIC PARTS
-I have read: “discretion is the better part of valor,” and yet I had to fall off a glacier to under stand the meaning of listening to your ‘knower.’
-I came to wash the truck as a break from editing. In the grill was a lack of discretion. That was a bird. I have no idea how long that’s been there. It’s pretty dry. That’s brutal. That’s life.
-FRAGILE ALUMINUM PARTS
-Remember when I claimed to have put a 30foot air stream in a 24-foot site? Yeah? Apparently, underneath one of those bushes wasa solid stump. That dent will take me a bit of time to fix well. Yeah, a lack of discretion.
-
-MAKING A BOLD MOVE
-I suggest you ramp up your learning incrementally rather than taking on too much too quickly. But here’s an example of a spider making abold move on my windshield. It hung on up to
-70 MPH for nearly eight miles. That completely changed its destiny, that’s for sure.
-Sometimes taking bold multi-hop steps can bea successful model to follow.
-
-BEING BROKE VS BEING POOR In the RV market, selling thedream is the mantra. We are told we can work when andwhere, and how we want.
-We’re sold the dream, but wepurchase a vehicle. Consider my examples above; listen to the story I tell myself and theones you are buying. Then, get new skills to pursue your dream. Let ChatGPT explain:
-Jim Rohn once pointed out that “There’s nothing worse than being stupid. Nothing. I mean, being broke is bad, but being stupid is awful. Andwhat’s really bad is being broke and stupid.”
-This resonates deeply with our journey toward self-understanding, where being broke may be a temporary condition, but remaining ignorantof the realities and opportunities around us can lead to lasting stagnation.
-“The cost to replace the panel far exceeds the price of being transparent, and the ongoing reminderto pay attention has great value.”
-I took it off the windshield using an index cardand put it on the side of the road. It deserves a life to live, children to raise, and a story aboutits Personal Everest.
-Sometimes a bold move will shake somethings up in your life. Start small. Take a different path to work. Try different foods. Try a new exercise. Learn a new skill. You can do some fabulous stuff to chart a new pathway.
-To change course, to change directions, setyour sail a little different. To have a different outcome than you were handed, consider bold moves - with discretion.
-
-He also warned of the situation where onemight be “sick, broke, and stupid,” describing it as a dire circumstance. This emphasizes theneed for both physical and intellectual health, aligned with a wise strategy, to navigate life’scomplexities.
-The difference between being broke and poorgoes beyond mere financial standing. Being poor is a state of mind like having a lack ofambition or remaining “stupid” in Jim Rohn’s words. Being broke is just a situation, a condition that can be overcome with understanding, effort, and resilience. Now, back to Daniel:
-DREAMS COME WITH RESPONSIBILITY:
-Learning to speak the truth with incremental fumblesresults in greater confidence and transperency Leaving SCOTOMAVILLE 255
-I want to encourage you; it’s worth pursuing your dreams, growing your knowledge, and evolving in wisdom. As ChatGPT explained thewords of Jim Rohn, the combination of financial hardship and ignorance is to be avoided atall costs, but with the right mindset and determination, you can transcend these obstacles.
-The Greatest Expedition you will ever undertake is the journey to self-understanding, for the real voyage of discovery consists not inseeking new lands, but in seeing with new eyes. Thanks for testing my claim!
-
-YOURT Lpmb617x81U
-In this episode, I share some strategies that have served well. By learning tospot opportunities, we can advance without combat. We can minimize loss and maximize contribution by seeing the world as it is rather than as we wish.
-Your turn. Consider your strategies.
-
-List strategies and thoughts about pursuing your best outcomes.
-
-below are the missed opportunities, insights, and points the narrative supports butneglects to call out, particularly focusing on the themes of strategy, maturity, and the journey toward self-mastery.
-1. Strategy:
-a. The Power of Adaptation: The game Hopper sis a metaphor for life’s journey and highlights the importance of adaptation. While the game and therules are mentioned, there’s room to delve deeper into how adapting to unforeseen circumstances
-(e.g., curves, unpredictable weather) is a key aspect of strategic thinking and entrepreneurship.
-b. Recognizing Opportunities: The narrative emphasizes recognizing opportunities without elaboration on how this ties into long-term strategic planning. The nuanced strategies of identifying, evaluating, and seizing opportunities could be explored further, drawing parallels with the business world or personal development.
-Please help me analyze this chapter text taken from the episode transcript for missed opportunities. I wish to discover points the narrative support, but I neglect to call-out on strategy, maturity, and the journey toward self-mastery. Thank you.
-
-No doubt you have learned to cope with people, situations, challenges and opportunity. Share a thought on any of the strategies presents, or on one that has served you well.
-DISCUSS c. Decision-making and Consequences: The episode discusses choices and consequences (e.g., in Air streaming life), but there’s an opportunity todraw a more comprehensive link between strategy, decision-making, and understanding the potential outcomes of each choice.
-2. Maturity:
-a. Learning from Mistakes: There’s a wealth ofexamples here that can illustrate the maturation process, such as the mistakes with the plastic handle and the lack of discretion with the aluminum parts. Expanding on these could provide valuable insights into personal growth and maturity.
-b. Emotional Maturity: The subtle hints at dealing with challenges and events could be expanded to explore emotional maturity. This includes dealing with disappointment, frustration, and maintaining a positive outlook despite setbacks.
-3. Journey to Self-Mastery:
-a. Flexibility and Resilience: The text discusses flexibility in various contexts, but it could further explore how this ties into self-mastery. For example, the ability to change course, adapt to new circumstances, and remain resilient.
-b. Integrity and Truthfulness: Although there ismention of speaking the truth, the narrative could delve into how integrity and honesty are integral toself-mastery. As Carl Rogers emphasized, congruence and authenticity are crucial for growth.
-c. Incremental Growth and Bold Moves: The episode discusses incremental learning and making bold moves, but this could be further related to the journey to self-mastery. Jim Rohn’s words could be int
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.08-Strategy-Transcript.txt`*
+### Transcript — `02.08-Strategy-Transcript.txt`
 
 Welcome to the Pacific Northwest where it has become one heck of a hot day because the wind has shut off. And, welcome back to Scotomaville.
 
@@ -312,20 +201,6 @@ Thanks for watching this episode of Scotomaville. I look forward to reading your
 
 Thanks for watching
 
-## Visual notes (print spreads)
-
-- The left page is dominated by a large documentary photograph at the top showing Daniel (bald, wearing glasses and a gray-green shirt) inside the Airstream, captured from an exterior viewpoint through the trailer’s windows and skylights, with green landscape visible behind him. Below this image, the page layout includes the bold heading “MOVEMENT IS MANDATORY” followed by body text, a second heading “HOPING A HEATWAVE,” and a smaller color photograph of the Airstream’s exterior side window fitted with a dark screen dotted with numerous small white spots, set against a clear blue sky.
-
-The right page features a centered pull-quote in large italic text: “a well crafted strategy from core principles will serve well as you dance with unexpected events.” It includes multiple columns of body text discussing the White Pass campground, heatwave conditions, and mosquitoes, along with a small abstr
-
-- The two-page spread features a documentary-style layout with multiple color photographs from the journey, interspersed with text blocks and headings. On the left page, the top-left image shows an aerial view of a white Airstream trailer parked in a dense forested campsite with a red vehicle nearby. Adjacent to it is a close-up of weathered hands (likely Daniel’s, wearing a gold ring) turning a metal dump valve handle on the underside of the Airstream, with a visible label reading “AUXILIARY (WASH) HOLDING TANK DUMP VALVE HANDLE.” The bottom-right corner includes a small inset photo of the Airstream parked on pavement surrounded by trees.
-
-The right page displays a close-up of a red Ford truck grille containing a dead bird caught in the mesh, with hands visible near the license plate. Below that is a larger close-up of a hand touching a dented section of the Airstream’s polished aluminum 
-
-- This two-page spread opens on the left with the heading “MAKING A BOLD MOVE” and body text that references a spider on the windshield, paired with a small inset documentary photograph of a spider clinging to glass against a clear blue sky. Below it, the “BEING BROKE VS BEING POOR” section includes a small circular portrait of Daniel (white-haired older man) smiling and holding his hand to his temple, next to a green ChatGPT-style logo.
-
-The right-hand page is dominated by a large, realistic photograph of Daniel lying on his back on asphalt beneath the Airstream, his hands reaching up to press against the trailer’s underside where bright green tape seals a panel above a yellow leveling block. A centered pull-quote in dark text discusses the cost of replacing the panel versus “being transparent,” while a dark banner at the bottom right carries the sub heading “DREAMS COME WITH RESPONSIBILI
-
 ## Takeaways
 
 1. Hoppers teaches opportunity recognition without conquest — no capturing.
@@ -334,8 +209,9 @@ The right-hand page is dominated by a large, realistic photograph of Daniel lyin
 4. Mobile living is leverage on know thyself — life comes with you.
 5. Prefer truth-telling over living-the-dream theater (Onus Probandi on video).
 
+
 ## First-time learner
 
 - **One sentence:** Nimble strategy — hoppers, sideways progress, know thyself on the road.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

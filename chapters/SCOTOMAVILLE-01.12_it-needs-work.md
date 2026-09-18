@@ -34,9 +34,9 @@ date: '2020-04-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-01.12_it-needs-work.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 1 ch.01.12 — It Needs Work.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.12**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-01.12_it-needs-work.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,81 +92,13 @@ Honest a ppraisal without shame spiral.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-VOL 1 AWARENESS IT NEEDS WORK
-You don’t have to think long to recall the last opportunity for hard work you declined. It’s tough to do the hard thing, let alone be eager. And yet, this is what achievers do.
-Imagine creating a video and print trilogy during the pandemic in a space the size of a bathroom?
-Yeah, you’re reading it.
-You have the power within you to design a life!
-Don’t settle. Turn what you were handed into something to be proud of.
-The reward for making your bed? It’s not about having a clean, organized, poofy bed! The prize is that you affirm your will and determination tocontinue your ascent toward self-mastery.
-I once had a fabulous opportunity to be mentored by John Kalench. John founded ‘Million aires In Motion.’ I was in San Diego with him atone of the events. There were about a dozen multi-millionaires around the table. Reading thisin hindsight chokes me up as John pointed out something small that I didn’t quite understand atthe time what he meant.
-He said, “Daniel, look around the table. These guys wish they were where you are now - with an opportunity to go for their dreams again - because they miss the journey. They’re all rich, yet
-Our best opportunities usually show up looking likehard work. Don’t miss a chance to mature.
-Leaving Scotomaville is not about where you endup. It’s about learning who you are, by using multiple tools to overcoming present challenges.
-.12 .12
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Leaving SCOTOMAVILLE 109 “sustained smart work always overcomes bad luck and heritage”
-they can’t re-experience climbing out of ignorance to become abundant.”
-John also said, “Daniel, look around the table, tell me what you see?” And I said, “A bunch ofnice guys.” And he said, “No, no, no, what do you see different?” Eventually, I figured it out.
-I was the only one that had a beard, a scruffle.
-John said, “There’s a clue.” I was perplexed.
-‘What? You can’t have a beard if you’re rich?’
-Eventually, I figured out that he didn’t mean thatyou can’t have a beard. Instead, he suggested that I shouldn’t give up the opportunity to shave - not merely to be clean-shaven - but to value the self-time in the mirror aiming at who I would become. The same goes with isolation during a pandemic or in a jail cell or a hospital, or while living out of your car. You can change who you will be at any time!
+## Chapter text (spoken register — primary)
 
-“Failure will never overtake me if my determination to succeed is strong enough.” Og Mandino
-The point John was making was that I was missing the real opportunity to find out who I am. My youthful idealism didn’t see that even if you are wealthy, and can’t buy another expedition out of Scotomaville. It’s a one-way trip. Aim well.
-Likewise, cleaning a bowl or a sink may seem trivial, but not when it’s time invested with yourself. It’s time to learn who you are and whereyou want to go with your character. Getting out of Scotomaville is not about where you end up.
-It’s about the journey of sorting yourself out, and aiming at who you will become. Get it?
-Making breakfast and cutting grapefruit, those things are not about fancy scrambled eggs with garnish. You’re missing the point - that’s a scotoma. Cutting grapefruit is not about avoiding your finger; it’s about aiming your attention at thoughts going through your head. Isolation has value for recognizing who you are becoming and what youstill have to work on while celebrating that you’ve come far, and recommitting to finish the journey.
-A simple way to say this: don’t miss an opportunityto do the hard thing. Don’t settle for a shortcut.
-Don’t leave it - ‘ahh, good enough.’ Don’t pass anopportunity to do the hard thing!
-
-“Don’t wish it were easier, wish you were better.
-Don’t wish for fewer problems, wish for more skills.
-Don’t wish for less challenge, wish for more wisdom.”
-Jim Rohn
-
-Leaving SCOTOMAVILLE 110 Here’s a current event to drive home my point. I’m recording this on week five of the lockdown. I committed to creating Scotomaville in a 19-foot Airstream. Five weeks ago, we came to the north of Phoenix topick up our 30-foot Airstream.
-I’m regularly fighting the thought that, geez, if I just had the 30 foot then this would be sooomuch easier. If I only I had...’
-REFRAMING MY EXCUSE I have to re-frame my excuse -  Daniel; this is not about needs.
-It’s about seizing the opportunity to do something challenging, the mental reframing work. It’snot about what I want; it’s about utilizing what I have. It’s about recognizing and putting to work this chance - now in my hands, where I’m at - so that others canmimic and follow from where they have to start.
-Daniel, your mindsetis one that many can relate to, especially in timesof constraint or adversity. It challenges us to reflect onwhat we truly need and to find contentment and creativity within our current means, rather than longing for whatwe don’t have.
-Look at the bottom of Maslow’sclassic hierarchy. It describes survival. Getting by is normal, but it’s not something that creates pride because living there borders on dependency. You’retempted to mask life there with pharmaceuticals and government handouts and regret.
-By seizing a challenge to dosomething tough, unfamiliar and hard, we gain confidence toclimb upward. Working the need presented moves us to the next challenge. Don’t miss the chance with what’s in your hand.
-That is what God said to Moses. Moses complained that he stuttered, and had only a stickand some sheep. God turned his stick into a snake to point out it’snot what Moses could do, rather what God could do with Moses.
-It was about history recording the events which would unfold following his full commitment.
-You might not expect that I have served in the Navy, in ministry, and international economic development. I’ve been an entrepreneur for 48 years. Yet, I have spent over 15 years sleeping on cots and in bunks and on mattresses on the floor, and insleeping bags, in tents and vehicles, and anything but a home.
-EXPLANATORY KNOWLEDGE I’ve bought the story of a higher calling and purpose. Authoring and curating Scotomaville is amission with an imagined out come that gives my life meaning and value. My future-self is giving my daughter a copy of thisbook at her wedding. I imagine my grandchildren understanding my journey and taking on their own. Our prefrontal cortex allows us to tell ourselves stories to do things that other people think are crazy!
-So gaming ourselves is mythesis. Summit ing awareness by purposefully hacking my belief sis the way!
-“Follow the way by which we began”
-Again, the original Maslow’s hierarchy said we needed to take care of our basic needs - food, shelter, and clothing before wecould become actualized. We couldn’t find purpose in life without meeting our basic needs, but there’s been an upgrade tothe classic view.
-
-Leaving SCOTOMAVILLE 111 It’s better illustrated horizontally, where you can pursue multiple layers simultaneously. So while you’re locked down, not sure about your income, not sure about keeping your job or house, you can pursue meaning, purpose, and actualization simultaneously! You’re not limited to avertical ascent, you see?
-
-Still too Idealistic? Alright, scotoma. Ready?
-Look right here under my water bottle, do you see? There’s this little tool right here. AHA! Scotoma! The factory installed it, and I JUST found it. Maslow’s horizontal hierarchy is a factory-in stalled tool.
-Likewise, we have a prefrontalcortex at the front of our brain that can do extraordinary things. For example, a dog can worry a bone, but a human canuse explanatory knowledge to talk about the sun the dog lays beneath. The sun is a burning ball of gas we call a star, one ofa hundred billion in our galaxy, and there are trillions of them across the universe. As with our gut microbes or the neuron sin our brain, we control the narrative. We can imagine our future-self, create dopamine, and be motivated to do the hardwork. We can create explanations with stories. We have thatgift in our brain, just like this multi-tool in my bike frame.
-So don’t just be a lazy dog worrying on a bone. Don’t let your emotions run away because youneed this or that BEFORE COM MITTING! Don’t give in!
-OK. I’m over-chewing it, but it’sessential and fabulous.
-Don’t miss an opportunity toshave, clean a bowl, slice grape fruit, get dressed, make a bed.
-Don’t miss a chance to prove that you have what it takes to make a difference. Your voice doesn’t have to be locked in your head by the scotoma that you’reliving! Escape self-tyranny! You’re appreciated!
-Get out of Scotomaville!
-personal development journey intensity of needs self-actualizationesteem love/belonging safety needs physiological needs
-
-YOURT Pq25u5_2DEY Doing the hard mental work is a choice.
-I’m certain you have many experiences where opportunity passed by looking like impossible work. Anthony Robbins hears from his wealthy clients that regret is more painful than effort.
-The Reflection on this Episode turns out more painful and rewarding than expected. What do you mark your progress by?
-List some challenges you have faced. Mark them with a (pass) or (fail) foryour commitment.
-WATCH REFLECT W68UxPHyI5E
-
-John Kalench told to my face; value your journey out of ignorance aswealth, as something millionaires can not do twice.
-Don’t go it alone. Share your rich insights with other explorers and me.
-
-## Video transcript (spoken register)
-
-*Source: `01.12 WorkingNeedsTrnscpt.txt`*
+### Transcript — `01.12 WorkingNeedsTrnscpt.txt`
 
 SCOTOMAVILLE: 01.12 Working Needs
 
@@ -203,10 +136,6 @@ And see we can create these explanations, these stories of things. You have that
 
 Ok.I'm over chewing it but it's really important. It's a fabulous tool. You're really appreciated! Get the hell out of Scotomaville! Don't miss an opportunity to shave, clean a bowl, to slice grapefruit, to get dressed, make a bed. Don't miss an opportunity to prove to yourself that you have what it takes to make it different, that your experience doesn't have to be locked in to the scotoma that you're living !
 
-## Visual notes (print spreads)
-
-- *(see book PDF spreads)*
-
 ## Takeaways
 
 1. VOL 1 AWARENESS IT NEEDS WORK You don’t have to think long to recall the last opportunity for hard work you declined.
@@ -215,8 +144,9 @@ Ok.I'm over chewing it but it's really important. It's a fabulous tool. You're r
 4. You have the power within you to design a life!
 5. Turn what you were handed into something to be proud of.
 
+
 ## First-time learner
 
 - **One sentence:** Honest a ppraisal without shame spiral.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

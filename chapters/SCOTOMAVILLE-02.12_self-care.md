@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.12_self-care.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -73,7 +73,8 @@ description: Vol 2 ch.02.12 — Self-Care.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.12**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.12_self-care.md`
 
 ## Provenance (Onus Probandi)
 
@@ -81,12 +82,12 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/106zCmbMKYY |
 | Video | https://youtu.be/3FiLo3sZj08 |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -94,128 +95,13 @@ Care as expedition logistics not luxury.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-SELF-CARE 2.12 i have 40 years of memories here. for the first time i saw how choked the launch has become. i cant foil here. Bummer.
-THREE MILE CANYON @ COLUMBIA GORGE 298
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Welcome back to another Episodeof SCOTOMAVILLE.
-We’re at one of my favorite, andmost memorable places in the entire Columbia Gorge. This is Three Mile Canyon. However, it’s all different. It’s changed, and I have to change my thinking. I discovered weeds have grown to the surface across the launch and lagoon.
-Unfortunately, I can’t foil here.
-It’s emotional because I watched hacking your thoughts amygdala hyjackings canbe a thing of your past Imagine how futile it would be tocompete on a playing field without knowing the rules of the game. Yourteam would get it’s butt kicked, and the players would turn on eachother in frustration.  Buster Benson digested the Wiki list of cognitive biases and made this simple play book. Memorize it. You’ll recognize false narratives intended to game you, turning their kryptonite intoyour awareness superpower.
-shooting stars with my children inmy lap after hot days of fully plan ing jibes. I assumed I could continue building memories here. But what I got was thrown off my foilinto masses of overgrown weeds lurking just below the surface.
-It’s sad but true. It’s time to hackmy thinking by addressing change and cognitive biases.
-In this Episode, we will talk about leaving SCOTOMAVILLE 299
+## Chapter text (spoken register — primary)
 
-two different aspects of selfcare: how we can manage our physiology and our psychology.
-We’re first going to talk aboutthe output - that thinking that becomes speaking. Then we’regoing to cover aspects of your physiology - that is, input - whatyou eat, smell, the information you take in.
-
-PSYCHOLOGY I want you to see that in order forme to manage my output I have to manage my input.
-I’ve had to throttle what I canhear - the distant noises of the train and highway that are affecting my mind fullness. I’m using unsightly earplugs so I can listen to my thoughts to tell you about listening to yours. That’s Onus Probandi.
-“Every cognitive bias is therefor a reason — primarily to save our brains time or energy.”
-We’re gamed for 20 watts of effort.
-
-they’re wrong, I feel vulnerable, triggering an Amygdala Hijacking - flooded with emotions.
-We’re all vulnerable. The gang that put the Wikipedia list together counts ~188 cognitive biases.
-That’s too many for me to digest, so I don’t makethe effort to understand the implication or magnitude of the importance.
-Fortunately, Buster Benson has worked hard toskinny the list down to four problems the biases are trying to solve.
-“Every cognitive bias is there for a reason —
-primarily to save our brains time or energy.”
-Our four fundamental computing problems ■  We aggressively skim and filter to kill noise.
-■  We seek meaning, so we create stories.
-■  We act fast,  jumping to conclusions.
-■  This isn’t easy, so we remember only bits.
-FOLLOW ME - ON YOUR OWN JOURNEY The theme of SCOTOMAVILLE is that “the Greatest
-Expedition you’ll ever undertake is that Journeyto Self-understanding.” I’m inviting you on that journey while demonstrating it.
-To change our outcomes, we have to become aware of our beliefs, and understand our views are half wrong because the input we’re getting isp laying on our ignorance of our cognitive biases.
-We have access to Internet, so we mistakenglybelieve we are smart by having what seems the right answer. We’re naive believing that Google tells us what’s available or true. It’s worse than with the book-mobile. Google has server capacityto index four percent of the internet. Four percent is the total capacity they have. What could go wrong with that?
-Google is obligated to their shareholders to makea profit. So, their algorithms chose what’s profit able to pay for those facilities and the electricity and the employees. They must identify and serve what is profitable, putting users in a walled garden. The search results reflect a diet discarding 96% - and literally, that’s called censorship.
-TOO MUCH INFO - NOT ENOUGH MEMORY
-To give you an inside look at how awareness exposes our vulnerability, consider this: According to my plan, I’m supposed to be on the water rightnow because the weather forecasting model I consulted turns out to be probabilistic, rather than accurate. It’s precise but not correct. The forecast was for strong wind here. We drove a couple ofhours to settle our things with enough playtime a good Hoppers move - except that I’m pegged.
-When I rely on external recommendations, and
-
-COGNITIVE
-
-BIAS CODEX Our brains have evolved to deal with these four giant problems:
-■  We aggressively skim and filter to kill noise.
-■  We seek meaning, so we create stories.
-■  We act fast,  jumping to conclusions.
-■  This isn’t easy, so we remember only bits.
-
-So what’s the downside?
-In addition to the four problems, our solutions have problems of their own:
-■  We don’t see everything. Some of the information we filter out is actually useful and important.
-■  Our search for meaning can conjure details that are filled in by our false beliefs, and stories that aren’t true.
-■  Quick decisions can be seriously flawed.
-Some of the quick reactions and decisions wejump to are unfair, self-serving, and counter-productive.
-■  Our memory reinforces errors. Some ofthe stuff we remember for later just makes all of the above systems more biased, and more damaging.
-ORIGINALLY WRITTEN BY: BUSTER BENSON Leaving SCOTOMAVILLE 303
-
-To demonstrate how vulnerable I feel, here’s mythoughts: The scale of the analytics and the model ing is so unimaginable this machine learning mustbe more intelligent than me. So, it must be more accurate than my intuition. That pushes me into aninternal conflict and doubting, which triggers issues of confidence. Ok, I yield.
-
-SHIFTING PERSPECTIVE ON OPINION
-You’ve seen across my episodes that there seems to be a provision of opportunity to learn on the exact subject that I’m liking... Liking? Inthis scene, I’m speaking about input, thinking, and how I seem to be presented with challenges to overcome on the topic in focus. In a previous episode on onion peeling, I presenteda way of discovering what’s troubling us.
-“the answer might bepopular. It might be precise. It does notmean it’s accurate”
-Choose them wisely. With all of the cognitive biases, it’s easy to get gamed. Look for Triangulation - noless than three different arguments for any topic or storyline. Don’t settle for a single narrative. Require
-AI to name references and to cite sources. Do thehard work and ask it what is a better question to ask. dig a little deeper. Test them to be reliable.
-Don’t just swallow it. Just because it’s popular, itmay even be precise; it doesn’t make it accurate.
-Test what I’m claiming for yourself. Don’t swallow what I am saying. Discover Why You Do What You
-Do with as many tools as you can find. Require evidence, even from those that acknowledge their biases and point out their false conclusions.
-
-An Example of Provision:
-I was out wind-foiling. When I returned to the Airstream, I found a post-it note which read:
-“this whole program smells of asshole”
-Immediately, I had a flush of emotions, including fear, rejection, and shame. I reacted with defensive thoughts like, “For 30 years, I bicycled towork. I’ve earned my carbon offsets for the rest of my life. I should be able to use gasoline now after THIS WHOLE PROGRAM SMELLS OF ASSHOLE:
-Immediately, I had a flush of emotions including fear, rejection and shame. I reacted with defense.
-decades of human-powered commuting, right?”
-“This Airstream is our full-time home. When canyou buy a home for less than $150,000? You can’t do that today.”
-At first, I was struggling with strong emotional rejection. I was conflicted and in turmoil.
-
-Leaving SCOTOMAVILLE 306 But then I remembered what First Lady Eleanor
-Roosevelt had said: “no one can make you feel inferior without your consent.”
-Wait a minute I thought. I don’t have to accept what they say. I used diffuse time to reflect on my reaction. I did maintenance on the roof of the
-Airstream for the winter, readjusted the door, andputtered around all the tasks that I needed to do.
-I made time to think about what I was feeling and THE GIFT THEY GAVE US
-I started feeling sad for them, guessing whythey let their 20-watt brain agree with socially popular judgments instead of what’s accurate. That’s sad. They didn’t know what a gift they were giving me, or you, in this Episode.
-I recalled several linked memories and feelings ofrejection and shame. The yellow sticky note triggered a false conclusion I had about my origins and birth mom. It was certainly the feelings of shame from my childhood, but my mom was 15 years old when she had me. What did she know?
-The criticism is not about me. That’s someone else’s judgment about hard work and achievement. I realized that the core of my emotions and potentially explosive trigger turned out to be a
-I puttered around solving physical problems while peeling an emotional onion.
-“No one can makeyou feel inferior with out your consent.”
-Eleanor Roosevelt thinking. I thought about previous experiences of rejection and dug through layers of prior wounds and childish conclusions by peeling emotional onion layers.
-I realized that I had been given an opportunityto see how other people can jump to a judgment without having information. They mightaim to cancel me by criticizing - expecting me to prove myself - the inverse of Onus Probandi:
-“I say you are, so prove otherwise.”
-They didn’t know much we struggled to get the
-Airstream and how much maintenance andwork it is or the pride of ownership of the Air stream community. None of those things werein their argument. They didn’t watch my channel. What did they know?
-
-“You have power over your mind - not outside events. Realize this and you will find strength.”
-Marcus Aureliusfalse conclusion I had with a judgment made by others. The deepest onion layer I found was ultimately childhood erroneous junk. [laughter] I love it. I can laugh about it.
-CURIOUSLY COINCIDENTAL Curiously, the sticky note judgment came while I was working on this Episode on Self-care, and specifically on the topic of managing mythoughts and self-talk. Coincidently, we had five similar rejections the same day. Theywere demands to remove our rig, get out of here, go somewhere else; we don’t care where - not our problem. The timing and abundance seemed outstanding to me. My cognitive bias wants to filter noise and find patterns, create a story and make sense of it all.
-Don’t just read this and accept what I claim. Doyour homework. Dig into your core beliefs next time you feel triggered. Don’t accept the first few excuses or justifications you recall. They are likely tangential distractions. Instead, work on something physical and sleep on the issue. Ask a superior reasoning engine to express the words as emotions. Peel some emotional onions to gain insights and evidence that only your mind will expose. Take another step up your Personal Everest. You have the power!
-POWER OVER YOUR MIND
-You’ll remember the quote from Marcus Aureliusabout “the obstacle is the way.” You might recall from an earlier Episode that I believe the commonor the popular interpretation of that saying is a little off target. I think the ‘obstacle’ is our interpretation of the event, not the actual event. It’s not the game-a-foot or conspiracy against us. It’s our thinking... the way we think, not what we think.
-With better awareness and some understanding, you’ll not only recognize fallacies, but you’ll start testing your thoughts as a discipline. You’ll also begin changing your input sources. For example, if you’re getting confirmation bias from a single channel - too much information that matches what you already believe - then find another with factsand evidence. That’s a way to control and trans form your outcomes.
-Give your family the gift of being the best you canbe. Give yourself that gift by managing your selftalk at the source. Document, review, analze, peel, repeat and grow your self-mastery experience.
-
-PHYSIOLOGY You’ve heard me say that you should pay attention to the small things numerous times.
-They give you a heads up onfuture consequences.
-Before you start towing your RV, most of us do a walk around.
-Guess what I found recently. A screw stuck in the tire - here.
-That’s the kind of thing you wantto catch in advance.
-In the same way you develop the discipline of paying attention to your rig, do the same with yourbody. The difference between health care and sick care istaking personal responsibility. By making it your responsibility andnot offloading it to a third party to mask the symptoms with adrug, you pay attention to small things like inflammation or ahead ache, gut ache, gas, bloating, blood in your stool, pain inyour foot, a itch, a craving.
-When you pay attention tothings by asking better questions, doing some research, youcan find out what’s ailing you and prevent a whole chain reaction of consequences. I did.
-I dealt with and resolved occasional colon bleeding - see gyphosate pg 216, Viome pg 240, a subtlety of Chapter 2.09, closing pg 266, closing pg 294, and in particular across the nextfour columns!
-
-THE PLANT PARADOX I ran across Dr Gundry’s Plant Paradox. It made a huge difference for me.
-“Lectins are proteins found in a lotof plants. The protein helps plants ward off attacks from would-bepredators like you. They’re how a mother plant makes sure you don’teat her babies because when you eat something rich in lectins theybind to the sugar residue on the outside of your cell membranes likebarnacles cling to a boat.
-Specifically these barnacles attach themselves to your red blood cells and leave you feeling lousy. Howlousy? Well a lot of the food poisoning cases reported right here inthe united states, especially with regards to beans, are actually lectinpoisonings, because you guessed it beans are a huge source of lectins.
-
-It takes a bit of time, however we feel great for 
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.12-Selfcare-Transcript.txt`*
+### Transcript — `02.12-Selfcare-Transcript.txt`
 
 Welcome back to another episode of Scotomaville.
 
@@ -349,33 +235,69 @@ Angelina: "so Daniel, how'd you do on that caulking job?
 
 (I was mistaken. I had found small gaps in the factory caulking job and replaced them with new sealant. However, the next time it rained, the window leaked again. Argh. 100% wrong 50% of the time)
 
-Daniel: "how'd I do? Yeah well... See this inner seal with dust between the glass and the rubber gasket?
+Daniel: "how'd I do? Yeah well... See this inner seal with dust between the glass and the rubber gasket? Rain water is dripping out underneath the glass, right here. So I took it all apart again. I've scraped it out with a utility knife. I've cleaned it with acetone. I've masked it with painters tape and forced a black silicone adhesive down inside the crack. Then I pulled off the mastic to make it really nice appearence.
 
-*[Transcript truncated — full spoken register in source file.]*
+SCENE CHANGE - lunchtime
 
-## Visual notes (print spreads)
+Part of my nutritional self-care philosophy is to have a really good set of ingredients, so that even when you start running low on food, you can mix and match the ingredients in some very tasty, nutritious and visually interesting ways. I think that's also one of the principles of having a fabulous wardrobe. It's the same for nutrition.
 
-- The left page of this spread is dominated by a large, realistic aerial photograph of Three Mile Canyon on the Columbia River Gorge, showing a calm blue expanse of water reflecting distant arid hills, with a red pickup truck and white Airstream trailer parked on a gravel launch area surrounded by sagebrush. The chapter title "SELF-CARE 2.12" appears in large bold lettering at the top, with vertical text running down the left edge reading "THREE MILE CANYON @ COLUMBIA GORGE." A dark rectangular pull-quote box at the bottom contains the exact text from the user's excerpt about 40 years of memories and the choked launch preventing foiling.
+Angelina sneezes.. "Ahhhchooo..." hey, that's not necessary in my b-roll. You do that on purpose I think
 
-The right page shifts to a split layout with a dark gray panel containing the heading "hacking your thoughts," followed by explanatory paragraphs on cognitive biases and amygdala hijackings. Prominently featured is a hand-drawn-style "COGNITIVE BIAS CHEAT
+That's a pretty decent meal: low fat coconut milk with a curry vegetable soup and a salad that has goat cheese, apples, almonds, palm heart, and sliced beets over wild greens.
 
-- The dominant visual on this spread is a large, full-width circular infographic titled “COGNITIVE BIAS CODEX” in bold uppercase lettering at the top. A detailed gray brain illustration sits at the exact center, with thin colored lines radiating outward to connect dozens of small text labels naming individual cognitive biases. The diagram is divided into four color-coded sections—green on the left for “What Should We Remember?” and “We Need To Act Fast,” and blue on the right for “Too Much Information” and “Not Enough Meaning”—each with explanatory captions and bullet-point lists describing the brain’s evolved shortcuts and their downsides.
+SCENE CHANGE
 
-Additional text blocks appear on the right side of the spread, including the credit “ORIGINALLY WRITTEN BY: BUSTER BENSON,” four color-keyed problem statements, and a section headed “So what’s the downside?” listing four consequences of the solutions. 
+Holding a freshly broken non-cutting can opener. Yeah, these fancy can openers work well with this episode on self-care - the reliance on yourself to fix things. (Close up of broken can opener handle and a dried up tube of super glue) of course the glue tube nozzel is all dried up. I cut off the bottom of the unrolled metal tube, and sure enough there is excess super glue now stuck on my fingers.
 
-- The right-hand page is dominated by a large composite image showing a silver Airstream trailer parked on green grass, overlaid with a semi-transparent, color-coded map of the United States and southern Canada displaying city names and temperature readings. A white sticky note with handwritten text reading “This whole program smells of asshole” is placed in the upper right of the image. A dark horizontal banner across the lower portion of the image repeats the phrase “THIS WHOLE PROGRAM SMELLS OF ASSHOLE” followed by explanatory text about the author’s immediate emotional reaction of fear, rejection, and shame.
+SCENE CHANGE
 
-The left-hand page contains running body text discussing vulnerability, machine learning versus intuition, and the need for triangulation of opinions, along with a centered pull-quote in large italic type: “the answer might be popular. It might be precise. It does not mean it’s ac
+Taking care of our body is a lot more work than fixing an airstream. It's more than exercise. It's more than eating right, sleeping right, drinking the right things. It's all of those things combined, plus it's managing subtleties like inflammation, gassiness, bloatiness and pain. But what are your alternatives? Let it go? It just gets worse. So make the extra effort because it's the only body you get.
 
-- The left page opens with the large bold heading “PHYSIOLOGY” above two small documentary photographs placed side-by-side near the top: a close-up of a dark tire tread with a silver screw head clearly embedded in it, and a waist-up portrait of a gray-haired man in a dark suit, purple tie, and glasses gesturing with his right hand. Lower on the page, a smaller candid photo shows a bald older man (appearing to be Daniel) grimacing with his hand pressed to his temple.
+SCENE CHANGE
 
-The right page is dominated by a large, realistic color photograph of a breakfast plate on a dark table—two pancakes topped with sliced almonds and a dark spread, scrambled eggs mixed with bacon bits and green vegetables, and several slices of orange or melon—bearing white overlaid text that reads “IT TAKES A BIT OF TIME, HOWEVER WE FEEL GREAT FOR HOURS AND DON’T HAVE CONSEQUENCES LIKE WITH GRANOLA, YOGURT AND ORANGE JUICE.”
+For dinner we're having lamb chops with apple, lemon and oregano deglaze, along with grilled asparagus.
 
+SCENE CHANGE
 
+In a previous episode I introduced dr matthew walker and the importance of getting a full night's sleep. I'll let you follow up on research on that, but I would really encourage you to consider a full night's sleep in order to detox your brain.
 
-- This two-page spread opens with a close-up documentary photograph in the upper left of an RV interior, showing wooden cabinetry, a long aluminum rod (the awning tool) leaning against the wall, and a small lid fallen on the gravel floor beneath the cabinet, directly matching the "TANGENTS ARE WORTH THE EFFORT" anecdote. Below the main text block on conquering added sugar, a smaller inset photo displays a stack of brown paleo chocolate pecan pancakes on a white striped plate, topped with chopped pecans and chocolate shavings, with scattered crumbs around the base.
+SCENE CHANGE
 
-The right page features a large, wide-angle photograph of two people (Daniel and Angelina) riding bicycles along a sunny paved road lined with tall trees and open fields, towing a silver Airstream trailer behind them, with the caption "Movement of any kind helps" at the bottom. A large pull-quote in the upper right reads “life s
+Earlier in this episode I claimed google has self-interest for profit which trumps their search results and youtube recommendations biased for their advertising services. I also said that their machine learning is very precise but not necessarily accurate.
+
+Let me practice onus probandi, presenting evidence:
+
+This is Dr. Matthew Walker. You'll remember that I introduced him to you in the previous episode. Dr. Walkers MasterClass is being advertised several times on the YouTube search results. They intend to provoke my interest in a click-through to join the MasterClass which I already completed - meaning that MasterClass paid Google to serve that ad to me.
+
+Google's history of my search, location, time and context inform the predictive algorithms. YouTube's pattern recognition is very precise. It targeted me. However it is not accurate. I've already taken that class.
+
+It's not producing the outcome that MasterClass is paying for. It is producing the outcome YouTube needs for it's shareholders.
+
+SCENE CHANGE
+
+Viome is a really big resource for angelina and I mentioned in numerous episodes. We sent the lab a blood sample and a stool sample. The results came back along with a precision supplement made for us individually. Angelina's is quite different than mine. We recieve supplements and pro/prebiotics along with a personalized recommendation in an app listing superfoods to increase, and foods to minimize.
+
+By switching your diet around you may benefit as I did. I lost that five pounds of nagging tire around my belly. I'm back to the same weight that I was in high school simply by being able to dial in on the ingredients that for my body cause inflammation. Those ingredients were confirmed in the plant paradox, and in a mediterranean (blue zone) diet. I found really good triangulation on the ingredients that were optimal for our longevity. I hope they will do the same for you.
+
+SCENE CHANGE
+
+A simple and influencial discovery that made a big difference for me is the difference between milk proteins. They're called casein proteins.
+
+I thought, for a long time, that I was lactose intolerant. It turns out there are two genetic strains of cows that produce milk. One is called a2. The more common one is called a1. You'll find a1 milk is the dominant type of milk found in grocery stores. A2 milk is becoming more popular because people have found it to eliminate their bloaty, gassy discomforts compared to regular a1 milk.
+
+The difference is small. During the digestive process, a1 milk is broken down into an opioid. Therefore it's addicting. A2 casein proteins have an extra amino acid, so it doesn't break down into that casiomorphin. Look into switching to a2 milk with a little different fold to its protein. It may be a game changer for you.
+
+SCENE CHANGE
+
+All I wanted to do was empty the coffee into our cold container and put the lid back on it, but I dropped the lid. This is the tool that I pull the awnings open with (a long aluminum rod) and that (looking under the cabinetry) is the lid that fell on the floor and rolled underneath the cabinet. Okay now back to what I was doing.
+
+SCENE CHANGE
+
+One of the bigger diet challenges, which I have overcome, was brought to my attention by my daughter. That daily glass of orange juice turned out to be about eight oranges worth of juice. That's nearly my entire daily allotment of added sugar to my diet. Add to that, the flavored yogurt, and breakfast was double the recommended daily sugar intake.
+
+It's taken five years to recognize the reward and the cost. I've been able to manage my intake most of the year, but every once in a while I test my resolve. We just got some salted caramel syrup to put in coffee because it's fall. Sugar and sweet loafs, pastry and warm drinks. Hey, it's all those emoti
+
+*[Transcript continues in source file — truncated for deposit size.]*
 
 ## Takeaways
 
@@ -385,8 +307,9 @@ The right page features a large, wide-angle photograph of two people (Daniel and
 4. We’re at one of my favorite, and most memorable places in the entire Columbia Gorge.
 5. It’s changed, and I have to change my thinking.
 
+
 ## First-time learner
 
 - **One sentence:** Care as expedition logistics not luxury.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.10_squalls.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -73,7 +73,8 @@ description: Vol 2 ch.02.10 — Squalls.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.10**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.10_squalls.md`
 
 ## Provenance (Onus Probandi)
 
@@ -81,12 +82,12 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 | Initium prime spread | [https://raw.githubusercontent.com/scotomaville/initium/main/pdf/spreads/Prime_029.pdf](https://raw.githubusercontent.com/scotomaville/initium/main/pdf/spreads/Prime_029.pdf) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -94,126 +95,13 @@ Weather the sudden emotional and logistical storms.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-02.10 SQUALLS
-In this episode, we’re going to talk aboutsqualls. Yeah, outbursts... Uh, what you don’t know about me, or maybe, what you doknow about me. Aahhh*rgh!
-You might recall that the first time you gosomewhere is a mix of exhilaration, excitement, anticipation. You’ve looked at all theapps. You’ve read the reviews. You have imagined an outcome of your future-self bylearning about things we should try, and avoid. Even though you prepare your best, things happen. Squalls. Downpours. Outbursts. Unexpected crazy stuff!
-I can provide you with evidence that your expedition (a journey with a purpose) in some uncanny way will provide you with precisely what you need. Curves will be waiting!
-You’ve heard that “When the student is ready, the teacher will appear?” I’m not just parrot ing that; I’m showing you! It really happens. I can’t explain how or even why. I justknow it does. It happened on all three of my Trans-Americas - all of them back-to-back.
-Glen Douglas told me it was because I was changing and helping people - to not quit.
-And now, with a full-size Airstream, I’m still growing by creating the videos, book, and telling stories across America.
-A sudden, often aahhh*rgh unexpected outburst!
-We studied the intensity and direction of the frontand squalls. Nevertheless, it was a frightening near miss and a fantastic demonstration of energy.
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-“You can fall 8,000 feet off the left, or 10,000 feet off the right.”
-A HILLARY STEP FOR A FIAT 500
-Everest climbers used to face a tough challenge near the very top. You think you’re almost done and ‘slam’ another challenge is in your face. The Hillary Step opposed anyone going for the summit.
-It was a vertical face of rock that you could fall 8000 feet off its left or 10,000 feet off its right.
-What do you do? Think clearly. Keep moving.
-We didn’t give up. We kept looking for the next available Airstream and weather window. For the third time, Airstream USA searched their national inventory and pointed out that the only new or available unit was in sub-freezing temps at a Camping World in Oklahoma City.
-Acting ‘as if’ a Fiat 500 worth of hope would makea difference, we packed our belongings in storage and drove from the Pacific Northwest to Oklahoma
-City to finance this Airstream. We left with faith thatwe could get the deposit secured within a week of arriving. True to most journeys, we had to hunkerdown for a month in a hotel, waiting for cash-flow, the weather, and a life-saving hitch to arrive.
-ANOTHER KIDNEY STONE
-We’re down to just a day or two from moving intoour Airstream, and the financial jar is empty, and we’re in a hotel room. I’m emotionally exausted, fearful from previous disappointments and a possible repeat outcome. I clung to any hope I could.
-The Former Hillary Step Leaving SCOTOMAVILLE 271
+## Chapter text (spoken register — primary)
 
-I want you to understand how emotional delays, setbacks, and squalls are the journey. Fred Rogers will one day remind methat this is the real test of mettle - how you discover what you’re made of and what to improve.
-Instead of waiting patiently, I did something I was familiar with. I decided I’d have a kidney stone.
-It was painful. It was excruciating. It took over a week to pass.
-I got to go to the Oklahoma City VA emergency room.
-While there I got vaccinated;
-what an adventure all of thatwas. My dread of going into the VA turned out to be unfounded.
-Yes, I was wrong. SCOTOMA. Itturned out to be a turning point.
-The good thing about experience is that once we understand what we’re going through, wedon’t have to freak out about it next time. That’s a choice!
-A CLEAR SKY @ NOON It’s noon on a Saturday with aclear sky in Oklahoma City, and emergency alarms are blaring.
-I’m not alarmed. I figured it wasa test and not a nuclear warning like when I grew up. But I waswrong. Tornados happen here.
-30 MINUTES IN A SHOWER The massaging showerheadbeating on my left hip relaxes those muscles a little. That wasa long and rough session.
-I remember numerous climbs onthe Trans-Americas that came at the end of the day. I recall being exhausted, a little dehydrated, and resisted by my trailer another 1200-1500 feet up to a campsite. Those hauls were agrind - really tough mentally. I really had a solid WHY to keep going and not just pull over and ‘thumb it’ to the top. Who’s looking, right? That’s when you test your mettle.
-ONE LAST PUSH Another kidney stone session...
-That was one hell of a Hillary step. That session was definitely a 9 or 10 pain level for 30-40 minutes. I think it’s okay to cry.
-It’s okay not just to wince but tocrawl into a ball. But, if you don’t know what’s going on, it can beterrifying - so don’t go it alone.
-Triangulate. Don’t survive ona single point of view. Find out what you’re dealing with, anddon’t go alone. I have Angelina.
-COBBLING ESSENTIALS Angelina’s a champion cobblingthings together. She’s been working on getting the deposit moneyin the bank. We’re scheduled for a walk-through of our Airstreamwith Patrick Cameron. He assures us that the Airstream is reserved for us and not to worry. Our summit of securing a safe home and mobile office is within reach.
-
-I knew it was a kidney stone, so I wasn’t in freefall. I can only imagine hanging from seat belts looking at the river far below wondering how thiswas going to end. Ahh, we’ll buy the ProPride.
-GUSTY WINDS AREA
-It’s been a month. A month! We are finally on ourway out of the hotel. Unbelievable. Downpours, outbursts, unexpected crazy stuff happens. Youcan learn from crazy stuff. Example:
-Just before making a purchase decision that would turn out to be critical for us I found a recent story and photos of a mobile couple. Thereare small wind gust warning signs on the Malad Bridge, near the Snake River in Idaho.
-Imagine hanging over a river gorge in your seatbelt, the truck only connected by the hitch safety chains. They were thrown over the bridge guardrail because of gust induced trailer sway.
-Seeing what they experienced was enough forus to decide to pay five times more for the Pro-
-Pride hitch. We had to wait in Oklahoma for more resources and hitch availability, but we bought the best hitch possible to eliminate sway. You’ll seehow this choice was critical in a few episodes.
-
-ANOTHER SATURDAY TEST As I was installing the hitch when Angelina asked:
-“Daniel, what are you doing?”
-Daniel: “what am... [I trigger with the Saturday warning system] ...this is only a test. This is a test of the warning system. Esto es solo una prueba...”
-
-POSSIBLE OUTCOMES We’re back at Lake Pleasant in AUGUST. Angelina has a significant event, rescheduled for the 7th time, at the Biltmore Hotelin just a week. At this point, it’s complicated. It’s a beautiful location, but for the risks of the COVID-19 Delta variant.
-I’d like for us to consider subtleties about decision-making and choices. As far as grading possible outcomes, you can watch the weather radar, lookat the pandemic data, predict what may be coming, but youhave to classify the risk levels and put labels on them. For example, to cancel an event, you must determine whether itis ‘certainly disappointing’ or ‘possibly dangerous’ or ‘probably disastrous.’
-You have to assign those subtle labels based on your distinction and vocabulary. It’s a clear rescheduling choice.
-Peter Diamandis and his teamfelt that they had created an immunity bubble for their event.
-Attendees had invested upwardsof $30K and “despite a total of 452 (PCR & Rapid Antigen) tests andfour physicians on-staff during a highly contained small gathering, 24 people in our “Immunity Bubble” (~ 25%) tested positive for the coronavirus” - including Peter.
-“is it ‘certainly disappointing’
-or ‘possibly dangerous’ or ‘probably disastrous’?”
-Being familiar with something makes us too comfortable with it. Risks included.
-Read your radar. Look at yourdata. Agree on what the label is: ‘certainly’ ‘possibly’ ‘probably’ Okay is it ‘disappointing.’ Is it ‘dangerous.’ Is it ‘disastrous.’
-Put that matrix together. Makea good choice. Don’t ignore the signs at the bridge as they might apply to your crossing.
-SCENE CHANGE Leaving SCOTOMAVILLE 274
-
-CHOICES IMPACT THOSE WE CARE ABOUT I do my best to make decisions based on what I know;  and learn from the outcome to do better!
-Angelina: “following Peter Diamandis’ example, I rescheduled my August 20th, 2021 event to 2022.
-There was definitely ‘certain disappointment’
-with those that were coming in August. However, the ‘probable damage’ factor would have beenhigh had I moved forward with it. So I paused.”
-“When you’ve got the data to support your choices share it to give others a glimpse on the ‘why’ be hind your choices to reduce internal squalls which come out of those decisions.”
-“I wish my son Chris would have taken advice much sooner. I wish he had been aware and shared more details of his symptoms.”
-Angelina: “On the same day I rescheduled theevent my left leg was swollen and we are off to the emergency room to verify what’s going on. The greatest fear is deep vein thrombosis which can be very, very dangerous. I could have a blood clot.
-So we spent the rest of the day, and some of the evening, navigating through that adventure.”
-YOU ARE NOT IN IT ALONE DON’T IGNORE THE SIGN AND DRIVE OVER THE BRIDGE Leaving SCOTOMAVILLE 275
-
-TRAGIC OUTBURSTS Outbursts come in all sorts offashions. It can be from other people that intrude on your plans. At a pretty decent hotel in Oklahoma City, I thought I heard fireworks at about one o’clock in the morning. I couldn’t quite understand the popping noises.
-They were loud, close, and fast.
-SCOTOMA It was seven rounds of a pistol killing a young woman on the street outside our hotel.
-When we talked to the investigating detectives, they said: “This is highly unusual for this area. Butyou see what’s coming across our southern border. This was most I thought I heard fireworks. Scotoma.
-It was seven rounds of a pistol.
-likely related to relationships and obligations.”
-The killing troubled my sleep for several weeks. That was part of the relief of finally getting intoour Airstream.
-
-The Amygdala act like historical black boxes - long before we have a vocabulary to express those memories. Sleep throttles them.
-“I believe it is time to reclaim ourright to a full night of sleep, and the opportunity for a better life”
-Dr. Matthew Walker BECOMING HISTORICAL You may have heard a comedian talk about whenever he and his wife argue that she gets historical - not hysterical.
-We have a pair of parts of ourbrain called the amygdala. They record emotional memories, acting like emotional black boxes.
-We also have a prefrontal cortex (palm over my forehead) thanksto cooked food. So we can be rational and persuade ourselvesto moderate our behavior, to throttle the emotions trying totell the rest of our lizard brain that we need to go beat stuff up, conquer and kill.
-RECLAIM YOUR SLEEP I recently took a master class from Dr. Matthew Walker: “I believe it is time to reclaim ourright to a full night of sleep and the opportunity for a better life.
-It is never too late to start sleeping better.”
-He describes that by shortening someone’s sleep, the pathways between the amygdala and theprefrontal cortex can be disrupt ed - so that you have little or nocontrol over your emotions. So a lack of sleep can screw us up, as can a messed-up diet PERSONAL SQUALLS Squalls are outbursts. They burst outward, but inward they choke us. We freeze. We become pegged. We lack a way of articulating things without anemotional vocabulary. Our wives may think poorly of us. Either wefly off the handle...
-“Ahhh*rgg!
-I step out the door and a bugflies into my eyeball, and then under the lid. It gets underneath the lid. I triggers my Amygdala. I yelp; “A*ow!”
-
-Some people don’t open their mouths. They deal withit internally. Unfortunately that can result in anger, rage, or frustration finding another organ - going inside and working at them from the inside out. That’s not a good lifestyle choice.
-The advantage of developing an emotional vocabulary is to tie the history in our amygdala to our intention in our prefrontal cortex. Soconnect your emotions to your will and intent with an emotional vocabulary - in advance ofoutbursts, fear, rage, yelps, or silence.
-“I’m conflicted and in turmoil because I’m not sure how humans will take it, orwhen they’ll confront me.”
-A FAMILIAR BUT WRONG SITE
-The other day we simply needed to change campsites after the storm. We dumped our waste and moved into the wrong spot.
-We were supposed to have moved into site 16 - thispull through for tonight and then moved to where we are now for the following three days.
-I’m conflicted and in turmoil, because I’m not surehow humans will take it or when they’ll confront me. The front gate had registered the campers, butthey’re not here, and the host doesn’t know, and An gelina’s tied up with other things, like the duck...
-And I’m pegged like aa@hhh...
-Angelina is very comfortable negotiating on the fly.
-Her talents are different than mine. We made anhonest mistake, but I became obsessed and... um...
-preoccupied cleaning the rig. Angelina is confident she’ll work it out. “We’ll just offer them our space,”;
-she says. “Don’t lose it. It’ll be fine.”
-
-YOUR EMOTIONAL WEATHER APPS
-I’d like you to download some apps and look at their forecasting. We’re expecting a squall this evening, so
-I plan to take in the canopy in a few minutes. They predict a big blast from the east with 17 miles an hour winds and possible inch and a quarter hail. That’sdamaging...
-THE TOMBSTONE - A.K.A .- COGNITIVE BIAS:
-Our brain fires far faster than we find the proper wordsto express what’s troubling us. My birthday is the 16th.
-That’s not my point. My point is: I want youto become aware of what goes on between your prefrontal and your amygdala and beable to read those signs. If you don’t have your pro/ prebiotics for a few days, you’re offyour regular nutrition, or your sleep has gone sideways... Talk emotions with your partner. Talk emotions with yourself. Bring in 
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.10-Squalls-Transcript.txt`*
+### Transcript — `02.10-Squalls-Transcript.txt`
 
 Welcome back to another episode of Scotomaville.
 
@@ -351,20 +239,6 @@ It's a really fabulous way out of scotomaville.
 
 Thank you so much for watching.
 
-## Visual notes (print spreads)
-
-- The left page opens with three small documentary photos arranged horizontally at the top. The first shows an older man (Daniel) lying in a hospital bed, wearing a face mask and patterned gown, covered by a white blanket while giving a thumbs-up. The second captures him seated and receiving an injection from a masked medical worker in scrubs. The third depicts him standing on a rocky trail in cycling gear and helmet, arms crossed in front of a small waterfall.
-
-Below the photos, the page contains the provided text block about emotional squalls and the kidney stone incident, along with additional sections such as “A CLEAR SKY @ NOON” and “30 MINUTES IN A SHOWER.” The right page features a close-up of bare feet in a white bathtub beneath a textured shower curtain, paired with a dark text box quoting Daniel’s realization about the kidney stone. A larger photograph at the bottom right shows a
-
-- The left page features a large, realistic documentary photograph of a cracked asphalt street and concrete curb at night, showing dark pavement with visible fissures, white scuff marks or residue, and a small patch of grass in the upper corner—directly illustrating the Oklahoma City shooting scene described in the adjacent text. Below this image sits a bold pull-quote in large serif type: “I THOUGHT I HEARD FIREWORKS. SCOTOMA. IT WAS SEVEN ROUNDS OF A PISTOL.” The right page displays a transparent anatomical illustration of a human skull and brain with the amygdala highlighted in red, positioned beside a portrait photograph of a smiling man with reddish-blond hair wearing a gray vest over a collared shirt against a purple studio background. Below these visuals are three neatly formatted text columns headed “BECOMING HISTORICAL,” “RECLAIM YOUR SLEEP,” and “PERSONAL SQUALLS,” accompanied by
-
-- The left page is dominated by body text that opens with the provided excerpt on internalizing emotions and the risks of suppressed anger, followed by a centered pull-quote about feeling conflicted and in turmoil, then a section headed “A FAMILIAR BUT WRONG SITE” that narrates the couple’s mistaken move into campsite 16. The right page is anchored by a large, full-bleed documentary photograph of a real campsite: a low concrete block engraved with the number “16” in the foreground, set on gravel and grass beside a covered metal shelter with a picnic table, with a lake, distant mountains, and blue sky visible beyond. A dark rectangular overlay across the lower portion of the photo is labeled “THE TOMBSTONE - A.K.A. - COGNITIVE BIAS” and includes the line “My birthday is the 16th.” Smaller text blocks on the right page introduce the heading “YOUR EMOTIONAL WEATHER APPS” and continue the squa
-
-- The left page (280) is dominated by the oversized, bold black title “talk emotions” at the top, beneath which sits a large black rectangular panel containing a 4x5 grid of line-drawn cartoon faces, each labeled with an emotion (ANGRY, HYSTERICAL, FRUSTRATED, SAD, CONFIDENT, EMBARRASSED, HAPPY, MISCHIEVOUS, DISGUSTED, FRIGHTENED, OVERWHELMED, HOPEFUL, LONELY, LOVE STRUCK, JEALOUS, BORED, SUICIDAL, ANXIOUS, EXCITED, SHY). This grid is overlaid on a dark, stormy sky image with visible lightning, while the bottom of the page features the pull-quote “THE MOST BRILLIANT DEMONSTRATION OF PHYSICS AND ENERGY I HAVE EVER SEEN” in all caps.
-
-The right page (281) shows two stacked documentary photographs on a dark background: the upper image captures a purple-hued night sky filled with dramatic lightning bolts and heavy clouds, and the lower image depicts the silver Airstream trailer parked at dusk 
-
 ## Takeaways
 
 1. 02.10 SQUALLS In this episode, we’re going to talk about squalls.
@@ -373,8 +247,9 @@ The right page (281) shows two stacked documentary photographs on a dark backgro
 4. You have imagined an outcome of your future-self by learning about things we should try, and avoid.
 5. Eventhough you prepare your best, things happen.
 
+
 ## First-time learner
 
 - **One sentence:** Weather the sudden emotional and logistical storms.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

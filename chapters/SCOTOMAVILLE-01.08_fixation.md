@@ -34,9 +34,9 @@ date: '2020-04-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-01.08_fixation.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -72,7 +72,8 @@ description: Vol 1 ch.01.08 — Fixation.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.08**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-01.08_fixation.md`
 
 ## Provenance (Onus Probandi)
 
@@ -80,11 +81,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/q a LNBef GNSQ |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -92,127 +93,13 @@ Stare that blinds versus attention that frees.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE 78 FIX’N FIXATION VOL 1 AWARENESS From Transcript:
-Daniel:
-“Where’d the sanitizer go?
-Angelina:
-“Well, we had a bottle of sanitizer and I got some aloe vera gel, (I thought) at the store.
-Later on, when I mixed it intoour hand sanitizer, and then I was going to add more alcohol, like Vodka, I realized it wasbaby-oil-gel.”
-Daniel:
-“So your at-home chemistry - what did they tell you, don’t make your own gels? So whatdo we have?”
-Angelina:
-“We have baby wipes.”
-Daniel:
-“Which are not sanitizing.”
-Angelina:
-“No, but you can wash your hands with soap and water when we get back.”
-Daniel:
-“You’re kidding, right?” Drive allthe way back before I wash my hands? My nose itches. This isannoying!
-We’ve imagined microscopic killers and global supply chains. It’s possible the chronic stress will have been worse.
-.08
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Leaving SCOTOMAVILLE 79 We’re living through a turbulent time in history. Yet, we have the opportunity to become moreself-aware than any preceding generation. I recorded this thefirst week in April 2020. We were all experiencing one of the most challenging things of a generation. Looking back, you recall facing things like mandates.
-Being forced to consider theworld from a different point of view was a fabulous opportunityto change our trajectory.
-Let’s make the distinction between fixating and simply paying attention. And becausewe’re traveling in an Airstream, I’m going to use tools called transparency and authenticity.
-For the second edition, I used Grammarly. For the third, I have AI. The events were not scripted.
-I shared as stuff happened, toprove my thesis points.
-“This may sound too simple, but is great in consequence.”
-- W. H. Murray I believe the difference between fixation and attention is the attached emotional baggage.
-I am NOT a scientist, scholar orphysician. I am an explorer, and student that has followed others.
-We remember things, as I seeit, using billions of neuronal connections forming millions ofelectrical pathways. Our memories are partial recordings ofwhat we might have heard, seen and felt, and care to recall.
-Diffuse vs. Focused Mode:
-I took a fabulous class called ‘Learning How To Learn’ taughtby a Neuroscientist, and a Ph.D.
-in Systems Engineering.
-The class discusses two different facets of thinking. One is diffuse, like a cloud of ideas or a swirling bucket of memories thrown into the wind. Diffuse thinking isbroad pattern thinking that happens when you consider ideas, as with daydreaming.
-The other type of thinking is focused mode. It’s what happens when we study or when we’rewriting code, or we’re solving a problem. When we’re thinking intensely, soaking in what’s happening right in front of us we are focused, and often fixated.
-The point is to cycle between thetwo modes, and not to fixate on either one alone.
-After we’ve focused for roughly 40 minutes, it’s time to havesome diffuse thinking to process new ideas that are related to established beliefs, choosing which to keep and which to forget.
-“we need a wall between attention and fixation...
-let’s call it awareness”
+## Chapter text (spoken register — primary)
 
-Leaving SCOTOMAVILLE 80 Angelina is having diffuse timeon a donkey trail, flushing my fixation on the sanitizer challenge.
-For this Third Edition, I wantto engage the reader, aligning with the video transcript, while drawing out stronger evidence.
-Certainly, Daniel. Here’s are structured version that integrates the transcript and the referenced insights from the minyan, presenting a holistic understanding.
-Introduction: The Power of Mind Albert Einstein once said, “The world as we have createdit is a process of our thinking.”
-“Transcript: When we repeatedly recall thoughts and memories, we form neurological circuits.
-The electrical pathways become embedded metaphorically. They become insulated, like a rubber-coated wire.”
-1. Neurological Circuits:
-Habit Formation In the words of Carl Rogers, “The only person who iseducated is the one who has
-Angelina is thinking diffused and ‘in a zone’ - as opposed to focused thinking on accounting learned how to learn ...and change.”
-“That’s how habits begin. The electrical routes become frequented and established.”
-2. Formation of Beliefs:
-Focus and Diffuse Mode As Viktor Frankl emphasized, “Between stimulus and response, there is a space... In that space is our power tochoose our response.”
-“The information we gather infocus mode is associated with diverse ideas in diffuse mode, and the combination becomes
-
-Leaving SCOTOMAVILLE 81 There are always ‘big messes’ in atiny living space but we tend...
-...to ‘fixate’ on the tiny screw holesand finger-prints our beliefs. Beliefs underlyour attitudes about things like masks, mandates, inflation, and obedience.”
-3. Emotional Reactions:
-Triggers and Instincts “Know thyself,” Socrates urged.
-“When we recall things, our emotional ‘black boxes’ trigger feelings, and our protective instincts quickly react. We take shortcuts on well used pathways that end in familiar but incorrect feelings, like your wife stalking you as a hungry tiger fixates on a warm meal.”
-4. Fixation vs Attention:
-Jim Rohn, often said, “Wherever you are, be there.”
-“So let’s look at some examples around the Airstream to differentiate the line between fixation and attention. The full-time Air stream experience is - it’s hardto describe - I mean, you can see the constant mess.”
-5. Self-Understanding:
-Emotional Exploration Marcus Aurelius wisely noted, “The happiness of your life depends upon the quality of your thoughts.”
-“I’m at the laundromat, sittin gin the truck waiting for a load inside to dry. I start peeling: Whydid I get triggered this morning?
-(awareness) Because I didn’twant to go to the laundromat.
-(excuse) I wanted to handwash the few clothes we had.
-(defense) Why do I have so few clothes? Ahhh, there’s an emotionally rich answer welling up!”
-6. Peeling the Onion Exercise:
-Inner Discovery C.S. Lewis wrote, “You are nevertoo old to set another goal or to dream a new dream.”
-“Do you see me peeling an onion? My mom sewed most of my clothes or bought them at Sears.
-So I didn’t get bell-bottoms andtie-dye - I got geek clothing. (a memory) I’m frustrated that I have to go to a laundromat and potentially expose myself to the corona-virus because I have butfive underwear. Just buy more, Daniel. They are not scarce.
-
-I solved the underwear challenge, and I exposed a strong emotion and memory supporting a faulty conclusion from long before - ‘I’m not the kind ofkid that gets new clothing.’”
-7. Over-Activated Attention and Personal Growth
-Zig Ziglar stated, “You don’t have to be great tostart, but you have to start to be great.”
-“Fixation is over-attention. Life is like this. We can’trely on everything going as we want. We have to summit our Personal Everest, expecting that “life iswhat happens between our plans,” and when we are ready to grow - all kinds of events will unfold that offer greater revelation of our false beliefs.”
-Conclusion: Journey to Self-Understanding
-As you yourself have eloquently put it: “The greatest expedition you will ever undertake is the journey to self-understanding.”
-Back to Transcript:
-“So, you won’t have arrived, but you’ll be LEAVING Scotomaville on your journey.
-(recording an affirmation on my phone)
-Daniel. You’re not mad at Angelina; you’re frustrated, with emotions in tension between imagined tigers, scarcity and humiliation. Remember, momwas a teen on the streets. She didn’t understand your needs.”
-This combination of your personal examples with insights from the minyan creates a richer narrative that connects with readers and enhances understanding. Feel free to guide changes as needed!
-Hey reader, I appreciate you! You’re going to makeit! You’re going to do just fine!
-“when the studentis ready, the teacher will appear”
-Elephant Fixation and Focused Mode Thinking
-The parable of “The Blind Men and the Elephant” has rich and varied origins, making it familiar to many cultures and philosophical traditions. Its universal themes of humility, empathy, and the pursuit of a more comprehensive understanding resonate across various philosophical, religious, and cultural contexts.
-This parable highlights the limitations of fixation and intense focus on one aspect of a complex reality. While each man’s focused observation was correct in a narrow sense, their inability to integrate different perspectives led to misunderstanding and conflict.
-The lesson from this story aligns with your philosophy of self-understanding, awareness of our blind spots, and the search for broader wisdom. Itserves as a reminder to step back from intense fixation on specific details and to strive for amore holistic understanding of our experiences and the world around us.
-This parable also resonates with the words of
-Marcus Aurelius, who emphasized the importanceof seeing things in their entirety:
-“Always look at things as parts of a whole, and remember that no part can exist without a coordinating whole.”
-
-The Blind Men and the Elephant
-In this story, six blind men were asked to describean elephant by touching different parts of the animal. Each man became fixated on the part he was touching, unable to see the whole.
-The first man, touching the elephant’s trunk, insisted it was like a snake.
-The second man, feeling the elephant’s ear, argued that it was like a fan.
-The third man, holding the elephant’s tusk, claimed it was like a spear.
-The others, touching different parts of the elephant, described it as a wall, a tree, or a rope.
-Each man was in a state of focused mode thinking, concentrated only on the part he was touching.
-While each man’s observation was correct in a narrow sense, fixation on their individual experiences led to a fragmented and incomplete understanding of the elephant - all of them blind to the aerial drone above, or the intention of the pilot, or theaim of the intelligence commanding it.
-
-YOURT SGKabABiH28
-Psychological fixation means having attachments to people or focusing onthings that persist from childhood to adulthood. Fixation is when the attention required to ‘fix’ something is focused on an idea, impulse, or aim, especiallyan obsessive preoccupation with something...
-Your turn. List some fixations.
-WATCH REFLECT qALNBefGNSQ
-
-Consider the dynamics of questioning your impulses, commitments, and attention.
-Awareness can reveal false conclusions or become a fixation.
-
-Scan the code to discuss fixation with other explorers and me.
-
-Myelinated sheaths are insulating layers made up of myelin, a fatty substance that surrounds the axons of many nerve cells. The primary function of the myelin sheath is to increase the speed of electrical impulses alongthe neurons, enhancing communication between different parts of the nervous system.
-Diffuse mode refers to a mental state where the brain is relaxed and able tomake broad, abstract connections. It’s often linked with creativity and insights, occurring when we’re engaging in activities that don’t require intense focus, like taking a walk or daydreaming.
-Focus mode, in contrast to diffuse mode, represents a mental state where themind is highly concentrated on a particular task or problem. It is associated with logical thinking, analytical processing, and attention to detail. Focus mode isnecessary for deep learning, problem-solving, and mastery of complex subjects.
-These terms interplay to create a dynamic learning process. The myelinatedsheath enables efficient neural communication, which facilitates both focused and diffuse modes of thinking. The balance between focus and diffuse modes isessential for fostering creativity and problem-solving, resonating with the journey to self-understanding and self-mastery that you emphasize in your teachings.
-
-## Video transcript (spoken register)
-
-*Source: `01.08-FixationTrnscpt.txt`*
+### Transcript — `01.08-FixationTrnscpt.txt`
 
 Scotomaville: 01.08 RV Fixation
 
@@ -276,11 +163,11 @@ So, Angelina and I had a few words-she's mostly quiet, I have most words, which 
 
 Oh, I'm frustrated that I have to go to a laundromat and potentially expose myself to the coronavirus because I simply don't have but five pair of boxer shorts. That means that I have four in the dirty clothes, when I'm wearing one, which means every fifth day I have to go to the laundromat to wash clothes. Okay, that's why I got triggered. Just buy more pants. Oh, that doubles the time between washings, which halves the exposure that I am to others and others are to me. And of course while I'm there, I'm using this, for sure on everything.
 
-So, I'm including this bit to say, it's a journey, remember? It's not a location. You won't have arrived, but you'll be leaving Scotomaville, on this journey. And so there was a current event: Buy more underwear, Daniel. You're not mad at Angelina, you're frustrated, your emotions are up because you're caught between two constraints. And so I'm extending this training, this episode, if you will, so that you can see a living example. Well you're becoming more aware of where your attention is, and when you get to fixation on something, I
+So, I'm including this bit to say, it's a journey, remember? It's not a location. You won't have arrived, but you'll be leaving Scotomaville, on this journey. And so there was a current event: Buy more underwear, Daniel. You're not mad at Angelina, you're frustrated, your emotions are up because you're caught between two constraints. And so I'm extending this training, this episode, if you will, so that you can see a living example. Well you're becoming more aware of where your attention is, and when you get to fixation on something, I hope.
 
-*[Transcript truncated — full spoken register in source file.]*
+A lot of words to say, 'Hey, I really appreciate you! You're gonna make it! You're gonna do just fine! Come follow me.
 
-*Source: `01.08-FixationReflectionTranscript.txt`*
+### Transcript — `01.08-FixationReflectionTranscript.txt`
 
 SCOTOMAVILLE REFLECTION v1.08 Fixation https://youtu.be/qALNBefGNSQ
 
@@ -304,22 +191,6 @@ https://www.coursera.org/learn/learning-how-to-learn https://barbaraoakley.com/
 
 welcome back to skatomaville and this is the reflection series on volume one episode eight on fixation and diffuse mode the columbia gorge has been intensely noisy so we've relocated to a snow park at the base of mount hood on the white river [Music] in many of the upcoming episodes you'll find that attention to detail the ability to spot small subtle things is very important to airstreaming and recognizing on board processes in your carbon based probe in your body is equally important so fixation has value attention to detail that's an excellent characteristic especially when you want to avoid poison oak fixation is defined as an obsessive interest in or feeling about someone or something and sometimes it's demanded by your job to pay attention and manage you know devices mechanisms processes systems it's also the action of making something firm and stable and it's the action of concentrating both with your eyes and with your mind a fixation happens when you cannot think of anything else but the thing you are fixated on it is just a fault with perspective like a camera lens that is stuck fixation on a particular idea person or event means we don't see what is in the background or foreground of that experience because there's no depth field so fixation has value it's not just a distraction you see a visual effect you've seen me use is depth of field it's simply a setting on a smartphone called portrait mode do you know in slow motion you can do a similar thing that is narrow somebody's field of view look what happens your focus completely changes and you see a world in a different time frame i would bet few people do that looking back at their videos looking forward to the changes they can make that's one way you can get out of scotoma though first become aware second gain understanding third time out fourth shoot a video episode which also focuses on the positive right switch your uh point of view six use techniques to stop it uh self-reflection video modeling seven understanding eight share it start with a mirror and yourself eventually share your episodes with those close to you in your sphere of influence see how this works the discipline is to be able to take in the whole of it or switch to individual pieces but not let it consume you [Music] eyes don't stay angelina and i have found that a mobile lifestyle allows us to move our location for safety for noise or weather whatever we choose and equally important is the ability to [Music] find quiet find peace find resolution of the internal conflicts and to see things from a different perspective in order to form better strategies to move forward or sideways or back and you'll see some of those strategies in the upcoming episodes the gift of diffuse mode has value in that it can allow the processes to both grow dendrites and repress dendrites but also to come to both insights on misunderstandings potentially new conclusions for existing misunderstandings and it greatly allows the emotional things like amygdala hijackings to dampen because it gives your brain the processing time the large mapping of ideas to potentially open new opportunities or to try new approaches to things so i really highly recommend it and in our case hey we got away for a few days today i decided to take a day off of the usual fixing cleaning attention to detail and wouldn't you know it of all the places others could travel we meet another couple are able to give them a tour and have a fabulous conversation with them and it kind of reminded me of noah's ark you know the good grief tour traveling around the country finding just the right and fabulous people to meet to talk about skatomaville a shout out to mandy and eric for their visit and tour time and for showing us the insider of ownership of a starlink mobile unit that was cool [Music] i'm pleased that my recent reflections with stephen pam to know that i can throttle my enthusiasm for all these subject matters even when sharing with a like mind someone who sees the inside of the industry and understands both technology and psychology and the biology being able to throttle that fire hose was really rewarding today and i trust that this reflection helps you get a little further heck out of skatomaville see you next episode you
 
-## Visual notes (print spreads)
-
-- The left page features a large, angled close-up photograph of a cordless vacuum cleaner (Dyson-style with a purple top, blue filter, red accents, and black body) resting on a wooden floor beside white striped fabric. Bold black text overlays the image with the chapter title “FIX’N FIXATION,” while smaller gray body text below discusses pandemic stress and imagined microscopic threats. A “From Transcript” section displays a dialogue between Daniel and Angelina about mixing aloe vera gel with vodka to make hand sanitizer, only to discover it was baby-oil-gel instead.
-
-The right page is primarily text-based, dominated by a large pull-quote at the top reading “WE NEED A WALL BETWEEN ATTENTION AND FIXATION... LET’S CALL IT AWARENESS,” followed by body copy explaining diffuse versus focused thinking modes, with a smaller quote from W.H. Murray.
-
-The vacuum image feels ironic and metaphorical, 
-
-- The left page features a large documentary photograph across the top showing Angelina from behind as she rides a mountain bike along a dirt trail beside a calm lake in a desert landscape filled with yellow wildflowers, cacti, and rocky hills under an overcast sky. Below the image, a small circular portrait of Daniel appears next to the opening text about Angelina having “diffuse time on a donkey trail” while flushing his fixation on the sanitizer challenge.
-
-The right page displays two smaller, side-by-side photographs at the top. The left image shows the cluttered interior of the Airstream with a large red puffy jacket or sleeping bag draped over a chair or counter, while the right image is a close-up of a white surface (likely a wall or door) marked with two faint smudges or fingerprints and a small dark spot.
-
-Bold text directly above these images reads: “THERE ARE ALWAYS ‘BIG MESSES’
-
-- The left page is text-heavy with body copy on personal growth and fixation, a prominent large bold quote reading “when the student is ready, the teacher will appear” centered across the top, and a small green ChatGPT-style icon next to the “Elephant Fixation and Focused Mode Thinking” subhead. The right page is dominated by a single large, high-angle photo realistic image of a gray elephant standing in a sunlit forest clearing, surrounded by roughly a dozen casually dressed adults (some standing, some seated on the ground) positioned around its body. Overlaid text on the upper right of the image presents the heading “The Blind Men and the Elephant” followed by a paragraph-by-paragraph retelling of the parable, describing each man’s focused description of the trunk, ear, tusk, or other part. A small sailboat logo appears in the bottom right corner of the right page. The elephant image fee
-
 ## Takeaways
 
 1. "angelina: “Well, we had a bottle of sanitizer and I got some a loeveragel, (I thought) at the store."
@@ -328,8 +199,9 @@ Bold text directly above these images reads: “THERE ARE ALWAYS ‘BIG MESSES�
 4. .08 Leaving SCOTOMAVILLE 79 We’reliving through a turbulent time in history.
 5. Yet, we have the opportunity to become more self-aware than any preceding generation.
 
+
 ## First-time learner
 
 - **One sentence:** Stare that blinds versus attention that frees.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

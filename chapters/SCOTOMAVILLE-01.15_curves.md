@@ -34,9 +34,9 @@ date: '2020-04-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-01.15_curves.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 1 ch.01.15 — Curves.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.15**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-01.15_curves.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,124 +92,13 @@ Nonlinear growth and Deux-Deux curves.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE 132 CURVES ...
-“ life is what happens between your plans” Bill Sharman VOL 1 AWARENESS In geometry, the shortest distance between two points is a straight line.
-It’s no wonder we trigger when life happens be tween our plans.
-We expect to make certain progress in a reason able time, but we mis calculate the span because:
-Life is FULL of CURVES Understanding what creates a curve will help you make progress inyour journey. Set-backs are nothing more than alearning-curve. Do-overs are nothing more than aset of curves. Propagation across a network has lotsof curves. They’re called variants. Sound familiar?
-the shortest distance between two points is a straight line. It’s funny but life never works out like that.
-.15
-“life expects us to make a reasonable amount ofprogress in a reasonable amount of time. that’s why they make those 4th grade chairs so small.
-Jim Rohn
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Leaving SCOTOMAVILLE 134 Physicist Stephen Hawking at Zero Gravity “What monstrosities would walkour streets should their faces be as unfinished as their minds.”
+## Chapter text (spoken register — primary)
 
-Stephen Hawking (originally by Erik Hoffer)
-
-Leaving SCOTOMAVILLE 135 Simple: turn on water. Go straight to airstream. Wrong.
-Welcome back to another fabulously hot day for leaving Scotomaville!
-Do you remember the physicist Stephen Hawking?
-One of my favorite quotes of his: What monstrosities would walk our streets, should their faces be as unfinished as their minds!
-I’d like you to consider ‘Leaving Scotomaville’
-as a finishing school for your mind.
-A fundamental to grasp is the difference between lines and curves because ‘Life is what happens between our plans,’ and most of that is a curve.
-Geometry teaches the shortest distance between
-A and B is a straight line. So we might have a straightforward plan, you know, water from the faucet straight to the Airstream.
-
-Watch what happens when the pressure gets puton. The hose demonstrates that having a good feel on how curves are generated everywhere will helpus not flip out or trigger when they interrupt us.
-Multiplication Builds Curves; addition = lines
-Curves are powerful. You’ll find them in financial reports, in biology, in social media, in the smart phone you use, and the recommend ers at all the places you shop. Knowing how curves are created and spotting them is critical to Leaving Scotomaville. The best takeaway from this episode for you is to multiply. Don’t add, don’t subtract, multiply.
-
-By combining masterful storytelling with credible data you can create an emotional roller-coaster - with only a simple change in the scale of the graph.
-SCOTOMA
-
-Leaving SCOTOMAVILLE 137 GAMING to GAIN w/ curves
-Let’s do a quick refresher on the difference between linear and exponential. Biology and nature leverage multiplication to propagate.
-I can hear you:
-“What do we care about curves?”
-“We don’t CARE about curves!”
-“We don’t WANT to do curves!”
-
-Consider what leverages curves 1) Attention 2) Extractive Technology 3) Bureaucracy 4) Biology
-
-These four simple items converge to misalign our perceptions and expectations. Here’s my proof: I posted an insightful video on curves and the pandemic media in the very beginning of the pandemic.
-The response confirmed what Yuval Harari wrote;
-“people don’t want to know that they are hackable.”
-The global pandemic statistics feel different whenthe scale changes on the vertical y-axis.
-
-Watch what happens to your perception of how badthe problem is comparing C to B : Whoa!
-
-And then they change the scale - B to A : huh?
-Reverse the scale changes, A to B Oh, it’s not bad. But the data is 4 times worse.
-Whoa! It’s horrible again! Huh?
-
-Change the scale B to C: The curve isn’t so bad.
-But, the data is 3 times more - It’s alarming!
-
-No, it’s the scale!
-
-SCOTOMA. You’re being gamed!
-“statistics ‘feel’ different when the scale is changed”
-
-Leaving SCOTOMAVILLE 138 So here’s what happens with curves and self-mastery. Every milestone brings a new levelof understanding, and another freaking hill to climb!
-It’s like some of the worst gradesup the Continental Divide. Every time I thought I was getting close to the summit, it was just another crest!
-That happens leaving Scotomaville! Successes are quickly followed by challenges. Every vistaon your Personal Everest turns out to be prep for a climb!
-You expect praise and recognition from your spouse, partner, or company, but it doesn’t happen. Then, suddenly, emotions are flooding disappointment, No matter how much I climbed, there was another hill ahead.
-The weather changed with the terrain. Were now facing inlation and war, after traversing a pandemic. Sheesh.
-It seems that Constant change is here to stay.
-
-It’s a good thing we, too, can change!
-frustration, and passion. Youhave to account for their roll er-coaster. We base expectations for best outcomes on whatever scale our reference axis has, butas you have seen with COVID or the economy, constant change ishere to stay!
-You’ll start to welcome awareness, and with it comes a new
-
-Leaving SCOTOMAVILLE 139 Acquiring mental tools makes it ajourney with a purpose Bonus...   the view is definitely better at the top!
-scotoma. But, of course, you’llmanage that one, and you’ll be facing another ridge. The slopemay temp you to address your partner’s annoying habits, butyou’ll soon be facing a global pandemic and supply chain issues! Oh, life has curves — lots of them.
-All around us are complex patterns described in simple mathematical terms. There areeligant expressions for complex networks - like those in ourmind, connecting your smart phone, across social networks, in accounting and finance. The choices we make tweak factors of the expressions, giving us auto-magical recommendations.
-We’re in an age of rapidly accelerating change with the compounding of robotics and 3dprinting, AI, genomics, regenerative medicine, and predictive analytics.
-The presented pathways are emerging faster than we can cope with, so we habituallyaccept the ‘terms of use’ without realizing extractive technology’sunderlying aim - to know us better than we know ourselves.
-And that’s what I’d like you tocatch as an overall theme as we look at several different modelsof that complexity.
-But, again, try to see them in asimple term - ‘curves.’
-
-I want you to download the software NetLogo. Thisis the most awesome visualization tool that you can imagine. (from one Aspie to another)
-This model is ‘Small World’ phenomenon. It demonstrates that a person is only a couple of connections away from any other person in the world.
-(From you to me - to Dean and Charlie) https://ccl.northwestern.edu/netlogo/
-Let’s start with 40 ‘nodes’. A node is like aperson that wants to connect with any other person in this possible world of 40 the lines are connections, like LinkedIn. Through introductions, everyone can connect with everyone else in the network. The average distance between any one person in a network of 40 isonly 2.8. Just less than three introductions.
-OK, how does that work in the real world? Anintroduction to Charlie Duke could connect you with any one of the other astronauts around the world. That demonstrates the network connectivity you can find actively at workand social networks.
-‘Preferential Attachment’
-This is one of my favorite models to visualize how a few people can create large networks of followers, and how a few companies can gather the largest customer base.
-You’re familiar with how this works. You go intoa restaurant, and there’s nobody there.
-What do you do? You second guess.
-But, you go to a restaurant and there’s acrowd? Confirmation!
-Building a network that has a bias toward popularity skews the outcome because it favors the few. You see this in all kinds ofinformation networks around the globe where more gets more - and those that gots, gets.
-Preferential attachment is easy to remember - more gets more.
-
-Daniel Comp, Dean Rush (Aviation), Charlie Duke (Apollo 16) having coffee.
-
-Leaving SCOTOMAVILLE 141 ‘Virus on a Network’
-Back to the models library. This time pick ‘virus on anetwork’. This model demonstrates the spread of a virus through a network. It’s similar to what’s going on all across the globe. Digital networks and biological networks work very similar.
-What this model demonstrates is that although humans may be done fighting the virus, it’s certainly not done trying to kill humans. Also you should note, the propagation occurs in waves. So virus on a network? Waves. So expect that with COVID 19.
-(see page 204) My aim for this lesson toward your personal Everest - is to start you considering that curves, and corrections, and changes FEEL discouraging. However, by under standing them, they can become an ally. You gain leverage and get traction bygetting ahead of the curve - seeing around the bend to what’s coming next.
-(see page 204)
-
-YOURT mtmsm6LRzFM The power of triangulationcan be compounded by understanding curves. Inthe midst of what seems unrelenting chaos, uninvited challenges can reinforce our aim, clarify our compass bearing, and accelerate our self-mastery.
-Watch v1.15 Reflection.
-
-Sketch or describe a fewof your recent ‘curves’.
-Can you correlate changes, emotions and out comes with patterns that emerge?
-When we are tossed into pandemic level challenges, having additional landmarks and bearings can calm fears. Share aninsight, question or contribute with other readers on curves and the road ahead.
-WATCH DISCUSS REFLECT ab4JsCnpP0c
-
-RTURN The Oak and the Reed Once, there stood amighty Oak tree beside a gentle Reed in amarsh. The Oak tree often boasted about its strength, proudly declaring how it stood firm and unyielding against the winds. It criticized the Reed for bending easily and swaying with every gust.
-One day, a powerful storm rolled in.
-The Oak, steadfast and rigid, fought against the wild winds. The Reed, on the other hand, bent gracefully, swaying with the wind’s every whim.
-As the storm raged on, the Oak’sresistance led to its downfall, and it was uprooted by the force of thewind. Meanwhile, the Reed continued to dance, bending but never breaking.
-Aesop speaks to embracing life’snonlinear nature and those who expect life’s curves and are willingto adapt to them, opportunities may present themselves, leading topersonal growth and resilience.
-
-## Video transcript (spoken register)
-
-*Source: `01.15 Curves trnscpt.txt`*
+### Transcript — `01.15 Curves trnscpt.txt`
 
 SCOTOMAVILLE: 01.15 Curves
 
@@ -254,28 +144,6 @@ File- models library- photo preferential attachment- this is one of my favorites
 
 "Here's an example of taking action when the opportunity presents itself. It's not very fancy but it sure is affordable. A dollar fifty nine?(gas price sign) The travel ban has been lifted for us to go north! Two hours effort, 5000 feet elevation gain, 26 degree drop in temperature! The windows are open, the door is open for the first time in weeks! We can actually cool it off without an air conditioner, and!? What a great example of getting out of Scotomaville!"
 
-## Visual notes (print spreads)
-
-- The left page of the spread features a dark gray upper section containing white text, including the heading “VOL 1 AWARENESS,” the large title “CURVES,” and a pull-quote: “LIFE IS WHAT HAPPENS BETWEEN YOUR PLANS” attributed to Bill Sharman. Below this, body text discusses geometry, expectations, and the idea that “Life is FULL of CURVES,” with an additional vertical text block citing Jim Rohn. The right page is dominated by a large, full-bleed photograph of a narrow slot canyon with smooth, undulating sandstone walls in warm orange, red, and purple tones, showing layered curves and shadows.
-
-A thin horizontal line separates the top and bottom sections on both pages, and the footer reads “LEAVING SCOTOMAVILLE” with page numbers 132 and 133. The canyon image is a realistic, documentary-style photograph that visually embodies the chapter theme through literal geological curves rather than i
-
-- The left page opens with a large color photograph of physicist Stephen Hawking floating horizontally in zero gravity inside an aircraft cabin, wearing a dark blue jumpsuit with zeroG patches while two men and one woman in matching uniforms hold him steady. Directly beneath it is the caption “PHYSICIST STEPHEN HAWKING AT ZERO GRAVITY,” followed by the large centered quote about “monstrosities” with unfinished minds, attributed to Hawking (originally Erik Hoffer).
-
-The right page shows a documentary photograph of a silver Airstream trailer and red pickup truck parked on gravel beside desert scrub, with a long black hose deliberately snaking in multiple S-curves across the ground in the foreground. Below the image sits the bold line “SIMPLE: TURN ON WATER. GO STRAIGHT TO AIRSTREAM. WRONG.” The curving hose functions as a clear visual metaphor for the chapter’s theme, contrasting the straigh
-
-- The left page opens with a pull-quote in gray text about using data and storytelling to create an emotional roller-coaster through simple scale changes, followed by the word "SCOTOMA" in bold. The dominant visual is a large black-background line graph titled "Recorded COVID-19 cases outside mainland China" with a rising curve of yellow dots plotted over dates from Jan 22 to Mar 6. Three vertical y-axes are shown on the left (scaled differently as A, B, and C), with three points on the curve circled in red and labeled with values 999 (A), 4,288 (B), and 14,901 (C), connected by green vertical lines to the x-axis.
-
-The right page features the heading "GAMING to GAIN w/ curves" above explanatory text on linear versus exponential curves and how scale changes perception. A numbered list highlights four leverage points (Attention, Extractive Technology, Bureaucracy, Biology), with additional p
-
-- The two-page spread opens with a sweeping panoramic photograph of verdant, rolling mountain ridges under a wide sky, dotted with distant snow-capped peaks that form the dominant background across both pages. Inset on the left are two documentary photographs: one shows Daniel standing beside his bicycle on a rocky trail next to a small waterfall in a green valley, wearing a white cycling jersey, helmet, and sunglasses; the other is a close-up of a cyclist’s legs and loaded touring bike on a curving asphalt road. On the right page, a smaller inset photograph depicts a turquoise alpine lake with a road hugging the shoreline and sheer cliffs above.
-
-At the bottom right sits a diagram matic illustration of swirling red curves on a grid with numbered axes, evoking mathematical or systemic complexity. The layout integrates these images with overlaid text blocks, including the red pull-quote “So
-
-- The two-page spread opens on the left with a bold, stylized title graphic for “CURVES” in large white lettering over a close-up of layered, curving brown-and-orange patterns resembling wood grain or topographic lines, with “Leaving SCOTOMAVILLE” in smaller yellow text above it. Below the title, a small rectangular photo shows a smiling older man (Daniel) wearing a dark shirt, overlaid with the label “01.15 REFLECTION Considering Curves • Elephant Butte • They’re Not Ready.” Multiple QR codes appear alongside the headings “WATCH,” “REFLECT,” and “DISCUSS,” each paired with YouTube URLs and short explanatory paragraphs about triangulation, sketching personal curves, and pandemic-level challenges.
-
-The right page is dominated by a large, realistic landscape photograph of a massive oak tree standing beside a shallow stream in a grassy meadow under a blue sky with scattered clouds; tall reeds
-
 ## Takeaways
 
 1. “ life is what happens between your plans” Bill Sharman VOL 1 AWARENESS In geometry, the shortest distance between two points is a straight li…
@@ -284,8 +152,9 @@ The right page is dominated by a large, realistic landscape photograph of a mass
 4. Do-oversare nothing more than aset of curves.
 5. Propagation across a network has lots of curves.
 
+
 ## First-time learner
 
 - **One sentence:** Nonlinear growth and Deux-Deux curves.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

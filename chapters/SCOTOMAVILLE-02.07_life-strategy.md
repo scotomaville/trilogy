@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.07_life-strategy.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 2 ch.02.07 — Life-Strategy.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.07**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.07_life-strategy.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,153 +92,15 @@ Build life-strategy — in cremental change and small things that matter.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-### Distinct beat (02.07 — not 02.08)
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-**Building a strong Life-STRATEGY.** Incremental change; small things; practice-at-home logistics; strategy vs brittle planning when weather and life interrupt. Onus Probandi by lived example.
+## Chapter text (spoken register — primary)
 
-Welcome to the Pacific Northwest. We plan to build memories playing with family while enjoying the cooler temperatures for a few months.
-We came to the Central Gorgeand Hood River/Mosier, our home base, to spend sometime foiling on the river, but the weather isn’t cooperating with our plans. A cold front blew in like crazy and dropped the temperature by nearly 30 degrees.
-The great thing about having a strategy is shifting your plans and still pursuing your desired outcome. In this episode, I will differentiate Planning from Strategy. When I vividly imagine the best outcome and have them postponed or delayed, the emotions are intense, which trigger amygdala hijackings and tizzy fits.
-My cheese is constantly moved, but it turns out that having an excellent strategy can interrupt the cascading emotions. You’ve watched this since the early episodes “I’m far less upended ortriggered by interruptions and delays now than before starting this expedition.”
-at Lake Pleasant were interrupted with constant noise, airplanes, and drag boats. I’mfar less upended or triggered by interruptions now than before starting this expedition.
-ONUS PROBANDI END OF SCENE Leaving SCOTOMAVILLE 236 strategy
+**Distinct beat (02.07 — not 02.08):** Building a strong Life-STRATEGY — incremental change, small things, practice-at-home logistics, strategy vs brittle planning.
 
-TWO LEFT GLOVES:
-“Our greatest weapon against stress is our ability tochose one thought over another” William James TRANSFORMATION STRATEGY KEY POINTS
-■  Incremental Changes substantially accelerate personal transformation
-■  Small Things Matter - becoming awareand responding to subtleties counts ■  Onus Probandi - we’re demonstrating change with personal examples Angelina: What are you doing?
-Daniel: What am I doing? I’m putting the...
-[Emergency Warning System] ATTENTION! this is onlya test. This is a test of the warning system. This is only a test. There’s no emergency...
-Angelina: You were saying?
-Daniel: (covering his ears) Oh, that is so loud. Youcan hear it echoing around the lake... “this is only a test... Esto es solo una prueba.”
-I was going to say that whenever you try towork on something, ‘life happens between your plans’ (the warning system blares). This is what I was going to show you. Look closely.
-What do you see?
-Angelina: Oh no.
-Daniel: I have two left-hand gloves!
-< THIS IS A TEST SATURDAYS @ NOON NEAR OKLAHOMA CITY 2.07 Leaving SCOTOMAVILLE 237 y
-
-You’ve repeatedly heard mesay that you should segment grapefruit, cut your egg cartons, or improve your meals.
-The reason for that is to practice and refine your Strategy.
-As you go about doing your thing in the morning - a routine that you have for awell-balanced diet for your
-“Strategy trumps planning, It tackles the question ‘why’? It comes to terms with the whole situation”
-leaving SCOTOMAVILLE 238 microbiome - then here willcome the intrusions - like the noise of your RV neighbor firing up their huge diesel before they leave. I’ve started embracing the intrusions because I realized a strategyis bigger than planning.
-STRATEGY TACKLES WHY Strategy has a large scopeand looks at the end results and the many paths to the desired outcome. A strategy looks at every possible influencing factor, both seen and unforeseen, and comes toterms with the whole situation - not just one result.
-
-LITTLE BY LITTLE INCREMENTALLY
-Angelina: [crawling under table and stuck between the seating and the table] Daniel: I think you need a better strategy.
-You’re trying to crawl underneath the table.
-Angelina: I am.
-Daniel: How’s that working out for you?
-Angelina: My boobs are getting stuck. Okay. I had this idea that I would move my desk.
-Daniel: If you break the table what good isthat. Now you’re stuck halfway.
-Angelina: I am. Now if I can turn myself around.
-Daniel: I think that is the question. Is this whyyou play hoppers? So that you can test ideas in the physical world?
-Angelina: I wanted to have a better setup formy desk so I didn’t have to go around.
-Daniel: Hang on hang on you’re gonna break something... Let me...
-Angelina: Ta-dah. See.
-Daniel: You gotta be kidding me. Resilience.
-Stubbornness.
-Angelina: But it worked.
-Daniel: Ladies can you practice this at home.
-Crawl under the table rather than walk aroundto your chair!
-Angelina: I didn’t want you to move out of theway. I needed to figure it out on my own.
-
-A plan says; here are the steps, while astrategy says; here are the best steps.
-Strategy speaks to the reasons WHY whilethe plan is focused on HOW.
-■ WHY outweighs HOW ■ Strategy is BIGGER than a plan ■ Strategy deals with the situation
-Strategy is about understanding your environment and making choices about what you will do. Think, if you like, of where and how to play.
-Planning is about making choices inside your
-Strategy - about how to use the resources youhave and the actions you will take.
-
-EATING AN ELEPHANT
-Let me try to emphasize the difference between strategy and planning suggesting something absurd - like eating an elephant.
-“When eating an elephant take one bite at a time.
-Clearly no one is encouraging dining on these animals but it’s good advice about how to tackle a huge overwhelming project - like the climb to success.”
-“Desmond Tutu said the way to eat an elephant - abite at a time. What he meant by this is that every thing in life that seems daunting, overwhelming, andeven impossible can be accomplished gradually by taking on just a little at a time.”
-Francis of Assisi on how to eat an elephant: ”startby doing what’s necessary, then do what’s possible and suddenly you are doing the impossible.”
-leaving SCOTOMAVILLE 239
-
-EATING YOUR AIRPLANE
-To raise the bar of what’s possible beyond anything you’d imagine for your own life, let’s look at this Guinness World Record holder who ate anentire airplane bite-by-bite. He ate two pounds per day. His name was Michael Lotito, and hewas nicknamed Monsieur Mangetout. Manget finances or your financial score, or maybeget a new job, whatever that might be in your life, think about incremental progress bite-by-bite.
-If you want to change how you think, tryaffirmations day after day. Put some motivational quotes into your lifestyle. Consume something that will make a small change each day to advance your position.
-SWAP YOUR COFFEE TREATS
-Another thought on Strategy is that you wantto work toward longevity. It doesn’t make much sense to sprint to the finish and die toosoon. You might as well mature faster than you age - and value your journey.
-This is 2 billion pre/probiotics. It’s part of our
-Viome precision supplements. We dropped our designer coffee treats to save up. We took the tests, waited for months, and started a better habit that extends our biological age incrementally. I think the discipline ofvaluing longevity long before we got in an Airstream is worth the $5 a day. (cold coffee) out means ‘eat it all.’ Mr’ eat it all’ ate about 900 grams of whatever it was a day. Over his lifetime, his diet (since 1969) included 18 bicycles, 15 supermarket trolleys, 7 TV sets, six chandeliers, two beds, a pair of skis, a low-calorie Cessna light aircraft, and a computer. He also ate a coffin. By
-1997, he had eaten nearly nine tons of metal, buthe said funny enough that bananas and hard boiled eggs made him sick.
-I’m not going to recommend that you eat an Airstream, but I will make my point that if you wanted to, you could do it - incrementally.
-Think about what’s challenging your Personal
-Everest. If you’re trying to live a healthier life, lose weight or gain weight, make progress on your Leaving SCOTOMAVILLE 240 Guinness World Records
-
-INCREMENTAL INJURY Angelina: What just happened?
-Daniel: (triggered) I’m simply trying to do a closeup shot of the Viome supplements, and when I poured them out, they rolled away into the dirty sink. So I flinched to grab them, clipping the cutting board to bloody my thumb and nail.
-Angelina: Oh, thank you for splashing the blood.
-Let’s coat the wound with ointment.
-
-Daniel: Oh, you see the blood? So I go from trying to be helpful... let me show people how cool Viome is... to bleeding. What an outcome!
-The take-away? Give yourself an allowance for wounding in your Strategy! Be attentive to small things you are dealing with, like knives and onionsor avocado. (been there too) PAY ATTENTION TO SMALL INJURIES:
-Little wounds add up. Gut inflammation and weight gain don’t explode, they emerge from small choices.
-TO-DO LISTS
-Another strategy that you’ve seen me useis to assign myself to-do items on a list.
-Rather than forgetting, or working on FUN things ahead of ESSENTIAL things,  I direct my work when I’m thinking clearly.
-That way, I don’t have to spend time wondering - I do what my boss told me to.
-(crossing off items) I just finished the previous video clip, and
-I’m done with this one. I get satisfaction for my focused time by crossing off the tasks. I decided in advance and gave myself the discipline to work through the list - knowing that items will continuallybe added - like gluing the knob back on the stove-top. Doing so reduces distracted thinking - like ‘why the factory doesn’t use glue?’
-Leaving SCOTOMAVILLE 241 SELF ASSIGNED WORK DUTIES:
-From an ACHIEVER. Your ‘boss’ must be clear eyed, forward thinking and willing to pivot.
-
-Small Action PREVENTS DIFFICULTY
-A second strategy to embrace is that ‘little things matter.’ They do. You’ve heard of the phrase, “a stitch in time saves nine”? What theheck does that mean? In the days of large sailing ships, if you didn’t fix the tiny stitching thatwas coming out of a mainsail, the next time you had a decent blow, it would tear the whole sail open, and you’d have more damage.
-Paying attention to little things can save a tremendous amount of grief, anguish, loss, and disappointment over time. A great strategy toembrace is to pay attention to the little things by considering that little things matter.
-I thought this was humorous...
-The definition reads: “small action takenon right time may prevents difficulty to be bigger later”. I think that’s funny.
-WITH SMALL METAL SHAVINGS
-One of the things you can practice at home tobecome familiar with Air streaming is to find some small metal shavings and throw them onthe floor. Then walk around with bare feet.
-This is an aluminum shaving from one of therivets. When they replace a faulty rivet in the factory, it’s easy to go too fast and over-drillit. That small action creates a piece of metal like this (closeup of aluminum shaving) that ends upon the floor, sometimes under a cabinet, and when you step on it - it feels terrific.
-■  LITTLE THINGS MATTER Leaving SCOTOMAVILLE 242 Small Attention
-
-Bigger Problem Solved WITH TINY LOOSE PARTS
-While you’re vacuuming, you’ll find tiny, tiny parts like this on the floor (closeup of tiny nut).
-Then you’ll start looking around, thinking, where the heck did it come from? Don’t just throw it away with the vacuum dust. You have to have a place to put all those little parts.
-(dropping the nut in a drawer tray) I bet that’s going to be important.
-I found a screw lying inside my solar briefcase about a week later. Since I have a strategy of putting parts in the drawer - it went in.
-While editing this episode a week after finding the nut, I see a video clip of the nut. My brain uses a cognitive bias to connect one screw toone nut. Sure enough, there’s the solution to the missing nut that secures the charge controller inside the solar briefcase. That is quite literally ‘case closed’ on the bigger problem.
-WITH SMALL WATER USE
-You can practice Air streaming at home by not coating the inside of your drain pipes and gray tank with oil or salad dressing. You could usepaper plates, but that is resource expensive.
-Instead, take your napkin and wipe all food residues off the plate. This then becomes all you have to clean with minimal water.
-(showing a cleanly wiped plate)
-Once again, instead of paper plates, use nice china - wipe it all off with one napkin at the end. The oil is cleaned off. The plate goes inthe sink, and that is how you can practice Air streaming without leaving your home.
-Leaving SCOTOMAVILLE 243 May Prevents Difficulty
-
-DO WHAT’S NECESSARY Angelina: What are youdoing?
-Daniel: Arnie has a tummy ache. He’s a COVID baby. He’s got irritable bowel syndrome.
-They forgot to glue the shower plumbing. The drain line is not glued. See this? That’ssupposed to be connected.
-It’s not. I have to reach back inthere and glue it.
-Two hours later... not a single drop of water!
-Yeah, little things matter...
-“Start by doing what’snecessary, then do what’s possible, and suddenly youare doing the impossible.”
-I hope you’re catching my Strategy to leverage the widespread interest in Air streams as a bridge to convey what I believe are fundamental principles. You can mimic, test and practice them right now.
-DO WHAT’S POSSIBLE To demonstrate this: I’m inthe Ford Studios now because Angelina is working in her office... and because I’m going to pivot, splitting the topic of Strategy into two episodes.
-The next episode is about having an abundance mind set, not being locked into scarcity, and learning to speak the truth. In other words, seeing things the way they really are by not limiting our point ofview to the way we are.
-How fun!
-Thanks for joining me ingetting out of Scotomaville. I’ll see you next Episode.
-DO THE IMPOSSIBLE We forfeited the Airstream in Scottsdale but found one in Albuquerque, New Mexico.
-So we drive all the way there, which doesn’t work out. Thenwe eventually found one in Oklahoma City. We stayed there for a month in a hotel waiting for things to come together. Meanwhile, Daniel had his kidney stone. So a lotof impossible stuff happened that month in Oklahoma City.
-[music] okay, that really doesn’t look right [music] Leaving SCOTOMAVILLE 244 “Our Airstream is a COVID baby, born in November of 2020. He has defects.
-Good news... I couldn’t have asked for better SCOTOMAVILLE content.”
-
-It seems that taking small actions at the right time prevent drastic actions later on... like putting glueon the shower drain line before the first owners take showers.
-
-YOURT 0kfzma1ruIA
-The odd thing about dancing wi
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.07-Strategy-Transcript.txt`*
+### Transcript — `02.07-Strategy-Transcript.txt`
 
 SCOTOMAVILLE 02.07 SCOTOMAVILLE Strategy
 
@@ -411,20 +274,6 @@ We lose the Airstream in Scottsdale and then we find one in Albuquerque New Mexi
 
 [Music] okay that doesn't look right [music]
 
-## Visual notes (print spreads)
-
-- The left page is dominated by a full-width documentary photograph of Daniel (white-haired man in a black t-shirt) standing beside an Airstream trailer on a grassy roadside, hands clasped over his ears and mouth open in a dramatic shout, with the large title word “strategy” overlaid across the image in bold black/gray/red lettering and a teal geometric accent. Below the photo, the page carries the provided Pacific Northwest weather text, followed by body copy about emotional triggers, interruptions, and the centered pull-quote: “I’m far less upended or triggered by interruptions and delays now than before starting this expedition.” A horizontal rule and the phrase “ONUS PROBANDI END OF SCENE” appear near the bottom.
-
-The right page opens with the chapter header “2.07” in large teal and black numerals, the line “< THIS IS A TEST,” and a note about Saturdays near Oklahoma City. Below is a c
-
-- The left page of this spread is dominated by a large documentary photograph of the Airstream RV interior, showing Angelina lying on a beige couch with a brown pillow, her head resting on it and eyes closed in a relaxed smile. A partially eaten pizza with visible toppings sits on a wooden table in the foreground alongside glasses and a water bottle, while a laptop and storage items appear in the background near the windows with a bright outdoor desert view. A bold pull-quote in large serif type spans the top of the image: “STRATEGY TRUMPS PLANNING, IT TACKLES THE QUESTION ‘WHY’? IT COMES TO TERMS WITH THE WHOLE SITUATION”.
-
-The bottom left contains continuation of the chapter text about daily routines like meal preparation, while the right page is text-heavy with headings, bullet points contrasting “plan” versus “strategy,” a section titled “EATING AN ELEPHANT,” and a narrow column of tra
-
-- The right page (245) features two stacked documentary photographs. The top image is a tight close-up of the Airstream shower drain area, showing a translucent plastic pipe partially inserted into a metal drain fitting above a gray woven floor mat, with visible gaps and no glue at the connection point. The larger bottom photo shows Daniel lying on his back on the wooden floor inside the trailer, his bald head and shoulders in the foreground, reaching upward into the cramped shower compartment while wearing a dark long-sleeve shirt.
-
-Overlaid on the lower right of the bottom photo is white text reading: “IT SEEMS THAT TAKING SMALL ACTIONS AT THE RIGHT TIME PREVENT DRASTIC ACTIONS LATER ON… LIKE PUTTING GLUE ON THE SHOWER DRAIN LINE BEFORE THE FIRST OWNERS TAKE SHOWERS.” The left page (244) is primarily text, with a centered pull-quote at the top about the Airstream being a “COVID baby” wit
-
 ## Takeaways
 
 1. Life-STRATEGY differs from brittle planning when in terruptions hit.
@@ -433,8 +282,9 @@ Overlaid on the lower right of the bottom photo is white text reading: “IT SEE
 4. Onus Probandi: demonstrate change with lived examples, not theory alone.
 5. Weather and setbacks test whether you have strategy or only a plan.
 
+
 ## First-time learner
 
 - **One sentence:** Build life-strategy — in cremental change and small things that matter.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

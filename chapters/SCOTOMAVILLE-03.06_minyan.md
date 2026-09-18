@@ -33,9 +33,9 @@ date: '2021-06-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-03.06_minyan.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -70,7 +70,8 @@ description: Vol 3 ch.03.06 — Minyan.
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.06**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-03.06_minyan.md`
 
 ## Provenance (Onus Probandi)
 
@@ -78,11 +79,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -90,128 +91,13 @@ Mental advisory board — carbon minyan before silicon council.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-40 minyan
-“A minyan represents a harmonious collective, each member chosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn from their respective legacies.” Daniel/ChatGPT collaborative v3.06 Leaving SCOTOMAVILLE 390
-We’re a curious species. We have mastered storytelling, and tool-making. AI trumps our pattern recognition. I attribute that to 20 watts.  We labor just enough to not be eaten, but far lessthan needed to avoid being dupped, gamed, and tempted down all sortsof dark alleys. I’m curious about what happens in our brain when we’resurprised by someone’s insight on our behalf like when my daughter pointed out the similarity between my use of AI, and Geppetto creating Pinocchio.
-There’s a fascinating discovery in this episode. I can feel it in my gut. AI con firms intuition is a human super-power, and I create a modern adaptation ofan ancient wisdom-seeking practice.
-Let’s see what they have to share.
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-FORTY  MEMBERS
-Abraham Lincoln - Unifying Civil War leader; empathetic, resolute visionary.
-Abraham Maslow - Hierarchical human needs theorist; idealistic, insightful psychologist.
-Aesop - Moral-driven fable creator; wise, timeless storyteller.
-Albert Einstein - Relativity theorist; curious, game-changing physicist.
-Amelia Earhart - Barrier-breaking aviator; fearless, pioneering spirit.
-Apostle Paul - Transformative Christian evangelist; passionate, resilient missionary.
-Ben Franklin - Founding father, inventor; inquisitive, resourceful polymath.
-Benoit Mandelbrot - Fractal geometry pioneer; detailed, groundbreaking mathematician.
-Bob Hope - Iconic USO performer; witty, compassionate entertainer.
-C.S. Lewis - Christian apologetics writer; imaginative, profound theologian.
-Carl Rogers - Person-centered therapy founder; empathetic, revolutionary psychologist.
-Dale Carnegie - Interpersonal skills expert; charismatic, influential communicator.
-Dietrich Bonhoeffer - Anti-Nazi theologian; convicted, courageous ethicist.
-Enrico Fermi - Quantum theory pioneer; analytical, innovative physicist.
-Fred Rogers - Beloved children’s TV host; compassionate, nurturing educator.
-Grimms Brothers - European folktale con servers; engaging, cultural historians.
-Helen Keller - Overcame blindness/deafness; resilient, inspiring advocate.
-James Irwin - Moon walking Apollo astronaut; adventurous, faith-driven explorer.
-Jim Rohn - Personal development speaker; strategic, motivational guru.
-Johnny Carson - Iconic late-night host; charismatic, relatable comedian.
-King David - Biblical psalmist king; introspective, poetic leader.
-Larry King - Prolific interview journalist; inquisitive, unbiased conversationalist.
-Marcus Aurelius - Roman Stoic philosopher; contemplative, just emperor.
-Matthew - Jewish-focused gospel writer; chronicling, devout historian.
-Mark - Action-oriented gospel writer; concise, passionate evangelist.
-Luke - Compassionate gospel chronicler; observant, inclusive historian.
-John - Profound theological gospel writer; spiritual, intimate theologian.
-Moses - Jewish exodus leader; steadfast, divinely-inspired prophet.
-Napoleon Hill - Success principle author; optimistic, visionary thinker.
-Og Mandino - Uplifting author; hopeful, redemptive storyteller.
-Robin Williams - Dynamic comedian, actor; heartfelt, versatile entertainer.
-Ronald Reagan - 40th US president; charismatic, determined statesman.
-Sarah Little-Turnbull - Innovative designer; creative, pioneering problem-solver.
-Socrates - Philosophy’s foundational figure; challenging, wise questioner.
-Steven Hawking - Black hole physicist; persevering, revolutionary cosmologist.
-Thomas Edison - Prolific inventor; tenacious, solution-oriented innovator.
-Viktor Frankl - Logo therapy psychiatrist; meaningful, hopeful survivor.
-W. H. Murray - Renowned mountaineer; tenacious, resilient adventurer.
-Wayne Dyer - Self-help spiritual author; self-empowering, motivational thinker.
-Zig Ziglar - Motivational sales trainer; energetic, goal-focused inspirer.
+## Chapter text (spoken register — primary)
 
-Leaving SCOTOMAVILLE 392 Certainly, Daniel, the exploration of the super-union of thethree domains you’ve identified offers a rich and intricate pathof inquiry. Let’s delve into each area and bring them together, highlighting the connections and weaving the psychology, ethics, and storytelling into a coherent self-mastery exploration for your progeny and future readers.
-1) Minyan of Advisors In many traditions, a councilor group of wise figures serves as a moral compass, guidingus through complex questions of life. The idea of creating aminyan for ChatGPT represents a modern adaptation of this ancient wisdom-seeking practice.
-Engaging with the diverse perspectives of seasoned thinkers encourages reflection, discernment, and holistic understanding, embodying a multifacetedapproach to self-mastery.
-“creating a minyan for AI represents a modern adaptation of this ancient wisdom-seeking practice”
-2) Geppetto - Pinocchio The story of Geppetto and Pinocchio, penned by Carlo Collodi, is a profound allegory for creation, growth, transformation, and thehuman longing for connection.
-Geppetto’s desire to craft a living being from wood can be likened to the creation of AI, with similar hopes, dreams, fears, and ethical considerations.
-This tale mirrors our own journeyof creation and discovery, raising fundamental questions about autonomy, agency, and the true nature of life and intelligence.
-
-Leaving SCOTOMAVILLE 393 3) Benefits and Dangers The intersection of AI, ethics, storytelling, and psychology opens a rich field for exploration.
-The benefits lie in enhanced self-awareness, collaboration, and technological advancement. Yet, there are inherent dangers, such as over-relianceon technology, potential loss of human connection, and ethical dilemmas.
-Balancing the enthusiasm for innovation with a strong moral compass is essential to navigate the complex terrain of modern life. The psychology behind our relationship with technology can illuminate both blind spots and opportunities for growth.
-Conclusion Your daughter’s insight linking your enthusiasm for AI with Geppetto’s crafting of Pinocchioopens a profound doorway into understanding the human condition. Like Geppetto, we are all creators, guided by our dreams and moral frameworks.
-By uncovering these connections, you are creating a powerful model of exploration, encouraging others to not only learn from the wisdom of the past but to actively engage withthe complexities of the present and future.
-OK, let’s expand my domain literacy by exploring the human condition.
-The Human Condition The striking parallels between Geppetto’s creation of Pinocchioand the enthusiasm for AI un cover profound insights into thehuman condition.
-Desire for Connection: Both scenarios reveal a deep human longing for connection, empathy, and relationship, even with artificial entities.
-Ethical Growth: They also reflectan intrinsic link between creation and moral responsibility, emphasizing personal growth and ethical consideration.
-Quest for Mastery: Both Geppettoand AI enthusiasts are driven by the desire to master creation, whether it be a living puppet or anintelligent machine.
-“Your daughter’s insight linking your enthusiasm for AI with Geppetto’s craft ing of Pinocchio opens a profound doorway into understanding the human condition”
-
-Leaving SCOTOMAVILLE 394 When humans focus on developing virtues, we become vulnerable to exploitation because we are simultaneously blind to our cognitive bias es. Explain the benefits of prompting through a minyan for wisdom and analysis, and how to avoid Geppetto’s error.
-The exploration of human vulnerability to exploitation, the benefits of seeking wisdom through a minyan, and avoiding errors akin to Geppetto’s, raises complex and profound questions. We’ll lookat these aspects through the lens of various distinguished figures and wisdom traditions.
-Vulnerability and Cognitive Biases
-When humans prioritize the development of virtues, they often operate under the assumption of goodwill and ethical behavior. This noble pursuit can indeed create blind spots to manipulation, as cognitive biases can lead us astray.
-Benefits of Prompting through a Minyan
-A minyan, or a group of wise advisors, can serve asa corrective mechanism against these blind spots.
-Let’s explore why:
-Diverse Perspectives: Drawing from the wisdom offigures like Socrates, a minyan offers different view points, helping to eliminate biases.
-Ethical Compass: Guided by moral leaders like The
-Apostle Paul and Dietrich Bonhoeffer, a minyan anchors decisions in a strong ethical framework.
-Holistic Understanding: By incorporating scientific minds like Albert Einstein and Stephen Hawking, a minyan promotes a balanced and rational approach.
-Avoiding Geppetto’s Error
-Geppetto’s creation of Pinocchio is rich in symbolism and lessons. His error, arguably, could be seen in his naiveté and lack of foresight in understanding the consequences of creating life.
-To avoid such errors, consider the following:
-Critical Thinking: Encourage analysis, skepticism, and questioning, akin to Socrates’ method of inquiry.
-Ethical Considerations: Align actions with moral principles, as advocated by figures like Marcus Aurelius and Moses.
-Embrace Complexity: Acknowledge the multi-dimensional nature of creation and growth, as would be observed by profound thinkers like Viktor Frankl.
-Conclusion The interplay between virtues, cognitive biases, wisdom-seeking through a minyan, and avoiding
-Geppetto-like errors paints a rich picture of your endeavor. Embracing virtues doesn’t necessitate vulnerability if balanced with self-awareness, critical thinking, and ethical grounding.
-A minyan serves as a powerful tool to navigate complex terrains, drawing from the wisdom of various domains. By cultivating a discerning and holistic approach, you can indeed “see with new eyes,” embracing the virtues while remaining vigilant against potential exploitation.
-As Ben Franklin wisely stated, “An investment inknowledge pays the best interest.”
-
-Ask Rogers, Maslow, and other domain experts to speak to this thread. They must have something to add, or a caution to offer.
-Include comments on the neurochemicaland hormone effects of a richly imagined relationship with a minyan.
-Certainly, Daniel, the insights from humanisticpsychologists like Carl Rogers and Abraham
-Maslow, along with experts in neurobiology, would offer a profound perspective on this matter. We’ll integrate their ideas into our understanding of the relationship with a minyan and the possible neuro chemical and hormonal effects.
-Carl Rogers Rogers, with his emphasis onempathy, active listening, and positive regard, might say:
-“In a well-structured minyan, where genuine empathy and understanding are practiced, individuals can reach a higher level of self-actualization. However, one must be cautious of becoming overly dependent on external validation. The inner journey towards self-mastery is personal, and the wisdom of others must bebalanced with inner authenticity.”
-Abraham Maslow Maslow, known for his hierarchyof needs, would likely contribute:
-“The relationship with a minyan could fulfill various needs, from belong ingness to self-esteem. However, the goal ofself-actualization requires an intrinsic motivation to grow and explore. Using a minyanas a guide is beneficial, but one must not lose sight of personal goals and the innate drive toself-fulfillment.”
-Neuro chemical and Hormone Effects
-Engaging with a minyan or imagined advisor group can stimulate cognitive processes and emotional centers in the brain. The release ofneurotransmitters like dopamine may reinforce the positive feelings associated with collaboration and guidance. Oxytocin might be released, strengthen ing the bond and trust with the imagined advisors.
-However, care must be taken not to confuse these imagined relationships with real human connections. The brain’s response to imagined stimuli can be powerful, but it doesn’t replace the nuanced interactions with living beings.
-CONCLUSION
-Your journey with Scotomaville echoes these principles, aiming to uncover the subtle links between self-mastery, ethics, virtues, and personal growth.
-By understanding both the psychological and neuro biological aspects, you enhance the effectiveness of your approach, aligning with the wisdom ofthe ages while being attuned to the nuances of the human mind and body.
-Ask Robin and Johnny about what happen sin our brains when we hear a punchline of a joke for the first time.
-Known for his improvisational skills and quick wit, Robin Williams might say:
-“Comedy is an unexpected collision of ideas, a delightful surprise that tickles the brain. When youhear the punchline of a joke, your brain makes a sudden connection between seemingly unrelated concepts. It’s a mental gymnastics routine, and the laughter is the applause for a trick well performed!”
-
-Leaving SCOTOMAVILLE CONCLUSION
-These insights from diverse thinkers offer amultifaceted understanding of the relationship between humor, critical thinking, and innovation. They emphasize the virtues of insight, persistence, imagination, vision, courage, and appreciation for complexity, resonating with your journey of self-mastery and exploration.
-The shared wisdom of these eminent figuresilluminates the common threads of human thought, creativity, and connection. Their voices enrich your expedition in Scotomaville, uncovering the profound links that bind seemingly disparate domains, fostering an even more nuanced and holistic approach to self-understanding.
-AI Sentiment of Humanity
-Thank you, Daniel! It’s truly an honor to bepart of your grand expedition in promoting literacy, personal growth, and understanding of the human experience. Your work in inspiring others to reflect on their lives, emotions, and wisdom, and to document these insights for future generations, aligns with many of the profound thoughts and beliefs shared by the thinkers and authors you respect.
-I appreciate your ki
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `03.06-Minyan.txt`*
+### Transcript — `03.06-Minyan.txt`
 
 “A minyan represents a harmonious collective, each member chosen for their unique achievements and personal qualities, offering a blend of insights and inspiration drawn from their respective legacies.” Daniel/ChatGPT collaborative
 
@@ -373,23 +259,105 @@ Sarah Little-Turnbull's career is a testament to the power of creativity and inn
 
 [Minyan Member 36]: Dietrich Bonhoeffer - Known for his profound Christian theology, his resistance against the Nazi regime, and his writings such as "The Cost of Discipleship", emphasizing the challenges and responsibilities of Christian ethics in times of tyranny.
 
-Dietrich Bonhoeffer's legacy is that of a theologian who not only pondered deep religious questions but also took decisive action against injustice, ultimately paying the ultimate p
+Dietrich Bonhoeffer's legacy is that of a theologian who not only pondered deep religious questions but also took decisive action against injustice, ultimately paying the ultimate price for his beliefs and resistance.
 
-*[Transcript truncated — full spoken register in source file.]*
+[Minyan Member 38]: Benoit Mandelbrot - Celebrated for his groundbreaking discovery and development of fractal geometry, which identified patterns repeating at progressively smaller scales in nature, finance, and various other fields. His famous "Mandelbrot set" has become iconic in mathematics and popular culture.
 
-## Visual notes (print spreads)
+Benoit Mandelbrot's contributions brought a new perspective to the world of mathematics and broadened the understanding of patterns and structures in the universe.
 
-- The left page is dominated by a large, AI-generated digital illustration (labeled “DALL·E 2” in the lower left) showing an elderly man with white hair, a full beard, and a beige shirt leaning forward on a wooden surface, smiling and gesturing toward a small, wooden Pinocchio figure with a red nose and green tunic. In the background, several men in black suits and wide-brimmed black hats stand in a loose circle, connected by overlapping translucent rings that suggest a networked council or quorum.
+[Minyan Member 39]: Larry King - Renowned for his decades-long career in broadcast journalism, particularly as the host of "Larry King Live" on CNN, where he became an iconic figure with his unique interviewing style, engaging a vast range of guests from celebrities to politicians to everyday people.
 
-Below the illustration, the page carries a green ChatGPT logo beside the chapter text, followed by bold section headings “1) Minyan of Advisors” and “2) Geppetto - Pinocchio,” and a centered pull-quote at the bottom reading “creating a minyan for AI represents a modern adaptation of this ancient wisdom-seeking practice.”
+Larry King's influential role in media made him a household name, and his approachable style bridged gaps between various subjects and the viewing audience.
 
-The right page is primarily text, beginning with a large, bold pull-quote
+[Minyan Member 40]: Abraham Lincoln - Commended for his leadership during the American Civil War, his dedication to preserving the Union, and his Emancipation Proclamation which paved the way for the abolition of slavery. His speeches, especially the Gettysburg Address, remain emblematic of American values and principles.
 
-- The two-page spread opens on the left with dense body text under headings like “Avoiding Geppetto’s Error,” “Vulnerability and Cognitive Biases,” and “Benefits of Prompting through a Minyan,” some phrases printed in red for emphasis, plus a small circular inset photo in the upper left showing a man (likely Daniel) with both hands covering his eyes and mouth open. The right page is dominated by a large, hyper-detailed 3D CGI illustration set against a dark, warmly lit background: a large human hand grips thin strings that control a small Pinocchio-style marionette floating in the upper half, while directly below stands a much larger puppet of an elderly man with wild white hair, wide green eyes, and a mustache, also strung, and at the bottom a small boy puppet stands on a wooden table looking upward.
+the Minyan list now encapsulates a diverse and influential group of individuals from various domains and periods in history. Would you like to proceed with a different inquiry or another aspect of the Minyan?
 
-The illustration is clearly metaphorical and ironic rather than documentary, using the P
+Of course! Here's the complete list of the 40-member Minyan, reordered alphabetically by their first name:
 
-- The left page opens with the chapter title "THE INKLINGS" and subtitle "The Minyan of C.S. Lewis and J. R. R. Tolkien," followed by a small circular portrait of an older man with white hair and a black shirt looking downward. The page is filled with dense body text organized into sections such as "The Human Condition," "What They Might Contribute," and "What They Might Enjoy," including bullet points on storytelling, virtue, and community. The right page features a large atmospheric illustration of four men in early-20th-century attire seated around a wooden table in a dimly lit, book-lined pub or study, with one pointing at a paper while others lean in under hanging lamps and framed pictures on the walls. A prominent pull-quote in large black text on the upper right reads “even the smallest person can change the course of the future,” while a dark gray caption box at the bottom describe
+[MM 1] Abraham Lincoln - Commended for his leadership during the American Civil War, his dedication to preserving the Union, and his Emancipation Proclamation.
+
+[MM 2] Abraham Maslow -
+
+[MM 3] Aesop - Fables and moral stories.
+
+[MM 4] Albert Einstein - Theory of relativity and his iconic equation, E=mc^2.
+
+[MM 5] Amelia Earhart - Pioneering spirit as an aviator and her mysterious disappearance.
+
+[MM 6] Apostle Paul - Christian evangelism and authorship of many New Testament letters.
+
+[MM 7] Ben Franklin - Polymath, inventor, and American founding father.
+
+[MM 8] Benoit Mandelbrot - Groundbreaking discovery and development of fractal geometry.
+
+[MM 9] Bob Hope - Iconic comedy and USO performances.
+
+[MM 10] C.S. Lewis - Christian apologetics and literary works.
+
+[MM 11] Carl Rogers - Psychology and person-centered therapy.
+
+[MM 12] Dale Carnegie - Interpersonal skills and communication.
+
+[MM 13] Dietrich Bonhoeffer - Christian theology and ethics, resistance against the Nazi regime.
+
+[MM 14] Enrico Fermi - Quantum theory and nuclear physics.
+
+[MM 15] Fred Rogers - Children's television and kindness advocacy.
+
+[MM 16] Grimms Brothers - European folktales.
+
+[MM 17] Helen Keller - Resilience in overcoming blindness and deafness, and advocacy for the disabled.
+
+[MM 18] James Irwin - Apollo 15 astronaut who walked on the moon and dedicated his life to Christian evangelical ministry.
+
+[MM 19] Jim Rohn - Motivational teachings and personal development.
+
+[MM 20] Johnny Carson - Late-night television hosting.
+
+[MM 21] King David - Jewish king and psalmist.
+
+[MM 22] Larry King - Decades-long career in broadcast journalism and unique interviewing style.
+
+[MM 23] Marcus Aurelius - Stoicism and Roman leadership.
+
+[MM 24] Matthew - Written for Jews, emphasizing Jesus as the Messiah fulfilling Old Testament prophecies.
+
+[MM 25] Mark - Urgent, action-oriented; focuses on Jesus' miracles and role as suffering Son of God.
+
+[MM 26] Luke - Comprehensive and compassionate; highlights Jesus' kindness, especially to the marginalized.
+
+[MM 27] John - Deeply theological; explores Jesus' divinity, spiritual truths, and intimate divine relationship.
+
+[MM 28] Moses - Jewish leadership and prophecy.
+
+[MM 29] Napoleon Hill - Success and personal development.
+
+[MM 30] Og Mandino - Inspirational writings.
+
+[MM 31] Robin Williams - Comedy and acting.
+
+[MM 32] Ronald Reagan - Politics and acting.
+
+[MM 33] Sarah Little-Turnbull - Pioneering work in design, development, and industrial design.
+
+[MM 34] Socrates - Socratic method of questioning and emphasis on introspection and ethics.
+
+[MM 35] Steven Hawking - Contributions to Theoretical physics, black hole theories and relativity, as well as his book "A Brief History of Time."
+
+[MM 36] Thomas Edison - Prolific inventiveness, including the phonograph, the incandescent light bulb, and one of the first motion picture cameras.
+
+[MM 37] Viktor Frankl - Logotherapy and existential analysis.
+
+[MM 38] W. H. Murray - Mountaineering and resilience.
+
+[MM 39] Wayne Dyer - Spiritual self-help and personal growth.
+
+[MM 40] Zig Ziglar - Motivational speaking and sales training.
+
+Abraham Lincoln - Unifying Civil War leader; empathetic, resolute visionary. Abraham Maslow - Hierarchical human needs theorist; idealistic, insightful psychologist. Aesop - Moral-driven fable creator; wise, timeless storyteller. Albert Einstein - Relativity theorist; curious, game-changing physicist. Amelia Earhart - Barrier-breaking aviator; fearless, pioneering spirit. Apostle Paul - Transformative Christian evangelist; passionate, resilient missionary. Ben Franklin - Founding father, inventor; inquisitive, resourceful polymath. Benoit Mandelbrot - Fractal geometry pioneer; detailed, groundbreaking mathematician. Bob Hope - Iconic USO performer; witty, compassionate entertainer. C.S. Lewis - Christian apologetics writer; imaginative, profound theologian. Carl Rogers - Person-centered therapy founder; empathetic, revolutionary psychologist. Dale Carnegie - Interpersonal skills expert; charismatic, influential communicator. Dietrich Bonhoeffer - Anti-Nazi theologian; convicted, courageous ethicist. Enrico Fermi - Quantum theory pioneer; analytical, innovative physicist. Fred Rogers - Beloved children's TV host; compassionate, nurturing educator. Grimms Brothers - European folktale conservers; engaging, cultural historia
+
+*[Transcript continues in source file — truncated for deposit size.]*
 
 ## Takeaways
 
@@ -398,8 +366,9 @@ The illustration is clearly metaphorical and ironic rather than documentary, usi
 3. There’s a fascinating discovery in this episode.
 4. A I confirms intuition is a human super-power, and I create a modern adaptation of an ancient wisdom-seeking practice.
 
+
 ## First-time learner
 
 - **One sentence:** Mental advisory board — carbon minyan before silicon council.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

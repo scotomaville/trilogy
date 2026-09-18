@@ -33,9 +33,9 @@ date: '2020-06-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.00_prelude.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -70,7 +70,8 @@ description: Vol 2 ch.02.00 — Prelude.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.00**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.00_prelude.md`
 
 ## Provenance (Onus Probandi)
 
@@ -78,11 +79,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -90,103 +91,13 @@ Expedition volume threshold.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-160 EXPEDITION PRELUDE v2 What you wouldn’t expect is howoften we are 100% wrong.
-VOLUME TWO Welcome to Volume Two of SCOTOMAVILLE! We’re in a fabulous place called Purgatory.
-But, C.S. Lewis wrote that wecan chose to leave. We don’t have to stay here. Yea!
-Volume One is about mental tools for self-awareness to get to self-understanding. From there, you can use discipline to change the trajectory ofyour experience in life.
-An expedition is a ‘journey with a purpose.’ If the purpose is to transform what you’vebeen handed into something better, then Volume Two willbe a fabulous desert trek!
-Hopeful Avoidance Fails I’ve known a few people thathave gone to seminars and workshops with the hopethey’d get a bump up, a lift, an artificial boost to their self-awareness. In my experience, awareness does notcome without great effort.
-Scotoma’s are hard to spot. They open the door for
-‘recommend ers’ to chase us with course-corrections toward the rocks. On the other hand, Ai can stay ahead of most humans. Let’s see how that goes.
-2.00
-“problems are complicated and We’re 100% wrong 50% ofthe time. We Google and let Youtube confirm our be liefs: yep, it’s too complicated for us to sort out... or isthe scotoma that we don’t want to make the effort?
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Our 20 watt brain is wired to quickly reach conclusions by finding familiar patterns.
-Do you see a smiley face in the door latch?
+## Chapter text (spoken register — primary)
 
-Leaving SCOTOMAVILLE 162 The manufacturer recalls are for millions of faulty door latches.
-Yep, my door latch is faulty.
-You have to walk up that thing. (lookingup the chair-lift hill) If you just get airlifted to the top of your Personal Everest, you’regoing to get edema. Your brain swells up, and you die on the mountain.
-Psychological Scotoma Example:
-Psychological scotomas are hard to find.
-They’re usually right in front of us, often disguised as work. And you go down a long, windy path usually taking a shortcut away from critical thinking.
-Case in point: Last night.
-Angelina: Let me show you the problem.
-Watch the door - it’s not latching. Look atthat; it’s not latching. You can’t drive a car with an unlatched door because you’ll fallout. Look right here.
-Daniel: It’s a $68,000 brand new Fordand, what did I do? I went online to discover articles: Ford’s got 2.15 million vehicles in a door latch recall, 1.34 million truck door latch problems. There’s aclass-action suit that has been ongoing for years, and years, and years. Oh mygosh, it’s just on and on and on.
-“We don’t solve challenges with a
-‘clean slate’. We start from previous conclusions - half of them wrong.”
-
-So then I called the dealership to find out thatwe couldn’t get the vehicle in until Monday because it’s already Friday. And, after they lookat it, it’ll be seven to ten days to get the parts, and then it’ll be three or four days in repair.
-Meaning it’s two weeks from now before theycan fix it. But then they look up my VIN, and they discover something shocking.
-Your VIN is Invalid
-Angelina: It is almost August 2020. We purchased the truck in December 2019 and filled out all the paperwork, including the registration fees and taxes. We need our title. And we don’t have our title, which means we can’tfix our vehicle because we don’t own it! And
-I’ve gone back and forth and back and forth between emails and phone calls and sending documents! Oh my! And right now, we have adoor that won’t latch but will swing open when
-Daniel drives, where I could fall out, but I won’tbecause we aren’t driving it.
-Our brains are wired to recognize patterns, to take shortcuts and jump to conclusions in order to create meaning from chaos with theaim of protecting us from real or imagined danger.
-
-forward to episode 2.12 on Self-care
-
-Daniel: You’ve been very patient, waiting for themto do their paperwork - over and over.
-Angelina: I’m not patient anymore. It’s a safety issue, and it’s a transportation issue!
-Daniel: She has been patient. Less so for me. I’vebeen scared to drive without license plates. Look at the back of the book! It says Sco oma! The printer rejected the book on three fix-it tickets because the spelling doesn’t have the ‘t’! But driving without avalid license plate because the car is not registered?
-I have to be patient. COVID has everyone messed up.
-Angelina: COVID is part of it, but then there’s incompetence and poor customer service.
-“You might have had ita year, but you don’t yet own the vehicle, so wecan’t do the repairs”
-
-Leaving SCOTOMAVILLE 165 Look for what’sreally going on
-“Life is what happens between ourplans.” Problem is, our plans are biased by what we believe is true - based inlarge part by digital recommendations.”
-Daniel: She’s always patient! If she’s triggered, then something is very off. I have some defuse time, asking where’s the scotoma? It can’t be this complex! Let’s look at the truck to show you what I discovered. I think through what I’ve read about the recalls and the latches freezing, and I think ‘wait a minute, let me see, now that I know the mechanics of the door, let me look at something...
-Angelina: Yesterday, I had some mints whenwe took my daughter to the airport, and I put it back in here. And unbeknown to me...
-Daniel: Here, where you store your things.
-Angelina: Yeah, it’s where I store my stuff, but look at how easy the door pull is to flip itdown. It’s effortless.
-Daniel: What does that do?
-“scotoma!”
-
-Angelina: It keeps the door unlatched because that’s what you pull on to open the door.
-That’s why it won’t latch, because of these!
-(picking up the mints) I have to stick the mintsat the bottom, so I don’t fall out of the car while you’re driving -  because of mints!
-Daniel: Here’s the takeaway for getting out of
-SCOTOMAVILLE. Use the tools in Volume One tosolve problems and to mature rather than just age. I’ll demonstrate this across Volume Two.
-
-Do you see Pattern Recognition?
-If I believe things are always complicated then
-I jump right to a conclusion with my 20-watt brain. I find something familiar (a pattern). I match it up with experiences I’ve had (amygdalae), and jump to a 100% wrong conclusion!
-However, I came to another point of view bytaking diffuse time, letting the ideas cross-con nect, and using triangulation. Tadaah!
-Mints in The Latch Cubby
-I take a moment to re-assess with a closer look. Why are mints in the latch cubby?
-Although my fear is facing two weeks without a vehicle and a thousand dollars in costs, I practice advice from Marcus Aurelius. It turns out I’ve been gifted a challenge to overcome. Doing so demonstrates that the mental tools of Volume One work.
-I’m pleased to be wrong half of the time. Itliberates me to find the truth. I don’t have to accept what I’ve been led to believe.
-BONUS INSIGHT
-I don’t want you to miss this! I did some research on Google earlier. I’m finishing my todo list and, now, on YouTube, in the sidebar...
-A.I. posing as a helpful recommender is now chasing me! See how this is all tied together?
-Scotomas encourage A.I. to chase you!
-
-I want for you to become more than self aware. I want you to understand why you do what you do. Better than that, I want for youthe discipline to create a life for yourself that you weren’t handed. To change things fromwhat you inherited to what you desire.
-You can do that. I’ve done it.
-We’re starting V2 in the Pacific Northwest, heading to New Mexico to pick up our Airstream and from there journeying with purpose. I look forward to the Episodes to come, which I have not planned or story boarded. I want to see how we handle the future events, the changes, the curves, the disruptions, thelife that happens between our plans!
-CURVES AHEAD:
-The journey to self-awareness seems to create its own weather - to obscure your confidence. Be ready.
-At the top of the results isa  long-standing class-ac tion lawsuit on similar door latches. Crap.
-I’m triggered.
-
-YOURT BFKHp5srevQ
-Leaving Scotomaville includes a visit to Purgatory. C.S. Lewis wrote that wedon’t have to stay there. You should only discover a scotoma once. If you discover the same one thrice - then consider Lewis’ allegory:
-
-In C.S. Lewis’s allegorical novel “The Great Divorce,” purgatory is depicted as a sort of grey town where the inhabitants find themselves after death. This grey town is neither Hell nor Heaven but rather aplace where people are stuck in a state of dissatisfaction and misery.
-Lewis’s concept of purgatory is unique in that it’s not a place of punish mentor purification, but rather a place of choice. The inhabitants of the grey town have the option to take a bus to the outskirts of Heaven, where they are metby spirits who encourage them to make the journey into Heaven, relinquish ing their earthly desires, vices, and false selves.
-The central theme here is that the inhabitants of purgatory are not sentenced to stay there; they are given a choice. They can choose to let go of the things that hold them back and ascend to Heaven, or they can choose tohold on to their earthly attachments and return to the grey town.
-Many characters in the novel find the choice difficult, as letting go of their former selves and earthly attachments is painful and challenging. But Lewis emphasizes that the choice is always there, and it’s never too late to grow.
-The novel’s portrayal of purgatory underscores Lewis’s belief in the power offree will and the importance of personal responsibility in spiritual growth. It aligns with the Christian doctrine of salvation through grace, with the understanding that individuals must actively choose to accept that grace.
-In connecting with your philosophy, Daniel, this concept can be seen asa metaphorical representation of the journey to self-understanding and personal transformation. The choice to leave Scotomaville (purgatory) and ascend to a higher spiritual plane reflects the idea of realigning skewed perceptions and changing one’s given life into the one they envision.
-
-Share with us a challenge you’ve overcome, especially the insight others will learn byyour example of stepping on something you should not have.
-
-## Video transcript (spoken register)
-
-*Source: `02.00-Prelude trnscpt.txt`*
+### Transcript — `02.00-Prelude trnscpt.txt`
 
 Welcome to Volume Two of Scotomaville! We're in a fabulous place called Purgatory. But you don't have to stay here. If you remember volume one? It's all the mental tools for self-awareness, through self-understanding, that you can apply discipline to change the trajectory of your experience in life."
 
@@ -238,7 +149,7 @@ Daniel: "I really want for you to become more than just self-aware. You know, se
 
 Daniel: "We're starting (this Volume:) the 'expedition', leaving the Pacific Northwest, heading to New Mexico, stepping into our own Airstream and from there journeying where it takes us. I look forward to the episodes to come, which at this point I do not know. And I want to see how WE handle the events of the future, the changes, the curves, the disruptions, the life that happens between our plans. Welcome to Volume Two.
 
-*Source: `02.00-Prelude trnscpt2.txt`*
+### Transcript — `02.00-Prelude trnscpt2.txt`
 
 Welcome to Volume Two of SCOTOMAVILLE
 
@@ -296,24 +207,6 @@ I really want for you to become more than just self-aware - you know seeing what
 
 Welcome to Volume Two
 
-## Visual notes (print spreads)
-
-- The dominant visual on the right side of this two-page spread is a close-up photograph of a bright red metal door latch or hasp, showing two circular screw heads positioned like eyes, a horizontal opening with visible internal mechanism resembling a mouth, and glossy reflections on the painted surface. The image is cropped tightly and occupies the full height of the right page, with a small caption in the bottom right reading, “Our 20 watt brain is wired to quickly reach conclusions by finding familiar patterns. Do you see a smiley face in the door latch?”
-
-On the left page and center strip, large white typography on a dark gray background displays the chapter title “v2 EXPEDITION PRELUDE” and “VOLUME TWO,” along with body text that matches the provided excerpt about being “100% wrong,” the reference to Purgatory, and the transition from Volume One. A narrow vertical white band in the ce
-
-- The left page opens with a close-up documentary photograph of the rear passenger door on a glossy red Ford truck, the door slightly ajar to expose the latch and chrome handle against asphalt. Body text flows beside it, including quoted dialogue from Angelina pointing out the unlatched door and Daniel recounting the $68,000 truck’s recall history and VIN issues, with a large pull-quote at the bottom in bold: “WE DON’T SOLVE CHALLENGES WITH A ‘CLEAN SLATE’. WE START FROM PREVIOUS CONCLUSIONS – HALF OF THEM WRONG.”
-
-The right page is dominated by a wide, sunlit photograph of empty ski-lift chairs climbing a grassy, pine-dotted mountain slope under blue sky, with the chairs in the foreground and the lift structure receding upward. White text is overlaid on the right side of the photo explaining how brains take shortcuts to create meaning and avoid danger, while a boxed “Cognitive Bias Cheat 
-
-- The left page displays blocks of dialogue text between Daniel and Angelina about waiting for license plates and paperwork, a book printing error that reads “Sco oma!”, and COVID-related frustrations, with a smaller centered quote about vehicle ownership and repairs. The right page features the large, bold headline “scotoma!” in oversized dark lettering, followed by the sub heading “Look for what’s really going on” and additional dialogue excerpts discussing triggers, defuse time, and where items are stored in the vehicle. A prominent color photograph occupies the lower two-thirds of the spread, showing the interior of a vehicle door storage pocket with a blue-and-white surgical mask draped over a blue package and a partially visible smartphone, set against dark leather seating and a gray door panel. The photograph is documentary in style, depicting a real, unposed moment from the couple’
-
-- The left page features a bottom photograph of Daniel, an older man with short white hair, seated at a desk with his hands covering his eyes while smiling or laughing, positioned in front of a laptop screen displaying YouTube search results for car door repairs; one video titled "How To Fix A Car Door That Won't Close And Won't Stay" is circled in red. Above this image, the page contains the transcribed dialogue between Angelina and Daniel about mints jammed in the car door latch cubby, followed by a section on "Pattern Recognition" with explanatory text. The right page is dominated by a large, full-bleed photograph of a wet, winding two-lane road through a dense forest of tall evergreen trees under an overcast sky, viewed through a rain-streaked window with visible water droplets, and a yellow "Curves Ahead" sign with a squiggly arrow on the right side of the road. Overlaid on the lower 
-
-- The left page opens with a top header showing a bright documentary photograph of a ski chairlift ascending over green forested hills and mountains, overlaid with yellow text “Leaving SCOTOMAVILLE” and large white lettering “PREL-UDE” plus the subtitle “Vol 2 Expedition • Introduction • Door Latch Scotoma.” Below this, red text introduces the purgatory theme from C.S. Lewis, followed by body text explaining the grey town allegory from “The Great Divorce,” accompanied by a green circular icon containing a white geometric symbol.
-
-The right page is dominated by a large, dark, cinematic photograph of a red bus shelter at night in heavy rain, where six hooded figures in long beige raincoats sit motionless on a bench while one stands to the left; the wet pavement and bare trees reinforce a bleak, stagnant atmosphere. Large semi-transparent white text reading “RETURN” fades across the upper rig
-
 ## Takeaways
 
 1. 160 EXPEDITION PRELUDE v2 What you wouldn’t expect is how often we are 100% wrong.
@@ -321,8 +214,9 @@ The right page is dominated by a large, dark, cinematic photograph of a red bus 
 3. We’rein a fabulous place called Purgatory.
 4. From there, you can use discipline to change the trajectory of your experience in life.
 
+
 ## First-time learner
 
 - **One sentence:** Expedition volume threshold.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.09_subtleties.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 2 ch.02.09 — Subtleties.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.09**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.09_subtleties.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,118 +92,13 @@ Small signals decide expedition outcomes.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-SUBTLE
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Recognizing the difference between two words is crucial to advancing your summit. What’s WRONG with you vs.
-what’s TROUBLING you? That subtlety launches two polar conversations!
-ties Welcome back to another Episode of SCOTOMA VILLE. This time we’re talking about subtleties - those little, tiny, essential but often overlooked details. It’s from the word subtle, which is something that’s delicate or precise.
-Subtle means complex and yet understated. It’smaking the use of clever and indirect methods of achieving something. I might overuse visual subtleties to highlight notable topics.
-I have lots of examples of things that go on whileyou’re in an Airstream that you might not expect.
-I believe you’ll catch the complex metaphors and subtle distinctions which support the valueof wonky beliefs we mistakenly defend.
-2.09 DISTINCTION IS POWER Leaving SCOTOMAVILLE 259
+## Chapter text (spoken register — primary)
 
-For example, we finally got intosuch a beautiful rig to discover it’s a magnet for people that misunderstand or misjudge our financial status. In other words, they jump to the conclusion that we’re rich and handing out money, so they show up at thedoor when we stop to shop. The truth is, the entire thing costs less than a tiny apartment!
-Things you may not expect come along with freedom.
-A FROZEN KITE Think a moment about your childhood. Some things seemed cruel or harsh that you should have learned, like paying attention to the wind, a steep hill, oryour bodily functions. So you can imagine the conflicted feelings the little girl has about the assistance from the parent that helped launch her first kite?
-To be dull to subtleties is to lack insights that help others avoid pain - including kids with kites Leaving SCOTOMAVILLE 260
-
-TAG LOSS SCISSOR SAFETY We prefer to keep our shoes in alovely basket rather than tossing them anywhere. We do the sameto stow electronic power cords visually.
-(Finding a price tag) What the heck! We’ve had these containers for three months, and I’m no longer keeping the tagson them. (Pulling cover off the scissors) Yes, I like to keep myscissors child safe - and senior safe!
-2 GALLONS OF PREVENTION The sun angle moves constantly.
-By babysitting your solar panels, you’ll gain about 20% by re-aiming them. Wind gusts want to destroy your efforts, so I hang gallon water jugs from each corner.
-Likewise, there are many thingsto close and latch and secure.
-Angelina and I review eachother’s work. I’m not offended because I can forget stuff. But, yeah, I’ve left the rear hatch open occasionally.
-Leaving SCOTOMAVILLE 261 RUSSIAN DOLL NESTING Consider that when you’restoring items, you want to nest them - like classic Russian Dolls.
-Put smaller ones inside eachother. There’s one inside here, and I put one inside of this one.
-When I purchased the containers, I bought them with nesting in mind. I can get more storage out of the same space. You’ll do the same thing with pots. See, here’s a pot with a lid, nested with another pot, nestled inside a basket.
-
-VELCRO INSECURITIES Towing bounces your trailer likean earthquake. So to prevent the repurposed Kimchi jars from falling from the cubby and crack ing the glass cook-top, I secured them with Velcro and replaced the metal lids with plain plastic ones, securing my insecurities.
-
-REDUCING SWAY I think an important detail iswhere to store water. I’m close to the center of the trailer where the water tanks are, so this is a good place to storeour house-water for drinks and cooking - as close as possible tothe middle of the trailer.
-(reducing sway while towing) DIGGING IN This is a garbage can fit in acutout on the countertop. I purchased metal leaf-guard mesh to keep the knives from rolling around in a drawer orfalling on the floor. I molded it at the bottom into an arch so thatthe knife tips rest in the grid and don’t poke holes through the plastic bottom.
-KEEPING LEVEL SENSORS When washing the coffee pot I try to get a lot of liquid detergentin there because it’s coated with coffee oil. It tends to stick to the inside of the gray tank and mess up the water level sensors. Sobe sure that you use a generous amount of liquid detergent.
-
-GROSS AWARENESS Spatulas are something that I use quite a lot. The rubber endspull off some of them and is glued on others. Look closely inside the hole in the rubber that comes off the handle. Thatis stuff growing on the inside.
-Gross.
-BLEACH CRYSTALS I have found that bleach crystals are pretty cool because you can put just a couple of crystals intoa spatula hole or pour a bunch down the sink drain. They don’tspill or leak like liquids. Instead, they store in a vertical space, nested with the other cleaners.
-FLEECE IT UP I have a collection of fleece shop towels because they are excellent at cleaning up and wringingthem almost thoroughly dry, unlike cotton.
-2X YOUR BOWL A mobile lifestyle has lots ofthings that you have to do because when you ignore them, there are consequences.
-You would not suspect that youhave to fill the bowl by stepping on a pedal a little bit before youuse the toilet.
-Fill it to the right level. Not toomuch and not too little. It fills slowly, so allow extra time before you are ready to ‘go.’
-If you fill it ‘just right’ then whenyou sit down ‘you’ are not in the water - if you know what I mean. But, if you don’t fill it with enough water, your ‘stuff’ will not be submerged - ahh, stink.
-Finally, when you flush, use abrush to erase the skid marks and slide the bits down the ‘hole’
-into the top of the black tank below. Yes, you’re looking and smelling it.
-THE ORANGE SACHET To Airstream at home, you should find some orange sachets to freshen the black hole. In mymind, I heard one of you go, “what are sachets.” These are biological enzyme packs that eat poop. We drop a couple ofpills a week depending on how often we ‘dump’ - yeah- into andout of the black tank.
-TRY NAVY SHOWERS If you’re keeping your water pump turned off because your battery’s getting low, but youwant to cool off, then take a navy shower.
-
-Pour a third gallon of water overhead. Oh - geez - that’s cold.
-Next time maybe I should warmthat up in the sun beforehand.
-Knuckle head.
-
-RECHARGING DAY One of the small things you doincrementally and think about is that when you want to recharge your devices, you have to wait until you have abundant electricity, meaning you can plug in your devices when you are onshore power.
-So maybe the way to do this athome is to pick a particular day of the week and go around your entire house and plug in all of the things you want to recharge.
-Get in the habit of recharging allyour tools and toys on a particular day of your week. That’llput a discipline in place, at least mentally getting ready for being mobile. You will also become more aware of your subtle dependence on resources.
-PANORAMIC TRAINS Sometimes you’ might like to sit quietly and write or reflect or enjoy the fabulous view outside your panoramic windows - not so -  there will be a freight train outside, beside the freeway - on both sides of the river!
-OFFENSIVE NO-PARKING So I relocate the Airstream and 20 minutes later I’m triggered bythe roar of a refrigerated semi truck occupying a no-parking zone just ten feet away. I didn’t imagine that would happen.
-PERIODIC MAINTENANCE Depending on the outdoor temperature, I get into the battery box about every two weeks orso. When it’s hot, the batteries tend to boil off quicker. (Opening the inspection cover) Look at that.
-All three cells are low on fluid.
-DUMPSTER LOCATIONS With an Airstream you get panorama windows. If you are not aware of the dumpster location when you reserve a camping site, you can wake up to thetrash truck! That’s not what you’d expect.
-
-NOISY WAKE-UP CALLS
-One of the subtleties of a Personal Everest that youmight not expect is that you’ve got to be content with your own company and with the thoughts you wakeup with - good and troubling.
-I don’t think I can make this stuff up.
-Harvest Hosts has an excellent program where youget to stay overnight at golf courses. Do you know how early they start their maintenance?
-Wow! Some people start work very early.
-NON-RANDOM CHARACTER CHECKS
-I’d like to believe that interruptions and noise assaults are random. However, I’m learning the busyness of golf courses. At a golf course in another state, a newfleet of golf carts arrived today - on three semi-trucks - at my doorstep!
-Onus Probandi on my character growth. Review earlier episodes. I could barely handle an airplane flying overhead. So today, I’m wearing noise-canceling headphones to hear the audio track for this episode.
-And I’m staying cool with Navy showers.
-MY BARN GLASS CEILING I have revisited the home I grew up in a few times.
-The most I could believe for myself at that time was tore model our barn (pictured), so I could have my own room and some teen privacy.
-I’ve grown from dreaming of a barn to living full-timein a 30’ Airstream. Thanks to the story I told myself,
-I’ve learned to pick when, where, and how to work. It’sbeen a fantastic journey. And, I’ve learned to listen for what’s NOT being said rather than thinking I heard what they said - so I know what they meant.
-
-MAKE SUBTLE MOVES FORWARD I have had to throttle my top strength of ‘achiever’
-for the situation, the circumstances, the place, andthe time to converge for me to finish this episode. I was hoping that the golf courses would give me thequiet. I made enough effort. I showed up, but the smoke intruded.
-I planned to boondock at the Bonneville Salt Flats, but the smoke prevented that. Hoppers. I’m now inone of the quietest places I could have imagined.
-On my second Cycling Trans-Am, I came near Panguitch, Utah, just south of this location. Numerous subtle single moves were required for me to discover this place and to finish this episode. I find it curious how paying attention to small events, subtle trends, and in-your-face challenges can lead us if we listen.
-I want to leave you with a subtlety to encourage you to be more committed to your success than afraid of failure. Angelina’s son Chris was more afraid of catching CoVid than he was committed to his best efforts to learn what was goingon with his body. He didn’t go to the hospital in time. He listened more to social media andfake news than the subtleties of his own body.
-Thanks for joining me in SCOTOMAVILLE for this episode. I look forward to hearing your comments. (hearing? I mean reading.)
-The wild-fire smoke made most of the west unhealthy, so I moved numerous times toward better outcomes and settled in @ 6000’
-We usually don’t wake up ill unless we’ve compromised with subtleties for years. Prioritize wellness higher than your habits.
-
-Chris listened more to popular media than hisbody. He hunkered in-place afraid he would catch COVID or deprive someone of a bed or help.
-Angelina Musik (Chris’ Mom) “We may never know when someone we love needs us to be healthy enough to help them. A living liver donor transplant clinic agreed to help me save Chris two weeks afterhe had passed.”
-“Thank you Chris for being God’s giftto me for 31 years. Now, WE will create a legacy which serve others through your story, helping them achieve better wellness, by choice.”
-
-YOURT KlBBWxi2Fzc
-Our brains are wired with awareness of subtleties, but our mind wants toquickly digest, find patterns and make bookends. We conciously have to think critically to avoid the trap of lazy thinking.
-Note some of your events with subtly embedded clues you have ignore din the past. What disciplines will you take up to master new skills?
-WATCH What subtle traits should myreaders spot with your keen insight that I am blind to?
-Certainly Daniel, let’s highlight somekey subtleties that were revealed through this transcript and connect them to broader themes:
-Visual Subtleties: Using visual cues to emphasize significant topics is a powerful means of communicating complex ideas. It embodies the concept of
-“seeing with new eyes” that you believe is essentialto self-understanding.
-Mis judgments and Preconceived Notions: The misconception about financial status associated with living in an Airstream signifies how societal judgments can often be superficial and flawed.
-It underscores the importance of freeing oneself from external perceptions and ‘personal’ truth.
-Prevention, Safety, and Awareness: These themes run throughout the description of living in an Airstream. They symbolize the vigilance required in self-awareness and personal growth.
-This includes recognizing one’s blind spots and finding creative solutions to life’s challenges, even in everyday tasks - like backing toward a garage!
-Nesting and Maximizing Space: This reflects theidea of internal alignment and the efficient use of mental and emotional resources. It symbolizes how clarity and wisdom in arranging one’s thoughts and beliefs can lead to harmony.
-Facing Unpleasant Realities: Aspects like maintaining sanitation, dealing with unpleasant tasks, and managing the noise of life symbolize the raw, unfiltered truth that sometimes confronts us. Embracing these realities head-on is part of authentic living and personal transformation.
-The Journey to Freedom and Understanding:
-The transcript vividly captures the essence of ajourney filled with unexpected lessons, obstacles, joys, and growth. It mirrors the journey to self-understanding that you advocate, where every subtle move and nuance leads to personal evolution.
-
-Discuss the subtleties of life, within events, across social media and ask for feedback from other readers, and the author.
-DISCUSS Throttling Strength and Embracing Subtlety:
-The transition from “achiever” to one who recognizes subtle trends and listens to the universe’s cues reflects a mature and nuanced understanding of self. It’s a profound lesson in restraint, humility, patience, and wisdom.
-As Socrates might remind us, “An unexamined lifeis not worth living.” Your description of life in an Air stream is not merely a narration of daily living buta microcosm of the broader human experience. 
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.09-Subtleties-Transcript.txt`*
+### Transcript — `02.09-Subtleties-Transcript.txt`
 
 Welcome back to another episode of scotomaville. This time we're gonna talk about subtlety. A subtlety is a little tiny very important but sort of unknown detail. It's from the word subtle, which is something that's really delicate or precise. It's complex and yet understated. It's making the use of clever and indirect methods of achieving something. (Think of how I'm using subtleties to convey important topics.)
 
@@ -320,18 +216,6 @@ I hope that these subtleties and ideas get you thinking. The greatest expedition
 
 Thanks for joining me in this episode of scotomaville. I really look forward to hearing your comments - hearing? - Reading! Your comments.
 
-## Visual notes (print spreads)
-
-- The left page of this spread opens with the large title "SUBTLE" in a faded light-gray sans-serif font spanning the top, while the right page continues with "ties" in bold black lettering and the chapter number "2.09" in gray. A dominant close-up photograph of an older man with short white hair (Daniel J Comp) occupies the center, showing him in a thoughtful pose with his right hand raised to his temple holding a thin pen or stylus, mouth slightly open in a smile, and eyes directed upward. The photograph is heavily overlaid with dozens of semi-transparent word bubbles in muted grays and greens, forming a dense word cloud of synonyms (delicacy, sharpness, perspicacity, adroitness, etc.) and antonyms (slow-wittedness, dullness) for "subtle," with a dictionary-style definition ("the quality or state of being subtle") and "Similar:" / "Opposite:" labels visible on the left.
-
-On the right sid
-
-- The two-page spread displays a grid of documentary photographs from the Airstream journey, interspersed with short text blocks on subtle aspects of RV life. The left page opens with three small top-row images: a close-up of a silver-and-black Energizer battery charger holding multiple AA batteries, a detailed shot of a gray battery box or connector with a green label and fluid caps, and a man in a black shirt sitting on a sandy shore by calm water. Below the recharging, maintenance, panoramic trains, dumpster, and no-parking text sections appear two lower images—one showing an interior Airstream view with a person outside in a yellow shirt and another of a semi-truck on the road. The right page features a top photo of a man in a yellow shirt and red cap on an orange riding mower parked beside the Airstream, a middle image of a beige golf cart being loaded up a ramp into a large transport
-
-- The left page opens with a data visualization: a color-coded map of the western United States showing wildfire smoke concentrations through red, yellow, and green dots across states including Utah, Nevada, Arizona, and Colorado, with a speaker icon suggesting it is a screenshot from a real-time app or video. Below it sits a black banner caption explaining the smoke’s impact on air quality. The main body text begins with the bold heading “MAKE SUBTLE MOVES FORWARD” and continues in black and red type, referencing the author’s thwarted plans to boondock at the Bonneville Salt Flats.
-
-The right page displays three images across the top: a hazy desert landscape at sunset with the sun low over distant mountains, a documentary photograph of Angelina Musik leaning over her son Chris in a hospital bed while wearing a mask, and a gray quote panel featuring her words about Chris’s liver transplant
-
 ## Takeaways
 
 1. SUBTLE Recognizing the difference between two words is crucial to advancing your summit.
@@ -340,8 +224,9 @@ The right page displays three images across the top: a hazy desert landscape at 
 4. This time we’re talking about subtleties - those little, tiny, essential but often overlooked details.
 5. It’s from the word subtle, which is something that’s delicate or precise.
 
+
 ## First-time learner
 
 - **One sentence:** Small signals decide expedition outcomes.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

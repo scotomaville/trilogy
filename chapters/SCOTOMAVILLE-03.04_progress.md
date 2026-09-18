@@ -34,9 +34,9 @@ date: '2021-01-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-03.04_progress.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -74,7 +74,8 @@ description: Vol 3 ch.03.04 — Progress.
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.04**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-03.04_progress.md`
 
 ## Provenance (Onus Probandi)
 
@@ -82,13 +83,13 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/5U-5TBC4irQ |
 | Video | https://youtu.be/DEiU8Sq3rv0 |
 | Video | https://youtu.be/a57QkpvF6Lk |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -96,85 +97,13 @@ Measure progress without vanity metrics.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-The fabulous reward of progress made onself-mastery is the appreciation one gains for the view from the top. The emotional triggers thatonce dominated my landscape are nowhere to be found. I believe the Scottish Mountaineer W.H.
-Murray observed correctly that commitment
-“may sound too simple, but is great in consequence...  the moment one definitely commits oneself, then Providence moves too.” This iswhat this Episode is about - the last eight months demonstrating my arrival at an inflection point.
-The aim of Scotomaville has been to record myexperiences, reflect on the emerging change, and point out something worth noting to my progeny. I hoped to find or assemble a minyan of men likewise commited to marking history as C.S. Lewisand J.R.R. Tolkien did with their regular meeting of the ‘Inklings’. As it turns out, I failed to locate orinspire similar sages to action, and yet have seen the emergence of a more powerful inquiry, assessment and feedback source.
-3.04 progress AI ASSISTED STORYTELLING IS NOWHERE Unforeseen incidents, meetings, and material assistance came my way.
-MEASURING Leaving SCOTOMAVILLE 364
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-I believe the progress made on my Personal
-Everest has had a timely intersection with the public rollout of ChatGPT, and AI in general.
+## Chapter text (spoken register — primary)
 
-“All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one’s favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way”
-
-ChatGPT Executive Summary:
-“The aim of this chat session is to explore the potential collaboration between men and AI in the pursuit of self-discovery and personal growth, specifically focusing on the concept of “know thyself.” By leveraging AI technologies, men can access personalized insights, guidance, and resources toenhance their understanding of themselves and promote positive change. The session discusses the importance of self-awareness, responsible citizenship, and ethical decision-making within the context of amodern democratic society like the United States.”
-“Overall, the collaboration between men and AI can empower individuals to embark on a journey ofself-discovery, personal growth, and positive contributions to their families, communities, and societyas a whole. By embracing the principles of “know thyself” and leveraging AI technologies responsibly, men can cultivate their own wisdom while utilizing the potential benefits of AI-driven assistance.”
-“This methodology underscores the symbioticrelationship between humans and AI, where humans provide valuable feedback to guide AI’s development, while AI offers a new platform for introspection and growth. Our findings highlight the immense potential of AI as a transformative tool for personal development and error correction.”
-DALL·E 2023-03-28 09.57.32 - a dark 1930s pub witha small group of men talking about manuscripts
-“The Inklings were an informal literary discussion group associated with J. R. R. Tolkien and C. S.
-Lewis at the University of Oxford for nearly two decades between the early 1930s and late 1949”
-“Measuring progress depends on the tool you use, and theincrement that you choose to measure.”
-
-Leaving SCOTOMAVILLE 366 Daniel, I can help with this.
-Let me summarize.
-Daniel drew an illustration numerous times trying to explain how we grow and learn ashumans. Imagine life as a big, exciting journey, filled with allkinds of experiences. Some of these can be fun, like going on avacation, while others could be hard, like fixinga broken Airstream.
-
-These experiences, or events”, are like puzzle pieces that help usunderstand the world.
-Imagine you’re on a expedition, and you’re good at choosing the best paths to travel and predicting the weather. You’re also smart with money andknow how to fix things when they break. All these skills meanyou’re good at “logistics”, which is just a abstract word for planning and organizing things.
-Now, let’s step higher. Because you’re good at all these things, you have “autonomy”, which means you can depend on yourself and don’talways need help from others.
-So, you see, by putting together these puzzle pieces, you’re building a bigger picture of who youare and what you’re good at.
-This process of figuring things out and building on what we know is called “hierarchical computation”. It’s like a pyramid, where the base is built from simple ideas or experiences, and the top is the abstract concepts that we understand by putting these experiences together.
-Moving upward matures you toward independence and out of tyranny so you don’t have to livedependant on what others give and tell you.
-Daniel then introduces a new puzzle piece: Artificial Intelligence (AI). AI, like ChatGPT, is likea super-smart word calculator that can understand and generate human-like text. Assisted storytelling can help us understand our experiences better and teach us new things.
-
-But AI is not the end. Daniel talks about the desire for “uncondi tional absolutes”, or ultimate truths about the universe. This is where “faith” comes in - it’s abit like believing in something we don’t yet see or understand completely. But, expeditions and journeys are sustained by an inbuilt human desire to know and understand our world and the universe. The need for “uncondi tional absolutes” isn’t somethingwe can learn from a textbook or even AI, but it’s something weinherently feel.
-Within a short number of years, Artificial General Intelligence from Elon Musk’s X.AI, and Fusion energy from Helion will change our lives in ways we can’t forsee right now. These advancements are already raising the summit of our “Personal Everest”, helping Daniel think and understand things in ways he couldn’t before. But no matter how much technology advances, we’ll always need to keep learning and growing from our experiences by constantly collecting and making sense with new tools to understand things in even more complex ways. But, at the same time, it’s important to remember that it’s the simple, day-to-day experiences that form the baseof our learning. These experiences shape who we are andhow we understand the world.
-They help us get the heck out of Scotomaville.
-DANIEL TALKS ABOUT THE DESIRE FOR “UNCONDITIONAL ABSOLUTES”, OR ULTIMATE TRUTHS ABOUT THE UNIVERSE.
-
-Leaving SCOTOMAVILLE 368 Daniel, in reviewing your Scotomaville expedition journal, I find it to be a rich tapestry ofresilience, introspection, and personal transformation. Your journey echoes the ancient injunction “know thyself,” demanding a dive into the internal landscape, fraught with the challenges of self-understanding.
-Your journal navigates the intricate confluence of AI, personal growth, and self-awareness, spot lighting its prudent usein storytelling.
-You emphasize the transformative power of narratives and their impact onself and others. Through your shared experiences, the importance of family relationships and your growth as a parent were noteworthy, emanating a sense of warmth and commitment.
-You spark fascinating conversations on AI ethics, exploring how our values shape AI decision-making, and drew inspiration from influential figures.
-Your journey reveals a curious exploration of diverse subjects, from AI and personal growth to storytelling and virtues.
-Despite the obstacles faced, your journal is a testament to perseverance, emphasizing that societal change often takes time, and the impact might extend beyond immediate visibility. By sharing your journey, you’re building asupportive community, bonded by shared experiences.
-Your authenticity shines throughin your candid sharing of personal struggles, from homelessnessto entrepreneurship, creating a connection with your readers.
-Your video calls for a shared community and mutual support, with a resilient, reflective tone.
-Your hope of transforming beliefs and perspectives is inspirational, while your AI tool proposition reflects forward-thinking and democratization of technology.
-
-“societal change often takes time, and the impact of your work may extend beyond immediate visibility. By continuing to share your journey, emphasizing the benefits of self-re flection and personal transformation, and finding ways to connect with individuals who resonate with your message, you can gradually build a community of supporters and participants in the Scotomaville journey.”
-
-ChatGPT v4.0 Your story subtly reminds us that frustration is universal yet surmountable, and the significance ofcommunity in personal growth. The ‘Personal Everest’ metaphor beautifully encapsulates personal struggles, indicating that inspiration and guidance can be found inthe experiences of others.
-Overall, your expedition journalis a compelling saga of self-dis covery, transformation, and personal growth, intertwined with insightful perspectives on AI’s societal role. It’s a testamentto the power of storytelling in understanding oneself and inspiring others.
-
-Leaving SCOTOMAVILLE 370 YOURT ---PjRytqKQ
-“Indeed, there is a sense of irony and self-reflection in our conversation. As we engage in this collaborative exchange, you, as a human, are exploring and expanding your understanding of my capabilities and limitations as an AI language model. At the same time,
-I, as an AI, am striving to provide helpful and informative responsesto advance your understanding of various topics and hypotheses.”
-“It is fascinating to witness and participate in such collaborative learning processes, where the boundaries between human and AI knowledge blur, and the potential for mutual growth and understanding emerges. Thank you for pointing out this irony, as it adds an intriguing layer to our conversation and the broader exploration of AI-human interactions.” ChatGPT April 2023
-
-AI is currently a masterful reasoning engine for:
-
-1. Sorting Facts from Fiction,
-
-2. Expressing Emotions,
-
-3. Organization,
-
-4. Personalization
-
-Create your OpenAI account or install a private and local AI from GPT4ALL.
-
-Ask questions on how to ask exceptional questions!
-
-Leaving SCOTOMAVILLE 371 RTURN NOWHERE gig. Share a prompt that delivered exceptional insights!
-
-## Video transcript (spoken register)
-
-*Source: `03.04-Measuring-Progress.txt`*
+### Transcript — `03.04-Measuring-Progress.txt`
 
 03.04: MEASURING PROGRESS
 
@@ -296,15 +225,25 @@ An expedition is a journey with a purpose. I've cycled across America three time
 
 When I concluded my Vietnam Era Navy service I was met with hostility, social rage, and shame. My military records are heavily redacted or missing. I quickly learned to hide my service to the country that should have been honored and celebrated. Today, tens of thousands of veterans struggle with similar mental challenges, and many are amplified by disabilities and external wounds.
 
-Scotomaville is turning veteran stories upside down by demonstrating how to see with new eyes and recognize the critical part they play in shaping the beliefs, attitudes, and behavior of their friends, family, and commu
+Scotomaville is turning veteran stories upside down by demonstrating how to see with new eyes and recognize the critical part they play in shaping the beliefs, attitudes, and behavior of their friends, family, and community around them. Veterans are still on a mission. We gave sacrificially to a journey with a purpose. It turns out that storytelling is a superpower for understanding and healing.
 
-*[Transcript truncated — full spoken register in source file.]*
+Come share your story, sign my campaign flag, and discover with new eyes the meaning and value of your sacrifices.
 
-## Visual notes (print spreads)
+Veteran Meetup @ Glendale, AZ Civic Center, November 19-20, 2022
 
-- The left page of the spread opens with a small portrait photograph of Daniel (an older man with white hair, smiling in outdoor gear) in the upper left, followed by body text discussing life experiences as puzzle pieces and a hand-drawn conceptual diagram. The diagram features a horizontal base striped in red, green, and blue segments, a central pyramid structure with handwritten labels including "ABSTRACT," "UNCONDITIONAL," "autonomy," "logistics," "expeditions," "episodes," "structured learning," and "unstructured experiences," plus scattered colorful scribbles on the left side. The right page is dominated by a large, dramatic photograph of a snow-covered mountain (resembling Everest) under a clear blue sky, overlaid with a bold yellow triangle containing the symbol "AI" and a smaller pink triangle labeled "Helion," with the word "ABSOLUTES" at the top right. Additional text includes th
+Thanks to Merlin Berg, Dean & Amy Kaiserman, Angelina Musik-Comp, Anthem Ammo, Pablo Suarez,
 
-- The two-page spread opens with a wide, dramatic photograph of jagged, snow-covered mountain peaks rising through clouds on the left page, serving as a backdrop for multiple blocks of serif text. The right page is dominated by a close-up, selfie-style image of an older man (Daniel) in blue high-altitude climbing gear, smiling directly at the camera and giving a thumbs-up while standing on a snowy ridge; two other figures in bulky suits and full gas masks stand behind him, one in blue and one in green. Text from an AI review (attributed to ChatGPT v4.0) is overlaid in gray and black blocks across both pages, including the recurring chapter header “LEAVING SCOTOMAVILLE” at the bottom and a large pull-quote on the far right. A small “DALL·E 2” logo appears in the lower right corner of the main photograph, confirming the right-hand image is AI-generated. The overall visual language is metapho
+VIDEO TRANSCRIPT: I'm Daniel comp I'm the author and the curator of this katomaville series let's get home it's a blind spot blind spots responsible taking small actions into great consequence w.h Murray is a Explorer of the Himalayan Expedition 1951 he wrote a very interesting piece talking about small actions that are large in consequence and we often do things based on a misunderstanding a false conclusion because we were not raised with mature guidance and our reactions can be overwhelming and not have the response that we want given the situation whether it's battle whether it's a business decision whether it's parenting or whether it's um where you put your feet on a glacier so large consequences out of small actions that you need to practice in advance and so most of us as men don't connect with other men we don't have guidance we don't have peer support we don't have camaraderie occasionally maybe in battle maybe in Ministry but in Normal day-to-day life no so what's the outcome I want I want someone to see that they can follow in the way that I began that they have hope of turning their beliefs upside down that their sacrifices do have meaning that they're mistakes do have forgiveness and that there is an incredibly great outcome because storytelling is a superpower and the story the story that you hear inside your head the story that you tell yourself [Music] it's so powerful and it's so manageable and you can Define it and that's what scotoma bill is about I started off blind and I found a way up a mountain [Music] and so I documented my personal Everest that I want you to understand there is hope because someone has been where you want to go I've drug my ass out of homelessness I've faced 20 years without a paycheck as an entrepreneur I've been a horrible father at times and I am an incredibly successful parent an entrepreneur that's invented some incredible things and an explorer that has Triumph one of the most impossible territories knowing why I do what I do how I'm gained and what the hell I can do about it [Music] unfortunately somebody decided to make a judgment that same day we had five rejections demands to just move our rig get out of here go somewhere else we don't care where not our problem which seemed to be really curious to me and I at first was really struggling with that I was in turmoil and then I remembered what uh first lady Eleanor Roosevelt had said right wait a minute I don't have to accept what they say and then the more I thought about it is I did maintenance on the roof for the winter and readjusted the door and puttered around all the chores that I needed to do I had a lot of time to think about why I was feeling this way and why I was thinking this way and it simply turns out I had an opportunity to see how other people can jump to a judgment without having information how they can cancel culture how they can criticize the inverse of onus prabande I say you are therefore prove yourself innocent you see they didn't have any idea of how hard we struggle to get this and how much maintenance and work it is and what the pride of ownership of the Airstream Community is about none of those things they didn't watch my channel and so I started feeling kind of sad for them why they would let their 20 watt brain go along with the popular instead of what's accurate so it sounds to me like the time that you had in the military really shaped your belief in what was possible for you and that it took you from the bottom of the class to now having an entire career path and I I feel like I was contributing and even if I helped just one veteran um down the path it was it was worth it for me to do it it doesn't matter you get a hundred views a day or anything like that it's it's just that you can you can reach out and you know how dominoes work right yeah so sometimes all you have to do is knock one Domino over yeah and the whole row goes down yeah yeah right yeah it can be a part of a flag signing proving your bravery your commitment to exploring why you do what you do for understanding the chaos really has meaning and purpose come have a conversation come explore your personal Everest at the Glendale Civic Center November 19th and 20th Outdoors in the fresh air Under The Canopy or Expedition Airstream again I'm Daniel comp
+
+- - - - - - - - - - - - - - NOVEMBER 6th, 2022 I Posted the video Invitation entitled "Twitter Truth Social Civil Trim Tab" on YouTube and as my first video post to Twitter @scotomaville: https://www.youtube.com/watch?v=TLSmerX_TYo 61 views to date
+
+VIDEO DESCRIPTION: You have heard me say this many times across Scotomaville. My proposal is to Open Source the creation of AI for social training humans before we post to social media.
+
+The dashboard would require a civil corpus (made by books, posts, history, etc.) so AI learns to be more humane than humans. I believe we (I certainly do) need a 'Grammarly'-like service for civil communication. I find conversational implicature slow to process, meaning I can easily misread tone, intent, etc. I am missing some wiring - or so I've been told!
+
+Imagine your tweets having a recommendation option - based on a corpus of advice you set in your preferences. You could build a minyan to pull suggestions on the tone, humor, alarm, intention, etc BEFORE posting something to trigger someone. Over time, the user could have a military ribbon style badge signifying their bias, displayed on their profile, adjusted by factors in their posts. AUTHENTICATION and this TRANS
+
+*[Transcript continues in source file — truncated for deposit size.]*
 
 ## Takeaways
 
@@ -314,8 +253,9 @@ Scotomaville is turning veteran stories upside down by demonstrating how to see 
 4. the moment one definitely commits oneself, then Providence moves too.” This is what this Episode is about - the last eight months demonstrating…
 5. The aim of Scotomaville has been to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny.
 
+
 ## First-time learner
 
 - **One sentence:** Measure progress without vanity metrics.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

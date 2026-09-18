@@ -155,7 +155,7 @@ For now, game yourself like a child. Give yourself a time-out when your emotions
 
 Moving toward abundance involves managing emotions tied to scarcity. Be abundant in yourself-worth, allowing time to reflect and heal early wounds from an adult perspective. Jim Rohn: “If you really want to do something, you’ll find a way. If you don’t, you’ll find an excuse.”
 
-Personal development is a kinto an umbrella — Awareness the canopy, Understanding the shank, Discipline the handle. Viktor Frankl: between stimulus and response there is a space. In that space is our power to choose our response. An umbrella left in the closet is as useful as a tool left untouched.
+Personal development is akin to an umbrella — Awareness the canopy, Understanding the shank, Discipline the handle. Viktor Frankl: between stimulus and response there is a space. In that space is our power to choose our response. An umbrella left in the closet is as useful as a tool left untouched.
 
 Climbing your Personal Everest requires a combination of tools. Reflect on the prior episodes. What blind-spots or patterns of thinking have emerged regarding scarcity? How can you turn those insights into steps toward abundance?
 
@@ -165,7 +165,7 @@ Climbing your Personal Everest requires a combination of tools. Reflect on the p
 
 Welcome back to Scotomaville. I was laughing this morning thinking of that classic Robin Williams — *Go ooo ood Moor rr nn iii in Vii ieee tna am !!!* Yeah, we really miss him, don't we?
 
-The purpose of the book is to help you become more self-aware, self-understanding, self-disciplined, so that you can leave Scotomaville. This first section on awareness brings tools to your to olbox without flooding you too quick — series of videos, transcribed into the book from notes. Bill Sharman: life is what happens BETWEEN your plans.
+The purpose of the book is to help you become more self-aware, self-understanding, self-disciplined, so that you can leave Scotomaville. This first section on awareness brings tools to your toolbox without flooding you too quick — series of videos, transcribed into the book from notes. Bill Sharman: life is what happens BETWEEN your plans.
 
 This morning we're having one of my typical meal-replacement shakes because there's been a run — nice way to put it — people hoarding, panicking. Straight-up evidence in the a isles from Manhattan where my daughter is all the way across to Phoenix and Anthem — Walmarts and Safeways and Albert sons — people like "a AAAAAAHHH!!"
 
@@ -177,7 +177,7 @@ Mid-30s: *Your Erroneous Zones*, Wayne Dyer, lakeside in Washington. Difference 
 
 Supply sketch: if people buy four weeks of eggs in week one, shelves empty for everyone else — same emotional childhood scarcity response when you only wanted one carton.
 
-Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. Atleast I can laugh because I'm aware of it. Amy gda la, hippocampus, fight-or-flight — still fire.
+Onus of teaching: when you try to be authentic about a living example, you get to go through it in order to demonstrate it. Hoarding toilet paper, soaps, disinfectants; limits of one carton, one gallon — and selective enforcement. All childhood scarcity emotions flood back. Amazing how easy to trigger. Amazing how long to leave Scotomaville. At least I can laugh because I'm aware of it. Amy gda la, hippocampus, fight-or-flight — still fire.
 
 Beverly Hillbillies truck — unpacking over weeks, months, years. Where did that thought, belief, behavior first start? Adult awareness + plasticity = chance to re mould.
 

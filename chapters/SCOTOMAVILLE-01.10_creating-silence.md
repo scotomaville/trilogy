@@ -34,9 +34,9 @@ date: '2020-04-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-01.10_creating-silence.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -72,7 +72,8 @@ description: Vol 1 ch.01.10 — Creating Silence.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.10**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-01.10_creating-silence.md`
 
 ## Provenance (Onus Probandi)
 
@@ -80,11 +81,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/rjY4g0yZ9Aw |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -92,54 +93,13 @@ Silence as tool not emptiness.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-A ‘hook’ is an intentionally addictive set of lyrics and beat in music.
-It sticks in our minds and plays over and over and over. It can be maddening.
-What can we do to stop the ‘hook’
-of overbearing noise in our ’gap,’
-the displacement of our inner voiceby repetitive words and beats?
-People create intrusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our space, disrupting us.
-Headphones, earplugs, and distance can do the trick on the outside; what about on the inside?
-Media channels and creative artists line our active minds with lyrics and music.
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-You don’t have to be subservient toother people’s ‘music.’ You can learn to create silence and regain controlof your inner voice.
+## Chapter text (spoken register — primary)
 
-You are not powerless. You don’thave to give in. You can get out of Scotomaville by creating your inner silence. It feels uncomfortable at first. Look at all the white space onthis spread.
-
-Treena Kerr, wife of Graham Kerr, of
-“The Galloping Gourmet” television series would drop by to teach a skill called ‘listening in the gap’.
-
-In the attention economy, our thoughts are themost valuable asset we alone should control.
-.10 CREATING VOL 1 AWARENESS
-
-rjY4g0yZ9Aw SILENCE
-
-Depending on where you check, our brains can process between 400 and 600 words per minute, but we only speak about 125 words per minute.
-So our brains are functioning a lot faster than ourears! This disparity or ‘gap’ is what Treena referenced. So the gap is at least 300 to 400 wpm!
-
-That’s an incredible opportunity to seize the attention you have complete control over. No one else can take that away from you. It’s a fabulous thingto get the noise out of your head and mentally appreciate quiet. You determine what to do withthe EXTRA WORDS and all of that extra processing.
-You can get in touch with what’s going on downhere (motion ing to heart, chest), this pathway of intuition and understanding, and feelings and awareness and soaking in the ‘gestalt’ of it all —
-just being — not doing.
-
-A dear friend who passed away several years ago, Bob Moawad, would say, ‘Curiously, they call us human beings, not human doings.’
-
-Taking charge of AWARENESS enables us to do lessand achieve more. So one of the tools you’re gaining, in this, probably the shortest episode, is called mindfulness or meditation, simply being at peace, or being still. I call it creating silence.
-
-Treena & Graham Kerr Bob Moawad
-
-One of the quickest ways that I know of in getting a musical hook, the jingle that won’t leave is listening to your breathe and posture. Stand tall, listen to your breath, fully in and out.
-
-Take control of the gap between noise and awareness. Own your space. You have abundant access to processing, and intelligence. You have what youneed to change course. Silence is a fabulous tool for getting the heck out of Scotomaville.
-You are much appreciated.
-REFLECT Q1RB52HRKWU DISCUSS
-
-There’s a competition for the gap in your attention. Be an independent champion.
-Resist filling every moment with chaos, noise and distraction.
-
-## Video transcript (spoken register)
-
-*Source: `01.10 CreatingSilenceTrnscpt.txt`*
+### Transcript — `01.10 CreatingSilenceTrnscpt.txt`
 
 SCOTOMAVILLE: 01.10 Creating Silence
 
@@ -157,16 +117,6 @@ Take control of the gap between what's coming in and what you can process. Take 
 
 Thanks for joining me out of Scotomaville. You are much appreciated.
 
-## Visual notes (print spreads)
-
-- The top half of the spread is dominated by a wide, full-bleed photograph of a serene snowy mountain landscape: a shallow stream flows through the foreground over rocks and grass, flanked by snow-dusted pine trees, with jagged, sunlit peaks rising in the background under a clear blue sky. Overlaid on the upper left of this image is a thin white border containing the small text “VOL 1 AWARENESS,” while the large white title “.10 CREATING SILENCE” spans the center-right portion of the photograph.
-
-Below the image, the layout splits into two pages. The left page features a narrow vertical column of text running along the margin that reads “IN THE ATTENTION ECONOMY, OUR THOUGHTS ARE THE MOST VALUABLE ASSET WE ALONE SHOULD CONTROL,” followed by two columns of body text that begin with the excerpt about music “hooks” and external intrusions. The right page contains the continuation of the body 
-
-- The left page opens with a large documentary photograph of Daniel and Angelina in cycling helmets, positioned outdoors against a lakeside landscape; Angelina (left) makes a V-sign gesture near her eye while Daniel (right) holds the camera in a white cycling jersey covered in handwritten notes and graphics. Below the photo, the chapter text continues directly into instructions on breathing and posture, followed by “DISCUSS” and “REFLECT” headings each paired with a scannable QR code and a small embedded thumbnail showing a man’s hands holding an object beneath the label “v1.10 REFLECTION.”
-
-The right page is mostly empty white space dominated by a minimalist black line drawing near the top—vertical bars and dots arranged in a horizontal sequence with one bar replaced by a hand-drawn oval—positioned above a large, centered block of gray text: “THERE’S A COMPETITION FOR THE GAP IN YOUR ATTE
-
 ## Takeaways
 
 1. A ‘hook’ is an intentionally addictive set of lyrics and beat in music.
@@ -175,8 +125,9 @@ The right page is mostly empty white space dominated by a minimalist black line 
 4. People create in trusions by fixating on their ‘thing.’ Drag boats, airplanes, boom boxes, quad-runners, motorcycles, and more invade our space…
 5. Headphones, earplugs, and distance can do the trick on the outside; what about on the inside?
 
+
 ## First-time learner
 
 - **One sentence:** Silence as tool not emptiness.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

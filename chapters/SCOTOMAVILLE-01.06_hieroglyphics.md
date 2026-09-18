@@ -33,9 +33,9 @@ date: '2020-04-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-01.06_hieroglyphics.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -72,7 +72,8 @@ description: Vol 1 ch.01.06 — Hieroglyphics.
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.06**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-01.06_hieroglyphics.md`
 
 ## Provenance (Onus Probandi)
 
@@ -80,12 +81,12 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/T1wyII-03Co |
 | Video | https://youtu.be/EB3lcIINuic |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -93,94 +94,13 @@ Symbols and unread marks of the self.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE 62 HIEROGLY
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-As I see it, Pharaoh sat at the top of the storytelling AND class pyramid. His super-power was life or death for mere humans...
-.06 AN IMPOSSIBLE HIEROGLYPHIC YPHICS WHAT TO LEARN
-Emotionally rich storytelling isa powerful tool. The brains of the speaker and the audience synchronize with a captivating tale. We relive the original events, emotional sweat, and metallic sounds as if we were chiseling the hieroglyphics under the same sweltering Egyptian sun. We fear the crack of our master’s whip as he vows to post our skull atop a stake on a nearby dune.
+## Chapter text (spoken register — primary)
 
-As I see it, Pharaoh demanded his subjects knowand obey the stories he told - or death!
-We live in walled gardens - accepting limitations other people put on us. Literacy empowers us to tear down those stone walls with critical thinking.
-Before discovering a blind spot, we usually feelbad about a consequence of being naive. Experience is a common way we learn hard lessons. Wehave emotional cascades from stuff that’s locked up in our amygdalae. They fire up the adrenaline fight-or-flight, and we get frustrated and triggered!
-A common coping mechanism is to surrender. Weoften pretend we’re bord and scroll down, ignoring the the nagging puzzle. Don’t fall for it. It’s simplea fault in our brains! Let me help you solve the problem of a tyrrant - a self-defeating dialogue.
-I want you to emerse yourself for a few minutes.
-Go somewhere quiet, alone, and fully participate.
-Get a sheet of paper, and a few pens.
-Pharaoh’s Heiroglyph
-Aesop: Once, civilizations would not merely admonish but sever the very heads of those who strayed. Today, you are civilized, swords replaced with words, beheadings the mere cancellation of influence.
-Daniel: I bet that if you weren’t born in the right field, you had little chance of advancement. I imagine your intellect could promote you from the majority into the minority ruling class.
-In Genesis, Joseph is in Egypt with Pharaoh, giving tests to a bunch of the actuaries - the accountants - bean counters - literally counting grain.
-Og Mandino: Picture this vivid scene... Pharaoh, a majestic figure, reigning at the apex of Egypt’spyramid of power, undisputed at the pinnacle of the food chain, a litanny of fiats chistled in stone.
-Daniel: In Pharaoh’s day, to qualify ‘inner circle’
-people, he tested their understanding, insight, and ability to spot a tale. The penalty for failing the test was death. If you wanted to be one of his actuariesand amongst the elite, then you had to answer a puzzle. Yes, in hieroglyphics.
-Grimms Brothers: You know those symbols, right?
-Crazy-looking, bizarre things. They beckon to the imagination, full of mystery and whimsy. Fields of wheat, carts with oxen, the everyday mixed withthe fantastical, like urns and hatchets, creatures with eyes wide and wild.
-Daniel: Pharaoh would have them solve a puzzle based on the accounting of the harvest records.
-They could go through five, six, seven periods ofharvest and calculate what was in the stores.
-The consequences when you fail are severe!
-Napoleon Hill: I envision the macabre sight ofskulls on sticks, a grim testament to failure, juxtaposed with the mathematical brilliance where
-Pythagoras once pondered geometry, the very lines that define our boundaries and destinies.
-Daniel: The skulls of a naive hopefuls were bakingin the sun because failure was consequential. To move your family from a useless class, to the ruling class, it was essential you quickly solve this impossible hieroglyphic puzzle.
-
-Leaving SCOTOMAVILLE 65 Draw along with me. Draw six flat lines:
-like—the—shore—of—the—Nile      —River
-
-(see the symbols above, or on the worksheets)
-
-The first hieroglyphic was a terrific period. Therewas a Massive crop. Draw a shape like the letter M on top of the ground line.
-
-The second season was similar, a morphed M, sothey chiseled a HEART on top of the ground line.
-
-You remember some of the Exodus story, thefrogs and locusts and stuff, right? Well, the third hieroglyph looks like an empty burial URN.
-
-The fourth season was a bit of a rebound, so it’sagain that M-looking symbol.
-
-The fifth was a blow-out season. People died.
-Draw a ticking BOMB below the ground.
-Pharaoh would draw a dotted circle around the questionable harvest period and say, ‘All right, there are five prior periods. You see the changes.
-Tell me, what’s the sixth glyph?
-
-Check your answer with the inverted pyramid.
-
-Quickly, what is the symbol for the sixth season?
-You learned this in third grade. You rely on this every day of your life. I know you know it.
-
-What a moron. What’s wrong with you?
-
-[Music] Your amygdalae are pegged. You feel confused, ashamed, belittled, triggered.
-
-Why do you always quit?
-Stop your blubbering. Think harder.
-The first period looks like an M, and that morphed into a heart.
-The third and horrible period looked like an urn. The fourth harvest looked similar to the first
-M - but closer to the ground - likein a recession. The fifth harvest an explosive time bomb. The sixth period destines you to riches - or death! The seventh in the series isan inverted pyramid.
-
-Leaving SCOTOMAVILLE 66 What hieroglyph is this?
-[game show music playing]
-You’ve been duped. Storytelling, a force as potent as asuperpower or as crippling as Kryptonite, has ensnared you. Emotionally rich narratives weave a web that canbe highly misleading. Accusations, like unseen puppet masters, can hijack our black boxes, triggering emotional stress responses that resonate within us.
-Marcus Aurelius, ‘You have power over your mind - not outside events. Realize this, and you will find strength.’
-
-Leaving SCOTOMAVILLE 67 in
-As I see it; we’re blind to a superpower that can set us free. The moment we respond rather than react to a wild story is the moment we liberate ourselves to design the life we want.
-
-YOURT T1wyII-03Co
-You’ve heard the adage: ‘fool me once, shame on you; fool me twice, shame on me!
-What if the storyteller is an authority, like your parents, a teacher, a politician or pastor?
-Can you recall first learning the truth about the Easter Bunny or Santa Claus?
-The amygdala activates a fight-or-flight response without any initiative from you. It pumps stress hormones, preparing your body to either fight for survival or to flee to safety.
-When it comes to storytelling, you have to investigate - to think critically about what you hear. So don’t let information Emperors lock you in a walled garden with their emotionally rich stories.
-As soon as you trigger, look for other facets of the story! When you feel highly emotional, ask yourself - ‘Where does that come from?’
-What experiences come to mind that you have had with storytelling?
-
-“When our amygdala responds to stress ait disables our frontal lobes. That activates the fight-or-flight response and disables rational, reasoned responses. In other words, the amygdala “hijacks” control of your brain and your responses.”
-Scan the code to discuss hieroglyphics with other readers and the author.
-DISCUSS The symbols are not hieroglyphics. They are mirrored Western Arabic numerals REFLECT EB3lcIINuic
-
-## Video transcript (spoken register)
-
-*Source: `01.06 HieroglyphsTrnscpt.txt`*
+### Transcript — `01.06 HieroglyphsTrnscpt.txt`
 
 SCOTOMAVILLE: 01.06 Hieroglyphics
 
@@ -222,7 +142,7 @@ Yeah? And what are the other facets? What are the other angles? What was the guy
 
 You see, it's really easy to ask but most people don't do it! It's because they got the blind spots..blocking..and the 20 watt bulb doesn't want to have to go through the effort! All right, put it to work!
 
-*Source: `01.06 HieroglyphsReflection.txt`*
+### Transcript — `01.06 HieroglyphsReflection.txt`
 
 https://youtu.be/EB3lcIINuic SCOTOMAVILLE REFLECTION v1.06 Pharaoh's Story
 
@@ -246,22 +166,6 @@ https://artlist.io/artist/1958/pablo-suarez - Forget by Pablo Suarez - From Scra
 
 https://artlist.io/artist/427/paper-planes - Arrow Flies - Paper Planes
 
-## Visual notes (print spreads)
-
-- The left page features a large, thick black hand-drawn abstract symbol resembling a stylized figure-eight or infinity loop with an extra upward stroke, centered in the upper half against a plain white background. Below it appears the red heading "What hieroglyph is this?" followed by italicized gray text "[game show music playing]", then black body text about storytelling and emotional hijacking, and a red Marcus Aurelius quote at the bottom.
-
-The right page is dominated by a high-resolution close-up photograph of the golden funerary mask of Tutankhamun in profile, showing its blue-and-gold striped headdress, cobra uraeus, and detailed goldwork against a dark museum background with soft bokeh lights. A semi-transparent black text box in the lower right corner overlays white text about reacting versus responding to stories.
-
-The spread uses a deliberate contrast between the crude, modern 
-
-- The left page of the spread opens with a documentary-style close-up photograph of Daniel, an older man with short white hair, pressing both hands to his temples against a background of faint Egyptian hieroglyphs; large white text reads “HIEROGLYPHICS” over the image while yellow lettering above says “Leaving SCOTOMAVILLE,” with smaller subtitles “Awareness • Storytelling Superpower • Hieroglyphics.”
-
-Two QR codes labeled “WATCH” and “DISCUSS” sit to the right of the photo, each paired with the YouTube URL T1wyII-03Co.
-
-Centered on the spread is a row of thick, hand-drawn symbols in bright green and red marker—an M, heart, arrows, the numeral 1, a 4 with a loop, and a red triangle—accompanied by small explanatory text stating these are mirrored Western Arabic numerals rather than actual hieroglyphics.
-
-The bottom-right quadrant contains a second documentary photograph of Daniel, eyes clos
-
 ## Takeaways
 
 1. His super-power was life or death for mere humans...
@@ -269,8 +173,9 @@ The bottom-right quadrant contains a second documentary photograph of Daniel, ey
 3. We relive the original events, emotional sweat, and metallic sounds as if we were chiseling the hieroglyphics under the same sweltering Egy…
 4. We fear the crack of our master’s whip as he vows to post our skull atop a stake on a nearby dune.
 
+
 ## First-time learner
 
 - **One sentence:** Symbols and unread marks of the self.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

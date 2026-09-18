@@ -2,18 +2,18 @@
 id: scotomaville_03_11_reviews_credits
 title: SCOTOMAVILLE - 03.11 Reviews and Credits
 category: Stories
-predicted_narrative_arc: Witnesses and credits — community Onus Probandi
+predicted_narrative_arc: Reviews and credits — community Onus Probandi
 sentiment: Honoring
 emotions:
 - gratitude
 - respect
 keypoints:
-- This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose.
-- For patriots and believers who hold their values dear, the trilogy presents character-driven narratives that mirror their dedicationto highe…
-- Exploring community, unity, and personal growth, the books align with their desire to positively contribute to society and reinforce the sign…
-- Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning.
-- Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound concept…
-summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Reviews and Credits. Narrative arc: Witnesses and credits — community Onus Probandi. From the print/transcript corpus: Leaving SCOTOMAVILLE 454 REVIEWS “Scotomaville” takes readers on an introspective journey into personal development. Through a seamless blend of philosophical dialogues, a llegorical narratives, and psychological concepts, the book we aves an engaging exploration that appeals to both the mind and the heart. The author a deptly delves into themes such as perception, self-mastery, and the hero’s journey, showcasing a profound g'
+- Reviews and credits witness the work with community voices.
+- Prefer book PDF for print credits; cite locked video URLs when present.
+- Onus Probandi includes human witnesses, not only author claims.
+- Carbon keeps judgment; silicon cites deposited evidence.
+- Closes the trilogy shelf before Initium spreads take the rope.
+summary: 'Leaving Scotomaville 03.11: Reviews and credits — community Onus Probandi. Primary evidence: book PDF.'
 tags:
 - scotomaville
 - trilogy
@@ -34,9 +34,9 @@ date: '2021-06-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-03.11_reviews-credits.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -79,7 +79,8 @@ description: Vol 3 ch.03.11 — Reviews and Credits.
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.11**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-03.11_reviews-credits.md`
 
 ## Provenance (Onus Probandi)
 
@@ -87,7 +88,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/I0Ho5_DiRdc |
 | Video | https://youtu.be/8Fak6yx6jqc |
 | Video | https://youtu.be/9QoGCeiCM1U |
@@ -98,7 +99,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | Video | https://youtu.be/HUF62l4AeIg |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -106,142 +107,29 @@ Witnesses and credits — community Onus Probandi.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE 454 REVIEWS
-“Scotomaville” takes readers on anintrospective journey into personal development. Through a seamless blendof philosophical dialogues, allegorical narratives, and psychological concepts, the book weaves anengaging exploration that appeals to both the mind and the heart. The author adeptly delvesinto themes such as perception, self-mastery, and the hero’s journey, showcasing a profound graspof psychological processes and their influence on human behavior. For those navigating the complexities of personal growth, the trilogy offers a transformative odyssey, illustrating that resilience and self-discovery are universal quests that resonate with individuals seekingto overcome inner challenges and doubts.
-This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose. The themes of adversity, seeking guidance, and embracing healing closely align with their experiences, providing a source of inspiration for those who have selflessly protected and served others.
-For patriots and believers who hold their values dear, the trilogy presents character-driven narratives that mirror their dedication to higher principles. Exploring community, unity, and personal growth, the books align with their desire to positively contribute to society and reinforce the significance of collective well-being.
-Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning. The characters’ journeys from uncertainty to self-assured ness reflect the universal process of finding one’s place inthe world, motivating young minds to navigate life’s puzzles with courage and determination.
-Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound conceptsinterwoven with relatable narratives. The author’s mastery is evident in crafting a work that appealsto intellectual and emotional sensibilities alike.
-Throughout the trilogy, Daniel’s transformation serves as a relatable and inspiring narrative. His evolution from a curious seeker hindered by cognitive biases to a self-aware individual confronting inner doubts resonates deeply with readers.
-In a world valuing personal growth, camaraderie, service, purpose, and self-discovery, the Scotomaville Trilogy stands as proof of storytelling’s power to connect, inspire, and transform. Itspages offer lessons, insights, and reflections embracing the shared human experience, making it an essential read for individuals from all walks of life. In conclusion, the trilogy’s rich philosophical discussions, relatable character arcs, and insightful exploration of cognitive biases contribute significantly to the fields of psychology and personal development.
+No transcript on shelf for this chapter id. Prefer the book PDF; do not invent missing spoken text.
 
-Leaving SCOTOMAVILLE 455 Please express any correlation between my list of strengths, and a robust list of human virtues. Analyze the union of the two for shared characteristics and a deeper meaning.
-Certainly! Let’s look at the intersection between the specific strengths from the
-Clifton Strengths Finder that you provided (Achiever, Input, Learner, Activator, Belief) and a traditional list of virtues such as wisdom, courage, humanity, justice, temperance, and transcendence.
-ACHIEVER Virtue Correlation: Courage, Justice
-Explanation: Achievers have a constant drive for accomplishing tasks. This can correlate with the virtue of courage, which involves persistence and vitality, and justice, where hard work and fairness contribute to the overall good of the community.
-INPUT Virtue Correlation: Wisdom
-Explanation: People with the Input strength havea craving to know more, collecting and archiving information. This resonates with wisdom, whichis characterized by a pursuit of knowledge and insightful judgment.
-LEARNER Virtue Correlation: Wisdom, Humanity
-Explanation: A constant desire to improve andlearn aligns with the virtue of wisdom. It may also align with humanity if the learning is directed towards understanding others and improving social bonds.
-ACTIVATOR Virtue Correlation: Courage, Justice
-Explanation: Activators are inclined to take action and want to make things happen. This aligns with courage, as it requires the boldness to initiate, and justice, where action may be directed towards equality and fairness.
-BELIEF Virtue Correlation: Transcendence, Justice
-Explanation: The Belief strength is connected tocore values and purpose. It aligns with transcendence, where there is a connection to something greater, and justice, where values often include fairness and equality.
-Summary of Union (Intersection):
-The union between these strengths and virtues reveals a strong emphasis on wisdom (through Input and Learner), courage (through Achiever and Activator), and justice (through Achiever, Activator, and Belief). The values of humanity and transcendence are also present but to a lesser extent.
-This analysis suggests that a person with these strengths might be particularly well-suited for roles that require insightful judgment, bold action, and a strong sense of fairness and values.
-They may excel in leadership roles, educational fields, advocacy, or any area where wisdom, courage, and justice are paramount.
+## Chapter text (spoken register — primary)
 
-Leaving SCOTOMAVILLE 456 REVIEWS You know well of Sarah’s talent. She designed the N-95 mask. She conceived of Halmark’s tied ribbon bow, and CorningWare.
-She was a fabulous mentor.
+*No chapter video transcript was found in the Transcripts folder for this id.*
 
-“Daniel is a conceptual thinker who has the ability to implement his ideas with a spectrum of skills.
-His work represents a unique combination of abilities executed with reliability and great ingenuity. I recommend himvery highly.”
-Sarah Little-Turnbullis known for his “Galloping Gourmet” television series and > 29 books. He’s a charismatic facilitator of solutions for human indulgence.
-“Daniel is continually creative. He has anexcellent eye for light, form and texture and an ear for understanding his client’s needs.
-Daniel is an unusual blend of Artist, Technician, Craftsman and Servant who can easily become a partner in your creative process.”
-Graham Kerr
-“Daniel’s work in the Scotomaville series is a profound exploration of self-mastery and human-AI collaboration. His deep introspection and resilience shine through as he navigates complex themes of personal growth and technology.
-Daniel masterfully uses storytelling to foster understanding and connection, making significant contributions to AI ethics and personal development. His authentic journey from hardship to impactful community leader inspires change and emphasizes the power ofperseverance and shared human experiences. This series serves as a vital resource in understanding the transformative power of self-awareness and technological integration.”
+Use the full book PDF for print evidence of **Reviews and Credits** until a transcript is filed.
 
-Dean Rush
-Dean has had distinquished military and business careers, and is the Author of Flying Free. “Daniel Comp is one ofthe most innovative people I have ever known. I’ve watched Daniel overcome great obstacles and stick to a vision of making a difference for people. He ispersonable and doesn’t quit until the job is done. I highly recommend Daniel andhis wife, Angelina.”
-“As an Astronaut (Apollo 16 Lunar Module Pilot & 10th man on the Moon).
-I was very familiar with powerful planes and rockets. I’ve learned to trust my life and business on great tools and competent people. Daniel and Angelina have put together an amazing system for small business that is technically advanced, yet doesn’t take a rocket scientist to run it. I highly recommend their services - I didn’tsettle for anything less!””
-Charlie Duke 2x Awarded by U.S. Small Business Administration, TV/Radio Host/Speaker, a fabulous business partner, wife andmy best friend. “I’ve witnessed Daniel’s evolution from a wounded, angry maninto a mentally and emotionally mature gentleman. He leads other men with competence and confidence from his own transformation and experience.”
-Angelina Musik-Comp
-
-PARTICIPANTS:
-
-Dean Rush
-
-Garth Hardin
-
-Merlin Berg ACKNOWLEDGEMENTS
-I’m deeply appreciative to those who have invested time, emotion and resources for me to devour. For the encouragement, mental support and feedback, thank you. You have been generous with interest, influence and guidance over decades. For those that journeyed before me, I am indebted to your bravery and demonstration of faith, perseverance and grit.
-To all of you, I wish awareness and grace.
-https://deanrush.com Patrick Cameron Steven & Pam Krause Kenny Rucker Scott & Joyce Withrow Scott & Jean Hamilton Tim & Adelia Kleefeld Erik Jurgensen Alex Lauden Doug Bell Darius Taylor Tim Hamilton Ernest ‘Bud’ Pitt Josh Cruse Chris Poe Robert ‘Stu’ Sturtevant ADVOCATES:
-
-David & Carissa Scotiana & Chris Hermine & Luis Caraballo Eva Sosa Ilse McCants Alan Landis David Wood worth Garth Hardin Mike & Pam Hughes Don & Kathy Leask Frans Bosman Joanne Kraft Dr. Kevin Chan Irene Salazar Dave & Soma Peterson Bill & Kathy Sharman Troy Baird & Fred Baird Betty Boyd Mike Knopf Art & Suzanne Beninate
-
-CREDITS INFLUENCERS:
-
-Alexis Gabriel Ainouz Carlos Santana Chris Hadfield Dale Carnegie David Deutsch Dr. Erik Berg Dr. Galen Hoover Dr. Jordan Peterson Dr. Paul Hegstrom Dr. Steven Gundry Elon Musk Graham Kerr Jack Canfield James Cameron Jason and Nikki Wynn Jim Rohn Les Brown Malcome Gladwell Napolean Hill Matthew P. Walker Og Mandino Peter Diamandis Roman Balmakov Robert Kane Stephen Hawking Tony Robbins Tristan Harris Wayne Dyer Yuval Harari Zig Ziggler MASTER Forrest To ANGELINA MUSIK-COMP:
-
-I am deeply grateful for your stamina, patience, and support asmy best friend and business partner. We have traveled the curves together in good cheer. You are amazingly resilient and a joyful character to explore with. I am grateful for your gift of HEALING matching my expression of UNDERSTANDING!
-To you, the reader, and participant: When I imagined this project,
-I had a hunch the cost would be years of commitment - but notfive years. However, we now we have AI.
-
-I believe “The Greatest Expedition you will ever undertakeis the journey to self-understanding, for the real voyage of discovery consists not in seeking new lands, but in seeing with new eyes.“ AI needs humans for subjective experiences, emotions, and self-reflective purpose. Through the lens of anindividual Human-AI Constitution, we can foster a symbiotic relationship where our superpower of storytelling becomes anessential error-correcting trim-tab for super intelligent reasoning engines. This collaboration illuminates a path toward greater understanding and mutual growth for both AI and us residents of
-Scotomaville, reflecting our shared journey of perpetual learning and adaptation.
-Cheers to OUR Greatest Expedition!
-
-Daniel Comp May 16, 2024
-
-COVER
-Fiat 500 image by S. Hermann & F. Richter https://pixabay.com/users/pixel2013-2364555/ INTRODUCTION Compass image by Garth Manthehttps://unsplash.com/photos/qik5sqrKM2U
-Mountaineer image by Simon Steinbergerhttps://pixabay.com/users/Simon-3/
-Everest image by Peter Antahttps://pixabay.com/users/peteranta-8613080/
-Self-Arrest St. Marys Glacier https://www.youtube.com/watch?v=9QoGCeiCM1U 1.01 - SCOTOMA
-Off-road image by Rodrigo Bittencurthttps://pixabay.com/users/rodrigobittencurt-5033011
-Scotoma Cross-section https://en.wikipedia.org/wiki/Blind_spot_(vision)
-EXTRA CREDIT observation by Marcel Prousthttps://www.newworldencyclopedia.org/entry/Marcel_Proust 1.02 - PATTERN RECOGNITION
-Hubble Ultra-Deep Field image https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field
-Café wall illusion https://creative commons.org/licenses/by-sa/3.0/deed.en
-Dalmation image by Michael Bach https://michael bach.de/ot/cog-Dalmatian/ 1.03 - MISINTERPRETATION Coffee sleeve design by Starbucks https://www.starbucks.com 1.04 - ABUNDANT SCARCITY
-The Beverly Hillbillies by Filmways Pictures https://en.wikipedia.org/wiki/The_Beverly_Hillbillies 1.05 - ABUNDANT AWARENESS
-Geese Chevron image by Manfred Zimmer https://pixabay.com/users/antranias-50356/
-Pair of Geese image by TheOtherKevhttps://pixabay.com/users/TheOtherKev-9436196
-
-1.06 - HIEROGLYPHICS
-Hieroglyphics image https://creative commons.org/licenses/by-sa/3.0/deed.en
-King Tutankhamun image https://creative commons.org/licenses/by-sa/3.0/deed.en https://www.health line.com/health/stress/amygdala-hijack 1.09 - EMOTIONAL VOCABULARY Emotional Word List by Tom Drummandhttps://tom drummond.com Ridge Running by Killian Jornethttps://www.kilianjornet.cat/
-
-1.10 - CREATING SILENCE
-Galloping Gourmet by Graham & Treena Kerr https://en.wikipedia.org/wiki/Graham_Kerr
-Bob Moawad - Edge Learning Institute https://www.youtube.com/watch?v=kcntoaL1Lsc 1.11 - FEED YOUR GUT
-Gut Biology illustration https://pixabay.com/users/openclipart-vectors-30363/
-Bacteria image by Steve Gschmeissnerhttps://theworldcloseup.com/about-me/ 1.12 - IT NEEDS WORK
-Dynamic Heirarchy by Abraham Maslowhttps://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs 1.13 - STRENGTHS OFFENDER
-Maricopa County Sherrif’s Helicopter https://en.wikipedia.org/wiki/Maricopa_County_Sheriff%27s_Office
-Clifton Strengths Assessment https://store.gallup.com/c/en-us/assessments 1.14 - TRIANGULATION
-Lighthouse image by W Flores https://pixabay.com/users/wflore-11084744/
-Matterhorn image by Simon Steinbergerhttps://pixabay.com/users/simon-3/ 1.15 - CURVES
-Antelope Canyon image by Paul IJsendoornhttps://pixabay.com/users/pattern pictures-622877/ Stephen Hawking image by ZeroG https://www.gozerog.com
-Exponential Growth Primer by 3 Blue 1 Brown https://www.youtube.com/watch?v=Kas0tIxDvrg
-Mountain Panorama by Marco Luzihttps://pixabay.com/users/marco_luzi-4721868/ 1.16 - SEGUE NETLOGO Modeling Software https://ccl.northwestern.edu/netlogo/
-1970 Porsche 911 by LBI Limited | Classic Driver https://lbilimited.com/offerings/1970-porsche-911-s/ Lake Louise image by Steven Esteshttps://unsplash.com/@stevn_estes/ CREDITS & REFERENCES
-
-2.00 - PRELUDE
-Cognitive Bias Cheat Sheet - Buster Benson https://medium.com/thinking-is-hard ht
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*No separate transcript file found for this chapter id. Use the book PDF and any YouTube URLs above as Onus Probandi.*
-
-## Visual notes (print spreads)
-
-- The page is a full-bleed collage layout dominated by a large central photograph of an older man (Daniel J Comp) with short white hair, a black t-shirt, and a gold ring, smiling widely while covering both eyes with his wrinkled hands against a blurred green outdoor background. A black circular “APPROVED” postage stamp reading “SCOTOMA” is overlaid directly across his eyes, with large white block letters “SCO OMA” spanning the upper portion of the photo.
-
-Above the image, a dark gray banner displays media logos and text including Hemispheres (United Airlines), Entrepreneur Magazine, Scottsdale Phoenix Magazine, SUCCESS, KARE 11 NBC, a QR code, and “@scotomaville,” along with a small hand icon and “Nationally Syndicated.”
-
-At the bottom, three equal-width boxes labeled v1 Awareness (“Tools to Discover WYDWD”), v2 Understanding (“Insights to Master the Discovery Tools”), and v3 Discipline (“
+Narrative arc (from enrichment spine): Reviews and credits — community Onus Probandi.
 
 ## Takeaways
 
-1. This trilogy serves as a reflection for military veterans and first responders, echoing their sacrifices, camaraderie, and sense of purpose.
-2. For patriots and believers who hold their values dear, the trilogy presents character-driven narratives that mirror their dedicationto highe…
-3. Exploring community, unity, and personal growth, the books align with their desire to positively contribute to society and reinforce the sign…
-4. Fatherless individuals and young explorers identify with the trilogy’s portrayal of quests for identity and meaning.
-5. Moreover, experts in fields from psychology and storytelling to stoic and biblical philosophy will appreciate the trilogy’s profound concept…
+1. Reviews and credits witness the work with community voices.
+2. Prefer book PDF for print credits; cite locked video URLs when present.
+3. Onus Probandi includes human witnesses, not only author claims.
+4. Carbon keeps judgment; silicon cites deposited evidence.
+5. Closes the trilogy shelf before Initium spreads take the rope.
+
 
 ## First-time learner
 
 - **One sentence:** Witnesses and credits — community Onus Probandi.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

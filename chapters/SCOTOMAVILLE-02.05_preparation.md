@@ -34,9 +34,9 @@ date: '2020-06-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.05_preparation.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -71,7 +71,8 @@ description: Vol 2 ch.02.05 — Preparation.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.05**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.05_preparation.md`
 
 ## Provenance (Onus Probandi)
 
@@ -79,11 +80,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
-| Video | *(none locked yet — do not invent)* |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
+| Video | *(none locked in YAML yet — do not invent)* |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -91,138 +92,13 @@ Pack light; prepare true.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-Leaving SCOTOMAVILLE 214 prep•a•ra•tion BEING MATURED BY EVENTFUL CHALLENGES
-”prepare” means to put in proper readiness beforehand and has a relationship to the word “parent”.
-2.05 OPENING SCENE
-What do you see? Look hard. Let me zoom in alittle. Look hard. What do you see? Look even harder. I don’t think this was here yesterday.
-Oh, the quarter, yeah, okay, that’s cool. No, this stuff - the green. Hmmm.
-Welcome back to SCOTOMAVILLE
-We will talk about preparation - getting ready before you have solid evidence. Think about that for a second. That green stuff? That green just showed up since the rain.
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-Again what do you see?
-Days and days of planning - preparing, hoping, and working hard. You see me packing despitean Airstream. You see RV parts that I ordered in advance of having the Airstream. You might have heard the phrase “fake it until you make it?” I’m not talking about faking it. I’m saying practice. Put in the effort.
-DEFINING PREP•A•RA•TION
-Preparation is the action of making ready orbeing made ready for use or consideration. For example, to work out the details of - in advance.
-It seems to me that I’ve been preparing for
-SCOTOMAVILLE for decades. I created ~60 videos before I coined it SCOTOMAVILLE.
-I’ve been practicing awareness and gaining understanding while writing some notes. I knew you needed evidence and examples to mimic. You’ve now seen me produce and syndicate the Third Edition with video and paper. The work to record and distribute the evidence prepares me to speak as a sage.  It’s Sage preparation.
+## Chapter text (spoken register — primary)
 
-Preparation is the action or process of making ready or being made ready for use or consider ation. To work out the details of - in advance.
-
-EXAMPLE: I’ve finished 45 episodes and this Third Edition in preparation foryour journey as a reader. I have been pre • pared. So will you.
-“ A JOURNEY OF BEING MADE READY:
-It seems there are invisible efforts aimed at delivering maximum opportunities for me to be matured.
-I could dismiss the challenges as simply too hard to scale - or I can share them for you to test and mimic.
-
-MANAGE YOUR INPUT SOURCES:
-You can change the stuff you stick in your mouth, and the ideasyou keep in your mind, at any stage or place in life.
-That’s the marvel of a Personal Everest.
-the active ingredient in Roundup: glyphosate
-Do you know where preparation starts? Right here (in your head) with your thinking. It begins with commitment and hard work to find yourscotomas - like with me being poisoned recently.
-(scene from v02.04)
-“I killed my gut with lectins from tomatoes and peppers...”  Wrong - it was glyphosate poisoning.
-All summer, there’s been a community garden here. It wasn’t until I talked to Lorena, the owner, this morning that she said she was sick just acouple of weeks ago. I said, “that’s funny. I was sick too.” She said, “I ate some zucchini out ofthe garden.” I said, “I ate tomatoes out of the garden!” Someone had sprayed Roundup. AHA! - That’ll cause bleeding. Yeah, Scotoma!
-“Imbalances in gut bacteria can be fully explained bythe known effects of glyphosate on gut bacteria.”
-National Center for Biotechnology Information U.S. National Library of Medicine ACT LIKE THE PERSON YOU WANT TO BECOME
-When you intend to design a life and not simply accept what you’ve been handed, and when you want to move toward that life, it’s necessary to act ‘as-if,’ Jack Canfield would say. Jack curated the Chicken Soup for the Soul series.
-He advised to work ‘as-if’ the life you want isalready here. Imagine the life you want in the future - and become that person.
-Some examples: I make uncured apple smoked bacon bits. I don’t give up an opportunity to do the hard thing. Do you remember this little trick cutting off the end of the egg carton? Well, I do that even with a big refrigerator. Why? It’s my mindset of acting ‘as-if.’
-Doing the hard thing can often mean makinga decent meal even when you’ll eat it alone.
-Prepare your mind and habits no matter your situation or how modest your means are.
-Develop your habits in advance - that’s preparation. This way, you’ll be ready when your opportunity arrives.
-Preparation: “the action of making something ready for use or service, or of getting ready for some occasion, test, or duty.”
-Preparation often includes a bunch of failures.
-It means numerous times not knowing whatyou’re going to say until you say it. It means doing the work of figuring out the route, not always knowing where you’re going, but putting 216
-
-in the effort and dealing with noisy distractions and people in the scene.
-You’ve been watching me prepare. You canmimic me to find your scotomas. Take your
-Strengths Assessment. Find out how you offend people and what’s holding you back.
-Discover where your obstacles are in advanceof arriving at your goal. You’ve watched me pivot. Do likewise.
-We’re going to demonstrate in the next few episodes some fascinating things. We’ve failed four prior times to acquire an Airstream, butwe’re packing ‘as-if’ and starting a journey.
-“Don’t fake it till you make it.
-Develop your mindset ‘as-if’
-you are living now the lifeyou want in the future. You can immediately chose and manage new inputs.”
-leaving SCOTOMAVILLE 217
-
-THIS OR SOMETHING BETTER We’re talking about preparation - about creating the life you want in advance of the evidence. You won’t see the spectacular view from the summit until you break out of the clouds on the way up.
-This is the land we’ve offeredto buy for full-price. It’s a national historic/scenic area inthe Columbia River Gorge.
-I’m pretty familiar with hardwork, commitment, and disappointment. Three yearsago, we made an offer on a piece of land. I worked hardat clearing the land to do the topography.
-THREE YEARS EARLIER “The driveway’s going here offof the main road from either direction. It will curve through here and around the corner.
-Today, I plot this slope, so I’vegot an x, y, and z. I can then lay up the architecture to takeit to the planning department to be sure they will allow us tobuild what we want before we buy the land.”
-CURRENT TIMELINE As of the Third Edition wehave not realized a piece of land. It seems we havemuch to learn, and someone bigger to become. I’m being assessed by Ai, and realizing profound insights. I’m pleased with the progress.
-I’d like you to understand adefining experience that set a foundation for my beliefs, decisions, and efforts. Here’s atrue story from my youth.
-“We imagine the future and work tomake it so. Angelina has learned to say:
-“this or something better!”
-leaving SCOTOMAVILLE 218
-
-MY LITTLE BOOK MOBILE
-I grew up about five miles east of Placerville, asmall town in the Sierra Nevada foothills in California. Both of my parents worked. I took careof my stepbrother and stepsister most of the time - like all summer when I wasn’t in school.
-I loved to learn, but I didn’t have transportation. Fortunately, we had a book mobile - a bus converted to carry books rather than students.
-So I fostered my education all summer by devouring everything on the bookshelves.
-
-The book mobile would come to my driveway with various topics like science, history, and biographies. Across the county, different book mobiles brought little selections from the same library stacks. The other kids’ worldview would become slightly different than mine because the books I checked out for the week were not available to them.
-I was addicted to science but occasionally read history or biographies - mostly about scientists.
-HWY 30 ABOVE THE COLUMBIA RIVER GORGE:
-Angelina and I made a full price offer on this land. We believed it was our future home and resting place, and a location of understanding and healing for our guests. This or something better!
-leaving SCOTOMAVILLE 219
-
-So I would ask that driver, “do you have any more of the Danny Dunn series - the science books for young boys?”
-He would say, “no, I have brought you all of them.”
-I must have made a face heread as: “that’s not true.”
-In the back of each book, I found that there were additional books in the series than those in my book mobile. Oneweek he said, “how about if I try to find you some youhaven’t read for next week.”
-I learned that the selectionof books I read was based on the driver asking a librarian tocompare what I had already read with what was in the stacks. My feedback made an impression, and the driver convinced the librarian to dig deeper for me. Score.
-Fast forward to today - thebookmobile is now your mobile device. You have Internet access, and you don’t rely on a librarian’s choices for your education and the development of critical thinking skills.
-“~96% of available information isexcluded from data centers in or der to keep their lights on.”
-Aha, here’s a scotoma Today, algorithms are tunedfor attention and profits (bread and circuses).
-Unfortunately, extractivetechnologies have produced a dramatic social engineering issue. The machine learning recommend ers and social media streams narrow our world view to keep their lights on.
-leaving SCOTOMAVILLE 220
-
-ONUS PROBANDI Here’s the evidence of mypoint. Most people mistake Google and YouTube as are placement for the public library system. Nearly all searching is done via Google’s nine data centers across North America.
-The Google data centers arefull, and they only have room to index four percent (only 4%) of what’s on the Internet. That means 96% of the information is not in a data center or your search results. Consequently, most results are filtered toprofit tech companies rather than your worldview.
-I suggest looking at big techas information baristas. When you browse or ‘search,’ youget to choose from their pre selected menu. You don’t getto choose from what’s NOT on their menu. Your choices are narrowed by values they determine, not the ones youwant to discover or reinforce.
-Today algorithms do the workof a librarian. The scotoma is that we don’t get an accurate view of the world. Instead, we see what multiple machine learning algorithms - little black boxes - offer FROM thepredigested 4%.
-As a result, our worldview willseem to be a personalized recommendation - aiming tobe auto-magical. It will account for our history of clicks, our geo-location, our attention span, AND profits. The results test our critical thinking and leverage our mental vulnerability to recommendations and advertisements.
-Training an Opponent onour Weaknesses Google and social media platforms are not public utilities.
-They must profit from whatis on their servers. We can no longer ask for the bookmobiledriver’s favor. They are giving us a narrower worldview thanwe deserve. We choose from their menu thinking we are playing with all the pieces on the board. Scotoma.
-Take note of this on your search results or the ‘real estate’ of the YouTube recommended videos. They make money when you are on their platform, so the more you click, the more focused and sticky their recommendations.
-
-Today extractive technology isdoing social engineering.
-
-PRECISE BUT NOT ACCURATE
-Another way to consider this topic is thatbig tech companies are not in the business of delivering ACCURATE guidance. Instead, they profit by capturing your attention.
-When you do your preparation, be aware that bias dictates search results. Digital recommend ers want you to stick with themas they build search results based on popularity. The results are PRECISE, but not ACCURATE due to the limitation of 4%.
-They cannot reflect the whole story, soyou end up in a walled garden where you believe your point of view is correct. Webecome polarized without a triangulation of opinions or facts representing the whole picture. That’s what we have going on in our country today (bread and circuses).
-
-Bias Narrows our Worldview
-Be aware that your browser and recommend ers are not serving up everything.
-They have nearly an infinite supply, but still have limited storage, just like a book mobile.
-“You chose from THEIR menu - notfrom a triangulation of ingredients you needto consider”
-
-“the real voyage of discovery consists not in seeking new lands, but in seeing with new eyes.”
-PLAY THE LONG GAME
-Preparation is part of the long game. It’sa long game because you have to figure out your scotomas to make progress.
-By documenting and re-exploring your backstory, you’ll be preparing your mind and your behaviors, so you can respond rather than react. As a result, you’ll become more resilient and nimble, and adaptable with the very things youcouldn’t imagine are going to delay your progress.
-Remember: “the obstacle is the way.”
-Learn to pivot your thinking, improve your questions, and gain insights so you can get out of SCOTOMAVILLE.
-I have explained to myreaders how search engines use algorithmsto match their indexed content to our keyword search strings. Please describe how
-ChatGPT is different, especially in the waywe interact by prompting you, and how we must improve our critical thinking skills in order to ask powerful questions that result in insightful answers.
-Certainly, Daniel. Your inquiry leads us into the domain of artificial intelligence, technology, and critical thinking. Here, I’ll provide a detailed comparison between search engines and ChatGPT like myself and delve into the implications for improving critical thinking skills.
-Search Engines vs. ChatGPT 1. Functionality:
-Search Engines: Search engines rely onalgorithms to scan indexed content, such as web pages, to find matches with keywords or phrases that users input. They return a list sorted by relevance, to the content that best matches the query.
-ChatGPT: ChatGPT, on the other hand, is a machine learning model trained onvast amounts of text data. It generates text-based responses to user prompts, aiming for coherent, contextually relevant answers.
-2. Interaction:
-Search Engines: Users interact with search engines by entering keywords, often having to refine or expand their search to find relevant information.
-
-YOURT j6ry_gUYhl8
-In short, being prepared means losing naivete and building a mature worldview. That journey demands 
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.05-Preparation-Transcript.txt`*
+### Transcript — `02.05-Preparation-Transcript.txt`
 
 What do you see? Look hard. Let me zoom in a little. Look hard. What do you see? Look even harder. I don't think this was here yesterday. Oh, the quarter yeah okay that's cool. No, this stuff - the green. Hmmm. PREPARATION
 
@@ -312,30 +188,6 @@ Irene Salizar: "you have proven the love that you have for the project. The love
 
 Daniel: "Now you've seen both sides of our story. Preparation is part of the long game. It's a long game because you have to figure out all of your scotomas. Your backstory and preparation help you be resilient and nimble and adaptable. Things that you couldn't imagine are going to delay things. We hope that you now have insights into who we are and encourage you to get out of SCOTOMAVILLE.
 
-## Visual notes (print spreads)
-
-- The left page features a large, bold black title “prep•a•ra•tion” dominating the upper half, with smaller text blocks for the opening scene and “Welcome back to SCOTOMAVILLE” sections. At the bottom left is a close-up documentary photograph of dark mulch or soil scattered with small green sprouts, a single silver quarter coin, and a few dry brown leaves. The right page shows a large November calendar grid overlaid on a photograph of a two-lane highway with a silver Airstream trailer driving away from the viewer; translucent sticky notes (pink “Leave,” blue “Plw 27,” “5A,” and others) mark specific dates. A dark gray text box at the bottom right contains the caption “A JOURNEY OF BEING MADE READY.”
-
-The ground-level photograph is straightforward documentary imagery that directly illustrates the left-page text’s “What do you see?” prompt, while the calendar-road composite functions as a me
-
-- The two-page spread features a large, full-color photograph on the right page showing an older man with short gray hair leaning over a stainless steel kitchen sink, his face distorted and partially submerged in water as he grips the sink edges with both hands, eyes wide and mouth open, looking directly upward toward the camera. A bottle of liquid sits on the counter in the background.
-
-On the bottom left, a smaller rectangular photo depicts a lush community garden with dense green foliage, tomato plants, and a white PVC pipe or sprinkler amid rocks and soil. Text elements are overlaid throughout, including the bold heading "MANAGE YOUR INPUT SOURCES:" at the top left, a gray box at bottom left reading "the active ingredient in Roundup: glyphosate," and multiple body-text columns discussing preparation, scotomas, and mindset.
-
-The sink photograph feels metaphorical and somewhat ironic, vi
-
-- The two-page spread features a large, full-bleed documentary photograph dominating the right side and lower half, showing a man and woman (Daniel and Angelina) seated with their backs to the camera on a grassy hillside above the Columbia River Gorge. The panoramic view captures golden-hour lighting over dry, rolling hills, a wide reflective river, sheer basalt cliffs, scattered trees with autumn foliage, and distant plateaus under a clear sky.
-
-A dark gray caption box is overlaid at the bottom right of the photo, reading “HWY 30 ABOVE THE COLUMBIA RIVER GORGE” with text about their full-price land offer and the phrase “This or something better!”
-
-The left page contains multiple text blocks with bold headings (“THIS OR SOMETHING BETTER,” “CURRENT TIMELINE,” “THREE YEARS EARLIER”), a top pull-quote in italics about imagining the future, and a smaller “MY LITTLE BOOK MOBILE” section with pe
-
-- The left page of the spread shows a close-up of two hands holding a transparent spiral-bound overlay or page above a real library interior filled with wooden bookshelves, scattered volumes, and a partial view of a book mobile cart. Superimposed on the overlay is a glowing, illustrated 3D library scene with warm lighting, books on shelves, a small figure on a ladder, and a floating geometric network of connected spheres and lines. Below the image, the page reproduces the book text about the book mobile driver and Danny Dunn series, ending with the large centered pull-quote: “~96% of available information is excluded from data centers in order to keep their lights on.”
-
-The right page repeats the identical hand-and-overlay motif, but this time the background is a vast, dimly lit data center with rows of blue-illuminated server racks. The same transparent library illustration and geometric 
-
-- The right page is dominated by a large screenshot of a web search interface showing the query “data centers” with a dropdown of auto complete suggestions (including “data centers explained” and “data centers around the world”), overlaid with red circles and a red arrow pointing to the “Report search predictions” link. Below this is a grid of Scotomaville YouTube video thumbnails, one of which is labeled “PREPARATION 02.05” and appears within the visible row. A small circular portrait of Daniel (an older man) sits beside the ChatGPT logo and a side-by-side comparison of “Search Engines vs. ChatGPT.” The left page is primarily text, featuring a large pull-quote at the top (“You chose from THEIR menu...”) and blocks of body text under the headings “PRECISE BUT NOT ACCURATE” and “Bias Narrows our Worldview.” The annotated search screenshot functions as an ironic demonstration of the chapter’
-
 ## Takeaways
 
 1. Oh, the quarter, yeah, okay, that’s cool.
@@ -344,8 +196,9 @@ The right page repeats the identical hand-and-overlay motif, but this time the b
 4. You see Rv parts that I ordered in advance of having the Airstream.
 5. You might have heard the phrase “fake it until you make it?” I’m not talking about faking it.
 
+
 ## First-time learner
 
 - **One sentence:** Pack light; prepare true.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.

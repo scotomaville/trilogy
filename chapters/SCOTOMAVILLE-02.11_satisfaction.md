@@ -34,9 +34,9 @@ date: '2020-10-01'
 vault_stage: '07_CODEX'
 headwaters: SCOTOMAVILLE
 prefix: SCOTOMAVILLE
-enrich_status: ok
+enrich_status: recovered_transcript_primary
 enrich_blockers: []
-enrich_method: bulk_manual_template
+enrich_method: transcript_primary_recovery
 pipeline_filename: SCOTOMAVILLE-02.11_satisfaction.md
 source_kind: book_chapter
 proposed_topic: Stories
@@ -72,7 +72,8 @@ description: Vol 2 ch.02.11 — Satisfaction.
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.11**  
 Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Deposit file: `SCOTOMAVILLE-02.11_satisfaction.md`
 
 ## Provenance (Onus Probandi)
 
@@ -80,11 +81,11 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | --- | --- |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
-| Repo | [https://github.com/scotomaville/trilogy](https://github.com/scotomaville/trilogy) |
+| Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |
 | Video | https://youtu.be/plRY-BEg9UI |
 | Channel | [https://www.youtube.com/scotomaville](https://www.youtube.com/scotomaville) |
 
-Carbon judgment of this work should prefer the **PDF + video** over paraphrase. Silicon answering from this deposit should **cite those URLs** when the claim is load-bearing.
+Carbon judgment should prefer **PDF + video/transcript** over paraphrase. Silicon must **cite these URLs** when the claim is load-bearing.
 
 ## Context for the climber
 
@@ -92,138 +93,13 @@ Satisfaction without arrival fantasy.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
-## Chapter text (carbon prose)
+## Print evidence
 
-sa • tis • fac • tion Hedonic Treadmill: “I cant get...”
-more success, and wealth and fame.
-Do you think it’s windy? Justwhen I need to do an opening scene for this episode!
-Just five bars of music and youknow the word [music] ‘sa • tis • fac • tion’
-Sometimes you try your hardest, and everything fights you forit - like making progress up your Personal Everest.
-Welcome to this episode of SCOTOMAVILLE on satisfaction - being content and not being stuck on that Hedonic Treadmill.
-Hedonic Treadmill?
-What huh? You know. That’swhere no matter how much you acquire, no matter how much success and wealth and fame, or all that - “you can’t get no”
-satisfaction.
-The wiki explanation of satisfaction can leave you bewildered.
-What follows achievement for most people?
-More? Most likely not.
-2.11
-Being on a Hedonic Treadmill means that no matter how much you acquire, no matter how much success and wealth and fame - “you can’t get no” satisfaction.
-It’s a n unsatisfying thirst for more, more, and more.
-leaving SCOTOMAVILLE 284
+Print chapter text lives in the full trilogy PDF (Onus Probandi). This deposit prioritizes the **filmed/spoken transcript** so AISM cites clean carbon voice without OCR wrap artifacts. Open the PDF when you need page layout, spreads, or exact print wording.
 
-leaving SCOTOMAVILLE 285 Satisfaction means you’ve had Satisfaction means you’ve had enough — in a good way. It’s akin enough — in a good way. It’s akinto being at ease in one’s situation, to being at ease in one’s situation, body and mind - in the midst ofbody and mind - in the midst of imperfection.
-imperfection.
+## Chapter text (spoken register — primary)
 
-However, from my expeditionof awareness over 15 years, I’ve found three factors that lead toward a feeling of satisfaction - of contentment.
-One is just being confident. Two, the celebration of what you’reexperiencing, and third, self-care.
-Those three things make a big difference for me. So I hope they do with you.
-BY SIMMERING ON THE PROBLEM
-It finally occurred to me the OLD solution of an ice box would workwith a brand new challenge. I just had to let my brain simmer on it.
-■ Confidence ■ Celebration ■ Self-care These ingredients create a fabulously satisfying sense ofempowerment, and help dull the edgesof repeated failure.
-Leaving SCOTOMAVILLE 286 FAILING WITH GRACE There’s a simple saying; “the truetest of genius is whether you can explain complex things in simple terms.” I think if you review some of the prior episodes, you’lldiscover that I am far from a genius! However, I have learnedto fail with grace and not give up. My worst efforts are better than not taking action. For example, I could not think of theword confidence.
-Here’s my evidence:
-Considering events around theglobe, it may seem insignificant to be grateful, content, and satisfied on just solving a minor problem - like your electric refrigerator sucking your batteries dry.
-You are looking at Ziploc bagsfull of water, completely frozen solid. Guess what is not going todefrost on this trip!
-So, I find that problem solving breeds contentment.
-I’m both relieved and... Um...
-I need to go to my emotional vocabulary list. There’s a word in there that I cannot bring tomind. I hope you can because it... It’s not coming to MY mind.
-[Pause]
-
-I can almost see it and sense what it is but I can’t connect the impression to my mouth.
-(Turning to Angelina) Ms. emotional positivity: Whatis the word I am feeling for having solved that icebox problem?
-Angelina: “Confidence!”
-I have to say things multiple times to distill my point. I want for you to start thinking...
-“If Daniel and Angelina coulddo it, then maybe so can I.”
-I’m trying to say; you can achieve your goals. Even failure is progress, so don’t quit. Allow your brain/gut to simmer. Turn down the heat. Take it off the burner.
-Walk it off. Just don’t quit.
-SMASHING MY NOSE After three seasons of failing toconquer my wind foiling jibes, I CONFIRMATION BIAS SABOTAGES US:
-We feel pressure to express emotions before consequences are delivered. Patience. Let it simmer.
-“Too little time toidentify and express a complex issue leadsto frustration and out bursts. Allow yourselfto simmer on it”
-was able to order a custom foiling board. As soon as I started riding it, an old tendon in mymast base failed, and the mast then smashed the nose of theboard. That was...heartbreaking.
-I was confident to take action bysanding it out, finding the right color paint, and fixing it because I had repaired an old Isonic carbon fiber board numerous times.
-I had prior experience as a foundation for repairing my new, expensive, custom board. I did not ‘shy’ away from the challengeor ignore that it needed work. I took action with confidence. The amateur effort yielded much personal satisfaction.
-
-A FROZEN PETCOCK I discovered dripping water from a cracked freshwater tank drain petcock. So even though the wind was blowing hard, I crawled underneath the Airstream and started opening up the underbelly.
-Previous experience fixing things builds confidence. I’m no longer intimidated to fail. I’ve failed sooften that I know making incremental progress is the way toachievement.
-HALLOWEEN BOOTY BAG (showing Angelina) This is the petcock at the bottomof the freshwater tank. You turn it to drain the tank for winterizing, not to freeze. It is located belowthe tank. Water froze in the pet cock when it sat in Oklahoma insub-freezing temperatures.
-These regularly break on Air streams all around the country.
-It’s a well-known vulnerability.
-Fortunately, the part is only $3.99.
-Angelina: We’re working on our deductible, right?
-Daniel: We have a hundred dollar deductible on our $8K extended warranty. This $3.99 piece doesn’t count.
-Angelina: What?
-Daniel: It’s only under warranty when a factory authorized person replaces the part. Due to COVID, they don’t have enough people. So there is a waiting time to get your Airstream intothe shop. If you’re traveling Leaving SCOTOMAVILLE 288
-
-across the country, you’re notgoing to go out in the desert with your freshwater tank dripping. No, you’re going to fix it yourself. That’s the thing to do.
-I found this holiday candy bycrawling underneath the Air stream this morning and veryinconveniently removing the inspection plate!
-I showed the full zip-lock bag tothe Airstream shop foreman, and he said, “yeah, we’ve seen stuff fall out, but nothing like your Halloween booty bag.
-This stuff is construction debris:
-artifacts, ties, leftovers, grommets, peeloffs, rings.
-Remember a month ago; I hadto crawl in the cabinetry to fix the plumbing, right? Do you remember that inspection hole in the floor inside the cabinet?
-This stuff was construction debris laying on the interior floor.
-Somebody just swept it into thathole on the flooring rather than putting it in a dustpan. Get it?
-They thought no one would ever see their shortcut.
-The emotions and short temper son the assembly line created a COVID baby. The ‘booty’ gotswept into a hole in the floor, ending up at the bottom of the Airstream near the inspection plate where I would find it.
-CONFIDENCE IN FAILURE I’m hoping you grasp that confidence comes through failure.
-You have to be fumbling things and shooting a crazy number of videos to get something usable...
-This stupid sprayer doesn’t work either... Oh holy crap.
-Okay - work with it. It produces muscle memory and confidence - in time.
-ESCAPING CALAMITY It seems to me that we celebrate the most when we’ve escaped calamity or hot air. We love coming up to the cool air of Flagstaff, especially after ten days in theheat of Lake Pleasant. It’s such a relief. Time for a nap.
-To be satisfied and content, I’mlearning that you have to look at the half-full portion of the cup not the half-empty side.
-Once in a while, you’ll discover something about yourself that you dismiss as ‘normal.’ That’sbecause it’s familiar to you. You’d be missing an opportunity tocelebrate if you do that. Your Strengths might be your ‘normal,’ but they are exceptional to everyone else.
-I appreciate my brain, which hopefully is an example for you to find something about yours.
-
-My thinking seems to be described by other in curious terms, since this is all i know. Three-dimension al unction is valuable to me, and often a pain inthe boo-hooey for others. I can pull the Airstream into a place, quickly look around and decide the specific wheel footprint that will yield the best view, RIGID RULES WITH TOUGH CONSEQUENCES
-I grew up in an era and within a pretty black andwhite household. That meant rigid rules with harsh consequences. So my future-self played defense rather than gratitude. I’m reframing this coping mechanism while climbing my Everest.
-Seeing the evacuation of Afghanistan, from thepoint of view of my Navy service in the Vietnam conflict, I greatly appreciate the freedoms that weearned, and the cost. With the roll-out of superin telligence, the stakes are higher, and the stories richer, as the freedoms are becoming costlier.
-It’s a fantastic thing to be able to travel this country, self-sufficient, with decent independence, and the awareness of the cost and privilege, knowing that we’re capable of accomplishment. So it’s an amazing journey, and I’m very grateful for it.
-A CORPUS FOR YOUR AVATAR Help me express the idea of living in a unique time in human history by rewriting this scene.
-Certainly, Daniel. It’s a complex but enriching theme you’ve laid out in chapter 11.
-Here’s a condensed version that aims to resonate both with AI and human readers:
-“In our unique era, choices hold the power to bothenslave us and liberate us. Missteps may cost freedom, but the marriage of gratitude and insightful effort can lead to self-mastery. Sometimes this path bestows material wealth, but it invariably enriches us with wisdom and experience. With tools like AI, we can now refine our insights, harnessingthe energy of our envisioned selves to connect with others on a shared journey. It’s a dance, a “Angelina is taking a napin the Airstream... wow, she’s not naped in a decade that I can recall.”
-sounds, the right plumb/level. All of those aspects, and more, fly through my head - magically . I’mgrateful for that. It works well when I need it. But, it’s a pain when I find bird doo-doo on my truck.
-(looking at a fresh white squeeze) MAKING BREAKFAST GRAND
-Angelina: “Daniel’s making a hot breakfast nearthe Grand Canyon. How cold is it in here”?
-Daniel: “oh, it’s up to about 53 degrees”
-Angelina: “okay, what temperature was it that weslept at last night?”
-Daniel: “the upper 40s, and here’s the cup half-full point of view. It got colder in the main cabin than the inside of the fridge.” [laughter] Leaving SCOTOMAVILLE 290
-
-coordinated symphony, where each step forward is apotential harmony with the world unseen.’
-In terms of the AI’s perspective, this passage illustrates the complex interplay between human decision-making and the potential rewards or pitfalls. Italso emphasizes the role of artificial intelligence in enhancing human understanding, allowing for greater self-reflection and connection with others.
-THE COUNTRY WE SACRIFICE FOR
-The stories we accept, and the story we tell ourselves determines the sacrifice we’ll mak for others.
-This recommendation is critical because itoffers a bridge between our current technological capabilities and age-old human quests for understanding and growth. It allows us to view the tools and choices of ourtime as a means to enriching the human experience, guided by wisdom and gratitude.
-
-Hang in there. It’s worth it. Do not quit!
-
-GROWING FROM WHERE YOU STARTED
-Nature has very insightful lessons to teach. Plants are a good example of perseverance. I imagine all sorts of emotions I would feel sohuld I have asimilar challenge as this young tree. I’d love to see its progress 50 years from now.
-The same can be said for self-mastery. The circumstances we begin with can have profound consequences - and we have the power to think so!
-Expect that when you focus on something, you’regoing to find many distractions and demands for your attention. When you finish each chapter andshare the story, you will find relief, a sense of progress, and satisfaction. There is something nourishing with each increment of our growth. I hope that’ll help you get started.
-PAYING ATTENTION TO SUBTLETIES
-Another name for self-care is maintenance. To doan excellent job of maintaining stuff, you have to slow down and look closely. You’ve got to stop thebusyness... (big gust of wind) ...to observe. Awareness includes paying attention to the subtleties.
-(Zoom into Airstream tire)
-I noticed that tire wear on the rear passenger ofthe twin axles was unusually. I decided I’d pay attention to it. As I saw it increase, I was like...
-Hmm... I should look into this wear, so I crawled under the Airstream with a flashlight. To my horror,
-I found that the retaining nuts on the upper shockabsorber mounting point were missing. I’ve towed the Airstream 8700 miles so far. I have no idea howlong the shocks on the passenger side have been ‘floating.’ That would explain the wear.
-Remember the episode with the couple towing their fifth-wheel trailer across the Malad Gorge Bridge? We could have had a similar disaster. I called Airstream, and their reply was to ‘ground us’
-as the trailer could roll over while we were towingit. We also called the Airstream emergency service.
-Unfortunately, they couldn’t find a tech becauseof a labor shortage. I am confident in my ability to find and repair physical problems. I went to a hardware store for the flange nuts - for all of a dollar.
-Then, I added a little blue Loctite... Ta-da. Fixed.
-Then I had to deal with the worn tire replacement.
-It turns out there’s a rubber shortage from India, and Goodyear can not make those tires, so I can’tget a replacement for months.
-I exchanged the spare tire from the steel rim ontothe alloy rim and put the damaged tire onto the steel rim and back underneath as a spare.
-Now we’re told to drive a few hundred miles to an
-Airstream dealer that can put us into their queueto look at the alignment. They estimated an eight week process with us in a nearby hotel. I torquedthe nuts and measured the axle alignment twice.
-We labeled our inspection as satisfactory, skipping two weeks of hoteling.
-
-You’ll have key points to m
-
-*[Print excerpt truncated — full evidence in book PDF.]*
-
-## Video transcript (spoken register)
-
-*Source: `02.11-Satisfaction-Transcript.txt`*
+### Transcript — `02.11-Satisfaction-Transcript.txt`
 
 You think it's windy?
 
@@ -381,35 +257,15 @@ Then I had to deal with the worn tire replacement. It turns out there's a rubber
 
 Angelina and I play hoppers to practice strategy. I simply took a side move to go forward. I exchanged the steel rim with a matching tire onto the alloy rim and put the greatly used tire onto the steel rim, and back underneath as a spare. Now we're back in service, and we can finish driving a few hundred miles to where an Airstream dealer may fit us into their queue to look at the alignment.
 
-When you produce your episodes you'll have key points that you want to make and you'll find as you've heard me say; "when the student is ready the teacher will appear". Don't be surprised, shocked, or put off, as you see I did in early episodes. Be celebratory. Realize that it's kind of special to have events
+When you produce your episodes you'll have key points that you want to make and you'll find as you've heard me say; "when the student is ready the teacher will appear". Don't be surprised, shocked, or put off, as you see I did in early episodes. Be celebratory. Realize that it's kind of special to have events align with your journey and topic. Recognize the obsticle as the way to change your thinking about them.
 
-*[Transcript truncated — full spoken register in source file.]*
+The lesson in this challenge and opportunity is the value of paying attention to subtleties, asking questions before there's consequences, figuring out a strategy for maintenance, and resolving issues by taking action before there's casualties, consequences, damages outcomes. They say: a stitch in time saves nine". In this case a couple of twists of the right nuts for all of a buck.
 
-## Visual notes (print spreads)
+I'm wanting you to have the insight - the scotoma revealed - that taking care of your physical body is similar. You need to pay attention to inflammation, and gas, and discomfort, and subtle changes. Eventually they lead to pain and critical failures and catastrophic events. We don't want that for you. We want for you a life of confidence and celebration.
 
-- The left page features a large dark gray panel with the word “sa•tis•fac•tion” in oversized white sans-serif letters, accompanied by the pull-quote “WHAT FOLLOWS ACHIEVEMENT FOR MOST PEOPLE? MORE? MOST LIKELY NOT.” Vertical white text runs along the right edge of this panel, defining the Hedonic Treadmill. Below the gray section, additional body text includes the chapter’s opening anecdote about wind during filming and the phrase “Just five bars of music and you know the word ‘sa•tis•fac•tion’,” with the chapter number “2.11” in a black box at the bottom.
+And so, SELF-CARE, we're going to take up in the next episode in full.
 
-The right page opens with a light gray italic quote at the top: “Satisfaction means you’ve had enough — in a good way. It’s akin to being at ease in one’s situation, body and mind - in the midst of imperfection.” The dominant visual is a full-color documentary photograph occupying the lower two-thirds, showing a man (Daniel) seated on 
-
-- The left page opens with a large, close-up documentary photograph of the Airstream’s underside, showing a gray plastic freshwater tank drain petcock coated in ice and frozen water, with a single droplet hanging from the valve. Below the image runs the heading “A FROZEN PETCOCK” and the provided text excerpt, followed by a smaller “HALLOWEEN BOOTY BAG (showing Angelina)” section containing dialogue between Daniel and Angelina about the repair, warranty, and $3.99 replacement part.
-
-The right page displays two smaller side-by-side photos: the left image captures a bald man (Daniel) lying on his back beneath the trailer, holding tools while working on the plumbing; the right image shows scattered tools, red and white tape, a yellow level, and construction debris on the asphalt ground. These photographs are accompanied by pull-quotes and section headings such as “ESCAPING CALAMITY” and “CONF
-
-- The two-page spread (pages 290–291) opens on the left with dense body text and a centered pull-quote in larger italic font: “Angelina is taking a nap in the Airstream… wow, she’s not naped in a decade that I can recall.” Below this are a dialogue transcript under the heading “MAKING BREAKFAST GRAND” and a small circular portrait of Daniel (balding man in a dark shirt, looking downward) paired with an “A CORPUS FOR YOUR AVATAR” sidebar.
-
-The right page is dominated by a large, full-bleed documentary photograph of the Grand Canyon from a high rocky overlook, showing layered red-brown cliffs, a prominent foreground promontory with sparse trees, and vast canyon depths under bright daylight. Text blocks, including the header “RIGID RULES WITH TOUGH CONSEQUENCES” and a dark bottom banner reading “THE COUNTRY WE SACRIFICE FOR,” are laid over or beside the image. A short closing line in red ital
-
-- The left page opens with a wide documentary photograph of a rocky lakeshore at sunset, showing a small tree growing directly out of the stones beside sunlit water. Below it, the heading “GROWING FROM WHERE YOU STARTED” introduces body text on perseverance and self-mastery, followed by the section “PAYING ATTENTION TO SUBTLETIES.”
-
-The right page contains three photographs: a close-up of a receipt held beside two large silver lug nuts, a tight shot of the Airstream’s undercarriage and shock absorber, and a full view of a man (Daniel) lying on a mat under the vehicle, working on a wheel with a tool in his hand. Additional text includes an “AUTHORS NOTE” in red and a paragraph on tire wear and maintenance.
-
-These images are all real documentary captures from the journey rather than illustrations or cartoons. The tree photograph functions as a direct visual metaphor for the opening text abou
-
-- The two-page spread features a large pull-quote box spanning the top, with bold black text defining “SA•TIS•FAC•TION” as “FILLING A REQUIREM – SUCH AS SECURING” on the left half and “ALSO MEANS ‘FUL- ENT OR OBLIGATION’ YOUR RIG.” on the right half, set against a white background with a thin black border.
-
-The left page contains the chapter text block starting with the heading “SAME with your GUT, BRAIN and BODY” in black, followed by body copy in black and red (including the lines about inflammation, pain, and self-care) that continues the excerpt you provided.
-
-The right page is dominated by a full-bleed composite photograph showing a close-up, semi-transparent overlay of Daniel (graying hair, wide-brimmed hat, chain necklace, speaking directly to camera) layered over a documentary background image of a hospital room. In the background scene, a patient lies in a medical bed while a mask
+I thank you for joining me on this episode of leaving Scotomaville.
 
 ## Takeaways
 
@@ -419,8 +275,9 @@ The right page is dominated by a full-bleed composite photograph showing a close
 4. That’swhere no matter how much you acquire, no matter how much success and wealth and fame, or all that - “you can’t get no” satisfaction.
 5. The wiki explanation of satisfaction can leave you bewildered.
 
+
 ## First-time learner
 
 - **One sentence:** Satisfaction without arrival fantasy.
-- **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
-- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.
+- **Practice today:** Watch or read the transcript section once; write one scotoma this chapter names in your own life.
+- **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — empty shelf beats fluent falsehood if the transcript is missing.
