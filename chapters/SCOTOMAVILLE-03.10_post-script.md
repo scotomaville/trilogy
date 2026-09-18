@@ -53,9 +53,9 @@ book_volume: 3
 book_volume_title: Challenge
 book_chapter: '03.10'
 book_chapter_title: Post Script
-source_file: '03.10-post-script.pdf'
-chapter_pdf_url: null
-chapter_pdf_note: 'No separate ThirdEdition chapter PDF on disk; cite book_pdf_url until exported.'
+source_file: '03.10-postscript.pdf'
+chapter_pdf_url: 'https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/03.10-postscript.pdf'
+chapter_pdf_blob_url: 'https://github.com/scotomaville/trilogy/blob/main/pdf/chapters/03.10-postscript.pdf'
 total_pdf_pages: 6
 license: CC BY-NC-SA 4.0
 share_url: 'https://scotomaville.com/trilogy'
@@ -80,6 +80,7 @@ Deposit file: `SCOTOMAVILLE-03.10_post-script.md`
 
 | Evidence | Link |
 | --- | --- |
+| Chapter print PDF | [03.10-postscript.pdf](https://raw.githubusercontent.com/scotomaville/trilogy/main/pdf/chapters/03.10-postscript.pdf) |
 | Full trilogy PDF (v3.0.9 media-HD) | [GitHub Release asset](https://github.com/scotomaville/trilogy/releases/download/Scotomaville_v3.09/LeavingScotomaville_v3.0.9.media-HD.pdf) |
 | Book door | [https://scotomaville.com/trilogy](https://scotomaville.com/trilogy) · [https://initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy) |
 | Repo chapters | [https://github.com/scotomaville/trilogy/tree/main/chapters](https://github.com/scotomaville/trilogy/tree/main/chapters) |

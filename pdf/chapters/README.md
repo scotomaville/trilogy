@@ -8,6 +8,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 | File | Chapter deposit |
 | --- | --- |
 | [01.00-prologue.pdf](./01.00-prologue.pdf) | `SCOTOMAVILLE-01.00_prologue.md` |
+| [01.00-toc.pdf](./01.00-toc.pdf) | `SCOTOMAVILLE-01.00_toc.md` |
 | [01.01-scotoma.pdf](./01.01-scotoma.pdf) | `SCOTOMAVILLE-01.01_scotoma.md` |
 | [01.02-pattern-recognition.pdf](./01.02-pattern-recognition.pdf) | `SCOTOMAVILLE-01.02_pattern-recognition.md` |
 | [01.03-misperception.pdf](./01.03-misperception.pdf) | `SCOTOMAVILLE-01.03_misperception.md` |
@@ -46,13 +47,8 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 | [03.05-inflection.pdf](./03.05-inflection.pdf) | `SCOTOMAVILLE-03.05_inflection.md` |
 | [03.06-minyan.pdf](./03.06-minyan.pdf) | `SCOTOMAVILLE-03.06_minyan.md` |
 | [03.07-heros-journey.pdf](./03.07-heros-journey.pdf) | `SCOTOMAVILLE-03.07_heros-journey.md` |
+| [03.08-finale.pdf](./03.08-finale.pdf) | `SCOTOMAVILLE-03.08_finale.md` |
+| [03.09-resurrection.pdf](./03.09-resurrection.pdf) | `SCOTOMAVILLE-03.09_resurrection.md` |
+| [03.10-postscript.pdf](./03.10-postscript.pdf) | `SCOTOMAVILLE-03.10_post-script.md` |
+| [03.11-reviews.pdf](./03.11-reviews.pdf) | `SCOTOMAVILLE-03.11_reviews-credits.md` |
 
-## Not yet exported as a separate chapter PDF
-
-These deposits currently cite the full-book release PDF only:
-
-- `SCOTOMAVILLE-01.00_toc.md`
-- `SCOTOMAVILLE-03.08_finale.md`
-- `SCOTOMAVILLE-03.09_resurrection.md`
-- `SCOTOMAVILLE-03.10_post-script.md`
-- `SCOTOMAVILLE-03.11_reviews-credits.md`
