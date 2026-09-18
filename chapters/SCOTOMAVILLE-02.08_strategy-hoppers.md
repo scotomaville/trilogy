@@ -13,7 +13,7 @@ keypoints:
 - Sideways and backward moves can be the way forward on the road and in life.
 - Mobile living is leverage on know thyself — life comes with you.
 - Prefer truth-telling over living-the-dream theater (Onus Probandi on video).
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Strategy (Hoppers). Narrative arc: Nimble strategy — hoppers, sideways progress, know thyself on the road. From the print/transcript corpus: Welcome back to SCOTOMAVILLE, and to the Pacific Northwest, where it has become one heck of a hot day because the wind has shut off. Angelina tells me that it takes just as much energy to think positively - abundance-minded - as it does to think scarcity. Have you ever noticed that people can have different points of view about the same thing? Gary Larson did an excellent job painting that. I’m sure you’veme…'
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Strategy (Hoppers). Narrative arc: Nimble strategy — hoppers, sideways progress, know thyself on the road. From the print/transcript corpus: Welcome back to SCOTOMAVILLE, and to the Pacific Northwest, where it has become one heck of a hot day because the wind has shut off. an gelina tells me that it takes just as much energy to think positively - abundance-minded - as it does to think scarcity. Have you ever noticed that people can have different points of view about the same thing? Gary Larson did an excellent job painting that. I’m sure you’veme…'
 tags:
 - scotomaville
 - trilogy
@@ -71,7 +71,7 @@ description: Vol 2 ch.02.08 — Strategy (Hoppers).
 # Strategy (Hoppers)
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.08** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -108,21 +108,21 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 Welcome to the Pacific Northwest where it has become one heck of a hot day because the wind has shut off. And, welcome back to Scotomaville.
 
-Angelina tells me that it takes just as much energy to think positively - abundance-minded - as it does to think scarcity. Have you ever noticed that people can have different points of view about the same exact thing? Gary Larson did an excellent job of pointing that out. (Cartoon sequence close-up)
+an gelina tells me that it takes just as much energy to think positively - abundance-minded - as it does to think scarcity. Have you ever noticed that people can have different points of view about the same exact thing? Gary Larson did an excellent job of pointing that out. (Cartoon sequence close-up)
 
 I'm sure you know this guy, and if you are that guy... thanks for watching this channel.
 
 In this episode, we're going to talk about strategy. We're going to continue the last episode's talk about strategy, and in this one, we're going to extend it a bit more. I think you'll find it very, very interesting.
 
-PLAYING HOPPERS It's lunchtime. We're going to play a board game we call Hoppers. The object is to advance all of my pieces across the board to occupy all of these spaces while Angelina moves hers to this side. We're trying to swap sides. The first player to finish all the pieces into the camp wins.
+PLAYING HOPPERS It's lunchtime. We're going to play a board game we call Hoppers. The object is to advance all of my pieces across the board to occupy all of these spaces while an gelina moves hers to this side. We're trying to swap sides. The first player to finish all the pieces into the camp wins.
 
 The difference between this game and many other board games is that there's no capturing. You're challenged with spotting opportunities. Whoever sees the best opportunities wins, which is like being an entrepreneur in the marketplace. You're not out to conquer it's not conquest. It is an opportunity recognized and seized.
 
-Angelina: in this move, I've used my pieces to build a bridge and I'm borrowing Daniel's to extend it. So I'm going to hop over here, and then I'm going to hop over to here, and then I'm going to hop here, and then hop here, and then over there - in multiple hops.
+an gelina: in this move, I've used my pieces to build a bridge and I'm borrowing Daniel's to extend it. So I'm going to hop over here, and then I'm going to hop over to here, and then I'm going to hop here, and then hop here, and then over there - in multiple hops.
 
-Daniel: what Angelina didn't see is that my next move was to jump to here, to here, to here, to here, back, right. So now I'm blocked from doing that, and I have to find another way around it, so I'll go from here and not get as far.
+Daniel: what an gelina didn't see is that my next move was to jump to here, to here, to here, to here, back, right. So now I'm blocked from doing that, and I have to find another way around it, so I'll go from here and not get as far.
 
-Angelina: sometimes with strategy, you have to go sideways or backward to move forward. So having careful thought and not always being reactive is helpful. I'm going to go back and then to the side, sideways from here, forward to here, and then I go from here, sideways, and then I can go here. Recognizing there's more than one way to advance by going sideways a couple of times.
+an gelina: sometimes with strategy, you have to go sideways or backward to move forward. So having careful thought and not always being reactive is helpful. I'm going to go back and then to the side, sideways from here, forward to here, and then I go from here, sideways, and then I can go here. Recognizing there's more than one way to advance by going sideways a couple of times.
 
 Daniel: A big point about Airstreaming: You can advance by going sideways.
 
@@ -136,7 +136,7 @@ Multiple hops are a goal. However, there is wisdom in just doing one hop. There 
 
 Daniel: you missed that one.
 
-Angelina: thank you.
+an gelina: thank you.
 
 Daniel: we planned to relocate today to take advantage of the wind and to get out on the river, but our strategy is 'work before play. Today turns into a pouring rain day. The weather prediction didn't get it right, so we changed our plans.
 
@@ -146,13 +146,13 @@ HOPING A HISTORIC HEATWAVE Having a fundamental strategy, based on some core pri
 
 I've come up into the white pass cascade trail campground. I was very fortunate to get a spot and barely get my butt in it. Parking a 30 feet trailer in a 24-foot slot - that's a little maneuvering.
 
-Life happens between your plans. It turns out the reason why this space was available on a first-come, first-serve basis... (slap! closeup of clapping hands) that was a mosquito. It came in the trailer after I had flown the drone shot. It just rode in on my shoulder or something. Look, they are vampires here. They are horrible. This campground is beside a fly fishing only lake, and it's beautiful. It's dense in the trees, and the mosquitoes are here.
+Life happens between your plans. It turns out the reason why this space was available on a first-come, first-serve basis... (slap! close up of clapping hands) that was a mosquito. It came in the trailer after I had flown the drone shot. It just rode in on my shoulder or something. Look, they are vampires here. They are horrible. This campground is beside a fly fishing only lake, and it's beautiful. It's dense in the trees, and the mosquitoes are here.
 
 One of the local fishermen said to me; oh well, they'll be gone in a month. I said to him; well I'll be gone on Sunday!
 
 BACK TO THE HOPPERS GAME
 
-It's common to repeat a move once you've set up a bridge, or a pathway. Remember the last multi-hop move I made? I moved from here, to here, to here, to here, to there, to there. Here I am again (with a similar move). It would be wise for Angelina to recognize this... "wait a minute, he's done that before".
+It's commonto repeat a move once you've set up a bridge, or a pathway. Remember the last multi-hop move I made? I moved from here, to here, to here, to here, to there, to there. Here I am again (with a similar move). It would be wise for an gelina to recognize this... "wait a minute, he's done that before".
 
 Watch this. I can move this piece to here, to here, to here, to here, to here, to here. See? I'm gaining great ground on her, so she needs to be aware... as in; here's what the market is doing, here's how other people are behaving.
 
@@ -172,11 +172,11 @@ Then to have it workout where the afternoon breeze comes through the windows, bl
 
 (close-up of refer controls) Do you hear that churning rumbling sound? It's kind of like the refrigerator's gut is growling. That's coolant running. There's enough voltage... (looking at voltmeter) that's a happy noise. Anyway, that's a long description, Alan Landis would say, of why Daniel is smiling. He made the right moves, with multiple hops to stay cool during a historic heatwave with minimal power. I did well. That was a multi-hop.
 
-LEARNING TO SPEAK THE TRUTH a significant philosophy I'd like you to consider is learning to speak the truth. You see, seeking the truth, and speaking the truth can be difficult. Highly functional Aspergers have a hard time making it up because they don't even have the wiring for that. That gave mean advantage, but I just could not for most of my life even imagine how deceptive people, in general, can be. I'd encourage you to learn to speak the truth.
+LEARNING TO SPEAK THE TRUTH a significant philosophy I'd like you to consider is learning to speak the truth. You see, seeking the truth, and speaking the truth can be difficult. Highly functional as pergers have a hard time making it up because they don't even have the wiring for that. That gave mean advantage, but I just could not for most of my life even imagine how deceptive people, in general, can be. I'd encourage you to learn to speak the truth.
 
 Here are some examples.
 
-FRAGILE PLASTIC PARTS part of what you should expect with a home on wheels is plastic things like this just fall off. the replacement part is nine dollars. the Loctite to keep it in place is just a few cents. That should be the way that they do it in the factory. But, oh no, if you put Loctite on one of these things made out of plastic, it breaks right off when you grab it and pull it. Putting Loctite on a plastic handle was not such a good idea. I had to buy a second metal handle to replace the one that I melted. I learned at a small expense. It was only 20 bucks.
+FRAGILE PLASTIC PARTS part of what you should expect with a home on wheels is plastic things like this just fall off. the replacement part is nine dollars. the Loc tite to keep it in place is just a few cents. That should be the way that they do it in the factory. But, oh no, if you put Loc tite on one of these things made out of plastic, it breaks right off when you grab it and pull it. Putting Loc tite on a plastic handle was not such a good idea. I had to buy a second metal handle to replace the one that I melted. I learned at a small expense. It was only 20 bucks.
 
 FRAGILE ORGANIC PARTS discretion is the better part of valor. I had to fall off a glacier to realize that was true.
 
@@ -184,7 +184,7 @@ I just came out to wash the truck to make a mental break and take a look at what
 
 FRAGILE ALUMINUM PARTS Remember when I said I put a 30-foot Airstream in a 24-foot site? Yeah? Apparently, underneath one of those bushes was a solid stump. That dent is going to take me a bit of time to fix well.
 
-MAKING A BOLD MOVE you want to ramp up on your learning. that's what I mean about learning to speak the truth. Most Airstreaming channels are going to tell you that 'living the dream' is great. That gets YouTube to recommend the video and you get more views and they put advertising in it so you can make some income. I get that. It's common.
+MAKING A BOLD MOVE you want to ramp upon your learning. that's what I mean about learning to speak the truth. Most Airstreaming channels are going to tell you that 'living the dream' is great. That gets YouTube to recommend the video and you get more views and they put advertising in it so you can make some income. I get that. It's common.
 
 But here's an example of a spider making a bold move. I found him on my windshield at 30-40 miles an hour. It hung on up to 70 MPH for I think it was seven or eight miles. I think he did well. That completely changed his destiny that's for sure. Sometimes that's a good model to follow - take some bold multi-hop steps.
 
@@ -208,9 +208,9 @@ Thanks for watching
 
 - The left page is dominated by a large documentary photograph at the top showing Daniel (bald, wearing glasses and a gray-green shirt) inside the Airstream, captured from an exterior viewpoint through the trailer’s windows and skylights, with green landscape visible behind him. Below this image, the page layout includes the bold heading “MOVEMENT IS MANDATORY” followed by body text, a second heading “HOPING A HEATWAVE,” and a smaller color photograph of the Airstream’s exterior side window fitted with a dark screen dotted with numerous small white spots, set against a clear blue sky.
 
-The right page features a centered pull-quote in large italic text: “a well crafted strategy from core principals
+The right page features a centered pull-quote in large it alic text: “a well crafted strategy from core principals
 
-- The two-page spread features a documentary-style layout with multiple color photographs from the journey, interspersed with text blocks and headings. On the left page, the top-left image shows an aerial view of a white Airstream trailer parked in a dense forested campsite with a red vehicle nearby. Adjacent to it is a close-up of weathered hands (likely Daniel’s, wearing a gold ring) turning a metal dump valve handle on the underside of the Airstream, with a visible label reading “AUXILIARY (WASH) HOLDING TANK DUMP VALVE HANDLE.” The bottom-right corner includes a small inset photo of the Airstream parked on pavement surrounded by trees.
+- The two-page spread features a documentary-style layout with multiple color photographs from the journey, in terspersed with text blocks and headings. On the left page, the top-left image shows an aerial view of a white Airstream trailer parked in a dense for ested campsite with a red vehicle nearby. Adjacent to it is a close-up of we athered hands (likely Daniel’s, wearing a gold ring) turning a metal dump valve handle on the underside of the Airstream, with a visible label reading “AUXILIARY (WASH) HOLDING TANK DUMP VALVE HANDLE.” The bottom-right corner includes a small inset photo of the Airstream parked on pavement surrounded by trees.
 
 The right page displays a close-up of a red Ford truck
 

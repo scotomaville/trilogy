@@ -2,18 +2,18 @@
 id: scotomaville_02_07_life_strategy
 title: SCOTOMAVILLE - 02.07 Life-Strategy
 category: Stories
-predicted_narrative_arc: Build life-strategy — incremental change and small things that matter
+predicted_narrative_arc: Build life-strategy — in cremental change and small things that matter
 sentiment: Strategic
 emotions:
 - gratitude
 - agency
 keypoints:
-- Life-STRATEGY differs from brittle planning when interruptions hit.
-- Incremental change and small things are the foundation of transformation.
+- Life-STRATEGY differs from brittle planning when in terruptions hit.
+- in cremental change and small things are the foundation of transformation.
 - Practice strategy at home (Airstream defects, chores) before the full expedition.
 - 'Onus Probandi: demonstrate change with lived examples, not theory alone.'
 - Weather and setbacks test whether you have strategy or only a plan.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Life-Strategy. Narrative arc: Build life-strategy — incremental change and small things that matter. From the print/transcript corpus: Welcome to the Pacific Northwest. We plan to build memories playing with family while enjoying the cooler temperatures for a few months. We came to the Central Gorge and Hood River/Mosier, our home base, to spend sometime foiling on the river, but the weather isn’t cooperating with our plans. A cold front blew in like crazy and dropped the temperature by nearly 30 degrees. The great thing about having a strategy i…'
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Life-Strategy. Narrative arc: Build life-strategy — in cremental change and small things that matter. From the print/transcript corpus: Welcome to the Pacific Northwest. We plan to build memories playing with family while enjoying the cooler temperatures for a few months. We came to the Central Gorge and Hood River/Mosier, our home base, to spend sometime foiling on the river, but the weather isn’t cooperating with our plans. A cold front blew in like crazy and dropped the temperature by nearly 30 degrees. The great thing about having a strategy i…'
 tags:
 - scotomaville
 - trilogy
@@ -70,7 +70,7 @@ description: Vol 2 ch.02.07 — Life-Strategy.
 # Life-Strategy
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.07** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -87,7 +87,7 @@ Carbon judgment of this work should prefer the **PDF + video** over paraphrase. 
 
 ## Context for the climber
 
-Build life-strategy — incremental change and small things that matter.
+Build life-strategy — in cremental change and small things that matter.
 
 This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–3). Later Initium cards and AISM answers inherit its lived evidence — not the other way around.
 
@@ -95,7 +95,7 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 ### Distinct beat (02.07 — not 02.08)
 
-**Building a strong Life-STRATEGY.** Incremental change is the foundation of personal transformation. Small things matter. Onus Probandi: demonstrate change with personal examples (Airstream practice, defects, logistics), not theory alone.
+**Building a strong Life-STRATEGY.** in cremental change is the foundation of personal transformation. Small things matter. Onus Probandi: demonstrate change with personal examples (Airstream practice, defects, logistics), not theory alone.
 
 Strategy differs from planning: plans get postponed; a good strategy still pursues the desired outcome when weather and life interrupt. Filmed in the Columbia Gorge after a hard cold front shifted family/foiling plans.
 
@@ -111,27 +111,27 @@ Keeping a healthy attitude of gratitude and a can-do hands-on practice, you can 
 
 Welcome to the Pacific Northwest. Our plan is to be here for a few months of building memories with family and playing on the river and enjoying the cooler temperatures. I want to welcome you back to the next Episode of Scotomaville. We came to the Central Gorge and Hood River, and the Mosier area, which is our home base, to spend sometime playing, but the weather isn't cooperating with our plans.
 
-The weather came in with a cold front blowing like crazy and dropped the temperature by nearly 30 degrees. you know the great thing about having a strategy is that you can shift your plans and still have the outcome that you want. I think in this episode it's going to be a really good idea for us to dive in a little on strategy versus planning because you can make all kinds of plans and have them postponed and set back and have triggers and emotional tizzy fits because things are always shifting, but if you have a really good strategy it doesn't really matter how often things get shifted and how much you're interrupted. That's one of the things you've watched me actually mature in since the early filming of Scotomaville at Lake Pleasant with the constant interruptions. I'm far less upended or triggered by interruptions now than before.
+The weather came in with a cold front blowing like crazy and dropped the temperature by nearly 30 degrees. you know the great thing about having a strategy is that you can shift your plans and still have the outcome that you want. I think in this episode it's going to be a really good idea for us to dive in a little on strategy versus planning because you can make all kinds of plans and have them postponed and setback and have triggers and emotional tizzy fits because things are always shifting, but if you have a really good strategy it doesn't really matter how often things get shifted and how much you're interrupted. That's one of the things you've watched me actually mature in since the early filming of Scotomaville at Lake Pleasant with the constant in terruptions. I'm far less upended or triggered by in terruptions now than before.
 
 TRANSFORMATION STRATEGY KEY POINTS
 
-■ Incremental Change is the foundation of personal transformation ■ Small Things Matter - becoming aware and responding to subtleties counts ■ Onus Probandi - we're demonstrating change with personal examples
+■ in cremental Change is the foundation of personal transformation ■ Small Things Matter - becoming aware and responding to subtleties counts ■ Onus Probandi - we're demonstrating change with personal examples
 
 STRATEGY WARNING From the video transcript
 
-Angelina: What are you doing?
+an gelina: What are you doing?
 
 Daniel: What am I doing? I'm putting the...
 
 [Emergency Warning System] ATTENTION! this is only a test. This is a test of the warning system. This is only a test. There's no emergency...
 
-Angelina: You were saying?
+an gelina: You were saying?
 
 Daniel: (covering his ears) Oh that is so loud. You can hear it echoing from everywhere around the lake.
 
 What I was going to say is whenever you try to work on something, you dive deeply into awareness. And, because 'life is what happens between your plans', this is what I was going to show you. Look closely. What do you see?
 
-Angelina: Oh no.
+an gelina: Oh no.
 
 Daniel: I have two left hand gloves - both gloves are the same (left handed) glove.
 
@@ -139,7 +139,7 @@ PRACTICE TO REFINE YOUR STRATEGY
 
 You've heard me say numerous times that you should segment grapefruit or cut your egg cartons or work out your pancake ratios. The reason for that is to practice and refine your strategy.
 
-You can go about doing your thing in the morning - a routine that you have for a very well balanced diet for your biome and then come the intrusions - like the noise of the cook-top fan or your RV neighbor firing up their huge and noisy diesel before they leave. I've been able to start embracing the noises and intrusions because I realized that strategy trumps plans.
+You can go about doing your thing in the morning - a routine that you have for a very well balanced diet for your biome and then come the in trusions - like the noise of the cook-top fan or your RV neighbor firing up their huge and noisy diesel before they leave. I've been able to start embracing the noises and in trusions because I realized that strategy trumps plans.
 
 Strategy Trumps Plans - what does that mean?
 
@@ -161,59 +161,59 @@ The difference between strategy and planning?
 
 "Desmond Tutu said there was only one way to eat an elephant - a bite at a time. What he meant by this is that everything in life that seems daunting, overwhelming, and even impossible can be accomplished gradually by taking on just a little at a time.
 
-"Francis of Assisi on how to eat an elephant: "start by doing what's necessary, then do what's possible and suddenly you are doing the impossible.
+"Francis of as sisi on how to eat an elephant: "start by doing what's necessary, then do what's possible and suddenly you are doing the impossible.
 
-Little By Little Increment ALLY
+Little By Little in crement ALLY
 
-Angelina: [crawling under table and stuck between the seating and the table]
+an gelina: [crawling under table and stuck between the seating and the table]
 
 Daniel: I think you need a better strategy. You're trying to crawl underneath the table.
 
-Angelina: I am.
+an gelina: I am.
 
 Daniel: How's that working out for you?
 
-Angelina: My boobs are getting stuck. Okay. I had this idea that I would move my desk.
+an gelina: My boobs are getting stuck. Okay. I had this idea that I would move my desk.
 
 Daniel: If you break the table what good is that. Now you're stuck halfway.
 
-Angelina: I am. Now if I can turn myself around.
+an gelina: I am. Now if I can turn myself around.
 
 Daniel: I think that is the question. Is this why you play hoppers? So that you can wing-it in the physical world?
 
-Angelina: I wanted to have a better setup for my desk so I didn't have to go around.
+an gelina: I wanted to have a better setup for my desk so I didn't have to go around.
 
 Daniel: Hang on hang on you're gonna break something... Let me...
 
-Angelina: Ta-dah. See.
+an gelina: Ta-dah. See.
 
 Daniel: You gotta be kidding me. Resilience. Stubbornness.
 
-Angelina: But it worked.
+an gelina: But it worked.
 
 Daniel: Ladies can you practice this at home. Crawl under the table rather than walk around to your chair!
 
-Angelina: I didn't want you to have to move out of the way. I needed to figure it out on my own.
+an gelina: I didn't want you to have to move out of the way. I needed to figure it out on my own.
 
-INCREMENTAL PROGRESS on EATING YOUR AIRPLANE
+in CREMENTAL PROGRESS on EATING YOUR AIRPLANE
 
-To raise the bar of what's possible beyond anything you'd imagine, even for your own life, let's look at this Guinness world record holder who ate an entire airplane bite-by-bite. He ate two pounds per day. His name was Michael Lotito and he was nicknamed Monsieur Man get out. That means 'eat it all'. Mr 'eat it all' ate about 900 grams of whatever it was a day. Over his lifetime his diet (since 1969) included 18 bicycles, 15 supermarket trolleys, 7 TV sets, 6 chandeliers, two beds, a pair of skis, a low-calorie Cessna light aircraft, and a computer. He also ate a coffin. By 1997, he had eaten nearly nine tons of metal, but he said funny enough, that bananas and hard-boiled eggs made him sick.
+To raise the bar of what's possible beyond anything you'd imagine, even for your own life, let's look at this Guinness world record holder who ate an entire airplane bite-by-bite. He ate two pounds per day. His name was Michael Lot i to and he was nicknamed Monsieur Man get out. That means 'eat it all'. Mr 'eat it all' ate about 900 grams of whatever it was a day. Over his lifetime his diet (since 1969) included 18 bicycles, 15 supermarket trolleys, 7 TV sets, 6 chandeliers, two beds, a pair of skis, a low-calorie Cessna light aircraft, and a computer. He also ate a coffin. By 1997, he had eaten nearly nine tons of metal, but he said funny enough, that bananas and hard-boiled eggs made him sick.
 
-I'm not going to recommend that you go about eating an Airstream but I am gonna make my point that if you wanted to you could do it increment ally. Think about whatever it is that's challenging your Personal Everest. If you're trying to live a healthier life, trying to lose weight or trying to gain weight, make progress on your finances or your financial score, or maybe getting a new job... whatever that might be in your life, think about incremental progress.
+I'm not going to recommend that you go about eating an Airstream but I am gonna make my point that if you wanted to you could do it in crement ally. Think about whatever it is that's challenging your Personal Everest. If you're trying to live a healthier life, trying to lose weight or trying to gain weight, make progress on your finances or your financial score, or maybe getting a new job... whatever that might be in your life, think about in cremental progress.
 
-If you want to change the way you think try affirmations day after day after day put some motivational quotes into your lifestyle consume something that will make a small change each day so you can gain ground on your Personal Everest.
+If you want to change the way you think try a ffirmations day after day after day put some motivational quotes into your lifestyle consume something that will make a small change each day so you can gain ground on your Personal Everest.
 
 Another thought on strategy is you want to work toward longevity. It doesn't make much sense to sprint to the finish and die too soon. You might as well mature over a good period of time.
 
-(closeup of Viome packaging) This is Viome precision supplements - including two billion probiotics. Everyday this becomes a ritual and therefore a habit that increment ally adds value by extending our biological age. I think that's worth picking up that habit... by practicing longevity from home long before you put yourself in an Airstream.
+(close up of Viome packaging) This is Viome precision supplements - including two billion probiotics. Everyday this becomes a ritual and therefore a habit that in crement ally adds value by extending our biological age. I think that's worth picking up that habit... by practicing longevity from home long before you put yourself in an Airstream.
 
 DEALING WITH INJURY
 
-Angelina: What just happened?
+an gelina: What just happened?
 
-Daniel: I'm simply trying to do a close-up shot of the Viome supplements and when I pour them out they roll away into the dirty sink. Then I reach in to grab them and the cutting board has sausage defrosting so it smashes my finger.
+Daniel: I'm simply trying to do a close-up shot of the Viome supplements and when I pour them out they roll away into the dirty sink. Then I reach into grab them and the cutting board has sausage defrosting so it smashes my finger.
 
-Angelina: Oh thank you for splashing the blood. Let's coat the wound with ointment.
+an gelina: Oh thank you for splashing the blood. Let's coat the wound with ointment.
 
 Daniel: Oh you see the blood. So I go from trying to be helpful... let me show people how cool this is... to a bleeding thumb. Put that in your strategy consideration.
 
@@ -227,17 +227,17 @@ EXAMPLES of LITTLE THINGS MATTER
 
 A second strategy to embrace is that 'little things matter'. They really do. You've heard of the phrase; "a stitch in time saves nine"? What the heck does that mean? In the days of large sailing ships if you didn't fix the small stitching that was coming out of a mainsail, the next time you had a decent blow, it would tear the whole sail open and you'd have much more work to do.
 
-So, paying attention to little things can save you a great amount of grief, anguish, effort, loss, and disappointment overtime. So a great strategy to embrace is to pay attention to the little things, by considering that little things matter.
+So, paying at tentionto little things can save you a great amount of grief, an guish, effort, loss, and disappointment overtime. So a great strategy to embrace is to pay at tentionto the little things, by considering that little things matter.
 
 I thought this was really humorous... the definition reads: "small action taken on right time may prevents difficulty to be bigger later". I think that's funny.
 
-One of the things you can practice at home to become familiar with Airstreaming is to find some pieces of glass and metal shavings and throw them on the floor and then walk around on your bare feet. (closeup on the floor) That is an aluminum shaving from one of the rivets - probably. When they replace a rivet in the factory (close up of rivet) you see how they'd sort of over-drill it. Well, that creates a piece of metal like this (closeup of aluminum shaving) that then ends up on the floor. And then you step on it - and that really feels terrific.
+One of the things you can practice at home to become familiar with Airstreaming is to find some pieces of glass and metal shavings and throw them on the floor and then walk around on your bare feet. (close upon the floor) That is an aluminum shaving from one of the rivets - probably. When they replace a rivet in the factory (close up of rivet) you see how they'd sort of over-drill it. Well, that creates a piece of metal like this (close up of aluminum shaving) that then ends upon the floor. And then you step on it - and that really feels terrific.
 
-While you're vacuuming you're gonna find tiny, tiny little pieces like this on the floor (closeup of tiny nut). Then you'll start looking around asking where the heck did it come from? Don't just throw it away with the vacuum dust. You have to have a place to put all those little pieces. (dropping the nut in a drawer tray) That's going to be important.
+While you're vacuuming you're gonna find tiny, tiny little pieces like this on the floor (close up of tiny nut). Then you'll start looking around asking where the heck did it come from? Don't just throw it away with the vacuum dust. You have to have a place to put all those little pieces. (dropping the nut in a drawer tray) That's going to be important.
 
 About a week later I found a screw laying inside of my solar briefcase, and because I have a strategy of putting it in the drawer - it went in.
 
-While I'm editing this episode (nearly a week after finding the nut) I see my video of the nut and my brain goes; hello... connect two and two.. one screw and one nut. Sure enough, there's the solution to the missing nut inside the solar briefcase. So that is quite literally 'case closed' on the missing nut.
+While I'm editing this episode (nearly a week after finding the nut) I see my video of the nut and my brain goes; hello... connect two and two.. one screw and one nut. Sure enough, there's the so lutionto the missing nut inside the solar briefcase. So that is quite literally 'case closed' on the missing nut.
 
 AIRSTREAMING AT HOME
 
@@ -255,26 +255,26 @@ Little things matter to me like getting all of the
 
 ## Visual notes (print spreads)
 
-- The left page is dominated by a full-width documentary photograph of Daniel (white-haired man in a black t-shirt) standing beside an Airstream trailer on a grassy roadside, hands clasped over his ears and mouth open in a dramatic shout, with the large title word “strategy” overlaid across the image in bold black/gray/red lettering and a teal geometric accent. Below the photo, the page carries the provided Pacific Northwest weather text, followed by body copy about emotional triggers, interruptions, and the centered pull-quote: “I’m far less upended or triggered by interruptions and delays now than before starting this expedition.” A horizontal rule and the phrase “ONUS PROBANDI END OF SCENE”
+- The left page is dominated by a full-width documentary photograph of Daniel (white-haired man in a black t-shirt) standing beside an Airstream trailer on a grassy roadside, hands clasped over his ears and mouth open in a dramatic shout, with the large title word “strategy” overlaid across the image in bold black/gray/red lettering and a teal geometric accent. Below the photo, the page carries the provided Pacific Northwest weather text, followed by body copy about emotional triggers, in terruptions, and the centered pull-quote: “I’m far less upended or triggered by in terruptions and delays now than before starting this expedition.” A horizontal rule and the phrase “ONUS PROBANDI END OF SCENE”
 
-- The left page of this spread is dominated by a large documentary photograph of the Airstream RV interior, showing Angelina lying on a beige couch with a brown pillow, her head resting on it and eyes closed in a relaxed smile. A partially eaten pizza with visible toppings sits on a wooden table in the foreground alongside glasses and a water bottle, while a laptop and storage items appear in the background near the windows with a bright outdoor desert view. A bold pull-quote in large serif type spans the top of the image: “STRATEGY TRUMPS PLANNING, IT TACKLES THE QUESTION ‘WHY’? IT COMES TO TERMS WITH THE WHOLE SITUATION”.
+- The left page of this spread is dominated by a large documentary photograph of the Airstream RV interior, showing an gelina lying on a beige couch with a brown pillow, her head resting on it and eyes closed in a relaxed smile. A partially eaten pizza with visible to ppings sits on a wooden table in the for eground alongside glasses and a water bottle, while a laptop and storage items appear in the background near the windows with a bright outdoor desert view. A bold pull-quote in large serif type spans the top of the image: “STRATEGY TRUMPS PLANNING, IT TACKLES THE QUESTION ‘WHY’? IT COMES TO TERMS WITH THE WHOLE SITUATION”.
 
 The bottom left contains continuation of the chapter text about daily
 
-- The right page (245) features two stacked documentary photographs. The top image is a tight close-up of the Airstream shower drain area, showing a translucent plastic pipe partially inserted into a metal drain fitting above a gray woven floor mat, with visible gaps and no glue at the connection point. The larger bottom photo shows Daniel lying on his back on the wooden floor inside the trailer, his bald head and shoulders in the foreground, reaching upward into the cramped shower compartment while wearing a dark long-sleeve shirt.
+- The right page (245) features two stacked documentary photographs. The top image is a tight close-up of the Airstream shower drain area, showing a translucent plastic pipe partially inserted into a metal drain fitting above a gray woven floor mat, with visible gaps and no glue at the connection point. The larger bottom photo shows Daniel lying on his back on the wooden floor inside the trailer, his bald head and shoulders in the for eground, reaching upward into the cramped shower compartment while wearing a dark long-sleeve shirt.
 
 Overlaid on the lower right of the bottom photo is white text reading: “IT SEEMS THAT TAKING SMALL ACTIONS AT THE RIGHT TIME PREVENT DRASTIC ACTIONS LATER ON… LIK
 
 ## Takeaways
 
-1. Life-STRATEGY differs from brittle planning when interruptions hit.
-2. Incremental change and small things are the foundation of transformation.
+1. Life-STRATEGY differs from brittle planning when in terruptions hit.
+2. in cremental change and small things are the foundation of transformation.
 3. Practice strategy at home (Airstream defects, chores) before the full expedition.
 4. Onus Probandi: demonstrate change with lived examples, not theory alone.
 5. Weather and setbacks test whether you have strategy or only a plan.
 
 ## First-time learner
 
-- **One sentence:** Build life-strategy — incremental change and small things that matter.
+- **One sentence:** Build life-strategy — in cremental change and small things that matter.
 - **Practice today:** Re-read one hard paragraph aloud; write one place this chapter names something you had been filling in.
 - **How this feeds AISM:** Answer from this deposit; hand the book PDF and any chapter videos above — do not invent a softer story than the filmed proof.

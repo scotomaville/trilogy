@@ -7,7 +7,7 @@ sentiment: Alert and practical
 emotions:
 - wonder
 - caution
-- inventiveness
+- in ventiveness
 keypoints:
 - Pattern recognition is a biological superpower that also makes us exploit able
 - Twenty-watt brains prefer familiar narratives over fresh search
@@ -15,7 +15,7 @@ keypoints:
 - Diffuse mode (question before sleep) harnesses pattern-seeking for insight
 - Sarah Little-Turnbull modeled nature-to-innovation pattern translation (N-95 lineage)
 - Use patterns on purpose (reminders, design) — do not let others own your attention
-summary: Vol 1 chapter 02. Pattern recognition bonds, solves, and invents — and is the same bent advertisers, platforms, and lazy familiarity use against us. Daniel contrasts the Big Dipper mnemonic with the Hubble Ultra-Deep Field, shows café-wall and hidden-figure demos, honors mentor Sarah Little-Turnbull, and teaches putting a question to sleep so diffuse thinking can correlate. Careful creativity is the exit ramp from Scotomaville.
+summary: Vol 1 chapter 02. Pattern recognition bonds, so lves, and in vents — and is the same bent advertisers, platforms, and lazy familiarity use against us. Daniel contrasts the Big Dipper mnemonic with the Hubble Ultra-Deep Field, shows café-wall and hidden-figure demos, honors mentor Sarah Little-Turnbull, and teaches putting a questionto sleep so diffuse thinking can correlate. Careful creativity is the exit ramp from Scotomaville.
 tags:
 - scotomaville
 - trilogy
@@ -80,7 +80,7 @@ description: Vol 1 ch.02 — pattern seeking as gift and exploit surface.
 # Pattern Recognition — A Double-Edged Sword
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.02** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -104,7 +104,7 @@ After scotoma, the next tool is naming **how** the 20-watt brain saves energy: i
 **GOOD NEWS:** Our brains are very efficient. They operate on just 20 watts. 
 **BAD NEWS:** The operating system is set for maximum conservation.
 
-Emotional bonding starts with pattern-SEEKING. “Hey, son, you’re SMART,” inflates egos and sets traps. This oxytocin-fueled recognition can become addictive.
+Emotional bonding starts with pattern-SEEKING. “Hey, son, you’re SMART,” in flates egos and sets traps. This oxytocin-fueled recognition can become addictive.
 
 Our ability to recognize patterns extends to puzzles, politics, and engineering. It’s a biological superpower, but it’s also a weapon against us. This bent in our biology makes us vulnerable to exploitation.
 
@@ -112,11 +112,11 @@ Our 20-watt brains prioritize efficiency. We accept others’ narratives rather 
 
 Advertisers exploit this pattern recognition. Consider social media, monthly subscriptions. Patterns can become a burden, and lead to dire outcomes.
 
-But pattern recognition isn’t just a liability; it’s an essential tool. Innovators leverage it by implanting questions before sleep, letting diffuse thinking seek correlations and insights.
+But pattern recognition isn’t just a liability; it’s an essential tool. in novators leverage it by implanting questions before sleep, letting diffuse thinking seek correlations and insights.
 
-We live in an age of rapidly accelerating change with a 20-watt brain that betrays us. It finds patterns to save energy. That handicap is used against us with “familiar” points and “emotional” narratives.
+We live in an age of rapidly a ccelerating change with a 20-watt brain that betrays us. It finds patterns to save energy. That handicap is used against us with “familiar” points and “emotional” narratives.
 
-The Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. Although we are rich with explanatory knowledge, the way we remember all this is with simple patterns like the Big Dipper.
+The Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation For nax, containing an estimated 10,000 galaxies. Although we are rich with explanatory knowledge, the way we remember all this is with simple patterns like the Big Dipper.
 
 ### Mentor and demos
 
@@ -129,7 +129,7 @@ Examples of pattern recognition on the spreads:
 3. Nature or man? We are now capable of AI imagery and deep fakes (see later volumes).
 4. “The world is happy with me today” — a smiley found on the counter after morning coffee.
 
-> “Look beneath the surface; let not the several quality of a thing nor its worth escape thee.” — Marcus Aurelius
+> “Look beneath the surface; let not the several quality of a thing nor its worth escape thee.” — Marcus a urelius
 
 Domain examples named in print (science Einstein; business Napoleon Hill; literature Grimm; technology ML patterns; Franklin and storms; Robin Williams and improvisational pattern in humor). Daniel’s charge: “Be careful, but be creative. Spend your attention on getting yourself out of Scotomaville.”
 
@@ -151,17 +151,17 @@ One of these tricks I learned in architecture is very simple. You see a repeatin
 
 Another one you've very likely seen: when you look up at the nighttime sky you see the Big Dipper because somebody drew it that way and explained it that way to you and it's easy to remember. Here's one you might not yet know. A specific area of the nighttime sky was thought to be pattern less, desolate and absent of galaxies. Upon close observation, over a month of exposure, well over a hundred additional galaxies emerged, expanding our concept of the universe.
 
-We like to solve puzzles — A plus B plus C is… probably D. We look at clouds and find patterns. Some people see religious figures in toast. We make up stories about smiling faces in the most weird places. One of the ways this bent toward least effort for coming to a conclusion is used against us is when we get familiar with something and then we don't spend energy trying to rethink it.
+We like to solve puzzles — A plus B plus C is… probably D. We look at clouds and find patterns. Some people see religious figures into ast. We make up stories about smiling faces in the most weird places. One of the ways this bent toward least effort for coming to a conclusion is used against us is when we get familiar with something and then we don't spend energy trying to rethink it.
 
 For example, many people stay in situations that they would rather not be in — a job, an unhealthy relationship — because it becomes familiar. Rather than explore or seek a new pattern, they'll ignore it or put up with it. Sometimes that can be horrible for a whole life. Be brave. Find someone around you to help you see that and get out of those bad situations.
 
 Big block tech companies use this against humans all the time. We know people are gonna be lazy. We know they're gonna take whatever recommendation is given and not seek the rest of the possible solutions — to save on that twenty watts.
 
-If this is so bad, why bother? No pill required. The aspect I have found fabulous for complicated problems and innovations is usually combined with sleep. Look at the diffuse-and-focus-mode teaching. Part of conscious time is intense focus until we hit a wall. Many innovators put a question in mind before sleep or a nap. The brain switches to diffuse mode. It starts pattern recognizing and associating correlations. Correlation is not causation — you can't always get the answer — but you can often get an insight you didn't have in focus mode.
+If this is so bad, why bother? No pill required. The aspect I have found fabulous for complicated problems and innovations is usually combined with sleep. Look at the diffuse-and-focus-mode teaching. Part of conscious time is intense focus until we hit a wall. Many in novators put a question in mind before sleep or a nap. The brain switches to diffuse mode. It starts pattern recognizing and as sociating correlations. Correlation is not causation — you can't always get the answer — but you can often get an insight you didn't have in focus mode.
 
 Example: taking the trash out, staring at the ground, remembering David Poole's story about Mosaic — one of the early browsers — insight while looking at mosaic tiles, frustrated at research without a visual interface. Pattern on the floor → browser idea → major outcome.
 
-If you miss the step coming out of your Airstream, put down a little snake. Everytime you open that door — “Oh!” — you see the step. Use this to your advantage for keys, formulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay attention to… in Scotomaville.
+If you miss the step coming out of your Airstream, put down a little snake. Everytime you open that door — “Oh!” — you see the step. Use this to your advantage for keys, for mulas, essentials. Be creative. Use it for good. But boy oh boy, you've got to be careful. It's mostly used against you — to keep your attention on what SOMEBODY ELSE wants you to pay at tentionto… in Scotomaville.
 
 ## Takeaways
 
@@ -176,4 +176,4 @@ If you miss the step coming out of your Airstream, put down a little snake. Ever
 
 - **One sentence:** Your brain loves cheap patterns; own that habit or someone else will.
 - **Practice today:** List three patterns you accept without checking; put one hard question in mind before sleep.
-- **AISM cite path:** Book PDF + watch URL + Prime 043 spread when the card is invoked.
+- **AISM cite path:** Book PDF + watch URL + Prime 043 spread when the card is in voked.

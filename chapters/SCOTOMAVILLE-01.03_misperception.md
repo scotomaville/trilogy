@@ -14,7 +14,7 @@ keypoints:
 - '"We don''t see things the way THEY are; we see things the way WE are" (Hegstrom)'
 - Fear of being wrong plus amy gda la hijack makes emotionally rich falsehoods sticky
 - Assignment — audit stories you believed without evidence; seek counter-balance
-summary: 'Vol 1 chapter 03. Daniel’s original Starbucks sleeve illusion pairs with a help-me story so the barista (and the viewer) “sees” two sleeve sizes where only one exists. Print and video teach that perception plus narrative can manufacture false certainty — the same surface politics, media, and AI training exploit. Critical self-understanding is the antidote: examine emotional allure, seek counter-stories, name when resonance replaced evidence.'
+summary: 'Vol 1 chapter 03. Daniel’s original Starbucks sleeve illusion pairs with a help-me story so the barista (and the viewer) “sees” two sleeve sizes where only one exists. Print and video teach that perception plus narrative can manufacture false certainty — the same surface politics, media, and AI training exploit. Critical self-understanding is the an tidote: examine emotional a llure, seek counter-stories, name when resonance replaced evidence.'
 tags:
 - scotomaville
 - trilogy
@@ -77,7 +77,7 @@ description: Vol 1 ch.03 — sleeve illusion; storytelling as superpower and exp
 # Mis perception — Which Sleeve for Which Cup?
 
 **Leaving Scotomaville · Volume 1 Awareness · Chapter 01.03** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -116,14 +116,14 @@ B: “We have 4 cup sizes.”
 Align the sleeves as in the photo and point… 
 “See, you have a smaller and a larger one. Which one, the small or large, do I put on the Grande cup?”
 
-The barista will often react: “They didn’t teach us that in training!” Then hand-motion to an associate or manager. “Help? Please?”
+The barista will often react: “They didn’t teach us that in training!” Then hand-motionto an associate or manager. “Help? Please?”
 
 **Look closely. The sleeves appear to be different. They are the same.**
 
 I believe I originated this illusion. It demonstrates: 
 “We don’t see things the way THEY are; we see things the way WE are!”
 
-I also believe storytelling is a superpower. Storytelling has command, atleast for now, over emerging Artificial Intelligence. Humans can distinguish a “runny nose” from “smelly feet.” AI understands that feet run and noses smell until trained on distinction, metaphor, inference, sarcasm, and emotion.
+I also believe storytelling is a superpower. Storytelling has command, atleast for now, over emerging Artificial Intelligence. Humans can distinguish a “runny nose” from “smelly feet.” AI understands that feet run and noses smell until trained on distinction, metaphor, in ference, sarcasm, and emotion.
 
 People use words to persuade, mislead, obscure, and bl ovi ate. People are teaching AI. It is simple to tell stories and have people believe something that’s not true. How about AI?
 
@@ -147,19 +147,19 @@ Personal reflection (print): years can be spent volunteering or investing in ide
 
 ### Assignment
 
-> “The un examined life is not worth living.” — Socrates
+> “The un examined life is not worth living.” — so crates
 
-1. Reflect on the emotional allure of surrounding stories; temper acceptance with scrutiny. 
+1. Reflect on the emotional a llure of surrounding stories; temper acceptance with scrutiny. 
 2. Seek counter-balancing stories and alternative viewpoints. 
 3. Ask: What stories influenced you with little evidence? How did emotionally charged tales affect attitude, freedom, or decisions? When were you swayed mainly because a claim resonated with existing beliefs?
 
 ## Video transcript (spoken register)
 
-*Source: `01.03 Sleeves Illusion Trnscpt.txt` — lightly cleaned; Lake Pleasant filming.*
+*Source: `01.03 Sleeves Illusion Tr nsc pt.txt` — lightly cleaned; Lake Pleasant filming.*
 
 Welcome to Lake Pleasant, north of Phoenix, Arizona on a fabulous March day. We've had a few days of rain — boring rain — but the northwest at home is blizzard and terrible cold today. You couldn't have a better classroom than this.
 
-As far as I understand, I'm the originator of this example. It's an illusion — but it demonstrates that there are things we don't know or things that we don't see the way THEY really are. As Paul Hegstrom would say — "We don't see things the way THEY are, we see things the way WE are!" Next time you go into Starbucks or if you purchase an extra bunch of sleeves, I would suggest showing them this little exercise.
+As far as I understand, I'm the or iginator of this example. It's an illusion — but it demonstrates that there are things we don't know or things that we don't see the way THEY really are. As Paul Hegstrom would say — "We don't see things the way THEY are, we see things the way WE are!" Next time you go into Starbucks or if you purchase an extra bunch of sleeves, I would suggest showing them this little exercise.
 
 This is my journal that I'm actually writing the book from, so I'm going to use it as a background. And I'm going to use the ones from the book where I've marked them A and B — so you can see that it's not a sleight of hand trick; you can actually follow along and learn. I fully believe that storytelling is a superpower. It actually has command over at least early AI. Think of it: you immediately know the difference between a runny nose and smelly feet. Runny nose — smelly feet. AI has to be taught that!
 

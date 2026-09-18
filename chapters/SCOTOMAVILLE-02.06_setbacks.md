@@ -10,10 +10,10 @@ emotions:
 keypoints:
 - set BACKS Check the timestamp on my last upload to YouTube.
 - If you’re a subscriber, I want to edify you.
-- I have six new episodes linedup that are real killers.
-- I’m not sure about you, but the lastsix months have been the weight of ‘wait wait wait wait.’ Yes, very ‘rich’ for us, as in many very subst ant…
-- As Marcus Aurelius recommends, the obstacle (your scotoma) is the way.
-summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Setbacks. Narrative arc: Obstacle as way — plans interrupted without quitting strategy. From the print/transcript corpus: set BACKS Check the timestamp on my last upload to YouTube. Yes, six months have passed. If you’re a subscriber, I want to edify you. I have six new episodes linedup that are real killers. Thanks for watching. Onus Probandi (you remember) ‘the burden of proof is on the claimant, not the recipient.’ In this episode, we’regoing to talk about some stuff that you are very familiar with - SETBACKS - having life happen between yo'
+- I have six new episodes lined up that are real killers.
+- I’m not sure about you, but the last six months have been the weight of ‘wait wait wait wait.’ Yes, very ‘rich’ for us, as in many very subst ant…
+- As Marcus a urelius recommends, the obstacle (your scotoma) is the way.
+summary: 'Leaving Scotomaville Volume 2 (Expedition) chapter on Setbacks. Narrative arc: Obstacle as way — plans interrupted without quitting strategy. From the print/transcript corpus: set BACKS Check the timestamp on my last upload to YouTube. Yes, six months have passed. If you’re a subscriber, I want to edify you. I have six new episodes lined up that are real killers. Thanks for watching. Onus Probandi (you remember) ‘the burden of proof is on the claimant, not the recipient.’ In this episode, we’re going to talk about some stuff that you are very familiar with - SETBACKS - having life happen between yo'
 tags:
 - scotomaville
 - trilogy
@@ -70,7 +70,7 @@ description: Vol 2 ch.02.06 — Setbacks.
 # Setbacks
 
 **Leaving Scotomaville · Volume 2 Expedition · Chapter 02.06** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -95,88 +95,88 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 set BACKS
 Check the timestamp on my last upload to YouTube. Yes, six months have passed. If you’re a subscriber, I want to edify you. I have six new episodes lined up that are real killers. Thanks for watching.
-Onus Probandi (you remember) ‘the burden of proof is on the claimant, not the recipient.’ In this episode, we’re going to talk about some stuff that you are very familiar with - SETBACKS - having life happen between your plans, like COVID-19, Delta, and Omicron, and the following variant propagation. (see pages 136-137) IT’S BEEN SIX MONTHS 2.06 Leaving SCOTOMAVILLE 226 THE AGONIZING WEIGHT OF WAITING:
+Onus Probandi (you remember) ‘the burden of proof is on the claimant, not the recipient.’ In this episode, we’re going to talk about some stuff that you are very familiar with - SETBACKS - having life happen between your plans, like COVID-19, Delta, and Omicron, and the following variant propagation. (see pages 136-137) IT’S BEEN SIX MONTHS 2.06 Leaving SCOTOMAVILLE 226 THE a GONIZING WEIGHT OF WAITING:
 I could smash the button while it blasts: ‘wait, wait, wait, wait...’ ...as an impatient driver blasts through the cross-walk!
 
 I’m not sure about you, but the last six months have been the weight of ‘wait wait wait wait.’
-Yes, very ‘rich’ for us, as in many very substantial obstacles. As Marcus Aurelius recommends, the obstacle (your scotoma) is the way.
+Yes, very ‘rich’ for us, as in many very substantial obstacles. As Marcus a urelius recommends, the obstacle (your scotoma) is the way.
 
-Blaise Pascal, the French mathematician, and theologian, recommends that you find someone who’s been where you want to go. That’swhat you’ve done by watching, discussing, and testing the tools on your own expedition.
+Blaise Pascal, the French mathematician, and the ologian, recommends that you find someone who’s been where you want to go. That’swhat you’ve done by watching, discussing, and testing the tools on your own expedition.
 If you’re hoping for a lifestyle of Airstreamingwith some variety - some expedition (a journey with a purpose), then do as Pascal urges...
 LEARN OF THOSE WHO HAVE BEEN BOUND LIKE YOU:
 “...and are cured of an ill of which you would be cured.
 Follow the way by which they began”. Blaise Pascal Leaving SCOTOMAVILLE 227 “Learn of those who have been bound like you and who now stake all their possessions.
-These are people who know theway which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began.” Blaise Pascal
+These are people who know the way which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began.” Blaise Pascal
 
 WHY - NOT HOW
-The SCOTOMAVILLE channel is more about the ‘why’ than the ‘how.’ Nate and Marissa with ‘Less Junk More Journey’ are great atthe ‘how.’ The same with Sean and Kristy Mi chaels with ‘Long Long Honeymoon.’ Those are fabulous channels to learn how.
-I want to dive below that. Why do you wantto have a life of adventure? Why do you want to expose your independence rather than become dependent? I bet it’s because you’re willing to take personal responsibility for your experience and outcomes.
+The SCOTOMAVILLE channel is more about the ‘why’ than the ‘how.’ Nate and Marissa with ‘Less Junk More Journey’ are great at the ‘how.’ The same with Sean and Kristy Michaels with ‘Long Long Honeymoon.’ Those are fabulous channels to learn how.
+I want to dive below that. Why do you want to have a life of adventure? Why do you want to expose your independence rather than become dependent? I bet it’s because you’re willing to take personal responsibility for your experience and outcomes.
 A MISSING KEY DISTRACTION A safety protocol we have is a ‘key’board.
-Notice that there are three key hooks andthe key for the middle one is... gone. There’s a blue key supposed to be there.
-I get distracted in thought. I can be working, but with my mind elsewhere. I can fill the freshwater tank, store the hose and leave the tank hatch open, then drive all the way to Walmart with the carabiner sorely scratching the aluminum finish. Ouch.
+Notice that there are three key hooks and the key for the middle one is... gone. There’s a blue key supposed to be there.
+I get distracted in thought. I can be working, but with my mind elsewhere. I can fill the freshwater tank, store the hose and leave the tank hatch open, then drive all the way to Walmart with the carabiner so rely scratching the aluminum finish. Ouch.
 I chose to locate the keys on the board asa simple safety check before driving. I tried this with the rule I made for the drone cable.
 Methinks rules don’t prevent sco tomas.
 It’s imperative to stow, secure and mentally focus before driving. It’s distracting and dangerous to be thinking through a checklist while dodging crazy traffic on windy roads and windy weather.
 I’ve taken personal responsibility for a mature outcome. This included buffing out the scuff marks in the aluminum from the flailing carabiner.
 
 “Waiting is not a setback, but wasting one is” GAIN CONFIDENCE WITH SMALL STEPS
-You can practice the Airstreaming life at hometo gain experience before you acquire the
+You can practice the Airstreaming life at home to gain experience before you acquire the
 Airstream. Pascal recommended we follow others to reach our goal. We learned how to live in an Airstream, but not how to get into an
 Airstream. We followed bankers that hadn’tfinanced an Airstream during a pandemic.
-Fortunately, we’re in a 30-foot Globetrotter andno longer in a 19-foot Bambi. We’re now in the Airstream we’ve worked toward for five years.
+Fortunately, we’rein a 30-foot Globetrotter andno longer in a 19-foot Bambi. We’re now in the Airstream we’ve worked toward for five years.
 So, let’s talk about the ‘WHY’ of setbacks.
 SETBACKS ARE TIME TO PRACTICE
 Setbacks turn out to bean excellent time toget organized, to develop habits, and to organize. There are many creative ways to use time effectively while experiencing the weight of waiting. (crosswalk blasts wait... wait... wait... wait...) HOLIDAY TIME-OUT
 It’s the day after Thanksgiving, and all through the house, piles of trash must go out. And since they don’t fetch them I get to take them out.
-Oddly, I miss my walks to the dumpster. Forover a year, I have not needed time to walk-off triggers while peeling onion layers to discover and label what was troubling me. And, yes, in the video, I just picked up other people’s trash.
-You can be generous with your attention tohelp others once you get past your sco tomas.
+Oddly, I miss my walks to the dumpster. For over a year, I have not needed time to walk-off triggers while peeling onion layers to discover and label what was troubling me. And, yes, in the video, I just picked up other people’s trash.
+You can be generous with your at tentiontohelp others once you get past your sco tomas.
 In hindsight, six months of ‘wait... wait... wait...
-wait’ - waiting for setbacks were not that muchof a loss because I could focus on doing mun dane things like taking the trash out or doing maintenance and trying to stay in shape while watching my transformation in video.
-I don’t miss the construction noise that excessively interfered with and interrupted and pres sured me during the six months of waiting in
+wait’ - waiting for setbacks were not that much of a loss because I could focus on doing mundane things like taking the trash out or doing maintenance and trying to stay in shape while watching my transformation in video.
+I don’t miss the construction noise that excessively in terfered with and interrupted and pres sured me during the six months of waiting in
 Arizona. I get it, some As peri gans have sound sensitivity, but we quickly adapt our routines and focus on other things - like self-reflection video modeling.See!
 
 Look at the expiration date onmy temporary license plate - the 7th of April 2020. Today is the 10th of May ‘21. So the plates expired a year ago.
 Hey, I’m becoming patient!
-MATURE - DON’T JUST AGE Consider the distinction between aged and mature, and old. To age is to get old. To mature is to ripen. To mature is the reason why you want tobe on a Personal Everest, or an expedition - a journey witha purpose. As a mate, you want your partner to ripen and not just to get old so the quality of your life is richer.
+MATURE - DON’T JUST AGE Consider the distinction between aged and mature, and old. To age is to get old. To mature is to ripen. To mature is the reason why you want to be on a Personal Everest, or an expedition - a journey with a purpose. As a mate, you want your partner to ripen and not just to get old so the quality of your life is richer.
 The distinction of maturing is a subtlety about escaping SCOTOMAVILLE.
 Let me repeat it. Don’t just grow old. Ripen. You want to mature, and not just age.
-Setting off on an expedition - no matter your chronologi cal age - is an excellent timeto start your maturation or ripening by fashioning more ofwho you can become.
-I’m 66 now. I think I have apretty good idea of who I am.
+Setting off on an expedition - no matter your chronologi cal age - is an excellent time to start your maturation or ripening by fashioning more ofwho you can become.
+I’m 66 now. I think I have a pretty good idea of who I am.
 I’m pretty confident to share that journey with you - in all of its glory or horror.
-Airs TEAM BACKDROP The Airstream is just a backdrop to the story. It’s a popular YouTube search term. I amvery grateful to have it as the bottom of Maslow’s Hierarchy of physical security. The ‘why’ for our full-time Airstreamingis a secure place to sleep, a means to see fabulous places, and family to visit, and more experiences to share with An gelina. Life doesn’t get much better than this.
-ANGELINA’S CONTRIBUTION Daniel: This explanation of setbacks and having a ‘why’ wouldn’t be complete without Angelina’s point of view.
-It was 2005 when I left on myfirst trans-America cycling and in 2006 and 2007. You were always very supportive.
-Angelina: I needed him togrow up. That’s what I needed.
+Airs TEAM BACKDROP The Airstream is just a backdrop to the story. It’s a popular YouTube search term. I a mvery grateful to have it as the bottom of Ma slow’s Hierarchy of physical security. The ‘why’ for our full-time Airstreamingis a secure place to sleep, a means to see fabulous places, and family to visit, and more experiences to share with an gelina. Life doesn’t get much better than this.
+an GELINA’S CONTRIBUTION Daniel: This explanation of setbacks and having a ‘why’ wouldn’t be complete without an gelina’s point of view.
+It was 2005 when I left on my first trans-America cycling and in 2006 and 2007. You were always very supportive.
+an gelina: I needed him to grow up. That’s what I needed.
 Daniel: I was going to say you could tell them the truth!
-Angelina: I was recovering from the traumatic brain inju ry, and I needed to figure outhow to heal from that TBI with space and flexibility. It was a relationship challenge, and he needed to find himself.
-Daniel: I was highly frustrated losing everything we had built - the TV show, the radio show, everything was happening - allthe awards, the Street Smart season of The Apprentice everything was happening for us. Then, boom, it was all over.
+an gelina: I was recovering from the traumatic brain injury, and I needed to figure out how to heal from that TBI with space and flexibility. It was a relationship challenge, and he needed to find himself.
+Daniel: I was highly frustrated losing everything we had built - the TV show, the radio show, everything was happening - all the awards, the Street Smart season of The Apprentice everything was happening for us. Then, boom, it was all over.
 I didn’t know how to deal with all the losses and that much of a setback. I was frustrated.
 
-“There is meaning in every journey thatis unknown to the traveler” Dietrich Bonhoeffer leaving SCOTOMAVILLE 230
+“There is meaning in every journey that is unknown to the traveler” Dietrich Bonhoeffer leaving SCOTOMAVILLE 230
 
 “You must never confuse faith that you will prevail in the end -with the discipline to confront the most brutal facts of your current reality, whatever they might be.”
 
 VICE ADMIRAL JAMES BOND Stock DALE Vietnam POW @ the infamous “Hanoi Hilton” for seven-and-a-half years.
 
 It turned out the setback forced a decade of recovery and became myself-mastery ‘Personal Everest’.
-Angelina: Yeah, go ahead. Go pedal across America. Gogrow yourself up. Go grow up.
+an gelina: Yeah, go ahead. Go pedal across America. Go grow yourself up. Go grow up.
 Daniel: I went to discover what I had, and what I didn’thave - like understanding and refined listening skills. I discovered a huge hole in my reasoning - the lack of uphill advice. I needed confidence that I was on track and not simply broken, eccentric and shunned.
-“I didn’t know how to deal with that muchof a setback. The challenge became base camp for my Personal Everest”
-Angelina: I’ve always been from the mindset of ‘you don’tcomplain’; you figure out a solution and a way around it.
-We’re both wired differently. I knew you needed an adventure because that’s what you were hungry for, and I needed to heal, and I needed the absence of drama so I could listen to how I needed to heal. You needed to go away for me to hear intuitively how I needed to take care of myself, and you needed to go - to discover yourself.
+“I didn’t know how to deal with that much of a setback. The challenge became base camp for my Personal Everest”
+an gelina: I’ve always been from the mindset of ‘you don’tcomplain’; you figure out a solution and a way around it.
+We’re both wired differently. I knew you needed an adventure because that’s what you were hungry for, and I needed to heal, and I needed the absence of drama so I could listen to how I needed to heal. You needed to go away for me to hear in tuitively how I needed to take care of myself, and you needed to go - to discover yourself.
 I’m very proud of you for doing that.
 Daniel: Thank you.
-Daniel: Setbacks are opportunities to get to know yourself better. Try to shift your thinking from setbacks being postponements and delays into an express laneof self-awareness. Figure out wherein the challenge you have liberty. If you have the ‘why’ firmly in your mind, thenyou’ll win the support of your partner.
+Daniel: Setbacks are opportunities to get to know yourself better. Try to shift your thinking from setbacks being postponements and delays into an express lane of self-awareness. Figure out wherein the challenge you have liberty. If you have the ‘why’ firmly in your mind, the nyou’ll win the support of your partner.
 Creating Enduring Relationships:
-Gaining trust of your partner to explore and mature delivers great rewards. We encourage you to findthe WHY within your Personal Everest, and with that celebrate the journey as it unfolds.
+Gaining trust of your partner to explore and mature delivers great rewards. We encourage you to find the WHY within your Personal Everest, and with that celebrate the journey as it unfolds.
 
 “You have power over your mind.
 Realize this and you will find strength.”
-Angelina knew I was not going to chicky-poo around while pedaling across America but that I would likely sleep in the snow.
-Angelina: He traveled 4300 miles on $15 a day without a cellphone.
+an gelina knew I was not going to chicky-poo around while pedaling across America but that I would likely sleep in the snow.
+an gelina: He traveled 4300 miles on $15 a day without a cellphone.
 Daniel: That was a lot of... I don’t want to say suffering, but it was endurance and a rite of passage. My An drop a use was just beginning.
 Look to setbacks to accelerate your maturation, not just endure them for the age.
-Angelina: Get excited about who you can become in the process. Look into who you might become 
+an gelina: Get excited about who you can become in the process. Look into who you might become 
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
@@ -188,9 +188,9 @@ Welcome back to Scotomaville. It's been six months to check the time stamps on m
 
 SCENE CHANGES wait wait wait wait wait wait
 
-It almost goes without saying that in this episode we're going to talk about some stuff that you are very well familiar with - SETBACKS - having life happen between your plans, like COVID. I'm not sure about you but the last six months have been 'wait wait wait wait' yes, very 'rich' for us, as in a bunch of very strong obstacles. As Marcus Aurelius recommends the obstacle (your thinking) is the way.
+It almost goes without saying that in this episode we're going to talk about some stuff that you are very well familiar with - SETBACKS - having life happen between your plans, like COVID. I'm not sure about you but the last six months have been 'wait wait wait wait' yes, very 'rich' for us, as in a bunch of very strong obstacles. As Marcus a urelius recommends the obstacle (your thinking) is the way.
 
-Pascal the french mathematician and theologian recommends that you find someone who's been where you want to go. That's what you've done. If you're hoping of a lifestyle of Airstreaming with some variety - some expedition (a journey with a purpose) then... "learn of those who have been bound like you and who now stake all their possessions. These are people who know the way which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began."
+Pascal the french mathematician and the ologian recommends that you find someone who's been where you want to go. That's what you've done. If you're hoping of a lifestyle of Airstreaming with some variety - some expedition (a journey with a purpose) then... "learn of those who have been bound like you and who now stake all their possessions. These are people who know the way which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began."
 
 WHY - not how
 
@@ -202,9 +202,9 @@ One of the things we have is a 'key' board. Notice that there's three key hooks 
 
 Here's what daniel tends to do. He's done this once before. He filled up the tank, put the hose away, and left the stupid door open on the trip to walmart.
 
-Yeah the key is supposed to go up on the 'key' board.
+Yeah the key is supposed to go upon the 'key' board.
 
-You have to continually walk around your trailer and find all the different items to lock down, to secure, before you take off on the road, but you have to think about your mental state and what's going on in here (motioning to head) before you dodge out into crazy traffic or windy roads and weather conditions.
+You have to continually walk around your trailer and find all the different items to lock down, to secure, before you takeoff on the road, but you have to think about your mental state and what's going on in here (motioning to head) before you dodge out into crazy traffic or windy roads and weather conditions.
 
 SCENE CHANGES
 
@@ -230,7 +230,7 @@ Yeah that was other people's trash I picked up. You can get to be generous with 
 
 In hindsight, six months of 'wait wait wait wait' - waiting for setbacks were not that much of a loss, because I was able to focus on doing -doing mundane things like taking the trash out or doing maintenance and trying to stay in shape. Doing things like learning who I am because awareness is a really valuable asset.
 
-I really do not miss all the construction noise that excessively interfered or interrupted or pressured me during the 6 month waiting in arizona. I don't miss it at all.
+I really do not miss all the construction noise that excessively in terfered or interrupted or pressured me during the 6 month waiting in arizona. I don't miss it at all.
 
 SCENE CHANGE
 
@@ -256,7 +256,7 @@ I'm 66 now. I think I have a pretty good idea who I am. I'm pretty confident to 
 
 The Airstream is just a stage. It's the set. It's also the search keyword 'bait'.
 
-I am very grateful to have it. At the bottom of Maslow'S Hierarchy is physical security. The 'why' to our full-time Airstreaming is to have a secure place to sleep, a fabulous place to visit, and more experiences of who I am to share with angelina. Life doesn't get much better than that.
+I am very grateful to have it. At the bottom of Ma slow'S Hierarchy is physical security. The 'why' to our full-time Airstreaming is to have a secure place to sleep, a fabulous place to visit, and more experiences of who I am to share with an gelina. Life doesn't get much better than that.
 
 SCENE CHANGE
 
@@ -264,35 +264,35 @@ Daniel: This explanation wouldn't be complete without her point of view.
 
 It was 2005 when I left on my first trans-America cycling, and in 2006 and 2007 and you were very supportive.
 
-Angelina: I needed him to go grow up. That is what I needed for him to do.
+an gelina: I needed him to go grow up. That is what I needed for him to do.
 
 Daniel: I was gonna say you could tell them the truth!
 
-Angelina: I was recovering from the traumatic brain injury and I needed to figure out with space and flexibility on how to heal from that tbi. It was a challenge in our relationship and he needed to go
+an gelina: I was recovering from the traumatic brain injury and I needed to figure out with space and flexibility on how to heal from that tbi. It was a challenge in our relationship and he needed to go
 
 Daniel: I was extremely frustrated everything that we had built - tv show, radio show, everything was happening - all the awards, the street smart version of the apprentice - everything was happening for us. Then, boom, in one day all of it was over. I didn't know how to deal with that much of a setback.
 
 That's what this episode is about. It turned out that that setback, which was huge for us, and over a decade long in the recovery, that became the foundation of the 'personal everest'.
 
-Angelina: yeah go ahead. Go pedal across america. Go grow yourself up. Go grow up.
+an gelina: yeah go ahead. Go pedal across america. Go grow yourself up. Go grow up.
 
 Daniel: yeah, I went to discover what I had, and what I didn't have - like awareness and refined listening skills.
 
-Angelina: I've always been from the mindset of 'you don't complain', you figure out a solution and a way around it. We're both wired differently. I knew you needed an adventure because that's what you were hungry for, and I needed to heal, and I needed the absence of drama so I could listen to how I needed to heal. You needed to go away for me to hear intuitively how I needed to take care of myself, and you needed to go for yourself - to discover what was to be revealed.
+an gelina: I've always been from the mindset of 'you don't complain', you figure out a solution and a way around it. We're both wired differently. I knew you needed an adventure because that's what you were hungry for, and I needed to heal, and I needed the absence of drama so I could listen to how I needed to heal. You needed to go away for me to hear in tuitively how I needed to take care of myself, and you needed to go for yourself - to discover what was to be revealed.
 
 I'm very proud of you for doing that. Thank you.
 
 Daniel: setbacks are opportunities to get to know yourself better. Don't look at a setback... Well, try to shift your thinking from setbacks being postponements and delays into an express lane of self-awareness. You just have to figure out wherein the event or challenge that you have liberty. If you discuss it, and have the 'why' firmly in your mind then you'll have the support (of your partner)
 
-Angelina knew I was going, not just to go chicky-poo around by pedalling across america, but that I was going to go sleep in the freaking snow.
+an gelina knew I was going, not just to go chicky-poo around by pedalling across america, but that I was going to go sleep in the freaking snow.
 
-Angelina: he traveled without a cellphone 4300 miles
+an gelina: he traveled without a cellphone 4300 miles
 
 Daniel: that was a lot of... I don't want to say suffering, but it was endurance and a rite of passage. An drop a use was just beginning for me.
 
 Once again, look to setbacks to accelerate your maturation, and not just endure them for the age.
 
-Angelina: get excited about who you can become in the process. Look into who you might to become through this setback or challenge or unexpected journey - as I need to now navigate through my son Chris's death. Who am I going to become through it?
+an gelina: get excited about who you can become in the process. Look into who you might to become through this setback or challenge or unexpected journey - as I need to now navigate through my son Chris's death. Who am I going to become through it?
 
 Daniel: spoiler alert. They don't know yet.
 
@@ -302,13 +302,13 @@ Jim Rohn used to say: "the book you don't read won't do you any good." "It's a m
 
 One of the distinctions I want you to make is the difference between a dependent and an independent person. An independent person takes responsibility for their welfare, for their wellness, and not just by thinking 'yeah I should do that'. Taking action is the distinction.
 
-What we're saying is that the action you don't take won't help. It's the actions that you do take that make a difference - increment ally. Little by little you get up your Personal Everest by making small changes and sticking with it.
+What we're saying is that the action you don't take won't help. It's the actions that you do take that make a difference - in crement ally. Little by little you get up your Personal Everest by making small changes and sticking with it.
 
-Angelina: yeah agreed
+an gelina: yeah agreed
 
 ## Visual notes (print spreads)
 
-- The two-page spread opens with a bold, split-color title treatment on the left page: “2.06 set BACKS” in large black and white sans-serif lettering, with the subhead “IT’S BEEN SIX MONTHS” centered below a thin horizontal rule. The left page also contains a small, documentary-style photograph in the lower left showing a close-up of a silver pedestrian crosswalk button labeled “PUSH BUTTON FOR” with a glowing red light, while a blurred car streaks through the intersection behind it; a dark gray caption box beneath reads “THE AGONIZING WEIGHT OF WAITING” and describes the impatience of both the button and the driver.
+- The two-page spread opens with a bold, split-color title treatment on the left page: “2.06 set BACKS” in large black and white sans-serif lettering, with the subhead “IT’S BEEN SIX MONTHS” centered below a thin horizontal rule. The left page also contains a small, documentary-style photograph in the lower left showing a close-up of a silver pedestrian crosswalk button labeled “PUSH BUTTON FOR” with a glowing red light, while a blurred car streaks through the intersection behind it; a dark gray caption box beneath reads “THE a GONIZING WEIGHT OF WAITING” and describes the impatience of both the button and the driver.
 
 The right page features a full-width, full-bleed color photograph of a red Ch
 
@@ -324,9 +324,9 @@ Top row shows a hand touching a metal sign, a close-up of an Oregon temporary pl
 
 1. set BACKS Check the timestamp on my last upload to YouTube.
 2. If you’re a subscriber, I want to edify you.
-3. I have six new episodes linedup that are real killers.
-4. I’m not sure about you, but the lastsix months have been the weight of ‘wait wait wait wait.’ Yes, very ‘rich’ for us, as in many very subst ant…
-5. As Marcus Aurelius recommends, the obstacle (your scotoma) is the way.
+3. I have six new episodes lined up that are real killers.
+4. I’m not sure about you, but the last six months have been the weight of ‘wait wait wait wait.’ Yes, very ‘rich’ for us, as in many very subst ant…
+5. As Marcus a urelius recommends, the obstacle (your scotoma) is the way.
 
 ## First-time learner
 

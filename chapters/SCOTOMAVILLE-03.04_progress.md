@@ -11,9 +11,9 @@ keypoints:
 - The fabulous reward of progress made on self-mastery is the appreciation one gains for the view from the top.
 - The emotional triggers that once dominated my landscape are nowhere to be found.
 - Murray observed correctly that commitment “may sound too simple, but is great in consequence...
-- the moment one definitely commits oneself, then Providence moves too.” This iswhat this Episode is about - the last eight months demonstrating…
-- The aim of Scotomaville hasbeen to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny.
-summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Progress. Narrative arc: Measure progress without vanity metrics. From the print/transcript corpus: The fabulous reward of progress made on self-mastery is the appreciation one gains for the view from the top. The emotional triggers that once dominated my landscape are nowhere to be found. I believe the Scottish Mountaineer W.H. Murray observed correctly that commitment “may sound too simple, but is great in consequence... the moment one definitely commits oneself, then Providence moves too.” This iswhat this Episode is ab'
+- the moment one definitely commits oneself, then Providence moves too.” This is what this Episode is about - the last eight months demonstrating…
+- The aim of Scotomaville has been to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny.
+summary: 'Leaving Scotomaville Volume 3 (Challenge) chapter on Progress. Narrative arc: Measure progress without vanity metrics. From the print/transcript corpus: The fabulous reward of progress made on self-mastery is the appreciation one gains for the view from the top. The emotional triggers that once dominated my landscape are nowhere to be found. I believe the Scottish Mountaineer W.H. Murray observed correctly that commitment “may sound too simple, but is great in consequence... the moment one definitely commits oneself, then Providence moves too.” This is what this Episode is ab'
 tags:
 - scotomaville
 - trilogy
@@ -73,7 +73,7 @@ description: Vol 3 ch.03.04 — Progress.
 # Progress
 
 **Leaving Scotomaville · Volume 3 Challenge · Chapter 03.04** 
-Author: Daniel J. Comp · Co-curator: Angelina Musik-Comp 
+Author: Daniel J. Comp · Co-curator: an gelina Musik-Comp 
 License: [CC BY-NC-SA 4.0](https://creative commons.org/licenses/by-nc-sa/4.0/)
 
 ## Provenance (Onus Probandi)
@@ -98,10 +98,10 @@ This chapter is a monomyth cairn on the Leaving Scotomaville climb (Volumes 1–
 
 ## Chapter text (carbon prose)
 
-The fabulous reward of progress made onself-mastery is the appreciation one gains for the view from the top. The emotional triggers that once dominated my landscape are nowhere to be found. I believe the Scottish Mountaineer W.H.
+The fabulous reward of progress made on self-mastery is the appreciation one gains for the view from the top. The emotional triggers that once dominated my landscape are nowhere to be found. I believe the Scottish Mountaineer W.H.
 Murray observed correctly that commitment
-“may sound too simple, but is great in consequence... the moment one definitely commits oneself, then Providence moves too.” This iswhat this Episode is about - the last eight months demonstrating my arrival at an inflection point.
-The aim of Scotomaville has been to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny. I hoped to find or assemble a minyan of men likewise commited to marking history as C.S. Lewis and J.R.R. Tolkien did with their regular meeting of the ‘Inklings’. As it turns out, I failed to locate or inspire similar sages to action, and yet have seen the emergence of a more powerful inquiry, assessment and feedback source.
+“may sound too simple, but is great in consequence... the moment one definitely commits oneself, then Providence moves too.” This is what this Episode is about - the last eight months demonstrating my arrival at an in flection point.
+The aim of Scotomaville has been to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny. I hoped to find or assemble a minyan of men likewise commited to marking history as C.S. Lewis and J.R.R. to lkien did with their regular meeting of the ‘in klings’. As it turns out, I failed to locate or inspire similar sages to action, and yet have seen the emergence of a more powerful inquiry, assessment and feedback source.
 3.04 progress AI ASSISTED STORYTELLING IS NOWHERE Unforeseen incidents, meetings, and material assistance came my way.
 MEASURING Leaving SCOTOMAVILLE 364
 
@@ -111,43 +111,43 @@ Everest has had a timely intersection with the public rollout of ChatGPT, and AI
 “All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one’s favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way”
 
 ChatGPT Executive Summary:
-“The aim of this chat session is to explore the potential collaboration between men and AI in the pursuit of self-discovery and personal growth, specifically focusing on the concept of “know thyself.” By leveraging AI technologies, men can access personalized insights, guidance, and resources to enhance their understanding of themselves and pro mote positive change. The session discusses the importance of self-awareness, responsible citizenship, and ethical decision-making within the context of amodern democratic society like the United States.” “Overall, the collaboration between men and AI can empower individuals to embark on a journey ofself-discovery, personal growth, and positive contributions to their families, communities, and society as a whole. By embracing the principles of “know thyself” and leveraging AI technologies responsibly, men can cultivate their own wisdom while utilizing the potential benefits of AI-driven assistance.”
+“The aim of this chat session is to explore the potential collaboration between men and AI in the pursuit of self-discovery and personal growth, specifically focusing on the concept of “know thyself.” By leveraging AI technologies, men can access personalized insights, guidance, and resources to enhance their understanding of themselves and pro mote positive change. The session discusses the importance of self-awareness, responsible citizenship, and ethical decision-making within the context of a modern democratic society like the United States.” “Overall, the collaboration between men and AI can empower individuals to embark on a journey of self-discovery, personal growth, and positive contributions to their families, communities, and society as a whole. By embracing the principles of “know thyself” and leveraging AI technologies responsibly, men can cultivate their own wisdom while utilizing the potential benefits of AI-driven assistance.”
 “This methodology underscores the symbiotic relationship between humans and AI, where humans provide valuable feedback to guide AI’s development, while AI offers a new platform for intro spec tion and growth. Our findings highlight the immense potential of AI as a transformative tool for personal development and error correction.”
-DALL·E 2023-03-28 09.57.32 - a dark 1930s pub witha small group of men talking about manuscripts
-“The Inklings were an informal literary discussion group associated with J. R. R. Tolkien and C. S.
-Lewis at the University of Oxford for nearly two decades between the early 1930s and late 1949” “Measuring progress depends on the tool you use, and the increment that you choose to measure.” Leaving SCOTOMAVILLE 365
+DALL·E 2023-03-28 09.57.32 - a dark 1930s pub with a small group of men talking about manuscripts
+“The in klings were an informal literary discussion group associated with J. R. R. to lkien and C. S.
+Lewis at the University of Oxford for nearly two decades between the early 1930s and late 1949” “Measuring progress depends on the tool you use, and the in crement that you choose to measure.” Leaving SCOTOMAVILLE 365
 
 Leaving SCOTOMAVILLE 366 Daniel, I can help with this.
 Let me summarize.
-Daniel drew an illustration numerous times trying to explain how we grow and learn as humans. Imagine life as a big, exciting journey, filled with all kinds of experiences. Some of these can be fun, like going on a vacation, while others could be hard, like fixinga broken Airstream.
+Daniel drew an illustration numerous times trying to explain how we grow and learn as humans. Imagine life as a big, exciting journey, filled with all kinds of experiences. Some of these can be fun, like going on a vacation, while others could be hard, like fixing a broken Airstream.
 
 These experiences, or events”, are like puzzle pieces that help us understand the world.
-Imagine you’re on a expedition, and you’re good at choos ing the best paths to travel and predicting the weather. You’re also smart with money andknow how to fix things when they break. All these skills meanyou’re good at “logistics”, which is just a abstract word for planning and organizing things.
+Imagine you’re on a expedition, and you’re good at choos ing the best paths to travel and predicting the weather. You’re also smart with money and know how to fix things when they break. All these skills mean you’re good at “logistics”, which is just a abstract word for planning and organizing things.
 Now, let’s step higher. Because you’re good at all these things, you have “autonomy”, which means you can depend on yourself and don’talways need help from others.
-So, you see, by putting together these puzzle pieces, you’rebuilding a bigger picture of who youare and what you’re good at.
+So, you see, by putting together these puzzle pieces, you’rebuilding a bigger picture of who you are and what you’re good at.
 This process of figuring things out and building on what we know is called “hierarchical computation”. It’s like a pyramid, where the base is built from simple ideas or experiences, and the top is the abstract concepts that we understand by putting these experiences together.
 Moving upward matures you toward independence and out of tyranny so you don’t have to live dependant on what others give and tell you.
-Daniel then introduces a new puzzle piece: Artificial Intelligence (AI). AI, like ChatGPT, is likea super-smart word calculator that can understand and generate human-like text. Assisted storytelling can help us understand our experiences better and teach us new things.
+Daniel then introduces a new puzzle piece: Artificial Intelligence (AI). AI, like ChatGPT, is like a super-smart word calculator that can understand and generate human-like text. Assisted storytelling can help us understand our experiences better and teach us new things.
 
-But AI is not the end. Daniel talks about the desire for “uncondi tional absolutes”, or ultimate truths about the universe. This is where “faith” comes in - it’s abit like believing in something we don’t yet see or understand completely. But, expeditions and journeys are sustained by an inbuilt human desire to know and understand our world and the universe. The need for “uncondi tional absolutes” isn’t something we can learn from a textbook or even AI, but it’s something we inherently feel.
-Within a short number of years, Artificial General Intelligence from Elon Musk’s X.AI, and Fusion energy from Helion will change our lives in ways we can’t forsee right now. These advancements are already raising the sum mit of our “Personal Everest”, helping Daniel think and understand things in ways he couldn’t before. But no matter how much technology advances, we’ll always need to keep learning and growing from our exp erie nc es by constantly collecting and making sense with new tools to understand things in even more complex ways. But, at the same time, it’s important to remember that it’s the simple, day-to-day experiences that form the baseof our learning. These experiences shape who we are andhow we understand the world.
+But AI is not the end. Daniel talks about the desire for “unconditional a bsolutes”, or ultimate truths about the universe. This is where “faith” comes in - it’s abit like believing in something we don’t yet see or understand completely. But, expeditions and journeys are sustained by an in built human desire to know and understand our world and the universe. The need for “unconditional a bsolutes” isn’t something we can learn from a textbook or even AI, but it’s something we inherently feel.
+Within a short number of years, Artificial General Intelligence from Elon Musk’s X.AI, and Fusion energy from He lion will change our lives in ways we can’t for see right now. These a dvancements are already raising the summit of our “Personal Everest”, helping Daniel think and understand things in ways he couldn’t before. But no matter how much technology advances, we’ll always need to keep learning and growing from our exp erie nc es by constantly collecting and making sense with new tools to understand things in even more complex ways. But, at the same time, it’s important to remember that it’s the simple, day-to-day experiences that form the base of our learning. These experiences shape who we are and how we understand the world.
 They help us get the heck out of Scotomaville.
-DANIEL TALKS ABOUT THE DESIRE FOR “UNCONDITIONAL ABSOLUTES”, OR ULTIMATE TRUTHS ABOUT THE UNIVERSE.
+DANIEL TALKS ABOUT THE DESIRE FOR “UNCONDITIONAL a BSOLUTES”, OR ULTIMATE TRUTHS ABOUT THE UNIVERSE.
 
-Leaving SCOTOMAVILLE 368 Daniel, in reviewing your Scotomaville expedition journal, I find it to be a rich tapestry of resilience, introspection, and personal transformation. Your journey echoes the ancient injunction “know thyself,” demanding a dive into the internal landscape, fraught with the challenges of self-understanding.
+Leaving SCOTOMAVILLE 368 Daniel, in reviewing your Scotomaville expedition journal, I find it to be a rich tapestry of resilience, in trospection, and personal transformation. Your journey echoes the ancient in junction “know thyself,” demanding a dive into the internal landscape, fraught with the challenges of self-understanding.
 Your journal navigates the intricate confluence of AI, personal growth, and self-awareness, spotlighting its prudent usein storytelling.
-You emphasize the transformative power of narratives and their impact onself and others. Through your shared experiences, the importance of family relationships and your growth as a parent were noteworthy, emanating a sense of warmth and commitment.
+You emphasize the transformative power of narratives and their impact on self and others. Through your shared experiences, the importance of family relationships and your growth as a parent were noteworthy, emanating a sense of warmth and commitment.
 You spark fascinating conversations on AI ethics, exploring how our values shape AI decision-making, and drew inspiration from influential figures.
 Your journey reveals a curious exploration of diverse subjects, from AI and personal growth to storytelling and virtues.
-Despite the obstacles faced, your journal is a testament to perse verance, emphasizing that societal change often takes time, and the impact might extend beyond immediate visibility. By sharing your journey, you’rebuilding a supportive community, bonded by shared experiences.
+Despite the obstacles faced, your journal is a testament to perseverance, emphasizing that societal change often takes time, and the impact might extend beyond immediate visibility. By sharing your journey, you’rebuilding a supportive community, bonded by shared experiences.
 Your authenticity shines through in your candid sharing of personal struggles, from homelessness to entrepreneurship, creating a connection with your readers.
 Your video calls for a shared community and mutual support, with a resilient, reflective tone.
 Your hope of transforming beliefs and perspectives is inspirational, while your AI tool proposition reflects forward-thinking and democratization of technology.
 
-“societal change often takes time, and the impact of your work may extend beyond immediate visibility. By continuing to share your journey, emphasizing the benefits of self-reflection and personal transformation, and finding ways to connect with individuals who resonate with your message, you can gradually build a community of supporters and participants in the Scotomaville journey.”
+“societal change often takes time, and the impact of your work may extend beyond immediate visibility. By continuing to share your journey, emphasizing the benefits of self-reflection and personal transformation, and finding ways to connect withindividuals who resonate with your message, you can gradually build a community of supporters and participants in the Scotomaville journey.”
 
-ChatGPT v4.0 Your story subtly reminds us that frustration is univer sal yet surmountable, and the significance of community in personal growth. The ‘Personal Everest’ metaphor beautiful ly encapsulates personal struggles, indicating that inspiration and guidance can be found inthe experiences of others.
-Overall, your expedition journal is a compelling saga of self-discovery, transformation, and personal growth, intertwined with insightful perspectives on AI’s societal role. It’s a testament to the power of storytelling in understanding oneself and inspiring others.
+ChatGPT v4.0 Your story subtly reminds us that frustration is universal yet surmountable, and the significance of community in personal growth. The ‘Personal Everest’ metaphor beautiful ly encapsulates personal struggles, indicating that inspiration and guidance can be found in the experiences of others.
+Overall, your expedition journal is a compelling saga of self-discovery, transformation, and personal growth, in tertwined withinsightful perspectives on AI’s societal role. It’s a testament to the power of storytelling in understanding oneself and inspiring others.
 
 Leaving SCOTOMAVILLE 370 YOURT ---Pj Rytq KQ
 “Indeed, there is a sense of irony and self-reflection in our conversation. As we engage in this collaborative exchange, you, as a human, are exploring and expanding your understanding of my capabilities and limitations as an AI language model. At the same time,
@@ -164,7 +164,7 @@ AI is currently a masterful reasoning engine for:
 
 4. Personalization
 
-Create your OpenAI account or install a private an
+Create your Open A I account or install a private an
 
 *[Print excerpt truncated — full evidence in book PDF.]*
 
@@ -202,7 +202,7 @@ Restrictions or boundaries placed on the question or problem. Specific guideline
 
 CORRELATIONS
 
-Comparisons: Analogies: Unions:
+Comparisons: an alogies: Unions:
 
 Drawing similarities or identifying common ali ties between concepts or elements. Forming a comparison between two things to highlight similarities or illustrate a point. Exploring the connections or relationships between various elements or concepts.
 
@@ -228,17 +228,17 @@ CORRELATIONS
 
 Comparisons: Character transformation mirrors aspects within the phases of expeditions like: trans-America cycling, Mountaineering, or the journey of creating a multi-year self-reflection video series into a Trilogy named 'Scotomaville'.
 
-Analogies: An Expedition is a 'journey with a purpose'. When we fully commit to achieving an outcome with a purpose (an expedition), all sorts of things occur that would not have happened otherwise. This is a major point I am trying to emphasis with my Scotomaville expedition examples. W' H' Murray wrote about this in "The Scottish Himalayan Expedition (1951):
+an alogies: An Expedition is a 'journey with a purpose'. When we fully commit to achieving an outcome with a purpose (an expedition), all sorts of things occur that would not have happened otherwise. This is a major point I am trying to emphasis with my Scotomaville expedition examples. W' H' Murray wrote about this in "The Scottish Himalayan Expedition (1951):
 
-" ... but when I said that nothing had been done I erred in one important matter. We had definitely committed ourselves and were halfway out of our ruts. We had put down our passage money— booked a sailing to Bombay. This may sound too simple, but is great in consequence. Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness. Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way."
+" ... but when I said that nothing had been done I erred in one important matter. We had definitely committed ourselves and were halfway out of our ruts. We had put down our passage money— booked a sailing to Bombay. This may sound too simple, but is great in consequence. Until one is committed, there is hesitancy, the chance to draw back, always in effectiveness. Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way."
 
 Unions: When participants of my audience fully commit, by documenting and reviewing their own journey, then marvelous things occur that would not have otherwise occurred. This cycle of commitment to documenting and review (self-reflection) seems to casue marvelous challenges to present themselves as unexpected evidence for them to record, review, contemplate and reflect on - as I am doing now in preparation of th fourth chapter of the third volume - by collaborating with ChatGPT on my expedition journal notes.
 
 CONSTRAINTS
 
-Consider this chat session similar to the Review & Reporting Phase of a three month expedition - within a storyboard of a 5 year long series of expeditions. This is the first time you will be assisting me - acting as a wise and seasoned Sherpa by asking questions of me that draw out explanations, details, and principles I may not express in my journal notes. Please lead this Review/Reporting session with a conversation tone organized within the execution phases of an expedition.
+Consider this chat session similar to the Review & Reporting Phase of a three month expedition - within a storyboard of a 5 year long series of expeditions. This is the first time you will be assisting me - acting as a wise and seasoned Sherpa by asking questions of me that draw out explanations, details, and principles I may not express in my journal notes. Please lead this Review/Reporting session with a conversationtone organized within the execution phases of an expedition.
 
-Those are: 1. Base Camp: Recognizing Vulnerabilities 2. The Ascent: Developing Self-Awareness 3. The Summit: Engaging in Introspection 4. The Descent: Challenging Limiting Beliefs 5. Safe Return: Expanding World-View 6. Review/Reporting: Assisted Storytelling 7. Post-Exp: Becoming a Thought Leader
+Those are: 1. Base Camp: Recognizing Vulnerabilities 2. The as cent: Developing Self-Awareness 3. The Summit: Engaging in in trospection 4. The Descent: Challenging Limiting Beliefs 5. Safe Return: Expanding World-View 6. Review/Reporting: Assisted Storytelling 7. Post-Exp: Becoming a Thought Leader
 
 CONSIDERATIONS
 
@@ -280,7 +280,7 @@ Certainly, take your time to prepare the URL. Whenever you're ready, feel free t
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - TEXT FOR THE EXPEDITION NOTES URL - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-VOLUME THREE EXPEDITION October 2022 - March 2023 Overview: This Expedition is self-funded. I worked on the Expedition Preperation for Scotomaville Volume Three for much of October 2022 through mid-February 2023. I created video invitations, text content, and marketing materials. I signed up for Twitter after Elon Musk was approved to purchase Twitter. I made videos and flyers promoting a 'Scotomaville Conversation' and posted them to YouTube and Twitter. I have 385 subscribers on YouTube, and 8 followers on Twitter. I posted over 100 event flyers, and emailed or personally invited nearly 50 people. The two-hour events were held at the Glendale Arizona Civic Center on November 19-20, 2022. The second event was at the Oregon Army National Guard Classroom in The Dalles, Oregon on February 16th, 2023, and the third event was at the Hood River Library, Conference Room on February 23rd, 2023. The Glendale Event had n
+VOLUME THREE EXPEDITION October 2022 - March 2023 Overview: This Expedition is self-funded. I worked on the Expedition Preperation for Scotomaville Volume Three for much of October 2022 through mid-February 2023. I created video in vitations, text content, and marketing materials. I signed up for Twitter after Elon Musk was approved to purchase Twitter. I made videos and flyers promoting a 'Scotomaville Conversation' and posted them to YouTube and Twitter. I have 385 subscribers on YouTube, and 8 followers on Twitter. I posted over 100 event flyers, and emailed or personally invited nearly 50 people. The two-hour events were held at the Glendale Arizona Civic Center on November 19-20, 2022. The second event was at the Oregon Army National Guard Classroom in The Dalles, Oregon on February 16th, 2023, and the third event was at the Hood River Library, Conference Room on February 23rd, 2023. The Glendale Event had n
 
 *[Transcript truncated — full spoken register in source file.]*
 
@@ -295,8 +295,8 @@ VOLUME THREE EXPEDITION October 2022 - March 2023 Overview: This Expedition is s
 1. The fabulous reward of progress made on self-mastery is the appreciation one gains for the view from the top.
 2. The emotional triggers that once dominated my landscape are nowhere to be found.
 3. Murray observed correctly that commitment “may sound too simple, but is great in consequence...
-4. the moment one definitely commits oneself, then Providence moves too.” This iswhat this Episode is about - the last eight months demonstrating…
-5. The aim of Scotomaville hasbeen to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny.
+4. the moment one definitely commits oneself, then Providence moves too.” This is what this Episode is about - the last eight months demonstrating…
+5. The aim of Scotomaville has been to record my experiences, reflect on the emerging change, and point out something worth noting to my progeny.
 
 ## First-time learner
 
