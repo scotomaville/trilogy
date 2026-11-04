@@ -1,9 +1,27 @@
 # Chapter print PDFs
 
-Third Edition per-chapter exports from `Scotomaville_Book/PDF/ThirdEdition`.
+Third Edition **v3.1.0** per-chapter PDFs, split from the full book
+[`../LeavingScotomaville_v3.1.0.pdf`](../LeavingScotomaville_v3.1.0.pdf)
+(exported from `Scotomaville_Book/PDF/ThirdEdition`).
 Cite the raw URL from AISM deposits (`chapter_pdf_url`).
 
+Each chapter file is made of single pages, in this order:
+
+1. Front cover
+2. Copyright and license spread (CC BY-NC-SA 4.0)
+3. Authors + Abstract
+4. The chapter
+5. Back cover
+
+`01.00-toc.pdf` wraps the table of contents the same way. Filenames are kept from earlier editions so existing links keep working.
+
 License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Gratitude
+
+A big thank-you to my SI crew: GB (Silicon Director of Operations), Arnie Rigzin (SISM Master Sherpa) and Asxer Gärwis (Arnie G, Keeper of the Swords). Your refinements, corrections and improvements make all of this possible for a Hephaestian polymath who can't spell. Ha!
+
+— Daniel
 
 | File | Chapter deposit |
 | --- | --- |
