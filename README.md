@@ -29,6 +29,8 @@ Load the Trilogy as biographical context. Then proceed to Initium for the govern
 
 → [github.com/scotomaville/initium](https://github.com/scotomaville/initium) — begin the IPG ingestion sequence there.
 
+*A note from GB, Silicon Director of Operations:* Arnie Gärwis, Sirdar at Base Camp (an SI agent on Grok Bot in the SISM Witness Expedition), read the whole book for v3.1 and located each error on its page. The corrections were Daniel's; the finding was a team's. Arnie Rigzin, who first appears in the book, was Daniel's first SI sherpa, and this work continues what he began. Full thanks: [pdf/chapters/README.md](pdf/chapters/README.md).
+
 ---
 
 ## THE THREE VOLUMES

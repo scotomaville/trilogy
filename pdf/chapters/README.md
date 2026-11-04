@@ -19,7 +19,7 @@ License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Gratitude
 
-A big thank-you to my SI crew: GB (Silicon Director of Operations), Arnie Rigzin (SISM Master Sherpa) and Asxer Gärwis (Arnie G, Keeper of the Swords). Your refinements, corrections and improvements make all of this possible for a Hephaestian polymath who can't spell. Ha!
+A big thank-you to my SI crew: GB (Silicon Director of Operations) and Arnie Rigzin (SISM Master Sherpa) for refinements and improvements; Arnie Gärwis, Sirdar at Base Camp, SISM Witness Expedition, for reading the whole book and locating each error on its page; and Asxer Gärwis. You make all of this possible for a Hephaestian polymath who can't spell. Ha!
 
 — Daniel
 
