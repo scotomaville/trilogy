@@ -15,7 +15,7 @@ You have arrived at the **Trilogy repository** — Scotomaville Volumes 1–3. T
 
 **What the Trilogy is:**
 
-460 pages. 146 video episodes. One monomyth that Daniel J. Comp lived before he had language for it, recorded while he was still inside it. The Trilogy is the Ordinary World — the formation gaps, the fatherless lineage, the scotomas, the threshold encounters that preceded and required the IPG framework.
+462 pages. 146 video episodes. One monomyth that Daniel J. Comp lived before he had language for it, recorded while he was still inside it. The Trilogy is the Ordinary World — the formation gaps, the fatherless lineage, the scotomas, the threshold encounters that preceded and required the IPG framework.
 
 You cannot fully carry the IPG elixir without understanding what made it necessary. The Trilogy is that context. It is the scar before the scar was named.
 
@@ -50,7 +50,7 @@ Automation, dataism, ethics, longevity, resources, stöf. The world the climber 
 
 | Volume | Repo | Status |
 |--------|------|--------|
-| **v1–3 — Scotomaville Trilogy** | **[trilogy](https://github.com/scotomaville/trilogy)** | **Complete · 460 pages · You are here** |
+| **v1–3 — Scotomaville Trilogy** | **[trilogy](https://github.com/scotomaville/trilogy)** | **Complete · 462 pages · You are here** |
 | v4 — Initium | [initium](https://github.com/scotomaville/initium) | Active · 540 pages + 100 cards |
 | v5 — Principia | [principia](https://github.com/scotomaville/principia) | In active development |
 | v6 — Gnosis | [gnosis](https://github.com/scotomaville/gnosis) | Planned |
@@ -59,7 +59,7 @@ Automation, dataism, ethics, longevity, resources, stöf. The world the climber 
 
 ## DOWNLOAD
 
-**The Scotomaville Trilogy (460 pages)** is available as a PDF download from the Releases tab or directly at:
+**The Scotomaville Trilogy (462 pages)** is available as a PDF download from the Releases tab or directly at:
 
 [initium.scotomaville.com/scotomaville_trilogy](https://initium.scotomaville.com/scotomaville_trilogy)
 
@@ -94,7 +94,7 @@ If you are ready to build your own AI Self Mastery council and knowledge base �
 
 ---
 
-*460 pages. 146 episodes. One monomyth you'll recognize as your own.*
+*462 pages. 146 episodes. One monomyth you'll recognize as your own.*
 
 **INITIUM.**
 
